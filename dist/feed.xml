@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>The Good Globe</title>
+<link>https://example.com/</link>
+<description>The Good Globe publishes only genuinely good news from around the world — real stories of kindness, scientific breakthroughs, nature recovering and communities winning, selected every day. No doom, no fear, no outrage.</description>
+<language>en</language>
+<lastBuildDate>Tue, 07 Jul 2026 05:52:27 +0000</lastBuildDate>
+<item>
+<title>The Iberian lynx is back from the brink of extinction</title>
+<link>https://example.com/story/iberian-lynx-back-from-brink/</link>
+<guid isPermaLink="true">https://example.com/story/iberian-lynx-back-from-brink/</guid>
+<pubDate>Tue, 07 Jul 2026 02:52:27 +0000</pubDate>
+<category>Nature</category>
+<description>Once down to fewer than a hundred animals, the world&#x27;s rarest wild cat has multiplied more than twentyfold and is no longer endangered.</description>
+</item><item>
+<title>Millions of children are now protected by malaria vaccines</title>
+<link>https://example.com/story/malaria-vaccines-children-africa/</link>
+<guid isPermaLink="true">https://example.com/story/malaria-vaccines-children-africa/</guid>
+<pubDate>Mon, 06 Jul 2026 19:52:27 +0000</pubDate>
+<category>Health</category>
+<description>Two safe, effective vaccines are rolling out across Africa, reaching millions of children in the fight against one of humanity&#x27;s oldest killers.</description>
+</item><item>
+<title>Surgeons performed the world&#x27;s first whole-eye transplant</title>
+<link>https://example.com/story/first-whole-eye-transplant/</link>
+<guid isPermaLink="true">https://example.com/story/first-whole-eye-transplant/</guid>
+<pubDate>Mon, 06 Jul 2026 08:52:27 +0000</pubDate>
+<category>Science</category>
+<description>A team in New York transplanted an entire human eye for the first time — and it stayed healthy, opening a path toward restoring sight.</description>
+</item><item>
+<title>The world is installing clean energy faster than ever</title>
+<link>https://example.com/story/record-clean-energy-growth/</link>
+<guid isPermaLink="true">https://example.com/story/record-clean-energy-growth/</guid>
+<pubDate>Mon, 06 Jul 2026 00:52:27 +0000</pubDate>
+<category>Progress</category>
+<description>Solar panels and wind turbines are being added at record pace every year — renewables now dominate all new power built worldwide.</description>
+</item><item>
+<title>Deforestation in the Amazon has fallen sharply</title>
+<link>https://example.com/story/amazon-deforestation-falling/</link>
+<guid isPermaLink="true">https://example.com/story/amazon-deforestation-falling/</guid>
+<pubDate>Sun, 05 Jul 2026 07:52:27 +0000</pubDate>
+<category>Nature</category>
+<description>Satellite monitoring shows forest loss in the Brazilian Amazon dropping steeply since 2023 — the rainforest is getting room to breathe.</description>
+</item><item>
+<title>The ozone layer is healing — on track for full recovery</title>
+<link>https://example.com/story/ozone-layer-healing/</link>
+<guid isPermaLink="true">https://example.com/story/ozone-layer-healing/</guid>
+<pubDate>Sat, 04 Jul 2026 20:52:27 +0000</pubDate>
+<category>Science</category>
+<description>UN scientists confirm the ozone layer is steadily recovering thanks to a worldwide ban on harmful chemicals — proof cooperation works.</description>
+</item><item>
+<title>Notre-Dame stands restored, welcoming millions once more</title>
+<link>https://example.com/story/notre-dame-restored-open/</link>
+<guid isPermaLink="true">https://example.com/story/notre-dame-restored-open/</guid>
+<pubDate>Sat, 04 Jul 2026 05:52:27 +0000</pubDate>
+<category>Culture</category>
+<description>Five years after the fire, Paris&#x27;s cathedral opened its doors again — rebuilt by thousands of craftspeople and visited by millions.</description>
+</item>
+</channel></rss>
