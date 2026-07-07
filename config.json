@@ -1,7 +1,7 @@
 {
   "site_name": "The Good Globe",
-  "tagline": "Proof, delivered daily, that the world is getting better",
-  "description": "The Good Globe publishes only genuinely good news from around the world — real stories of kindness, scientific breakthroughs, nature recovering and communities winning, selected every day. No doom, no fear, no outrage.",
+ "tagline": "Good news, delivered daily — proof the world is getting better",
+ "description": "The Good Globe is a daily source of good news and positive stories from around the world — real, wholesome, uplifting news about kindness, scientific breakthroughs, nature recovering, and communities winning. No doom, no fear, no outrage.",
   "lang": "en",
   "locale": "en_US",
   "language_name": "English",
@@ -48,7 +48,7 @@
     "newer": "Newer",
     "home": "Home",
     "about": "About",
-    "privacy": "Privacy",
+    "privacy": "privacy",
 "cookie_text": "We use cookies for anonymous analytics and, in future, ads. Rejecting is just as easy as accepting.",
 "cookie_accept": "Accept",
 "cookie_reject": "Reject",
