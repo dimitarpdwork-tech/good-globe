@@ -12,8 +12,8 @@
   "about_path": "about",
   "contact_email": "vivatelmania@gmail.com",
   "model": "claude-haiku-4-5-20251001",
-  "max_new_per_run": 30,
-  "window_hours": 720,
+  "max_new_per_run": 10,
+  "window_hours": 24,
   "fonts": {
     "href": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap",
     "display": "'Fraunces', Georgia, serif",
