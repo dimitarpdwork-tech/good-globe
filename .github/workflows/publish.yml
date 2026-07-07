@@ -1,4 +1,4 @@
-Name: Publish good news
+name: Publish good news
 
 on:
   schedule:
