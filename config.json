@@ -16,6 +16,7 @@
 "ga4_measurement_id": "G-7LND06LGBY",
 "adsense_client_id": "",
   "indexnow_key": "203f2169466585ab28e6cb81fa86f6ab",
+  "pexels_api_key": "0K3ocnBPdGV0c6qNkOmmxvLiYaxg0pnFDIDSe1irWksXOKZ8gvqH0x2b",
 "founding_date": "2026-07-01",
 "same_as": [],
   "contact_email": "vivatelmania@gmail.com",
@@ -23,11 +24,14 @@
   "max_new_per_run": 10,
   "window_hours": 24,
   "fonts": {
-    "href": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap",
-    "display": "'Fraunces', Georgia, serif",
-    "body": "'Karla', system-ui, sans-serif",
-    "label": "'Karla', system-ui, sans-serif"
-  },
+  "display": "'Fraunces', Georgia, serif",
+  "body": "'Karla', system-ui, sans-serif",
+  "label": "'Karla', system-ui, sans-serif",
+  "faces": [
+    { "family": "Fraunces", "weight": "400", "file": "fraunces-400.woff2" },
+    { "family": "Karla", "weight": "400", "file": "karla-400.woff2" }
+  ]
+},
   "colors": {
     "bg": "#F6FAF8",
     "ink": "#0E2A32",
