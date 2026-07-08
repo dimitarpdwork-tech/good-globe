@@ -15,6 +15,9 @@
 "bing_site_verification": "",
 "ga4_measurement_id": "G-7LND06LGBY",
 "adsense_client_id": "",
+  "indexnow_key": "203f2169466585ab28e6cb81fa86f6ab",
+"founding_date": "2026-07-01",
+"same_as": [],
   "contact_email": "vivatelmania@gmail.com",
   "model": "claude-haiku-4-5-20251001",
   "max_new_per_run": 10,
@@ -59,17 +62,18 @@
     "not_found_text": "That page doesn't exist, but our front page is full of stories worth your time.",
     "ai_note": "This summary was written by our AI editor from the source's reporting. We always credit and link the original.",
     "footer_mission": "The Good Globe exists for one reason: to prove that good things happen everywhere, every single day. No doom. No fear. Only good.",
-    "hero_kicker": "Story of the day"
+    "hero_kicker": "Story of the day",
+    "ai_badge": "🤖 Summarized by our AI editor"
   },
   "categories": {
-    "community": { "label": "Community", "emoji": "🤝", "c1": "#E8B23A", "c2": "#F5D488" },
-    "nature":    { "label": "Nature",    "emoji": "🌿", "c1": "#3C9D6E", "c2": "#8FD4B0" },
-    "health":    { "label": "Health",    "emoji": "❤️", "c1": "#E25D6F", "c2": "#F4A5B0" },
-    "science":   { "label": "Science",   "emoji": "🔭", "c1": "#2F7FB8", "c2": "#8CC2E3" },
-    "culture":   { "label": "Culture",   "emoji": "🎨", "c1": "#8A5FD1", "c2": "#C4A8EB" },
-    "sport":     { "label": "Sport",     "emoji": "🏅", "c1": "#E9812F", "c2": "#F6B57E" },
-    "progress":  { "label": "Progress",  "emoji": "🚀", "c1": "#0F8A7D", "c2": "#7CCFC6" }
-  },
+  "community": { "label": "Community", "emoji": "🤝", "c1": "#E8B23A", "c2": "#F5D488", "intro": "Stories of people, neighborhoods, and institutions choosing to help, care, and build something better — from grassroots kindness to reforms that make everyday life lighter." },
+  "nature": { "label": "Nature", "emoji": "🌿", "c1": "#3C9D6E", "c2": "#8FD4B0", "intro": "Good news for the natural world: species coming back from the brink, forests and habitats protected, and the people working quietly to keep the planet healthier." },
+  "health": { "label": "Health", "emoji": "❤️", "c1": "#E25D6F", "c2": "#F4A5B0", "intro": "Progress in healthcare, initiatives expanding access to care, and the people who make someone else's wellbeing their mission." },
+  "science": { "label": "Science", "emoji": "🔭", "c1": "#2F7FB8", "c2": "#8CC2E3", "intro": "Breakthroughs and discoveries from around the world — the moments science and technology push human knowledge a little further forward." },
+  "culture": { "label": "Culture", "emoji": "🎨", "c1": "#8A5FD1", "c2": "#C4A8EB", "intro": "Art, music, tradition, and heritage — the ways people keep culture alive and worth celebrating, every single day." },
+  "sport": { "label": "Sport", "emoji": "🏅", "c1": "#E9812F", "c2": "#F6B57E", "intro": "Achievements from athletes and teams worldwide, moments of will and grit that remind us what dedication looks like." },
+  "progress": { "label": "Progress", "emoji": "🚀", "c1": "#0F8A7D", "c2": "#7CCFC6", "intro": "Good news about the shift toward a better-built world — clean energy, smarter systems, and the innovations quietly reshaping how we live." }
+},
   "feeds": [
     { "name": "Good News Network",      "url": "https://www.goodnewsnetwork.org/feed/" },
     { "name": "Positive News",          "url": "https://www.positive.news/feed/" },
