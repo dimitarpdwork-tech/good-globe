@@ -307,7 +307,7 @@ def media(cfg, article, ui, height=180) -> str:
     Photo credit is a hard requirement of the free API's terms, not optional."""
     if article.get("photo_url"):
         credit = (f'<a class="photo-credit" href="{esc(article["photo_credit_url"])}" '
-                  f'target="_blank" rel="noopener">{esc(ui["photo_by"])} {esc(article["photo_credit"])} · Pexels</a>')
+                  f'target="_blank" rel="noopener">{esc(ui.get("photo_by", "Photo:"))} {esc(article["photo_credit"])} · Pexels</a>')
         return (f'<div class="thumb" style="height:{height}px">'
                 f'<img src="{esc(article["photo_url"])}" alt="{esc(article["headline"])}" loading="lazy">'
                 f'{credit}</div>')
@@ -346,9 +346,11 @@ def org_ld(site) -> dict:
             "sameAs": cfg.get("same_as", [])}
 
 
-def person_ld(site) -> dict:
+def person_ld(site) -> dict | None:
     cfg = site.cfg
-    return {"@type": "Person", "name": cfg["editor_name"], "jobTitle": cfg["editor_title"]}
+    if not cfg.get("editor_name"):
+        return None
+    return {"@type": "Person", "name": cfg["editor_name"], "jobTitle": cfg.get("editor_title", "Editor")}
 
 
 def verification_tags(cfg) -> str:
@@ -402,11 +404,11 @@ def cookie_banner(site) -> str:
     cfg, ui = site.cfg, site.cfg["ui"]
     if not analytics_ads_enabled(cfg):
         return ""
-    return f"""<div id="cookie-banner" class="cookie-banner" hidden role="dialog" aria-label="{esc(ui['cookie_accept'])}">
-<p>{esc(ui['cookie_text'])} <a href="{site.u('/' + cfg['privacy_path'] + '/')}">{esc(ui['privacy'])}</a></p>
+    return f"""<div id="cookie-banner" class="cookie-banner" hidden role="dialog" aria-label="{esc(ui.get('cookie_accept', 'Accept'))}">
+<p>{esc(ui.get('cookie_text', 'We use cookies for anonymous analytics.'))} <a href="{site.u('/' + cfg['privacy_path'] + '/')}">{esc(ui.get('privacy', 'Privacy'))}</a></p>
 <div class="cookie-actions">
-<button id="cookie-reject" type="button">{esc(ui['cookie_reject'])}</button>
-<button id="cookie-accept" type="button">{esc(ui['cookie_accept'])}</button>
+<button id="cookie-reject" type="button">{esc(ui.get('cookie_reject', 'Reject'))}</button>
+<button id="cookie-accept" type="button">{esc(ui.get('cookie_accept', 'Accept'))}</button>
 </div></div>
 <script>
 (function(){{
@@ -504,8 +506,8 @@ def footer(site) -> str:
 <p class="mission">{esc(ui['footer_mission'])}</p>
 <nav class="fnav">
 <a href="{site.u('/' + cfg['about_path'] + '/')}">{esc(ui['about'])}</a>
-<a href="{site.u('/' + cfg['privacy_path'] + '/')}">{esc(ui['privacy'])}</a>
-<a href="{site.u('/feed.xml')}">{esc(ui['rss'])}</a>
+<a href="{site.u('/' + cfg['privacy_path'] + '/')}">{esc(ui.get('privacy', 'Privacy'))}</a>
+<a href="{site.u('/feed.xml')}">{esc(ui.get('rss', 'RSS'))}</a>
 <a href="mailto:{esc(cfg['contact_email'])}">{esc(cfg['contact_email'])}</a>
 </nav>
 <p class="fine">© {year} {esc(cfg['site_name'])} · ☀</p>
@@ -650,7 +652,7 @@ def build_articles(site) -> None:
 <a class="backlink" href="{site.u('/')}">← {esc(ui['back_home'])}</a>
 {meta_row(site, a)}
 <h1>{esc(a['headline'])}</h1>
-<span class="ai-badge">{esc(ui['ai_badge'])}</span>
+<span class="ai-badge">{esc(ui.get('ai_badge', 'AI-summarized'))}</span>
 <div class="banner">{media(cfg, a, ui, height=250)}</div>
 <div class="body">{paras}</div>
 {f'<div class="tags">{tags}</div>' if tags else ''}
@@ -666,7 +668,7 @@ def build_articles(site) -> None:
               "inLanguage": cfg["lang"], "articleSection": cat["label"],
               "mainEntityOfPage": site.abs_(path),
               "image": [a["photo_url"]] if a.get("photo_url") else [site.abs_("/assets/og-default.png")],
-              "author": person_ld(site), "publisher": org_ld(site)}
+              "author": person_ld(site) or org_ld(site), "publisher": org_ld(site)}
         if a.get("source_url"):
             ld["isBasedOn"] = a["source_url"]
         write(DIST / path.strip("/") / "index.html",
@@ -705,10 +707,12 @@ def build_about(site) -> None:
     secs = "".join(
         f'<h2>{esc(h)}</h2><p>{esc(t.format(site=cfg["site_name"], email=cfg["contact_email"]))}</p>'
         for h, t in ABOUT[cfg["lang"]])
-    editor = (f'<div class="editor-card">'
-              f'<div class="editor-name">{esc(cfg["editor_name"])}</div>'
-              f'<div class="editor-title">{esc(cfg["editor_title"])}</div>'
-              f'<p>{esc(cfg["editor_bio"])}</p></div>')
+    editor = ""
+    if cfg.get("editor_name"):
+        editor = (f'<div class="editor-card">'
+                  f'<div class="editor-name">{esc(cfg["editor_name"])}</div>'
+                  f'<div class="editor-title">{esc(cfg.get("editor_title", ""))}</div>'
+                  f'<p>{esc(cfg.get("editor_bio", ""))}</p></div>')
     body = f'<div class="about"><h1>{esc(cfg["ui"]["about"])} · {esc(cfg["site_name"])}</h1>{editor}{secs}</div>'
     path = f'/{cfg["about_path"]}/'
     write(DIST / cfg["about_path"] / "index.html",
