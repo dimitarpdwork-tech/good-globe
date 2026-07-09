@@ -1,0 +1,23 @@
+{
+  "id": "0ce1ca6e5011fa15",
+  "slug": "ai-water-structure-mystery-0ce1",
+  "headline": "AI Solves Water's Mysterious Structural Puzzle",
+  "meta_description": "Osaka researchers used artificial intelligence to crack water's structural mystery, identifying how supercooled water behaves at the molecular level.",
+  "summary_short": "Using AI, scientists have solved a long-standing mystery about how supercooled water structures itself at the molecular level.",
+  "body": "Water harbors one of nature's most intriguing secrets: when supercooled, it exhibits bizarre behaviors that have puzzled scientists for years. The challenge lay not in observing these strange properties, but in understanding the microscopic structures responsible for them. Researchers at the University of Osaka deployed artificial intelligence to cut through this complexity, training an AI model on computer simulations to evaluate 16 different ways of describing water's molecular arrangement.\n\nThe result was a breakthrough in clarity. The AI system identified which structural descriptors most effectively distinguished between water's two competing liquid states, providing researchers with a much sharper framework for understanding supercooled water. This achievement demonstrates how computational intelligence can illuminate nature's deepest puzzles, giving scientists clearer vision into the molecular foundations of everyday substances. The work opens pathways to better understanding phase transitions and the peculiar physics of water that makes life itself possible.",
+  "category": "science",
+  "tags": [
+    "water",
+    "ai",
+    "physics",
+    "supercooled",
+    "osaka"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+  "published": "2026-07-09T05:12:05Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533093/pexels-photo-8533093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
