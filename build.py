@@ -26,6 +26,7 @@ Run:  python build.py
 import hashlib
 import html
 import json
+import re
 import shutil
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -72,11 +73,16 @@ def load_config() -> dict:
 def load_articles(cfg) -> list[dict]:
     articles = []
     skipped = []
+    now = datetime.now(timezone.utc)
     if CONTENT.exists():
         for path in sorted(CONTENT.rglob("*.json")):
             try:
                 with open(path, encoding="utf-8-sig") as f:
                     a = json.load(f)
+                if a.get("publish_at"):
+                    embargo = datetime.strptime(a["publish_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                    if now < embargo:
+                        continue  # not time yet — invisible to this build, will appear on its own later
                 if a.get("category") not in cfg["categories"]:
                     a["category"] = next(iter(cfg["categories"]))
                 a["_dt"] = datetime.strptime(a["published"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -196,6 +202,16 @@ line-height:1.14;letter-spacing:-.02em;margin:10px 0 14px}
 .ai-badge{display:inline-block;font-family:var(--fl);font-size:.72rem;font-weight:700;
 letter-spacing:.04em;color:var(--muted);background:var(--card);border:1px solid var(--line);
 border-radius:999px;padding:4px 11px;margin:0 0 14px}
+.byline{display:inline-block;font-family:var(--fl);font-size:.85rem;font-weight:700;
+color:var(--pd);margin:0 10px 14px 0}
+.cat-name{color:var(--pd);font-weight:700;border-bottom:2px dotted var(--p);cursor:pointer;
+padding:0 1px}
+.cat-name.found{color:var(--t);border-bottom-style:solid}
+.cat-poem{background:var(--card);border:1px solid var(--line);border-radius:var(--r);
+padding:22px 26px;margin:24px 0;animation:catpoem-in .5s ease}
+.cat-poem p{font-family:var(--fd);font-style:italic;color:var(--ink);line-height:1.9;
+margin:0 0 1em;text-align:center}
+@keyframes catpoem-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 .article .banner{border-radius:var(--r);overflow:hidden;margin:20px 0;line-height:0;border:1px solid var(--line)}
 .article .body p{font-size:1.07rem;line-height:1.75;margin:0 0 1.2em}
 .tags{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0}
@@ -316,14 +332,17 @@ def card_art(cfg, article, height=180) -> str:
             f'<text x="320" y="160" font-size="72" text-anchor="middle" dominant-baseline="central">{cat["emoji"]}</text></svg>')
 
 
-def media(cfg, article, ui, height=180) -> str:
+def media(cfg, article, ui, height=180, eager=False) -> str:
     """Real stock photo when the pipeline found one, generated SVG art otherwise.
-    Photo credit is a hard requirement of the free API's terms, not optional."""
+    Photo credit is a hard requirement of the free API's terms, not optional.
+    eager=True skips lazy-loading — use this only for the one above-the-fold
+    image per page (the article's own banner), never for listing thumbnails."""
     if article.get("photo_url"):
         credit = (f'<a class="photo-credit" href="{esc(article["photo_credit_url"])}" '
                   f'target="_blank" rel="noopener">{esc(ui.get("photo_by", "Photo:"))} {esc(article["photo_credit"])} · Pexels</a>')
+        loading_attr = '' if eager else ' loading="lazy"'
         return (f'<div class="thumb" style="height:{height}px">'
-                f'<img src="{esc(article["photo_url"])}" alt="{esc(article["headline"])}" loading="lazy">'
+                f'<img src="{esc(article["photo_url"])}" alt="{esc(article["headline"])}"{loading_attr}>'
                 f'{credit}</div>')
     return card_art(cfg, article, height)
 
@@ -353,7 +372,7 @@ class Site:
 def org_ld(site) -> dict:
     cfg = site.cfg
     return {"@type": "Organization", "name": cfg["site_name"], "url": site.abs_("/"),
-            "logo": {"@type": "ImageObject", "url": site.abs_("/assets/og-default.png")},
+            "logo": {"@type": "ImageObject", "url": site.abs_("/assets/apple-touch-icon.png")},
             "foundingDate": cfg.get("founding_date", "2026-07-01"),
             "contactPoint": {"@type": "ContactPoint", "email": cfg["contact_email"],
                               "contactType": "editorial"},
@@ -471,6 +490,7 @@ def base_page(site, *, title, description, path, body, jsonld=None, og_type="web
 <meta property="og:url" content="{site.abs_(path)}">
 <meta property="og:image" content="{og_image if og_image.startswith('http') else site.abs_(og_image)}">
 <meta property="og:locale" content="{cfg['locale']}">
+{('<link rel="preconnect" href="https://images.pexels.com">' if cfg.get('pexels_api_key') else '')}
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="{site.u('/assets/favicon.svg')}" type="image/svg+xml">
 <link rel="icon" href="{site.u('/assets/favicon.png')}" sizes="64x64">
@@ -597,6 +617,18 @@ def breadcrumb_ld(site, crumbs: list[tuple[str, str]]) -> dict:
 
 def build_lists(site) -> None:
     cfg, ui = site.cfg, site.cfg["ui"]
+    now = datetime.now(timezone.utc)
+    pinned = None
+    for a in site.articles:
+        pin_until = a.get("pin_until")
+        if pin_until:
+            try:
+                until_dt = datetime.strptime(pin_until, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                if now < until_dt:
+                    pinned = a
+                    break  # site.articles is newest-first; first active pin wins
+            except Exception:
+                pass
     groups = [("home", "/", site.articles, cfg["description"], cfg["site_name"] + " — " + cfg["tagline"], "")]
     for cid, cat in cfg["categories"].items():
         arts = [a for a in site.articles if a["category"] == cid]
@@ -611,8 +643,9 @@ def build_lists(site) -> None:
             body = ""
             rest = chunk
             if key == "home" and p == 1 and chunk:
-                body += hero(site, chunk[0])
-                rest = chunk[1:]
+                hero_article = pinned if pinned else chunk[0]
+                body += hero(site, hero_article)
+                rest = [a for a in chunk if a["slug"] != hero_article["slug"]]
             label = ui["latest"] if key == "home" else f'{cfg["categories"][key]["emoji"]} {cfg["categories"][key]["label"]}'
             body += f'<div class="sec"><h2>{esc(label)}</h2><span class="rule"></span></div>'
             if intro and p == 1:
@@ -628,13 +661,17 @@ def build_lists(site) -> None:
             elif key != "home":
                 cat = cfg["categories"][key]
                 crumbs = [(ui["home"], site.abs_("/")), (cat["label"], site.abs_(site.cat_path(key)))]
+                item_list = {"@type": "ItemList", "itemListElement": [
+                    {"@type": "ListItem", "position": i + 1, "url": site.abs_(site.article_path(a))}
+                    for i, a in enumerate(chunk)
+                ]}
                 jsonld = [
                     breadcrumb_ld(site, crumbs),
                     {"@context": "https://schema.org", "@type": "CollectionPage",
                      "name": f'{cat["label"]} · {cfg["site_name"]}',
                      "description": intro or desc, "url": site.abs_(site.cat_path(key)),
                      "isPartOf": {"@type": "WebSite", "name": cfg["site_name"], "url": site.abs_("/")},
-                     "inLanguage": cfg["lang"]}
+                     "inLanguage": cfg["lang"], "mainEntity": item_list}
                 ]
             path = base_path if p == 1 else f'{base_path}page/{p}/'
             out = DIST / path.strip("/") / "index.html" if path != "/" else DIST / "index.html"
@@ -643,11 +680,53 @@ def build_lists(site) -> None:
                                  noindex=(p > 1), is_home=(key == "home" and p == 1)))
 
 
+def apply_cat_unlock(paras_html: str, unlock: dict) -> str:
+    """Wrap the first mention of each cat name in the article with a tappable
+    span. Tapping all of them (any order) reveals the hidden poem below."""
+    for name in unlock.get("names", []):
+        pattern = re.compile(rf'(?<![\w-])({re.escape(name)})(?![\w-])')
+        paras_html = pattern.sub(
+            lambda m, n=name: f'<span class="cat-name" data-cat="{esc(n)}" role="button" tabindex="0">{m.group(1)}</span>',
+            paras_html, count=1,
+        )
+    return paras_html
+
+
+def cat_unlock_block(unlock: dict) -> str:
+    stanzas = "".join(
+        f"<p>{'<br>'.join(esc(line) for line in stanza.split(chr(10)) if line.strip())}</p>"
+        for stanza in unlock["poem"].split("\n\n") if stanza.strip()
+    )
+    return f"""<div class="cat-poem" id="cat-poem" hidden>{stanzas}</div>
+<script>
+(function(){{
+  var found = new Set();
+  var total = {len(unlock.get("names", []))};
+  var poem = document.getElementById('cat-poem');
+  document.querySelectorAll('.cat-name').forEach(function(s){{
+    function reveal(){{
+      found.add(s.dataset.cat);
+      s.classList.add('found');
+      if (found.size >= total && poem) {{
+        poem.hidden = false;
+        poem.scrollIntoView({{behavior:'smooth', block:'center'}});
+      }}
+    }}
+    s.addEventListener('click', reveal);
+    s.addEventListener('keydown', function(e){{ if (e.key==='Enter'||e.key===' ') reveal(); }});
+  }});
+}})();
+</script>"""
+
+
 def build_articles(site) -> None:
     cfg, ui = site.cfg, site.cfg["ui"]
     for a in site.articles:
         cat = cfg["categories"][a["category"]]
         paras = "".join(f"<p>{esc(p.strip())}</p>" for p in a["body"].split("\n\n") if p.strip())
+        cat_unlock = a.get("cat_unlock")
+        if cat_unlock:
+            paras = apply_cat_unlock(paras, cat_unlock)
         related = [r for r in site.articles if r["category"] == a["category"] and r["slug"] != a["slug"]][:3]
         if len(related) < 3:
             seen = {r["slug"] for r in related} | {a["slug"]}
@@ -666,11 +745,13 @@ def build_articles(site) -> None:
 <a class="backlink" href="{site.u('/')}">← {esc(ui['back_home'])}</a>
 {meta_row(site, a)}
 <h1>{esc(a['headline'])}</h1>
-<span class="ai-badge">{esc(ui.get('ai_badge', 'AI-summarized'))}</span>
-<div class="banner">{media(cfg, a, ui, height=250)}</div>
+{f'<span class="byline">{esc(ui.get("editor_label", "Editor:"))} {esc(cfg["editor_name"])}</span>' if cfg.get('editor_name') else ''}
+{f'<span class="ai-badge">{esc(ui.get("ai_badge", "AI-summarized"))}</span>' if not a.get('no_ai_badge') else ''}
+<div class="banner">{media(cfg, a, ui, height=250, eager=True)}</div>
 <div class="body">{paras}</div>
 {f'<div class="tags">{tags}</div>' if tags else ''}
 {src}
+{cat_unlock_block(cat_unlock) if cat_unlock else ''}
 </article>
 {rel_html}"""
         path = site.article_path(a)
