@@ -1,0 +1,22 @@
+{
+  "id": "908f8776c988a0f4",
+  "slug": "brain-decision-making-sensory-feedback-908f",
+  "headline": "Brain Decisions Begin Earlier Than Scientists Thought",
+  "meta_description": "New research reveals the brain makes decisions through rapid feedback loops earlier than previously understood.",
+  "summary_short": "The brain is more democratic than we thought. Instead of top-down decision-making, sensory regions influence choices through rapid feedback from higher brain areas.",
+  "body": "Scientists have long understood decision-making as a process that flows upward: sensory information arrives, travels to higher brain regions, and decisions form there. A new study upends that view. The brain, it turns out, works more like a conversation than a lecture—with feedback happening almost instantaneously in both directions.\n\nResearchers discovered that even primary sensory regions receive rapid feedback from higher brain areas, meaning that the process of making a decision begins much earlier than previously thought. Rather than simply passing information forward like a relay baton, sensory regions are already influenced by the brain's higher-level goals and expectations.\n\nThis finding has implications beyond neuroscience. Understanding how biological brains operate through dynamic feedback loops could inspire engineers designing artificial intelligence systems. If AI could mimic the brain's efficient, bidirectional approach rather than relying on linear processing, future computers might think more like humans while using significantly less power. Sometimes the best technology comes from understanding how nature already solved the problem.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "brain",
+    "decision-making",
+    "ai"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+  "published": "2026-07-13T13:33:46Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Google DeepMind",
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+}
