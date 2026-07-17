@@ -131,12 +131,14 @@ def fetch_feed(feed: dict, window_hours: int) -> list[dict]:
     return out
 
 
-def collect_candidates(cfg: dict, seen_ids: set) -> list[dict]:
+def collect_candidates(cfg: dict, seen_ids: set, window_override: int | None = None,
+                        ignore_seen: bool = False) -> list[dict]:
     candidates, errors = [], []
+    window = window_override if window_override is not None else cfg.get("window_hours", 48)
     for feed in cfg["feeds"]:
         try:
-            entries = fetch_feed(feed, cfg.get("window_hours", 48))
-            fresh = [e for e in entries if e["id"] not in seen_ids]
+            entries = fetch_feed(feed, window)
+            fresh = entries if ignore_seen else [e for e in entries if e["id"] not in seen_ids]
             candidates.extend(fresh)
             print(f"  [feed] {feed['name']}: {len(fresh)} new / {len(entries)} recent")
         except Exception as exc:  # a dead feed must never kill the run
@@ -167,7 +169,122 @@ def load_recent_headlines(days: int = 10, limit: int = 60) -> list[str]:
     return [h for _, h in items[:limit]]
 
 
-def build_prompt(cfg: dict, candidates: list[dict], max_new: int, recent_headlines: list[str]) -> str:
+def fetch_full_article(url: str, timeout: int = 20) -> str | None:
+    """Fetch a story's source page and extract just the article text.
+
+    Deliberately defensive: ANY failure — the extraction library not being
+    installed, a network error, a paywall, a bot-block, an unparseable page —
+    returns None, and the caller falls back to the RSS snippet for that one
+    story. A missing full-text must never break a publish run.
+    """
+    if not url:
+        return None
+    try:
+        import trafilatura  # imported lazily so the pipeline still runs without it
+    except Exception:
+        return None
+    try:
+        downloaded = trafilatura.fetch_url(url)
+        if not downloaded:
+            return None
+        text = trafilatura.extract(
+            downloaded,
+            include_comments=False,
+            include_tables=False,
+            no_fallback=False,
+            favor_precision=True,
+        )
+        if not text:
+            return None
+        text = text.strip()
+        # Guard against junk: too short to be a real article, or absurdly long.
+        if len(text) < 200:
+            return None
+        return text[:6000]  # cap so the writing prompt stays a sane size
+    except Exception as exc:
+        print(f"    [extract] could not read {url[:60]} ({type(exc).__name__}) — using snippet")
+        return None
+
+
+def build_selection_prompt(cfg: dict, candidates: list[dict], max_new: int,
+                            recent_headlines: list[str]) -> str:
+    """Phase 1: cheap selection only. Ask the model to pick the genuinely-good,
+    non-duplicate stories and return just their indices + a one-line reason —
+    NOT to write them. Small output, so it can never truncate away good picks."""
+    recent_block = ""
+    if recent_headlines:
+        recent_list = "\n".join(f"- {h}" for h in recent_headlines[:80])
+        recent_block = (
+            "\nALREADY PUBLISHED — do NOT pick anything covering the same event as "
+            f"any of these:\n{recent_list}\n"
+        )
+    cand_lines = "\n".join(
+        f'{i}. [{c["source"]}] {c["title"]} — {clean_text(c.get("summary",""), 260)}'
+        for i, c in enumerate(candidates)
+    )
+    return f"""You are the editor of "{cfg['site_name']}", which publishes ONLY genuinely good, uplifting news in {cfg['language_name']}.
+
+From the numbered candidates below, select up to {max_new} that are GENUINELY positive: concrete good outcomes, kindness, recoveries of nature, scientific or medical breakthroughs, community wins, cultural achievements, human generosity or skill.
+
+REJECT anything whose core is negative even if framed positively: war, crime, accidents, disasters, deaths, disease, scandals, court cases, party politics, elections, market/economic reports, weather, celebrity gossip, PR. When unsure, reject. Selecting fewer than {max_new} — even zero — is correct if the good ones aren't there.
+{recent_block}
+Respond with ONLY a JSON array of objects, nothing else:
+[{{"candidate": <number>, "why": "<3-6 word reason it's good news>"}}]
+
+CANDIDATES
+{cand_lines}"""
+
+
+def build_writing_prompt(cfg: dict, story: dict, full_text: str | None) -> str:
+    """Phase 2: write ONE article, ideally from the full source text. Uniqueness
+    rules are explicit so articles don't read as templated."""
+    source_block = (
+        f"FULL SOURCE ARTICLE (write from this):\n{full_text}"
+        if full_text else
+        f"SOURCE SUMMARY (only this snippet is available):\n{clean_text(story.get('summary',''), 600)}"
+    )
+    return f"""You are the editor of "{cfg['site_name']}", writing one good-news article in {cfg['language_name']}.
+
+HEADLINE OF THE STORY: {story['title']}
+SOURCE: {story['source']}
+
+{source_block}
+
+Write an original article in {cfg['language_name']}. Rules:
+- Use ONLY facts present in the source above. Never invent numbers, names, quotes, or dates.
+- Include 2-3 CONCRETE specific details from the source (a number, a place, a name, a circumstance) — this is what makes the piece real rather than generic.
+- VARY your opening: sometimes lead with the outcome, sometimes a striking detail, sometimes the human stakes. Do not always open the same way.
+- Find the actual STORY beyond the headline — what does the full source reveal that the headline alone wouldn't tell someone?
+- Warm, human, concrete tone. Hopeful, never saccharine or clickbaity.
+- {"180-260 words" if full_text else "130-180 words (snippet is thin, don't pad with filler)"}.
+- Native-level {cfg['language_name']}. Never invent words. Check noun-adjective gender/number agreement. Never use Russian spellings or words.
+
+Respond with ONLY a JSON object, nothing else:
+{{
+  "headline": "<max 75 chars, in {cfg['language_name']}>",
+  "slug_hint": "<3-6 latin lowercase words, hyphenated>",
+  "category": "<one id from: {', '.join(cfg['categories'].keys())}>",
+  "meta_description": "<max 155 chars>",
+  "summary_short": "<max 160 chars teaser>",
+  "body": "<the article, paragraphs separated by \\n\\n>",
+  "tags": ["<3-5 lowercase tags, no spaces>"],
+  "image_query": "<2-4 words English, generic scene for stock photo, never a real person's name>"
+}}"""
+
+
+def parse_json_object(raw: str) -> dict | None:
+    """Parse a single JSON object from a model response, tolerant of fences/prose."""
+    text = raw.strip()
+    text = re.sub(r"^```(?:json)?", "", text).strip()
+    text = re.sub(r"```$", "", text).strip()
+    start, end = text.find("{"), text.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        return None
+    try:
+        obj = json.loads(text[start:end + 1])
+        return obj if isinstance(obj, dict) else None
+    except json.JSONDecodeError:
+        return None
     cat_lines = "\n".join(
         f'- "{cid}": {c["label"]}' for cid, c in cfg["categories"].items()
     )
@@ -547,6 +664,254 @@ def recently_ran(hours: float = 2.0) -> bool:
         return False  # the safety guard must never itself block publishing
 
 
+def recover_missed(cfg: dict, hours: int = 72) -> None:
+    """One-time sweep to recover good stories stranded by an earlier bug: looks back
+    `hours` (wider than the normal window) AND ignores the seen-filter (since the
+    stranded stories are marked seen but never actually published). To avoid
+    re-posting stories that DID publish, it leans hard on the same duplicate-topic
+    guard used normally — the editor model is told to reject anything matching a
+    recently published headline. Still, review the result and delete any dupes."""
+    seen = load_seen()
+    print(f"[{cfg['site_name']}] RECOVERY sweep — looking back {hours}h, ignoring the seen-list…")
+    candidates = collect_candidates(cfg, set(), window_override=hours, ignore_seen=True)
+    print(f"  {len(candidates)} candidates in the {hours}h window")
+    if not candidates:
+        print("Nothing to recover. Done.")
+        return
+    max_new = cfg.get("max_new_per_run", 6)
+    if cfg.get("two_phase", True):
+        saved, new_urls = run_two_phase(cfg, candidates, seen, max_new)
+    else:
+        recent_headlines = load_recent_headlines(days=14, limit=120)
+        prompt = build_prompt(cfg, candidates, max_new, recent_headlines)
+        print("  asking the editor model to pick genuinely-good, NON-duplicate stories…")
+        raw = call_claude(cfg, prompt)
+        items = parse_selection(raw)[:max_new]
+        saved, new_urls = save_articles(cfg, items, candidates, seen)
+    ping_indexnow(cfg, new_urls)
+    for c in candidates:
+        if c["id"] not in set(seen["ids"]):
+            seen["ids"].append(c["id"])
+    save_seen(seen)
+    print(f"\nRecovery done. {saved} stor{'y' if saved == 1 else 'ies'} recovered and published.")
+    print("→ Please review these on the site and delete any that duplicate an "
+          "already-published story (the guard prevents most, but check).")
+
+
+def save_one_written(cfg: dict, written: dict, cand: dict, seen: dict) -> str | None:
+    """Save a single already-written article (two-phase output). Returns its URL, or None."""
+    default_cat = next(iter(cfg["categories"]))
+    now = datetime.now(timezone.utc)
+    body = (written.get("body") or "").strip()
+    headline = clip(written.get("headline", ""), 90)
+    if not body or not headline:
+        return None
+    category = written.get("category") if written.get("category") in cfg["categories"] else default_cat
+    slug = f'{slugify(written.get("slug_hint") or headline)}-{cand["id"][:4]}'
+    article = {
+        "id": cand["id"], "slug": slug, "headline": headline,
+        "meta_description": clip(written.get("meta_description", ""), 160),
+        "summary_short": clip(written.get("summary_short", ""), 170),
+        "body": body, "category": category,
+        "tags": [clip(t, 30) for t in (written.get("tags") or [])[:5]],
+        "source_name": cand["source"], "source_url": cand["link"],
+        "published": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "lang": cfg["lang"],
+    }
+    photo = find_stock_photo(cfg, written.get("image_query", ""))
+    if photo:
+        article.update(photo)
+    out_dir = CONTENT_DIR / now.strftime("%Y") / now.strftime("%m")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with open(out_dir / f"{slug}.json", "w", encoding="utf-8") as f:
+        json.dump(article, f, ensure_ascii=False, indent=2)
+    seen["ids"].append(cand["id"])
+    base = cfg["base_url"].rstrip("/") + cfg.get("base_path", "").rstrip("/")
+    return f'{base}/{cfg["article_prefix"]}/{slug}/'
+
+
+def run_two_phase(cfg: dict, candidates: list[dict], seen: dict, max_new: int) -> tuple[int, list[str]]:
+    """Phase 1: cheap selection call picks the good, non-duplicate stories.
+    Phase 2: for each pick, fetch the full source article and write it individually.
+    Full-text fetch failure falls back to the snippet automatically per-story."""
+    recent_headlines = load_recent_headlines(days=14, limit=120)
+    sel_prompt = build_selection_prompt(cfg, candidates, max_new, recent_headlines)
+    print("  [phase 1] selecting the genuinely-good stories…")
+    picks = parse_selection(call_claude(cfg, sel_prompt))[:max_new]
+    if not picks:
+        print("  [phase 1] nothing selected this run.")
+        return 0, []
+    print(f"  [phase 1] selected {len(picks)} — now writing each from full source…")
+
+    saved, new_urls = 0, []
+    seen_ids = set(seen["ids"])
+    for pick in picks:
+        try:
+            cand = candidates[int(pick["candidate"])]
+        except (KeyError, ValueError, IndexError, TypeError):
+            continue
+        if cand["id"] in seen_ids:
+            continue
+        full_text = fetch_full_article(cand["link"])
+        tag = "full source" if full_text else "snippet only"
+        write_prompt = build_writing_prompt(cfg, cand, full_text)
+        written = parse_json_object(call_claude(cfg, write_prompt))
+        if not written:
+            print(f"    [skip] writing failed for: {cand['title'][:55]}")
+            continue
+        url = save_one_written(cfg, written, cand, seen)
+        if url:
+            saved += 1
+            seen_ids.add(cand["id"])
+            new_urls.append(url)
+            print(f"  [new · {tag}] {clip(written.get('headline',''), 60)}")
+    return saved, new_urls
+
+
+def rewrite_articles(cfg: dict, limit: int | None = None) -> None:
+    """Rewrite existing articles to the new professional standard using the full
+    source text. Preserves each article's slug, published date, category, and photo
+    (SEO-safe). Only the text fields (headline/body/meta/summary/tags) change.
+
+    Defensive: skips seed articles, articles with no source_url, and ones already
+    rewritten. Any per-article failure leaves that article untouched and moves on.
+    Safe to re-run — it resumes where it left off via the 'rewritten' flag."""
+    if not CONTENT_DIR.exists():
+        print("No articles to rewrite.")
+        return
+    paths = sorted(CONTENT_DIR.rglob("*.json"))
+    todo = []
+    for path in paths:
+        try:
+            with open(path, encoding="utf-8-sig") as f:
+                a = json.load(f)
+        except Exception:
+            continue
+        if a.get("id", "").startswith("seed"):
+            continue          # skip the hand-written launch seed articles
+        if a.get("rewritten"):
+            continue          # already upgraded on a previous run
+        if not a.get("source_url"):
+            continue          # nothing to re-fetch from
+        if a.get("cat_unlock") or a.get("pin_until"):
+            continue          # never touch the special anniversary article
+        todo.append((path, a))
+
+    if not todo:
+        print("Every eligible article is already rewritten. Nothing to do.")
+        return
+    if limit:
+        todo = todo[:limit]
+    print(f"Rewriting {len(todo)} article(s) to the professional standard…\n")
+
+    done, skipped = 0, 0
+    for path, a in todo:
+        full_text = fetch_full_article(a["source_url"])
+        if not full_text:
+            print(f"  [skip · no source] {a.get('headline','')[:55]}")
+            skipped += 1
+            continue
+        # Reuse the same writing prompt the live pipeline uses, so rewritten
+        # articles match new ones exactly in style and quality.
+        story = {"title": a.get("headline", ""), "source": a.get("source_name", ""),
+                 "link": a.get("source_url", ""), "summary": a.get("summary_short", "")}
+        written = parse_json_object(call_claude(cfg, build_writing_prompt(cfg, story, full_text)))
+        if not written or not (written.get("body") or "").strip():
+            print(f"  [skip · write failed] {a.get('headline','')[:55]}")
+            skipped += 1
+            continue
+        # Overwrite ONLY the text fields; keep id, slug, published, category, photo.
+        a["headline"] = clip(written.get("headline", a["headline"]), 90)
+        a["meta_description"] = clip(written.get("meta_description", a.get("meta_description", "")), 160)
+        a["summary_short"] = clip(written.get("summary_short", a.get("summary_short", "")), 170)
+        a["body"] = written["body"].strip()
+        if written.get("tags"):
+            a["tags"] = [clip(t, 30) for t in written["tags"][:5]]
+        a["rewritten"] = True
+        a["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(a, f, ensure_ascii=False, indent=2)
+        done += 1
+        print(f"  [rewritten] {a['headline'][:60]}")
+    print(f"\nDone. {done} article(s) rewritten, {skipped} skipped "
+          f"(source unreachable — left untouched, still live as before).")
+
+
+def rewrite_articles(cfg: dict, limit: int | None = None) -> None:
+    """Go back through existing articles and rewrite each to the current
+    professional length/uniqueness standard, using its original source.
+
+    Safety-first, because this EDITS live content:
+    - Preserves slug, id, published date, category, and any existing photo —
+      so URLs and SEO are untouched (only headline/body/meta/tags improve).
+    - Skips seed articles and anything already marked rewritten.
+    - Skips (leaves untouched) any article whose source can't be re-fetched or
+      whose rewrite fails to parse — a bad rewrite must never replace good text.
+    - Writes each file in place only after a valid new version is produced.
+    """
+    if not CONTENT_DIR.exists():
+        print("No content directory. Nothing to rewrite.")
+        return
+    paths = sorted(CONTENT_DIR.rglob("*.json"))
+    done, skipped, failed = 0, 0, 0
+    for path in paths:
+        if limit is not None and done >= limit:
+            break
+        try:
+            with open(path, encoding="utf-8-sig") as f:
+                art = json.load(f)
+        except Exception:
+            continue  # broken file is build.py's problem, not ours
+
+        # Skip things we shouldn't touch.
+        if art.get("id", "").startswith("seed") or art.get("rewritten"):
+            skipped += 1
+            continue
+        # Never rewrite the special anniversary / pinned pieces.
+        if art.get("cat_unlock") or art.get("pin_until") or art.get("publish_at"):
+            skipped += 1
+            continue
+        src_url = art.get("source_url")
+        if not src_url:
+            skipped += 1
+            continue
+
+        full_text = fetch_full_article(src_url)
+        if not full_text:
+            # Can't re-fetch the source — leave the existing article exactly as is.
+            failed += 1
+            print(f"  [keep] source unavailable, left untouched: {art.get('headline','')[:50]}")
+            continue
+
+        # Reuse the same writing prompt as the live pipeline for consistency.
+        pseudo = {"title": art.get("headline", ""), "source": art.get("source_name", ""),
+                  "summary": art.get("summary_short", ""), "link": src_url}
+        written = parse_json_object(call_claude(cfg, build_writing_prompt(cfg, pseudo, full_text)))
+        if not written or not (written.get("body") or "").strip():
+            failed += 1
+            print(f"  [keep] rewrite failed, left untouched: {art.get('headline','')[:50]}")
+            continue
+
+        # Merge the improved fields, preserving everything SEO-critical.
+        category = written.get("category") if written.get("category") in cfg["categories"] else art.get("category")
+        art["headline"] = clip(written.get("headline") or art["headline"], 90)
+        art["meta_description"] = clip(written.get("meta_description", ""), 160) or art.get("meta_description", "")
+        art["summary_short"] = clip(written.get("summary_short", ""), 170) or art.get("summary_short", "")
+        art["body"] = written["body"].strip()
+        art["category"] = category
+        if written.get("tags"):
+            art["tags"] = [clip(t, 30) for t in written["tags"][:5]]
+        art["rewritten"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        # slug, id, published, photo_* all deliberately left as-is.
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(art, f, ensure_ascii=False, indent=2)
+        done += 1
+        print(f"  [rewritten] {art['headline'][:55]}")
+
+    print(f"\nRewrite complete. {done} rewritten, {skipped} skipped (seed/special/no-source), "
+          f"{failed} left untouched (source unavailable or rewrite failed).")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Good-news pipeline")
     ap.add_argument("--check-feeds", action="store_true")
@@ -554,6 +919,14 @@ def main() -> None:
     ap.add_argument("--limit", type=int, default=None, help="max new stories this run")
     ap.add_argument("--backfill-photos", action="store_true",
                      help="one-off: add real Pexels photos to existing articles that don't have one")
+    ap.add_argument("--recover", action="store_true",
+                     help="one-time: sweep the last 72h ignoring the seen-list to recover stranded stories")
+    ap.add_argument("--list-candidates", action="store_true",
+                     help="diagnostic: print every candidate in the last 72h (no AI, no publishing)")
+    ap.add_argument("--rewrite-articles", action="store_true",
+                     help="one-time: rewrite existing articles to professional length from their full source")
+    ap.add_argument("--rewrite-limit", type=int, default=None,
+                     help="cap how many articles --rewrite-articles processes in one run")
     ap.add_argument("--force", action="store_true", help="skip the duplicate-trigger cooldown check")
     args = ap.parse_args()
 
@@ -563,6 +936,23 @@ def main() -> None:
         return
     if args.backfill_photos:
         backfill_photos(cfg)
+        return
+    if args.rewrite_articles:
+        rewrite_articles(cfg, limit=args.rewrite_limit)
+        return
+    if args.list_candidates:
+        print(f"[{cfg['site_name']}] listing every candidate in the last 72h "
+              "(ignoring seen-list, no AI, no publishing)…\n")
+        cands = collect_candidates(cfg, set(), window_override=72, ignore_seen=True)
+        print(f"\n=== {len(cands)} candidates ===\n")
+        for i, c in enumerate(cands):
+            print(f"{i+1}. [{c['source']}] {c['title']}")
+            summary = (c.get('summary') or '').strip().replace('\n', ' ')
+            if summary:
+                print(f"     {summary[:200]}")
+        return
+    if args.recover:
+        recover_missed(cfg)
         return
     # A manually triggered run (someone clicked "Run workflow", or a local run)
     # must ALWAYS publish — never let the duplicate-guard silently skip a human.
@@ -590,21 +980,29 @@ def main() -> None:
         return
 
     max_new = args.limit or cfg.get("max_new_per_run", 6)
-    recent_headlines = load_recent_headlines()
-    prompt = build_prompt(cfg, candidates, max_new, recent_headlines)
-    print("  asking the editor model to pick the good ones…")
-    raw = call_claude(cfg, prompt)
-    items = parse_selection(raw)[:max_new]
-    saved, new_urls = save_articles(cfg, items, candidates, seen)
+
+    if cfg.get("two_phase", True):
+        # New default: select cheaply, then write each story from full source text.
+        saved, new_urls = run_two_phase(cfg, candidates, seen, max_new)
+    else:
+        # Legacy single-call path, kept as a fallback.
+        recent_headlines = load_recent_headlines()
+        prompt = build_prompt(cfg, candidates, max_new, recent_headlines)
+        print("  asking the editor model to pick the good ones…")
+        raw = call_claude(cfg, prompt)
+        items = parse_selection(raw)[:max_new]
+        saved, new_urls = save_articles(cfg, items, candidates, seen)
+
     ping_indexnow(cfg, new_urls)
 
     # Mark rejected candidates as seen too, so we never re-pay to re-judge them.
+    seen_now = set(seen["ids"])
     for c in candidates:
-        if c["id"] not in set(seen["ids"]):
+        if c["id"] not in seen_now:
             seen["ids"].append(c["id"])
     save_seen(seen)
     print(f"Done. {saved} new stor{'y' if saved == 1 else 'ies'} published, "
-          f"{len(candidates) - saved} rejected as not-good-enough news.")
+          f"{len(candidates) - saved} not selected.")
 
 
 if __name__ == "__main__":
