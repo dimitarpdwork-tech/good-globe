@@ -1,16 +1,17 @@
 {
   "id": "e1b2d657460c0993",
   "slug": "bear-dar-radar-polar-bear-safety-e1b2",
-  "headline": "AI System Helps Arctic Communities Spot Polar Bears",
-  "meta_description": "An AI-driven radar system called Bear-dar helps Arctic communities detect approaching polar bears, reducing dangerous encounters.",
-  "summary_short": "A new AI radar system called Bear-dar gives Arctic communities advance warning of nearby polar bears, improving safety.",
-  "body": "Spotting polar bears across the vast, often dark Arctic wilderness has always been a challenge. Communities living in polar bear country face constant risk, and early warning can mean the difference between safety and tragedy. A new technology is changing that equation.\n\nBear-dar is an artificial intelligence-powered radar system designed to scan the landscape and detect approaching polar bears. Developed by the nonprofit Polar Bears International in partnership with the security firm Spotter Global, the technology gives Arctic communities advance notice when bears draw near—time to take protective action, alert residents, or redirect activity away from danger.\n\nThe system represents a shift in how humans and wildlife can coexist in shared spaces. Rather than waiting for dangerous encounters to happen, communities now have a tool that lets them anticipate and prevent them. It's a bridge between conservation and safety: protecting both the people who call the Arctic home and the polar bears whose habitat it remains, by keeping the two from meeting in circumstances that could harm either.",
-  "category": "progress",
+  "headline": "New AI Radar Gives Arctic Communities a Fighting Chance",
+  "meta_description": "Bear-dar, an AI-powered radar system, detects polar bears approaching Arctic settlements, preventing dangerous encounters as climate change pushes bears onto l…",
+  "summary_short": "An innovative radar system successfully spotted a polar bear family near an Arctic weather station, giving residents time to safely guide the animals back to sea ice.",
+  "body": "When a polar bear family approached a Canadian weather station in the Arctic town of Eureka this past May, the people working there had something their predecessors never did: advance warning.\n\nBear-dar, an AI-driven radar system developed by nonprofit Polar Bears International and security firm Spotter Global, detected the mother and two cubs moving toward the station. The discovery gave staff members crucial time to plan a safe response—they guided the bears back onto sea ice and monitored their movements using the system's cameras.\n\n\"They wouldn't have been able to see those bears just standing outside and looking around,\" said Alysa McCall, director of science at Polar Bears International. \"The early-warning system gave them a lot of time to make a plan.\"\n\nThe technology addresses a growing crisis. As Arctic sea ice melts due to climate change, polar bears lose their natural habitat and increasingly venture onto land searching for food, bringing them into dangerous contact with humans. Bear-dar's radar panels—each about the size of an iPad—scan landscapes up to 1.2 kilometers away, alerting people when bears approach.\n\nThe AI was trained using footage from zoo-held polar bears, ensuring it could reliably recognize the animals. McCall's team now aims to make the system more affordable and accessible, hoping eventually to offer it to Arctic communities where human-bear encounters are becoming unavoidable.",
+  "category": "science",
   "tags": [
+    "climate-change",
     "arctic",
-    "wildlife",
+    "conservation",
     "technology",
-    "safety"
+    "wildlife"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/2026/07/bear-dar-aims-to-give-arctic-communities-a-heads-up-on-nearby-polar-bears/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/33150916/pexels-photo-33150916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Lisá  Yakurím",
-  "photo_credit_url": "https://www.pexels.com/@lisa-yakurim-40702902"
+  "photo_credit_url": "https://www.pexels.com/@lisa-yakurim-40702902",
+  "rewritten": "2026-07-17T14:37:33Z"
 }

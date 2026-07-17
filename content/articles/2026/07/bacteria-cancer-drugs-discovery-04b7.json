@@ -1,17 +1,16 @@
 {
   "id": "04b72861b9d208c6",
   "slug": "bacteria-cancer-drugs-discovery-04b7",
-  "headline": "Scientists Crack Bacteria's Natural Cancer Drug Code",
-  "meta_description": "Researchers have decoded how bacteria naturally manufacture multiple versions of anti-cancer drugs, promising improved cancer treatments.",
-  "summary_short": "Scientists have unlocked bacteria's natural ability to produce powerful anti-cancer compounds, offering a blueprint for better medicines.",
-  "body": "In a landmark discovery, researchers have cracked the biological code that allows certain bacteria to naturally manufacture multiple versions of potent anti-cancer drugs. Rather than designing cancer treatments from scratch using chemical synthesis, scientists can now look to nature itself for inspiration and guidance. Bacteria have already solved the engineering challenge of producing these powerful compounds, and humans are learning to read that natural blueprint.\n\nThis knowledge promises to transform drug development. By understanding and harnessing nature's manufacturing secrets, researchers can engineer new cancer treatments and improve upon existing medicines. The approach echoes a growing recognition in medicine that nature often contains elegant solutions to problems that have challenged human ingenuity. By studying how life itself creates these compounds, scientists gain access to millions of years of evolutionary refinement—solutions tested by time and encoded in living organisms. The discovery represents a profound collaboration between human creativity and natural wisdom.",
+  "headline": "Bacteria's Cancer-Fighting Secret Finally Decoded",
+  "meta_description": "Researchers crack nature's recipe for building powerful cancer drugs, opening doors to targeted therapies inspired by bacterial enzymes.",
+  "summary_short": "Scientists have solved a decades-old mystery about how bacteria naturally manufacture multiple versions of powerful anti-cancer drugs.",
+  "body": "For decades, researchers watched bacteria perform an elegant trick—manufacturing multiple versions of potent cancer drugs—without understanding how. Now, scientists at the University of Warwick have finally cracked the code.\n\nPublished in Nature Communications, the breakthrough reveals that tiny molecular regions called \"docking domains\" act as connectors, allowing bacterial enzymes to communicate and cooperate. These flexible connectors enable bacteria to produce a variety of related drug molecules while maintaining the precision needed for effectiveness.\n\nThe discovery focuses on a class of medicines called HDAC inhibitors, which work by blocking enzymes that control which genes are switched on or off inside cells. Romidepsin (Istodax), an FDA-approved treatment for T-cell lymphomas, belongs to this family. The study also identified how a related compound called FR-901375—known for decades but mysteriously produced—finally fits into nature's toolkit.\n\nDr. Munro Passmore, lead researcher, explained: \"This work finally cracks that code. We've identified how the different enzymes communicate and cooperate to produce these drug variants.\"\n\nThe implications are profound. By reverse-engineering nature's logic, scientists can now design synthetic pathways that generate new anti-cancer candidates with superior potency, improved selectivity, and fewer side effects—precisely where new treatments are urgently needed.",
   "category": "science",
   "tags": [
-    "cancer",
-    "bacteria",
-    "drugs",
-    "medicine",
-    "discovery"
+    "cancer-research",
+    "bacterial-enzymes",
+    "drug-development",
+    "biotechnology"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
@@ -19,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/4033023/pexels-photo-4033023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Edward Jenner",
-  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner",
+  "rewritten": "2026-07-17T14:37:19Z"
 }

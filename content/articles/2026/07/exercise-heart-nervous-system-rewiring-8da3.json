@@ -1,16 +1,16 @@
 {
   "id": "8da39df4dc2b8f97",
   "slug": "exercise-heart-nervous-system-rewiring-8da3",
-  "headline": "Exercise Rewires the Heart's Nervous System",
-  "meta_description": "New research shows that exercise doesn't just strengthen the heart muscle—it also rewires the nerves that regulate heart function, potentially leading to perso…",
-  "summary_short": "Scientists have discovered that exercise rewires the nerves controlling the heart, not just strengthening the muscle, offering hope for treating arrhythmias and angina.",
-  "body": "A new discovery in exercise physiology reveals that when we exercise, we do more than build a stronger heart muscle: we actually rewire the nervous system that controls cardiac function. This neural rewiring could eventually lead to more personalized and targeted treatments for common heart conditions including arrhythmias and angina.\n\nThe finding challenges the conventional understanding that exercise benefits the heart primarily through mechanical strengthening. Instead, it highlights the complex interplay between physical activity and the body's regulatory networks. By reshaping how nerves communicate with the heart, exercise may address the root causes of certain cardiac problems, not just their symptoms.\n\nThis insight opens new doors for medical treatment. Rather than relying solely on medication or invasive procedures, doctors may eventually develop therapies that harness the body's natural ability to rewire itself through movement and activity. The research underscores how much remains to be learned about the seemingly simple act of exercising, and how that knowledge might transform cardiac care.",
+  "headline": "How Exercise Rewires Your Heart—One Side at a Time",
+  "meta_description": "New research reveals exercise reshapes the nerves controlling your heart differently on each side, offering hope for personalized heart treatments.",
+  "summary_short": "Scientists discover that regular aerobic exercise rewires heart-control nerves asymmetrically, potentially revolutionizing treatment for arrhythmias and angina.",
+  "body": "When you lace up your running shoes, you know exercise strengthens your heart. But researchers at the University of Bristol have uncovered something far more intriguing: moderate aerobic training actually rewires the nerves that control your heartbeat—and it does so differently on each side of your body.\n\nIn a study published in *Autonomic Neuroscience*, scientists examined how 10 weeks of training changed nerve clusters in rats. The results were striking. On the right side, trained animals developed roughly four times as many neurons in their cardiovascular nerve clusters compared to untrained animals. Meanwhile, neurons on the left side nearly doubled in size, though fewer in number. The asymmetry was unexpected and revealing.\n\nThese nerve clusters function like a dimmer switch for your heart, controlling signals that speed it up or slow it down. Understanding how exercise remodels them could reshape treatment for millions. Conditions like arrhythmias, stress-induced \"broken-heart\" syndrome, and difficult-to-treat angina are typically managed by targeting these same nerve hubs.\n\nDr. Augusto Coppi, the study's lead author, explains that mapping these side-specific changes could eventually allow doctors to tailor therapies more precisely. While the research remains early-stage and was conducted in animals, the team now plans to test whether similar patterns emerge in humans.\n\nThe discovery hints at a future where heart treatments become deeply personalized—not one-size-fits-all, but shaped to your body's own asymmetrical design.",
   "category": "health",
   "tags": [
     "heart-health",
     "exercise-science",
-    "neuroscience",
-    "medical-research"
+    "medical-research",
+    "personalized-medicine"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011755.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8770407/pexels-photo-8770407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Gustavo Fring",
-  "photo_credit_url": "https://www.pexels.com/@gustavo-fring"
+  "photo_credit_url": "https://www.pexels.com/@gustavo-fring",
+  "rewritten": "2026-07-17T14:41:27Z"
 }

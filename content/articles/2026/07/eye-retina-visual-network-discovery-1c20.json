@@ -1,15 +1,16 @@
 {
   "id": "1c20df79578f5608",
   "slug": "eye-retina-visual-network-discovery-1c20",
-  "headline": "Scientists Discover Hidden Communication Network in the Eye",
-  "meta_description": "Yale researchers have identified a previously unknown communication network in the retina that coordinates visual pathways, helping detect faint details throug…",
-  "summary_short": "Yale scientists have discovered a hidden communication network in the retina, featuring a 'commander' cell that helps the eye detect faint visual details.",
-  "body": "Researchers at Yale have uncovered an unexpected layer of sophistication in human vision: a previously hidden communication network inside the retina that allows separate visual pathways to work together as a coordinated system. Rather than functioning as isolated channels, these pathways exchange information through a newly identified cell type that acts as a coordinator or \"commander.\"\n\nThis finding reshapes our understanding of how the eye processes light and detail. By orchestrating cooperation between different visual circuits, this command system enables the eye to detect faint details—subtle shapes, low-contrast images, and dim light—that might otherwise escape notice. The discovery opens new avenues for understanding not only how healthy vision works, but also how visual problems arise and potentially how they might be treated.\n\nThe research underscores how much we continue to learn about familiar biological systems. Even organs we encounter every day hold surprises that, when unlocked, can deepen both basic science and future medical applications.",
+  "headline": "Eye's Hidden Teamwork Unlocks Vision's Greatest Mystery",
+  "meta_description": "Yale researchers reveal the retina uses a hidden electrical network to coordinate vision, challenging decades of scientific assumptions about how we see.",
+  "summary_short": "Yale scientists discovered that the eye's visual pathways work together through hidden electrical connections, led by a 'commander' cell that strengthens weak signals.",
+  "body": "For decades, scientists believed the eye processes vision like separate assembly lines—each channel handling color, motion, shape, or contrast independently. Yale School of Medicine researchers just overturned that assumption.\n\nA new study published in Neuron reveals that the retina's supposedly isolated visual pathways are actually connected by a hidden electrical communication network. When researchers stimulated a single bipolar cell deep within the retina, they expected one signal. Instead, many bipolar cells released neurotransmitters in response, creating broad patterns of activity that mapped an entirely unexpected coordination system.\n\nEven more striking: the team identified one specific cell type, BC6, that appears to act as a \"commander,\" organizing signals across multiple visual pathways in a hierarchical pattern.\n\nThis discovery matters because it explains how we detect faint objects or see in dim light. When visual signals are weak and divided among separate channels, there's little information left for each to process alone. By sharing signals through electrical connections, the retina can pool resources at critical moments.\n\nWhat makes this finding remarkable is how the researchers obtained it. Using a dual patch clamp technique on fully intact human retinas—a first in the field—they mapped these connections without damaging the delicate circuitry they were studying. The implications extend beyond vision science, offering insights into how the entire central nervous system coordinates complex tasks.",
   "category": "science",
   "tags": [
-    "vision-science",
+    "retina",
     "neuroscience",
-    "eye-research",
+    "vision",
+    "yale-research",
     "discovery"
   ],
   "source_name": "ScienceDaily",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/3695875/pexels-photo-3695875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Wojtek Pacześ",
-  "photo_credit_url": "https://www.pexels.com/@wojtekpaczes"
+  "photo_credit_url": "https://www.pexels.com/@wojtekpaczes",
+  "rewritten": "2026-07-17T14:41:33Z"
 }

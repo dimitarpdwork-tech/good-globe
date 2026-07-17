@@ -1,16 +1,17 @@
 {
   "id": "e96d5c8c92264e5f",
   "slug": "black-hole-energy-extraction-lab-e96d",
-  "headline": "Black Hole Physics Moves From Theory to Working Lab",
-  "meta_description": "Physicists have recreated the physics of black hole energy extraction in a laboratory device, bringing decades-old theory into practical reality.",
-  "summary_short": "Scientists transformed a theoretical concept into a working experiment by recreating black hole energy extraction using synthetic ultrafast rotation.",
-  "body": "For decades, physicists have theorized about extracting energy from spinning black holes—a concept grounded in Einstein's relativity. Now, researchers have moved this idea from the realm of pure theory into the laboratory, creating a device that replicates the physics without requiring an actual black hole.\n\nThe team built a stationary apparatus that produces synthetic ultrafast rotation, allowing them to recreate the conditions under which energy could theoretically be extracted. The successful experiment validates long-standing theoretical predictions and demonstrates that the underlying physics is sound and reproducible.\n\nBeyond the fundamental science, the achievement opens practical doors. The principles demonstrated could inspire advances in optics, wireless communications, and quantum science. When theoretical physics finds experimental confirmation, it often paves the way for technologies that seemed impossible just years before.",
+  "headline": "Scientists Turn 50-Year Physics Theory Into Working Reality",
+  "meta_description": "Researchers recreate black hole energy extraction in the laboratory, transforming theoretical physics into practical experiments with real-world applications.",
+  "summary_short": "A team at CUNY has successfully demonstrated how to extract energy from rotating systems in the lab—bringing decades-old black hole theory into practical reality.",
+  "body": "For more than fifty years, physicist Sir Roger Penrose's idea remained locked in theory: energy could potentially be extracted from a spinning black hole. Now, researchers at the Advanced Science Research Center at the CUNY Graduate Center have brought that concept from the realm of imagination into the laboratory.\n\nInstead of building an actual spinning object—an impossible task—the team engineered something cleverer. They constructed a ring of electronic resonators whose properties shift rapidly in a carefully synchronized pattern. Though the device never physically rotates, these timed changes create the illusion of ultrafast rotation, reaching speeds far beyond what any mechanical system could achieve.\n\nThe result was striking: electromagnetic waves interacting with this stationary device extracted energy from the synthetic motion, becoming amplified. The experiment reproduces the essential physics described by Penrose and later expanded by physicist Yakov Zel'dovich—without needing a black hole.\n\n\"This successful experiment moves ideas about extreme rotational dynamics from theory to practice,\" explained lead researcher Hadiseh Nasari. The work opens doors to advances in wireless communications, optics, and quantum science.\n\nThe researchers acknowledge more work lies ahead before these principles become practical devices. Yet they've proven something profound: some of the universe's most extreme physics can now be studied in a controlled laboratory setting.",
   "category": "science",
   "tags": [
     "physics",
-    "black-holes",
+    "breakthrough",
+    "research",
     "quantum",
-    "experiment"
+    "innovation"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/18952655/pexels-photo-18952655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "indra projects",
-  "photo_credit_url": "https://www.pexels.com/@indraprojectsofficial"
+  "photo_credit_url": "https://www.pexels.com/@indraprojectsofficial",
+  "rewritten": "2026-07-17T14:37:58Z"
 }

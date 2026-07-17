@@ -1,16 +1,17 @@
 {
   "id": "3ba890ac4519220d",
   "slug": "nasa-moon-missions-lunar-base-3ba8",
-  "headline": "NASA Funds Four New Moon Missions to Build Lunar Base",
-  "meta_description": "NASA awards nearly $600 million for four commercial Moon landings planned for late 2028, advancing plans for a permanent lunar base with new rovers and communi…",
-  "summary_short": "NASA is investing nearly $600 million in four commercial Moon landing missions planned for late 2028, with plans for new rovers and communications infrastructure.",
-  "body": "NASA is taking decisive steps toward a permanent human presence on the Moon, awarding nearly $600 million to fund four separate commercial lunar landing missions scheduled for late 2028. Each mission will carry identical scientific instruments designed to solve critical challenges for sustained lunar exploration: improving navigation systems, studying the hazardous dust that billows during landings, and mapping the Moon's radiation environment.\n\nBeyond these four initial landings, NASA's broader vision includes deploying new rovers, establishing communication satellites in lunar orbit, and organizing additional cargo missions. Together, these initiatives form the foundation for a long-term base that will support both scientific research and eventual human exploration of the Moon.\n\nThis coordinated approach reflects a shift toward partnerships with commercial spaceflight companies while maintaining clear scientific objectives. By addressing the practical challenges of dust, navigation, and radiation now, NASA is laying groundwork that will make future missions safer and more efficient, whether robotic or human-crewed.",
+  "headline": "NASA Funds Four New Moon Missions to Build Permanent Lunar Base",
+  "meta_description": "NASA awards $600 million to three commercial space companies for four Moon landings in late 2028, advancing plans for a permanent lunar outpost.",
+  "summary_short": "Three companies will land scientific instruments on the Moon in 2028, bringing humanity closer to establishing the first long-term outpost on another world.",
+  "body": "Three commercial space companies are about to help humanity take a giant leap forward. NASA has awarded nearly $600 million to Astrobotic, Firefly Aerospace, and Intuitive Machines for four Moon missions scheduled for late 2028—each carrying identical scientific instruments designed to solve real problems future astronauts will face.\n\nThe first challenge: lunar dust. When spacecraft engines fire during landing, they kick up dangerous particles that could damage equipment and harm astronauts. The Stereo Camera for Lunar Plume Surface Studies (SCALPSS)—a suite of four cameras—will create detailed 3D images of how engine exhaust disturbs the lunar surface. By observing multiple landings at different locations, scientists can better predict dust movement and protect future operations.\n\nThe second priority involves navigation. Each lander will carry a Laser Retroreflector Array, a cookie-sized device with eight quartz prisms that requires no power or maintenance. Orbiting spacecraft can aim lasers at it to pinpoint their exact location—a permanent marker for the Moon.\n\nPerhaps most critical for human missions: radiation protection. The Linear Energy Transfer Spectrometer will measure space radiation at different lunar sites, helping engineers design safer spacecraft for astronauts who'll eventually call the Moon home.\n\nThese aren't experimental flights. The companies will use upgraded versions of landers already proven on previous missions, allowing NASA to accelerate the pace of exploration while learning with each landing.",
   "category": "science",
   "tags": [
-    "moon-exploration",
     "nasa",
+    "moon-exploration",
+    "space-innovation",
     "lunar-base",
-    "space-missions"
+    "commercial-space"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/33336444/pexels-photo-33336444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Jul L. G.",
-  "photo_credit_url": "https://www.pexels.com/@figaaaaaaahh"
+  "photo_credit_url": "https://www.pexels.com/@figaaaaaaahh",
+  "rewritten": "2026-07-17T14:44:52Z"
 }

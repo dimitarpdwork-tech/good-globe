@@ -1,17 +1,16 @@
 {
   "id": "edc2a4c9107b03a5",
   "slug": "quantum-theories-united-edc2",
-  "headline": "Physicists Bridge Two Rival Quantum Theories",
-  "meta_description": "Heidelberg physicists have resolved a decades-old problem by uniting two competing quantum models, offering new insights into exotic matter.",
-  "summary_short": "A new quantum theory has successfully bridged two rival models, resolving a puzzle that has challenged physicists for decades.",
-  "body": "A elegant solution has emerged from Heidelberg physicists tackling one of quantum mechanics' most persistent riddles: how impurities behave within many-particle systems. For decades, researchers have worked with two competing theoretical frameworks, each offering insights but neither fully satisfying. The new unified theory brings these rivals together, resolving the fundamental tension between them.\n\nThis achievement holds real consequences for experimental physics. The breakthrough promises to reshape how scientists conduct experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter. By providing a clearer theoretical foundation, physicists gain better tools to predict behavior and design experiments in these frontier territories. The work demonstrates how seemingly abstract theoretical questions can suddenly crystallize into clarity, opening new avenues for discovery and deepening our grasp of the quantum world that underlies all matter.",
+  "headline": "Physicists Solve Decades-Old Quantum Puzzle With Unified Theory",
+  "meta_description": "Heidelberg University researchers unite two competing quantum theories, explaining how particles behave in crowded quantum environments.",
+  "summary_short": "A breakthrough from Heidelberg University finally connects two rival quantum models that have puzzled physicists for decades.",
+  "body": "For years, quantum physicists faced an unsettling contradiction. They could explain how a light, mobile particle behaves inside a sea of fermions—creating what's called a Fermi polaron, a quasiparticle that acts as a single unified entity. But when that particle became extremely heavy and nearly immobile, an entirely different phenomenon took over, called Anderson's orthogonality catastrophe, where the surrounding quantum waves fundamentally restructured themselves.\n\nThese two pictures seemed incompatible. Now, researchers at Heidelberg University's Institute for Theoretical Physics have bridged them.\n\nThe key insight came from an unexpected place: tiny motions. Even when impurities are extremely heavy, they never sit completely still. As their quantum environment adjusts, these particles undergo slight movements that create an energy gap—precisely the opening needed for quasiparticles to emerge from what would otherwise be an intractable quantum tangle.\n\n\"Our research not only advances the theoretical understanding of quantum impurities but is also directly relevant for ongoing experiments,\" explains Prof. Richard Schmidt, whose team conducted the work.\n\nThe implications ripple outward. This unified framework now applies across different dimensions and interactions, offering physicists new tools for understanding ultracold atoms, semiconductors, and other exotic quantum matter. The findings, published in Physical Review Letters, represent the kind of foundational progress that opens unexpected experimental pathways.",
   "category": "science",
   "tags": [
-    "quantum",
-    "physics",
-    "theory",
+    "quantum-physics",
+    "theoretical-physics",
     "breakthrough",
-    "heidelberg"
+    "heidelberg-university"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
@@ -19,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Ramaz Bluashvili",
-  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos",
+  "rewritten": "2026-07-17T14:46:48Z"
 }

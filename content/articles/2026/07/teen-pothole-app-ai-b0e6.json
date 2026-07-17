@@ -1,15 +1,16 @@
 {
   "id": "b0e6675efbfdc20b",
   "slug": "teen-pothole-app-ai-b0e6",
-  "headline": "Teenager's AI App Transforms How Citizens Report Road Damage",
-  "meta_description": "A 15-year-old in New Delhi created an AI-powered app that lets citizens report potholes and automatically drafts letters to authorities.",
-  "summary_short": "A 15-year-old in New Delhi built an AI app that helps citizens report potholes to government authorities and automatically drafts follow-up letters.",
-  "body": "In New Delhi, a 15-year-old has created a solution to a problem that frustrates millions of city dwellers: potholes that go unfixed despite being reported. The app lets citizens document road damage, rate its severity, and submit the information directly to relevant authorities.\n\nWhat sets this project apart is its intelligent follow-through. Rather than stopping at reporting, the app uses artificial intelligence to draft formal letters and emails to government officials on behalf of users. This removes a major barrier that often prevents complaints from turning into action: the gap between reporting a problem and pushing past bureaucratic delay.\n\nThe innovation shows how young people can use technology not just for convenience, but to bridge the gap between citizens and the systems meant to serve them. By automating the tedious work of formal communication, the app makes it easier for people to demand the infrastructure fixes their communities need.",
+  "headline": "Teen's AI App Turns Citizens Into Road Safety Activists",
+  "meta_description": "A 15-year-old in New Delhi built an app that lets citizens report potholes and automatically sends complaints to authorities, bypassing bureaucratic delays.",
+  "summary_short": "After his parents were injured in a motorcycle accident caused by a pothole, Parth created Project Sadak—an AI app that lets New Delhi residents report road damage insta…",
+  "body": "When Parth's parents had a motorcycle accident on a New Delhi pothole while returning from a family celebration in Agra, the teenager decided to turn tragedy into action. The 15-year-old, already fascinated by science and technology, began building Project Sadak—an AI-powered app that transforms how citizens report road damage.\n\nThe platform works simply: users photograph a pothole, the app uses GPS to pinpoint its location, and AI verifies it's actually a pothole rather than a false report. Human reviewers then grade severity as severe, medium, or benign, ensuring the worst damage gets priority attention rather than being buried in complaints.\n\nThe real innovation comes next. Instead of citizens hunting for email addresses and extension numbers, Project Sadak automatically drafts and submits complaints to local authorities on their behalf, complete with a digital signature.\n\n\"Initially, we were emailing the parties manually,\" Parth explained. \"But now the platform automatically writes an email and submits the report.\"\n\nSo far, 360 potholes have been reported through the app. While only 11 have been repaired—mostly through Parth's own efforts using his father's construction contacts—one report even came from Bengaluru, where authorities fixed the damage despite the app having no pre-loaded contact information.\n\nParth envisions a WhatsApp chatbot version, making the app accessible without downloads, and full automation from photo to submitted complaint.",
   "category": "progress",
   "tags": [
-    "technology",
+    "innovation",
+    "civic-tech",
+    "india",
     "youth",
-    "civic-engagement",
     "ai"
   ],
   "source_name": "Good News Network",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/4709286/pexels-photo-4709286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "cottonbro studio",
-  "photo_credit_url": "https://www.pexels.com/@cottonbro"
+  "photo_credit_url": "https://www.pexels.com/@cottonbro",
+  "rewritten": "2026-07-17T14:48:53Z"
 }

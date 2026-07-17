@@ -1,16 +1,17 @@
 {
   "id": "87684fcc741088a7",
   "slug": "white-dwarf-stars-discovered-nearby-8768",
-  "headline": "Hidden White Dwarf Stars Discovered Near Earth",
-  "meta_description": "Astronomers have discovered four white dwarf stars hiding near brighter companions, including one just 25 light-years away.",
-  "summary_short": "Four white dwarf stars have been spotted hiding in plain sight beside brighter stellar companions using advanced ultraviolet observations.",
-  "body": "Astronomers have long known that white dwarf stars should be common in our galactic neighbourhood. Yet finding them has proved surprisingly difficult—these dense stellar remnants are often invisible next to their brighter companions. Now, using ultraviolet observations from the Hubble Space Telescope, scientists have finally revealed four of these hidden white dwarfs.\n\nThe closest discovery lies just 25 light-years away, and researchers took nearly three decades to confirm its existence. Each white dwarf was found lurking beside a red dwarf star, the fainter red companion's brightness overwhelming the white dwarf's signature until ultraviolet light exposed what visible light had concealed.\n\nThe findings do more than add to the census of nearby stars. They match long-standing predictions about stellar populations and suggest that our corner of the galaxy contains far more undiscovered white dwarf binaries than previously thought. Each discovery is a small victory for patience and precision in astronomy—a reminder that the universe still holds surprises waiting for the right tools and the determination to look closer.",
+  "headline": "Four Hidden Stars Discovered in Our Cosmic Neighborhood",
+  "meta_description": "Astronomers discovered four hidden white dwarf stars within 65 light-years of Earth using Hubble telescope data, suggesting many more may be waiting nearby.",
+  "summary_short": "Hidden white dwarf stars discovered near Earth using ultraviolet observations. Astronomers believe 9-10 more may still be waiting to be found.",
+  "body": "For decades, astronomers have carefully catalogued the stars nearest to our Sun. Yet surprises keep hiding in plain sight.\n\nResearchers from the University of Warwick and University of Colorado Boulder have confirmed four previously undetected white dwarf stars orbiting red dwarf companions within 65 light-years of Earth. One of these stars, located just 25 light-years away in the system G 203-47, took nearly three decades to identify after astronomers first detected its telltale gravitational signature.\n\nThe discovery required looking beyond what our eyes can see. Red dwarfs shine too brightly in visible light, drowning out their fainter white dwarf partners. Only when researchers turned the Hubble Space Telescope's ultraviolet spectrograph toward these systems did the hidden stars finally reveal themselves.\n\nWhat makes G 203-47 particularly intriguing is its defiance of expectations. Its red dwarf rotates unusually slowly—taking more than 100 days for one rotation, even though it orbits the white dwarf every 14.9 days. This suggests the binary pair experienced a gentler evolutionary history than similar systems, never becoming tidally locked as gravity normally would force them to be.\n\nThe findings match long-standing theoretical predictions perfectly. Yet this may represent only the beginning. Professor Pier-Emmanuel Tremblay estimates that 9 or 10 additional hidden white dwarf systems likely remain undiscovered in our local stellar neighborhood, waiting for astronomers willing to look in the right wavelengths.",
   "category": "science",
   "tags": [
     "astronomy",
     "white-dwarfs",
-    "discovery",
-    "hubble"
+    "space-discovery",
+    "hubble-telescope",
+    "binary-stars"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/12491599/pexels-photo-12491599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Zelch Csaba",
-  "photo_credit_url": "https://www.pexels.com/@zelch"
+  "photo_credit_url": "https://www.pexels.com/@zelch",
+  "rewritten": "2026-07-17T14:49:35Z"
 }

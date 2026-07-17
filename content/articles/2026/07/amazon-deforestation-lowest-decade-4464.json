@@ -1,16 +1,17 @@
 {
   "id": "44647a5e2d8b8513",
   "slug": "amazon-deforestation-lowest-decade-4464",
-  "headline": "Amazon Deforestation Falls to 10-Year Low",
-  "meta_description": "The Brazilian Amazon has reached its lowest deforestation level in a decade, with satellite data showing significant progress in forest protection efforts.",
-  "summary_short": "Brazilian Amazon deforestation has dropped to its lowest level in ten years, signaling real progress in forest conservation efforts across the region.",
-  "body": "New satellite data brings encouraging news from the Brazilian Amazon. Between January and June 2026, deforestation levels reached their lowest point in a decade, marking a significant turnaround in the battle to protect the world's largest tropical rainforest.\n\nThe improvement reflects intensive conservation efforts, enforcement of environmental regulations, and renewed commitment to protecting Indigenous lands and protected areas. Every square kilometer preserved matters enormously, both for the forest itself and for the global climate.\n\nWhile the Amazon faces ongoing threats, this downward trend demonstrates that coordinated action can slow deforestation. The data offers hope that through sustained effort—combining monitoring technology, legal protection, and community engagement—it is possible to reverse the destructive patterns of the past. For a forest that regulates global weather patterns and harbors countless species, this progress represents a victory worth celebrating.",
+  "headline": "Brazil's Amazon Deforestation Hits Decade Low",
+  "meta_description": "Deforestation in the Brazilian Amazon dropped 38% in early 2026, marking the lowest level in a decade, thanks to government action and political will.",
+  "summary_short": "The Brazilian Amazon saw deforestation plummet to its lowest level in 10 years—a 38% drop in the first half of 2026—proving that protecting forests isn't inevitable.",
+  "body": "When satellite data arrived at Brazil's National Space Agency, it carried an unexpected message of hope. Between January and June 2026, deforestation in the Brazilian Amazon fell to just 1,295 square kilometers—a striking 38% decrease from the same period the previous year.\n\nThis isn't merely good news. It's evidence that the forest's fate remains in human hands. Ane Alencar, science director at the Amazon Environmental Research Institute, underscored this reality: \"From a scientific standpoint, this is evidence that deforestation is not an inevitable process and its reduction is responsive to decisions made by society and the government.\"\n\nYet the picture is more complicated than headlines suggest. While deforestation declined, fire remains a persistent threat—accounting for 60% of primary forest loss in 2024. The first half of 2026 brought relief on this front too, with burned forest area nearly 40% smaller than the 2013-2025 historic average.\n\nBrazil's government understands the danger ahead. Forecasts predict a severe El Niño through early 2027, potentially bringing drought conditions that could turn the Amazon's dry understory into a tinderbox. In response, the government increased firefighting personnel and equipment, adding 20% to the national budget dedicated to combating forest fires.\n\nThe battle for the Amazon continues—but momentum has shifted.",
   "category": "nature",
   "tags": [
-    "amazon-rainforest",
+    "amazon",
     "deforestation",
     "brazil",
-    "forest-conservation"
+    "conservation",
+    "climate"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/short-article/2026/07/amazon-deforestation-falls-to-10-year-low-in-first-half-of-2026/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/7867865/pexels-photo-7867865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Elif Ilkel",
-  "photo_credit_url": "https://www.pexels.com/@elif-ilkel-49561975"
+  "photo_credit_url": "https://www.pexels.com/@elif-ilkel-49561975",
+  "rewritten": "2026-07-17T14:36:38Z"
 }

@@ -1,16 +1,17 @@
 {
   "id": "49ade968a261f4a5",
   "slug": "tsmc-us-investment-expansion-49ad",
-  "headline": "TSMC Commits Additional $100B to US Semiconductor Growth",
-  "meta_description": "Chip manufacturer TSMC pledges $100 billion more for US production, bringing total commitment to $265 billion and creating high-tech jobs.",
-  "summary_short": "Taiwan's TSMC, the world's largest chip maker, is investing another $100 billion in US manufacturing, creating thousands of well-paying jobs.",
-  "body": "Taiwan Semiconductor Manufacturing Company (TSMC), the world's leading chip producer, has announced an additional $100 billion commitment to expand production in the United States. This fresh pledge raises the company's total US investment to $265 billion, marking one of the largest foreign manufacturing investments in American history.\n\nThe expansion will focus on creating what TSMC describes as \"high-tech, high-paying jobs,\" bolstering the country's domestic semiconductor capacity and reducing reliance on overseas chip production. Semiconductors are the foundation of modern technology—from smartphones to vehicles to medical devices—so strengthening domestic manufacturing capability has far-reaching benefits.\n\nThe investment reflects growing recognition that building advanced manufacturing at home creates economic opportunity, supports technological independence, and strengthens communities. For workers and regions where these plants operate, it means access to skilled, well-compensated employment in a critical industry.",
+  "headline": "Taiwan's TSMC to Build Four New US Plants With $100B Expansion",
+  "meta_description": "Chipmaker TSMC commits additional $100 billion to US manufacturing, raising total investment to $265 billion and creating tens of thousands of jobs.",
+  "summary_short": "TSMC plans four new Arizona plants as part of $100B expansion, boosting US semiconductor manufacturing and creating high-paying jobs across the country.",
+  "body": "Taiwanese semiconductor giant TSMC is doubling down on American manufacturing. The company announced an additional $100 billion investment in Arizona, bringing its total US commitment to $265 billion—a remarkable show of confidence in the country's tech future.\n\nThe expansion will likely result in four new plants being built in Arizona, where TSMC is already developing eight facilities. Chief executive CC Wei described the move as crucial for strengthening the American semiconductor ecosystem and supporting \"high-tech, high-paying jobs\" across the nation.\n\nThe timing reflects both market opportunity and geopolitical strategy. TSMC reported a staggering 77% jump in second-quarter profits, reaching $22 billion—driven by surging demand for the advanced chips that power artificial intelligence and smart devices. The company has become Asia's most valuable firm, with its share price jumping over 55% this year.\n\nThe announcement comes as the US prioritizes semiconductor self-sufficiency, a lesson learned from supply chain disruptions during the pandemic. Commerce Secretary Howard Lutnick credited the investment to recent trade agreements with Taiwan that reduced tariffs to 15%.\n\nWhile Wei hasn't provided a construction timeline, stating it depends on \"market situation,\" the announcement signals a major shift: advanced chip manufacturing is returning home.",
   "category": "progress",
   "tags": [
+    "semiconductors",
     "manufacturing",
-    "technology",
     "jobs",
-    "investment"
+    "us-economy",
+    "tsmc"
   ],
   "source_name": "BBC World",
   "source_url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Andrey Matveev",
-  "photo_credit_url": "https://www.pexels.com/@zeleboba"
+  "photo_credit_url": "https://www.pexels.com/@zeleboba",
+  "rewritten": "2026-07-17T14:48:58Z"
 }

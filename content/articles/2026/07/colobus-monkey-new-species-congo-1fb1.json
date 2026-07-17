@@ -1,16 +1,17 @@
 {
   "id": "1fb1a17eceb66234",
   "slug": "colobus-monkey-new-species-congo-1fb1",
-  "headline": "New Monkey Species Discovered in Congo Rainforest",
-  "meta_description": "Researchers have confirmed a new species of colobus monkey in the Democratic Republic of Congo, nearly 20 years after its initial discovery in Lomami National…",
-  "summary_short": "Scientists confirm a previously unknown monkey species in the Congo, highlighting the rich biodiversity still being discovered in Earth's rainforests.",
-  "body": "In the remote forests of the Democratic Republic of Congo lies evidence of nature's hidden wonders. Wildlife researchers photographed an unfamiliar black monkey in 2008 during a survey of an expansive, little-explored forested region. That area eventually became Lomami National Park, and now, nearly two decades later, the team has confirmed their suspicion: the animal is a species entirely new to science.\n\nThe newly confirmed colobus monkey represents far more than a zoological curiosity. Its discovery underscores how much remains unknown about Earth's biodiversity, even in regions that have been explored by humans. Each new species identified deepens our understanding of evolutionary history and ecological relationships.\n\nThis finding also emphasizes the importance of protecting vast, intact forest ecosystems. The very remoteness and minimal human disturbance of this region allowed an entire species to remain unknown until recently—a reminder that wilderness preservation keeps doors open to scientific discovery and wonder.",
-  "category": "nature",
+  "headline": "Meet the Likweli: A Monkey Species Hidden for Centuries",
+  "meta_description": "After nearly two decades of research in a remote Congo rainforest, scientists have confirmed a new species of colobus monkey, thanks to persistence and local k…",
+  "summary_short": "A black monkey photographed in Congo's Lomami National Park in 2008 has finally been confirmed as a species entirely new to science—nearly 20 years later.",
+  "body": "In 2008, wildlife researchers in the Democratic Republic of Congo photographed a black monkey they couldn't identify. Nearly two decades would pass before they confirmed it was a species unknown to science.\n\nThe monkey, called likweli by local communities, is distinctive for its almost entirely black fur paired with a prominent patch of pinkish to orange-cream bare skin surrounding its mouth. Researchers have given it the scientific name Colobus congoensis.\n\nWhat makes this discovery remarkable isn't just the monkey itself, but how it happened. The initial photographs sat largely forgotten as attention focused on another newly discovered species, the lesula, described in 2012. It took a local field researcher named Jean Pierre Kapale—who insisted the likweli was something new—to revive interest in 2018.\n\n\"These people who make these discoveries know what they don't know and they're interested by that,\" said John Hart, study lead author and scientific director at the Lukuru Wildlife Research Foundation.\n\nGenetic analysis confirmed likweli are most closely related to the black colobus monkey found over 1,200 kilometers away. Today, fewer than 1,000 likweli individuals likely remain in their limited range within Lomami National Park. Researchers propose classifying them as endangered, hoping the park's protection will safeguard this elusive species for generations to come.",
+  "category": "science",
   "tags": [
-    "species-discovery",
-    "congo-rainforest",
+    "congo",
+    "primates",
     "biodiversity",
-    "primates"
+    "wildlife-research",
+    "species-discovery"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/short-article/2026/07/new-colobus-monkey-likweli-confirmed-in-drc/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/32596622/pexels-photo-32596622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Kyle  Miller",
-  "photo_credit_url": "https://www.pexels.com/@kyle-miller-169884138"
+  "photo_credit_url": "https://www.pexels.com/@kyle-miller-169884138",
+  "rewritten": "2026-07-17T14:40:00Z"
 }

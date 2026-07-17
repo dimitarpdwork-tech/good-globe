@@ -1,16 +1,16 @@
 {
   "id": "f539be52c5efefdc",
   "slug": "quantum-entanglement-crystal-discovery-f539",
-  "headline": "Large crystal shows quantum entanglement in everyday objects",
-  "meta_description": "A centimeter-sized crystal displays quantum entanglement, proving large objects can behave in ways once thought impossible.",
-  "summary_short": "Scientists found clear quantum entanglement in a crystal large enough to see, suggesting stranger physics exists in everyday objects.",
-  "body": "For decades, quantum entanglement seemed like a microscopic phenomenon—a quirk of particles far too small to see or touch. But researchers have now observed it clearly in a centimeter-sized crystal, proof that large, ordinary-looking objects can display surprisingly deep quantum behaviour.\n\nThis discovery has practical implications. It could help solve puzzles about exotic materials called strange metals. More broadly, it opens doors to ultra-precise quantum sensors and advanced technologies that seemed locked behind the barrier of size. The finding hints that the quantum world is far more woven into everyday reality than scientists once believed.",
+  "headline": "Quantum Physics Found in Objects You Can Hold",
+  "meta_description": "Scientists discover strong quantum entanglement in a hand-sized crystal, proving that everyday objects can display profound quantum behavior.",
+  "summary_short": "Researchers at Vienna University of Technology have detected quantum entanglement in a crystal large enough to fit in your palm, reshaping our understanding of the quant…",
+  "body": "For a century, physicists have debated whether quantum mechanics applies only to invisible atoms or also to objects we can see and touch. A team at TU Wien has now provided a compelling answer: the quantum world extends further into everyday reality than anyone expected.\n\nUsing a centimeter-sized crystal made from cerium, palladium, and silicon, researchers detected strong quantum entanglement—one of quantum physics's most mysterious phenomena. At the Institut Laue-Langevin in Grenoble, they fired neutrons at the crystal and measured its response. What they found was remarkable: groups of at least nine quantum-entangled particles were acting together in coordinated ways.\n\nProf. Silke Bühler-Paschen explained the discovery using an elegant metaphor. Rather than thinking of Schrödinger's famous cat existing in two states simultaneously, imagine an anthill. When disturbed, the colony responds as one unit, not through individual ants acting alone. Similarly, the particles inside this crystal behave collectively in ways independent particles simply cannot.\n\nThe breakthrough opens unexpected doors. Understanding how entanglement creates the unusual properties of \"strange metals\" could lead to ultra-precise quantum sensors and other advanced technologies. More fundamentally, it reveals that the quantum realm isn't confined to laboratories—it's woven into the fabric of materials we encounter every day.",
   "category": "science",
   "tags": [
     "quantum-physics",
-    "crystal",
-    "science",
-    "breakthrough"
+    "entanglement",
+    "materials-science",
+    "innovation"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/30547573/pexels-photo-30547573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Pachon in Motion",
-  "photo_credit_url": "https://www.pexels.com/@pachon-in-motion-426015731"
+  "photo_credit_url": "https://www.pexels.com/@pachon-in-motion-426015731",
+  "rewritten": "2026-07-17T14:46:30Z"
 }

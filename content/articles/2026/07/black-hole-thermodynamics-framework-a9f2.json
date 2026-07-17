@@ -1,16 +1,17 @@
 {
   "id": "a9f26e3b4d4e3dac",
   "slug": "black-hole-thermodynamics-framework-a9f2",
-  "headline": "Black Hole Physics Advances With New Thermodynamic Framework",
-  "meta_description": "Scientists develop a new framework applying thermodynamic laws to real, changing black holes, advancing gravitational wave research.",
-  "summary_short": "Stephen Hawking's landmark laws of black hole physics just got an upgrade. Scientists have created a framework that finally works with real black holes—not just perfect,…",
-  "body": "For decades, the laws of black hole thermodynamics applied only to perfectly stable, unchanging black holes—theoretical objects that do not actually exist in nature. Real black holes merge, change, and evaporate. They are dynamic and messy. Scientists have now developed a new framework that brings thermodynamic laws into the real world.\n\nThis advance carries practical implications. Observations from facilities like LIGO have detected gravitational waves—ripples in spacetime caused by colliding black holes. Understanding how thermodynamic principles apply to these merging, evaporating systems could unlock deeper insights into what is actually happening when black holes collide and transform.\n\nThe new framework represents a bridge between elegant theory and observable reality. It shows how fundamental laws that govern everything from steam engines to the universe itself can be extended to one of nature's most extreme phenomena. As our ability to detect and study black holes grows, so too does our understanding of the cosmos.",
+  "headline": "Black Holes Just Became Less of a Mystery",
+  "meta_description": "Penn State researchers overcome a 50-year limitation in Stephen Hawking's black hole theory, opening new understanding of cosmic collisions and evaporation.",
+  "summary_short": "Scientists finally extend thermodynamics laws to real, changing black holes—not just stable ones—unlocking secrets of mergers and evaporation.",
+  "body": "For fifty years, one of Stephen Hawking's most brilliant insights has guided black hole science. Yet it had a glaring blind spot: it only worked for black holes that never changed.\n\nNow researchers at Penn State have fixed that. Their new framework, published in Physical Review Letters, extends the laws of thermodynamics to black holes that are actively forming, colliding, and evaporating—the ones we actually observe in the universe.\n\nThe problem was elegant but limiting. Hawking's original approach relied on the event horizon—the point of no return around a black hole. But event horizons are defined by future events we can't predict, making them useless for understanding black holes mid-collision or mid-evaporation. \"Their properties cannot be determined just by the local physics,\" explained Jonathan Shu, one of the graduate researchers.\n\nThe team's solution swaps the event horizon for something called a \"dynamical horizon,\" which describes a black hole's actual properties at a specific moment—the kind physicists already use in computer simulations. This simple shift opens the door to understanding the violent cosmic events detected by observatories like LIGO: when black holes merge and shake spacetime itself.\n\n\"We can apply these generalized laws to better understand evaporating black holes and black hole mergers,\" said lead researcher Abhay Ashtekar. For half a century, black holes remained stubbornly extreme. Now they're finally speaking the same language as the rest of physics.",
   "category": "science",
   "tags": [
     "black-holes",
     "physics",
     "thermodynamics",
-    "gravity"
+    "gravity",
+    "quantum-mechanics"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/37149440/pexels-photo-37149440.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Adis Resic",
-  "photo_credit_url": "https://www.pexels.com/@adis-resic-297996969"
+  "photo_credit_url": "https://www.pexels.com/@adis-resic-297996969",
+  "rewritten": "2026-07-17T14:38:03Z"
 }

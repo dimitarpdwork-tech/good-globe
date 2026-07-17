@@ -1,16 +1,16 @@
 {
   "id": "88941224c2b3d19d",
   "slug": "perseverance-mars-marathon-milestone-8894",
-  "headline": "Perseverance Rover Completes Marathon on Mars",
-  "meta_description": "NASA's Perseverance rover has driven 26.2 miles across Mars in just over five years, completing a full marathon distance faster than any rover before it.",
-  "summary_short": "NASA's Perseverance rover has completed a full marathon distance on Mars—26.2 miles—in five years and four months, breaking the previous record set by Opportunity.",
-  "body": "Reaching across the russet landscape of Mars, NASA's Perseverance rover has just crossed a remarkable milestone: the rover has driven 26.2 miles, the full distance of a marathon. This achievement took place on its 1,890th Martian day of exploration—a pace that surpasses the effort of the previous record holder, NASA's Opportunity rover, which completed the same distance in roughly twice the time.\n\nThe steady progress of Perseverance represents both the durability of modern spacecraft engineering and the value of long-term scientific missions. Each mile traveled brings new data about Martian geology, atmospheric conditions, and the planet's past. The rover continues its work gathering evidence that may eventually help answer fundamental questions about whether life ever existed on Mars.\n\nPerseverance's marathon achievement is not merely symbolic—it demonstrates how robotic explorers can sustain complex operations across years and vast distances, opening the door to even more ambitious missions on the Red Planet and beyond.",
+  "headline": "Perseverance Rover Races Across Mars, Completing Marathon in Record Time",
+  "meta_description": "NASA's Perseverance rover completed a marathon on Mars in just 5 years and 4 months, shattering the previous record by nearly half.",
+  "summary_short": "NASA's Perseverance rover has crossed the finish line on Mars, completing a marathon-distance drive in record time—far faster than any rover before it.",
+  "body": "A tiny green speck captured in an overhead photograph tells a story of relentless achievement. On June 13, 2026, NASA's Mars Reconnaissance Orbiter caught Perseverance from orbit, one day shy of reaching a remarkable milestone: the rover had completed its first marathon on Mars.\n\nThe 26.2-mile journey took just five years and four months—an extraordinary pace that rewrote the record books. NASA's previous record holder, the Opportunity rover, needed 11 years and two months to cover the same distance. Perseverance reached the distance on its 1,890th Martian day, or sol, demonstrating the engineering advances and operational efficiency that enable modern rovers to explore the Red Planet more effectively.\n\nThe striking image reveals more than just the rover's position. The winding tracks Perseverance left behind in the Martian dust near Jezero Crater tell the story of thousands of sols spent investigating the region nicknamed \"Arbot.\" That visual record—captured by the High-Resolution Imaging Science Experiment camera aboard the Mars Reconnaissance Orbiter—connects us directly to humanity's persistent presence on another world.\n\nBehind this milestone stand teams at NASA's Jet Propulsion Laboratory, Caltech, Lockheed Martin Space, and the University of Arizona. Their collective effort transformed a six-wheeled robot into an explorer that doesn't just survive Mars—it thrives there.",
   "category": "science",
   "tags": [
-    "mars-exploration",
-    "nasa",
+    "mars",
     "perseverance-rover",
-    "space"
+    "nasa",
+    "space-exploration"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Pixabay",
-  "photo_credit_url": "https://www.pexels.com/@pixabay"
+  "photo_credit_url": "https://www.pexels.com/@pixabay",
+  "rewritten": "2026-07-17T14:46:14Z"
 }

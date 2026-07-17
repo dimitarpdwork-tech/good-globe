@@ -1,16 +1,17 @@
 {
   "id": "1c549c7527ff48c3",
   "slug": "chile-tree-extinction-seeds-conserved-1c54",
-  "headline": "Seeds Collected to Save World's Rarest Tree",
-  "meta_description": "Conservationists have collected seeds from the last known wild Dendroseris neriifolia on Chile's Robinson Crusoe Island to prevent total extinction.",
-  "summary_short": "The last wild tree of an endangered Chilean species has had its seeds collected and cultivated, offering a lifeline against extinction.",
-  "body": "On Robinson Crusoe Island in the South Pacific, a solitary tree clings to a clifftop—the final surviving wild individual of Dendroselis neriifolia. With no others of its kind left in nature, this tree represents both a loss and a critical opportunity for conservation.\n\nRecognizing the urgency, conservationists have recently collected seeds from this lone survivor and begun cultivation trials. The effort represents a powerful act of hope: even when a species has been reduced to a single wild plant, dedicated work can preserve it. By establishing populations grown from these seeds, researchers are working to bring the species back from the brink, ensuring that future generations might once again see this remarkable Chilean tree flourishing in its native habitat.",
+  "headline": "Last Tree of Its Kind Gets a Second Chance",
+  "meta_description": "Conservationists collected seeds from the world's last wild Dendroseris neriifolia tree on Robinson Crusoe Island to prevent extinction.",
+  "summary_short": "Scientists have rescued seeds from the final wild tree of an endangered species clinging to a Chilean cliff, offering hope for its survival.",
+  "body": "On Robinson Crusoe Island in the South Pacific, a single tree clings to a remote cliff—the last wild individual of Dendroseris neriifolia on Earth. At roughly 150 years old, this isolated specimen represents the final chance to save the species from extinction.\n\nConservationists recently made a perilous journey to collect seeds from the tree's one-seeded fruits. Of 400 seeds gathered, 24 proved viable—a modest haul that carries outsized importance. Using X-ray imaging, researchers at the Millennium Seed Bank at Kew confirmed these seeds showed embryo development, making them suitable for germination trials.\n\nThe strategy is ambitious: eight seeds will be grown for immediate testing, another eight germinated once methods are proven, and the final eight preserved long-term at Kew. Seedlings will be distributed to U.K. botanical gardens to refine cultivation techniques under various conditions.\n\nBut seeds alone won't restore the species. All 11 Dendroseris trees exist only in the Juan Fernández Archipelago off Chile, and all face similar threats—invasive plants, goats, and rodents that have devastated their habitats. These trees also sustain the critically endangered Juan Fernández firecrown hummingbird.\n\nConservationists acknowledge the journey ahead requires habitat restoration, invasive species control, and carefully planned reintroductions. Yet by preserving genetic diversity now, they're creating the possibility of bringing this ancient tree back from the brink.",
   "category": "nature",
   "tags": [
+    "extinction",
     "conservation",
-    "endangered-species",
-    "chile",
-    "botany"
+    "plants",
+    "seed-banking",
+    "chile"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/short-article/2026/07/rare-seed-collection-offers-hope-for-last-wild-tree-of-its-kind-from-chile/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/30253500/pexels-photo-30253500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Mark Stebnicki",
-  "photo_credit_url": "https://www.pexels.com/@nc-farm-bureau-mark"
+  "photo_credit_url": "https://www.pexels.com/@nc-farm-bureau-mark",
+  "rewritten": "2026-07-17T14:39:32Z"
 }

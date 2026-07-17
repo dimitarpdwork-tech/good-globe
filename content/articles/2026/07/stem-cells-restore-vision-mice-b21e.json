@@ -1,15 +1,16 @@
 {
   "id": "b21e2fb458b7fb27",
   "slug": "stem-cells-restore-vision-mice-b21e",
-  "headline": "Stem Cells Restore Vision in Breakthrough",
-  "meta_description": "Lab-grown retinal cells successfully restored vision in mice, offering hope for people living with blindness caused by retinal disease.",
-  "summary_short": "Stem cell treatment restored retinal function in mice with vision loss, marking a significant step toward helping blind people see again.",
-  "body": "A promising breakthrough in regenerative medicine offers real hope to people living with blindness. Scientists grew specialized retinal blood cells in the laboratory and injected them into mice suffering from retinal disease. The results were encouraging: the new cells integrated naturally into damaged tissue, regenerating blood vessels and restoring the eye's ability to function.\n\nThis work addresses one of the leading causes of vision loss in working-age adults. While the research remains in early stages, the successful integration of lab-grown cells into living tissue opens a pathway toward treating human patients. Each step forward in understanding how to repair the retina brings people closer to recovering sight.",
-  "category": "health",
+  "headline": "Lab-Grown Cells Give Blind Mice Their Vision Back",
+  "meta_description": "Duke University researchers use stem cells to restore retinal function in mice, offering hope for millions with vision loss diseases.",
+  "summary_short": "Biomedical engineers at Duke University have successfully used lab-grown stem cells to restore vision in mice with retinal disease.",
+  "body": "The retina, technically part of our central nervous system, is remarkably difficult to treat. Its specialized blood barrier protects the eye from harmful agents but also keeps most medicines out. When this barrier breaks down, vision loss follows—affecting millions worldwide.\n\nNow, researchers at Duke University in North Carolina have found a way around this problem. Using induced pluripotent stem cells (iPSCs)—the technology that won the Nobel Prize in 2012—the team grew retinal blood vessel cells from scratch in the laboratory.\n\nWhen these lab-grown cells were injected into mice with retinal disease, something remarkable happened: the cells integrated into the damaged tissue, regenerated blood vessels, and restored retinal function. The breakthrough proved especially promising for diabetic retinopathy, the leading cause of vision loss in working-age Americans.\n\nWhat makes this different from current approaches? Today's retinal endothelial cells come from real patients, making them expensive and scarce. Growing them from stem cells could change everything.\n\n\"Being able to grow a continuous supply from scratch could offer many advantages,\" explained Parker Esswein, a PhD student on the research team published in Nature Biomedical Engineering.\n\nThe team plans to explore therapeutic applications through industry partnerships, with a patent already pending. For the millions living with retinal disease, the path forward just became clearer.",
+  "category": "science",
   "tags": [
-    "stem cells",
-    "vision",
-    "medical breakthrough"
+    "stem-cells",
+    "vision-loss",
+    "medical-breakthrough",
+    "retinal-disease"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/blind-people-offered-hope-of-seeing-again-after-stem-cell-breakthrough-remakes-retinal-blood-vessels/",
@@ -17,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8940471/pexels-photo-8940471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Thirdman",
-  "photo_credit_url": "https://www.pexels.com/@thirdman"
+  "photo_credit_url": "https://www.pexels.com/@thirdman",
+  "rewritten": "2026-07-17T14:48:07Z"
 }

@@ -1,16 +1,17 @@
 {
   "id": "48cf555533c93cc6",
   "slug": "sacred-groves-forest-restoration-48cf",
-  "headline": "Sacred Groves Prove Their Power to Restore Forests",
-  "meta_description": "In India's Western Ghats, ancient sacred groves protected by local communities grow some of the tallest trees and show promise for future forest restoration.",
-  "summary_short": "Communities in India's Western Ghats are proving that sacred groves—forests protected for spiritual reasons—excel at growing healthy, thriving forests naturally.",
-  "body": "In the forested hills of India's Western Ghats, some of the region's oldest and tallest trees stand not in protected national parks, but in sacred groves—small patches of forest that local communities have safeguarded for generations. These groves hold deep spiritual significance, with villagers believing the trees belong to their deities and ancestors, a conviction that has preserved the land through centuries.\n\nA new study reveals what this long tradition has accomplished: sacred groves are remarkably effective at nurturing the growth of future forests. The research highlights how cultural and spiritual stewardship can achieve what formal conservation sometimes struggles to do—maintaining old-growth forest that naturally regenerates and supports thriving ecosystems. The findings underscore a powerful truth: some of our most important natural protections come not from top-down policy, but from communities rooted in their landscapes and motivated by values deeper than regulation.\n\nThis discovery offers a hopeful model for forest restoration worldwide. By recognizing and supporting the knowledge and commitment of indigenous and local communities, conservation efforts can work with culture rather than against it, creating outcomes that benefit both people and the forests they hold sacred.",
+  "headline": "India's Sacred Forests Hold the Secret to Tree Renewal",
+  "meta_description": "A new study reveals how spiritual forest protection in India's Western Ghats naturally regenerates endangered tree species better than managed farmland.",
+  "summary_short": "Sacred groves in India's Western Ghats grow twice as many giant tree species as nearby villages, and naturally regenerate the next forest generation through birds.",
+  "body": "In villages scattered across India's Western Ghats—a 1,600-kilometer mountain range running down the country's west coast—the tallest trees grow in places no government protects. They thrive in sacred groves, small forest patches where communities have guarded old-growth trees for generations because they believe the trees belong to their gods.\n\nA new study published in PLOS One reveals why these groves matter far beyond spiritual tradition. Researchers from the Applied Environmental Research Foundation walked through Vanzole village measuring giant trees, guided by local experts Namdev and Anant Shivgan. What they discovered surprised them: the four sacred groves nearby held nearly twice the variety of giant-tree species as the village itself, with 12 species appearing only in the groves.\n\nThe difference comes down to disturbance. In villages, livestock trample seedlings and foot trails expose soil. In groves, the undisturbed forest floor allows bird-dropped seeds to sprout. Saplings of fishtail palm grew under 91 percent of grove trees but only 47 percent of village trees. For large-seeded species that only hornbills can carry, the gap widened dramatically: 77 percent in groves versus just 5 percent in villages.\n\nThese groves function as ecological nurseries and stepping stones across wider landscapes, allowing tigers and leopards to move freely. Yet they face pressure as concrete temples replace simple shrines and young people leave villages, carrying away generations of forest knowledge.",
   "category": "nature",
   "tags": [
-    "forest-conservation",
-    "indigenous-knowledge",
     "sacred-groves",
-    "ecosystem-restoration"
+    "forest-conservation",
+    "india",
+    "biodiversity",
+    "community-led"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/2026/07/in-indias-western-ghats-sacred-groves-are-better-at-growing-future-forests/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/19877487/pexels-photo-19877487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Joshua Woroniecki",
-  "photo_credit_url": "https://www.pexels.com/@joshuaworoniecki"
+  "photo_credit_url": "https://www.pexels.com/@joshuaworoniecki",
+  "rewritten": "2026-07-17T14:47:32Z"
 }

@@ -1,13 +1,14 @@
 {
   "id": "21d0452f59ca88ca",
   "slug": "fossil-goose-new-zealand-21d0",
-  "headline": "Rare Fossil Rewrites Understanding of New Zealand's Giant Birds",
-  "meta_description": "Scientists have discovered a previously unknown fossil goose that challenges decades of evolutionary theory about New Zealand's ancient birds.",
-  "summary_short": "A remarkable fossil discovery in New Zealand reveals that the country's giant flightless geese had a more recent evolutionary origin than previously thought.",
-  "body": "Scientists have uncovered a significant fossil that challenges long-held understanding of how New Zealand's spectacular bird diversity evolved. The previously unknown fossil goose discovery suggests that the country's giant flightless geese evolved from ancestors that arrived far more recently than decades of research had indicated. This finding reshapes our picture of New Zealand's evolutionary timeline and the dynamic natural history of the islands.\n\nThe discovery adds nuance to how we understand speciation and adaptation in isolated ecosystems. Rather than a slow, gradual process extending back over vast periods, the evolution of these impressive birds appears to have unfolded more rapidly than scientists had theorized. New Zealand's unique fauna—isolated on islands for millions of years—offers researchers a natural laboratory for understanding how species change and diversify under specific environmental conditions.\n\nThis fossil serves as a humbling reminder that our understanding of deep history is always subject to revision when new evidence emerges. Each discovery enriches our grasp of Earth's biological heritage and the remarkable ways that life has taken shape across our planet's diverse regions.",
+  "headline": "Lost Goose Rewrites New Zealand's Evolutionary Story",
+  "meta_description": "A rare fossil goose discovered in Central Otago is reshaping scientists' understanding of how New Zealand's unique birds evolved over millions of years.",
+  "summary_short": "Scientists in New Zealand have discovered a previously unknown fossil goose that challenges decades of thinking about the country's bird evolution.",
+  "body": "Buried in the ancient lake deposits of Central Otago, a small fossilized goose is rewriting one of nature's most compelling stories. Researchers from the University of Otago, working alongside colleagues from Te Papa and Cambridge, have identified a species that lived and vanished millions of years ago—leaving no descendants, yet reshaping our understanding of how New Zealand's remarkable birds came to be.\n\nThe newly named *Meterchen luti*—meaning \"mother goose\" in ancient Greek, inspired by the nursery rhyme—was hiding in plain sight. Scientists had to carefully re-examine every goose bone recovered from the St Bathans fossil deposits, comparing them with modern and extinct bird skeletons, before recognizing something fundamentally different about this small waterfowl.\n\nThe discovery reveals a far more complex evolutionary picture than scientists once believed. While an earlier theory suggested the St Bathans goose was the direct ancestor of New Zealand's famous giant flightless geese—a lineage stretching back at least 14 million years—new genetic evidence tells a different story. The actual ancestors of those metre-tall geese, weighing up to 18 kilograms, arrived much more recently, only about seven million years ago, likely from Australia.\n\n\"Using all the tools in the toolbox, including DNA and fossils, we can reconstruct how the dynamic geological, climatic and human history has shaped the evolution of Aotearoa's fauna,\" researchers explained. What emerges is not a simple timeline, but a dynamic landscape where species continually arrived, adapted, and sometimes vanished without trace.",
   "category": "science",
   "tags": [
     "paleontology",
+    "new-zealand",
     "evolution",
     "fossil",
     "birds"
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/3839557/pexels-photo-3839557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Marcus Lange",
-  "photo_credit_url": "https://www.pexels.com/@marcusl"
+  "photo_credit_url": "https://www.pexels.com/@marcusl",
+  "rewritten": "2026-07-17T14:42:02Z"
 }

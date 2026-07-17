@@ -1,15 +1,17 @@
 {
   "id": "5900e4d7fbeff928",
   "slug": "gecko-cancer-research-breakthrough-5900",
-  "headline": "Leopard Gecko Could Unlock New Cancer Research Insights",
-  "meta_description": "An unusual leopard gecko that naturally develops aggressive tumors may become an important new model for cancer research.",
-  "summary_short": "Scientists discovered a leopard gecko whose tumors share genetic patterns with human cancers, offering a rare natural model for cancer studies.",
-  "body": "An exceptional leopard gecko has caught the attention of cancer researchers around the world. This unusual animal naturally develops aggressive tumors that bear striking genetic similarities to human cancers—a discovery that could reshape how scientists approach the disease.\n\nUnlike most laboratory models, which require careful genetic engineering, this gecko's tumors occur naturally, allowing researchers to study cancer as it unfolds in a living organism. This genuine biological model offers a rare opportunity to observe how the disease develops, progresses, and potentially responds to treatment. The finding demonstrates how nature itself can be a teacher, and how unexpected places sometimes hold keys to understanding the challenges we face.",
+  "headline": "A Pet Gecko's Secret Could Transform Cancer Research",
+  "meta_description": "Leopard geckos naturally prone to cancer offer scientists a rare opportunity to study tumor development as it happens in nature.",
+  "summary_short": "A colorful pet gecko variety develops aggressive tumors naturally, giving researchers an unexpected window into how cancer forms and spreads.",
+  "body": "Scientists at the University of Nottingham have made an unexpected discovery: a striking white and yellow leopard gecko, known as the \"lemon frost\" morph, could become one of medicine's most valuable tools for understanding cancer.\n\nAbout 80% of lemon frost geckos develop aggressive tumors in their lifetime—a rate far higher than most animals. But what makes them scientifically precious isn't their vulnerability; it's that their cancers develop naturally, without artificial triggers in a laboratory. This creates a rare opportunity to watch how tumors form, evolve, and spread under natural conditions.\n\nUsing whole genome sequencing, an international research team led by Dr. Ylenia Chiari compared tumor samples with healthy tissue from the same geckos. They discovered that the genetic changes driving these reptile cancers involve the same genes and biological pathways implicated in human cancers.\n\n\"By studying why some animals are so susceptible to cancer while others are remarkably resistant, we hope to uncover different ways species have evolved to deal with cancer,\" Dr. Chiari explained.\n\nThe lemon frost morph itself emerged from a spontaneous genetic mutation during selective breeding—an ironic reminder that understanding disease sometimes requires looking beyond the laboratory. As Dr. Scott Glaberman noted, \"Every species has something to teach us. By studying both animals vulnerable to cancer and those that resist it, we have far greater power to understand the disease itself.\"",
   "category": "science",
   "tags": [
     "cancer-research",
-    "science",
-    "breakthrough"
+    "leopard-gecko",
+    "genomics",
+    "medical-science",
+    "biodiversity"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/11547183/pexels-photo-11547183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Jeffry Surianto",
-  "photo_credit_url": "https://www.pexels.com/@andromeda99"
+  "photo_credit_url": "https://www.pexels.com/@andromeda99",
+  "rewritten": "2026-07-17T14:42:19Z"
 }

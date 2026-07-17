@@ -1,16 +1,17 @@
 {
   "id": "c63e02bb34e4ab23",
   "slug": "optical-skyrmions-poisson-spot-c63e",
-  "headline": "Ancient Optical Effect Powers New Computing Structures",
-  "meta_description": "Scientists use a 200-year-old optical phenomenon to create exotic light structures that could advance future computing.",
-  "summary_short": "A physics effect discovered two centuries ago is finding new life in the lab. Researchers are using the Poisson spot to create swirling light patterns that may one day p…",
-  "body": "In 1818, physicist Siméon Denis Poisson predicted something counterintuitive: that a circular obstruction blocking light would create a bright spot in the center of its shadow. The effect was confirmed and named after him, but for two hundred years, it remained mostly a curiosity. Now, scientists at Nanyang Technological University in Singapore have found a practical application that could reshape computing.\n\nBy simply shining a laser at a tiny circular disc, researchers produce stable swirling patterns in light called optical skyrmions. These exotic structures emerged from a principle that was old when the industrial revolution was young.\n\nWhat makes this discovery valuable is its simplicity and accessibility. Rather than requiring expensive, highly engineered materials, the technique relies on equipment that is relatively straightforward. If optical skyrmions can eventually be harnessed for data storage and processing, this breakthrough suggests that sometimes the tools of tomorrow lie in the forgotten insights of yesterday. It is a reminder that innovation often comes from asking old questions in new ways.",
+  "headline": "A 200-Year-Old Light Discovery Powers Tomorrow's Computers",
+  "meta_description": "Scientists in Singapore revived a classic optical effect to create structures that could revolutionize data storage and computing technology.",
+  "summary_short": "Researchers at Nanyang Technological University used a 200-year-old physics phenomenon to create exotic light patterns for future computing.",
+  "body": "Sometimes the best solutions hide in plain sight—or rather, in the shadows of history.\n\nScientists at Nanyang Technological University in Singapore have discovered that a classic optical effect known as the Poisson spot, observed for over two centuries, could help build tomorrow's computers. The Poisson spot occurs when a bright point mysteriously appears at the center of a shadow cast by a circular object illuminated by laser light.\n\nInstead of relying on expensive, specially engineered materials, researchers simply shined a laser at a small circular disc to generate optical skyrmions—tiny, stable swirling patterns within light that resemble hedgehog spines. These structures could potentially encode information for advanced data storage and computing technologies.\n\nThe breakthrough, led by Assistant Professor Shen Yijie from NTU's School of Physical and Mathematical Sciences and School of Electrical and Electronic Engineering, is remarkably elegant: the team discovered their setup naturally produced four related topological patterns simultaneously, including spin skyrmions and electric field skyrmions.\n\nBy simplifying the technical process—replacing complex metamaterials with basic optics—the researchers have made this cutting-edge field accessible to far more scientists. The findings, published in Optica, suggest that understanding how light behaves might unlock the next generation of computing and photonics technology.",
   "category": "science",
   "tags": [
     "optics",
+    "physics",
     "computing",
-    "light-structures",
-    "innovation"
+    "innovation",
+    "light-technology"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/12969059/pexels-photo-12969059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Atlantic Ambience",
-  "photo_credit_url": "https://www.pexels.com/@freestockpro"
+  "photo_credit_url": "https://www.pexels.com/@freestockpro",
+  "rewritten": "2026-07-17T14:45:37Z"
 }

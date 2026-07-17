@@ -1,16 +1,16 @@
 {
   "id": "a2c28461888574c8",
   "slug": "copper-compound-alzheimers-breakthrough-a2c2",
-  "headline": "New approach targets Alzheimer's by repairing the brain's waste system",
-  "meta_description": "Researchers discover a copper compound that repairs the brain's natural clearing system, offering a fresh direction in Alzheimer's treatment.",
-  "summary_short": "Instead of attacking toxic proteins directly, a new copper compound helps the brain's own waste-clearing system work better.",
-  "body": "Most Alzheimer's research has focused on eliminating toxic proteins in the brain. But scientists at Monash University's Institute of Pharmaceutical Sciences are exploring a different path: what if the problem isn't just the proteins themselves, but the brain's ability to clear them away?\n\nTheir work, published in ACS Chemical Neuroscience, found that a copper compound called Cu(ATSM) can repair the brain's natural waste-clearing mechanisms. By supporting the brain's own defences rather than fighting the disease head-on, this approach could open new possibilities for treating Alzheimer's and offers hope for a more effective intervention strategy.",
-  "category": "health",
+  "headline": "Scientists Fix the Brain's Trash System to Fight Alzheimer's",
+  "meta_description": "Researchers at Monash University found that a copper compound can repair the brain's natural waste-clearing system, offering a new approach to Alzheimer's trea…",
+  "summary_short": "Instead of attacking toxic proteins directly, scientists discovered how to fix the brain's own cleaning mechanism—with promising early results.",
+  "body": "For decades, Alzheimer's researchers have chased toxic proteins directly. Monash University's Institute of Pharmaceutical Sciences is asking a different question: what if the brain could simply clean up after itself?\n\nThe answer lies in the blood-brain barrier, where tiny molecular pumps called P-glycoprotein work like custodians, pushing waste out of the brain. In Alzheimer's patients, these pumps weaken, allowing amyloid-beta proteins to accumulate and damage memory. A new study found that a copper compound called Cu(ATSM) can restore them.\n\nWhen researchers treated Alzheimer's mice with Cu(ATSM) for 56 days, the results were striking: pump abundance increased 24 percent, toxic proteins dropped 42 percent, and spatial learning improved by nearly 44 percent. \"By improving the pumps, the brain can finally clear out the trapped waste,\" explained lead researcher Dr. Jae Pyun.\n\nWhat makes this breakthrough especially promising? Cu(ATSM) has already been tested in humans for Parkinson's disease and ALS, meaning it has passed significant safety hurdles. Most Alzheimer's discoveries languish in labs for years before reaching patients.\n\nWith Alzheimer's now Australia's leading cause of death, this shift from attacking plaques to preventing their buildup could reshape how the disease is treated.",
+  "category": "science",
   "tags": [
     "alzheimers",
-    "neuroscience",
     "medical-research",
-    "brain-health"
+    "brain-health",
+    "copper-compound"
   ],
   "source_name": "The Optimist Daily",
   "source_url": "https://www.optimistdaily.com/2026/07/copper-compound-targets-alzheimers-at-the-blood-brain-barrier/",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/4226219/pexels-photo-4226219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Anna Shvets",
-  "photo_credit_url": "https://www.pexels.com/@shvetsa"
+  "photo_credit_url": "https://www.pexels.com/@shvetsa",
+  "rewritten": "2026-07-17T14:40:13Z"
 }

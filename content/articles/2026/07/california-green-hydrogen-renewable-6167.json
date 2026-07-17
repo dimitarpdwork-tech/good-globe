@@ -1,15 +1,15 @@
 {
   "id": "616784f34a987761",
   "slug": "california-green-hydrogen-renewable-6167",
-  "headline": "California Unlocks Green Hydrogen in Clean Energy Push",
-  "meta_description": "California recognizes green hydrogen as renewable energy, creating financial incentives for power plants and accelerating the state's clean energy transition.",
-  "summary_short": "California has legally recognized green hydrogen as a renewable energy source, opening the door to financial incentives for power plants and closing a long-standing gap…",
-  "body": "California has taken a significant step forward in its clean energy transition by signing green hydrogen into law as a qualifying renewable source. Governor Newsom's approval of SB 1350 fills a gap that had undermined the state's renewable energy progress for years. Power plants now have a clear path to financial incentives when they use green hydrogen electricity, making the technology more economically viable.\n\nThis legal recognition removes barriers that had previously prevented green hydrogen from being counted toward California's renewable energy targets. By creating financial incentives tied to the state's Renewables Portfolio Standard, the law encourages investment in hydrogen production and infrastructure. The move signals that California is serious about diversifying its clean energy sources beyond solar and wind.\n\nGreen hydrogen—produced using renewable electricity—offers a flexible energy source that can power industrial processes and generate electricity when other renewables are unavailable. With this new framework in place, California opens doors for innovation and deployment that could help other states and regions design their own hydrogen strategies.",
+  "headline": "California's Green Hydrogen Law Plugs a Renewable Energy Gap",
+  "meta_description": "Governor Newsom signed SB 1350, making green hydrogen eligible for renewable energy credits and addressing California's nighttime power shortfall.",
+  "summary_short": "California just solved a 40-year clean energy problem. Governor Newsom signed a law recognizing green hydrogen as renewable, unlocking financial incentives for facilitie…",
+  "body": "California produces 60 percent of its electricity from renewables—an impressive number that masks an awkward truth. That other 40 percent arrives precisely when solar fades and wind reserves deplete: overnight, in winter, when fossil fuels step in to fill the dark.\n\nGreen hydrogen offers a workaround. By using renewable energy to split water into hydrogen and oxygen, then storing and converting it back through fuel cells when needed, solar power generated at noon can power homes at 2 a.m. in January.\n\nGovernor Newsom recently signed SB 1350 into law, officially qualifying green hydrogen electricity as renewable under the state's Renewables Portfolio Standard. Facilities meeting three requirements—sourcing hydrogen from state-certified renewables, maintaining at least 20 percent green hydrogen in their fuel blend, and reducing air pollution—now earn valuable financial credits.\n\nThe bill passed unanimously. Already, the Lodi Energy Center, 15 miles north of Stockton, plans to run on green hydrogen. Element Resources' Lancaster Clean Energy Center, opening in 2028, will become the nation's largest green hydrogen facility.\n\nFor utilities and developers, the law signals something crucial: confidence. California isn't just talking about bridging its energy gap anymore. It's building the infrastructure to do it.",
   "category": "progress",
   "tags": [
-    "clean-energy",
-    "renewable-hydrogen",
-    "california",
+    "green-hydrogen",
+    "california-energy",
+    "renewables",
     "climate-action"
   ],
   "source_name": "The Optimist Daily",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/19191451/pexels-photo-19191451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Ahmet Kurt",
-  "photo_credit_url": "https://www.pexels.com/@ahmetkurt"
+  "photo_credit_url": "https://www.pexels.com/@ahmetkurt",
+  "rewritten": "2026-07-17T14:38:58Z"
 }

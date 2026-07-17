@@ -1,15 +1,17 @@
 {
   "id": "78295aab69439e7c",
   "slug": "webb-telescope-lava-planet-atmosphere-7829",
-  "headline": "James Webb Telescope Unveils Secrets of an Extreme Lava Planet",
-  "meta_description": "NASA's James Webb Space Telescope reveals a hydrogen-rich atmosphere on 55 Cancri e, a lava planet where rock melts and volcanic gases shape a strange sky.",
-  "summary_short": "The James Webb Space Telescope has mapped the atmosphere of a scorching lava planet, discovering hydrogen-rich gases and evidence of volcanic clouds in an utterly alien…",
-  "body": "NASA's James Webb Space Telescope has peered into the brutally extreme atmosphere of 55 Cancri e, a lava planet where temperatures soar high enough to melt solid rock. The observations reveal a world far stranger than scientists expected, with an atmosphere rich in hydrogen shaped by gases escaping from the planet's molten interior.\n\nThe data suggests something even more remarkable: volcanic outgassing may create temporary clouds in this hellish environment. These findings challenge assumptions about what planetary atmospheres can be and how extreme worlds might behave.\n\nEach discovery from the James Webb Telescope expands our understanding of the cosmos and the diversity of worlds beyond our solar system. This glimpse into an alien atmosphere shows just how much there is to learn about planetary science.",
+  "headline": "Webb Telescope Reveals Hidden Chemistry of a Hellish Lava Planet",
+  "meta_description": "NASA's James Webb Telescope discovers a hydrogen-rich atmosphere on 55 Cancri e, a lava planet 41 light years away, revealing secrets about extreme rocky world…",
+  "summary_short": "Astronomers using the James Webb Space Telescope have discovered unexpected chemistry in the atmosphere of 55 Cancri e, a molten rock world orbiting its star every 17 ho…",
+  "body": "Forty-one light years from Earth orbits one of the galaxy's most inhospitable worlds: 55 Cancri e, a rocky planet so close to its star that its surface remains perpetually molten. Yet this hellish world is teaching us something remarkable about how extreme planets form and evolve.\n\nUsing NASA's James Webb Space Telescope, researchers observed five eclipses of 55 Cancri e and discovered an atmosphere unlike what scientists had predicted. Rather than being dominated by carbon monoxide and carbon dioxide, the planet contains surprisingly large amounts of hydrogen alongside carbon monoxide and modest amounts of carbon dioxide.\n\nThis hydrogen-rich atmosphere reveals something profound: it acts as a window into the planet's molten interior. A planet's chemical composition—what scientists call its redox state—determines what gases escape from its depths. On 55 Cancri e, hydrogen strongly dominates over oxygen, suggesting the planet's interior chemistry is fundamentally different from what models had assumed.\n\nEven more intriguingly, the five observations showed variations that may indicate volcanic outgassing or temporary clouds forming from materials released by the planet's interior. These clouds could briefly cool the surface before dissipating.\n\nAs astronomers continue studying 55 Cancri e and other lava worlds, each observation pulls back the curtain on planetary formation itself, revealing how rocky worlds evolve under extreme conditions.",
   "category": "science",
   "tags": [
-    "astronomy",
+    "exoplanet",
     "space-exploration",
-    "exoplanet"
+    "james-webb",
+    "volcanism",
+    "astronomy"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/12491650/pexels-photo-12491650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Zelch Csaba",
-  "photo_credit_url": "https://www.pexels.com/@zelch"
+  "photo_credit_url": "https://www.pexels.com/@zelch",
+  "rewritten": "2026-07-17T14:49:28Z"
 }

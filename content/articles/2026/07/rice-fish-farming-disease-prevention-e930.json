@@ -1,16 +1,17 @@
 {
   "id": "e9309ee758f478d1",
   "slug": "rice-fish-farming-disease-prevention-e930",
-  "headline": "Rice-Fish Farming Cuts Disease and Boosts Crop Yields",
-  "meta_description": "Scientists find that raising fish in rice paddies reduces schistosomiasis transmission while increasing crop yields by 25%, offering dual benefits for health a…",
-  "summary_short": "A new farming method combining rice and fish production reduces a chronic disease affecting 220 million people while increasing harvests by 25%.",
-  "body": "Researchers from Notre Dame have discovered that an integrated farming approach—raising freshwater fish alongside rice in paddies—offers dual benefits for health and agricultural productivity. The method significantly reduces transmission of schistosomiasis, a chronic parasitic disease that affects more than 220 million people globally, with the heaviest burden falling in sub-Saharan Africa.\n\nSchistosomiasis is transmitted through contact with infected water, and the disease causes serious long-term health complications. By introducing fish into rice paddies, the farming system disrupts the disease's transmission cycle while simultaneously boosting crop yields by approximately 25%. The research, published in Nature Sustainability, demonstrates how ecological thinking can solve interconnected problems of health and poverty.\n\nThis approach is particularly valuable for farming communities in affected regions, as it improves both household food security and health outcomes without requiring external inputs or technology. By showing that sustainable farming methods can address disease while increasing productivity, the research opens pathways for communities to improve their circumstances through innovation grounded in their own agricultural practices.",
-  "category": "progress",
+  "headline": "Fish in Rice Fields: A Triple Win Against Disease and Poverty",
+  "meta_description": "Scientists discover that raising native fish in rice paddies cuts disease by 25%, boosts crop yields, and creates new income for farming families.",
+  "summary_short": "Researchers in Senegal found that adding native fish to rice fields reduces a parasitic disease affecting 220 million people worldwide while boosting harvests.",
+  "body": "In the northern Senegal River basin, where rice farming families face an invisible threat, scientists have discovered an elegant solution hiding in plain sight.\n\nSchistosomiasis—a parasitic disease spread by freshwater snails—infects more than 220 million people globally, with the heaviest burden falling on sub-Saharan Africa. Rice farmers and their children are particularly vulnerable, as the snails thrive in standing water between the rice plants. Even with available medication, reinfection is constant, trapping families in cycles of illness and poverty.\n\nResearchers from Notre Dame tested a different approach: restoring native fish to the rice fields. By introducing African Bonytongue and Nile tilapia—fish species that naturally eat snails or compete with them for food—they observed something remarkable. Across more than 400 households studied, fields with both fish species showed fewer disease-carrying snails.\n\nBut the benefits extended far beyond health. Rice yields increased by more than 25%, soil nutrients improved, and farmers gained an additional income source from harvesting the fish—all without feeding them.\n\n\"We don't always have to choose between improving human health, increasing food production and protecting the environment,\" said Jason Rohr, the study's corresponding author. The next challenge: scaling this simple yet powerful technique across every region where schistosomiasis takes hold.",
+  "category": "health",
   "tags": [
+    "rice-farming",
+    "tropical-disease",
     "sustainable-agriculture",
-    "disease-prevention",
-    "food-security",
-    "innovation"
+    "senegal",
+    "public-health"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/raising-rice-and-fish-together-cuts-disease-from-snails-while-boosting-crop-yields-by-25/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/13888402/pexels-photo-13888402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Nothing Ahead",
-  "photo_credit_url": "https://www.pexels.com/@ian-panelo"
+  "photo_credit_url": "https://www.pexels.com/@ian-panelo",
+  "rewritten": "2026-07-17T14:47:02Z"
 }

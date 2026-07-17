@@ -1,17 +1,17 @@
 {
   "id": "4e9d7b634d2ef16a",
   "slug": "orangutan-photography-conservation-app-4e9d",
-  "headline": "Indonesian Wildlife Project Turns Phone Cameras Into Conservation Tools",
-  "meta_description": "Local photographers in Borneo earn money documenting wildlife on a mobile app, creating a powerful incentive for forest conservation.",
-  "summary_short": "A conservation organization in Indonesian Borneo is paying local people to photograph wildlife and upload sightings through an app, creating nearly 175,000 records in on…",
-  "body": "In Indonesian Borneo, a conservation organization called KehatiKu has found an elegant way to protect orangutans and other wildlife: turn smartphones into tools for scientific observation. Local people can now photograph animals they encounter and upload the images through a dedicated app, earning money for their contributions.\n\nThe financial incentive has proven effective. Those who photograph orangutans can earn about $6 per image, while sightings of more common species also qualify for payment. In its first year, the project collected approximately 175,000 wildlife records—a remarkable dataset that helps researchers understand animal populations and behavior across the region.\n\nBy linking conservation directly to income, the program addresses a fundamental challenge: how to make protecting forests more valuable than clearing them. When local communities become active participants in wildlife monitoring and benefit financially from doing so, they gain a stake in the forest's survival. The approach transforms everyday people into citizen scientists, turning a camera into an instrument of hope for one of our planet's most endangered species.",
+  "headline": "Phone Cameras Become Wildlife Guardians in Borneo",
+  "meta_description": "A conservation organization in Indonesian Borneo is paying locals to photograph wildlife, collecting 175,000 records in one year and preventing illegal hunting.",
+  "summary_short": "Indonesian communities are turning their phone cameras into conservation tools, earning money while protecting endangered species like orangutans.",
+  "body": "In Indonesian Borneo, a conservation organization called KehatiKu has discovered something remarkable: local people with smartphones can do what a billion dollars of traditional conservation efforts struggle to achieve.\n\nThe approach is elegantly simple. Communities photograph wildlife and upload their sightings through an app. In exchange, they earn money—about $6 for a photo of an orangutan, with smaller payments for more common species. In just one year, the project has collected approximately 175,000 records.\n\nBut the real success lies beyond the numbers. As local people monitor their own forests, they've begun actively preventing illegal hunting in their areas. They've become not just observers but protectors.\n\nThis matters because the stakes are staggering. Over the last two decades, conservation organizations have invested more than $1 billion specifically in orangutan protection, yet around 100,000 orangutans have vanished. KehatiKu's approach achieves concrete results at a fraction of that cost.\n\nNot everyone is convinced the solution is permanent. Some experts warn that programs dependent on constant funding payments may struggle to sustain themselves long-term. Yet for now, in the forests of Borneo, a new model is taking root—one where conservation becomes a partnership between wildlife and the people who live closest to it.",
   "category": "nature",
   "tags": [
-    "orangutan",
     "conservation",
-    "citizen-science",
     "borneo",
-    "wildlife"
+    "wildlife",
+    "community",
+    "orangutan"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/short-article/2026/07/can-a-photo-save-orangutans/",
@@ -19,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/7853221/pexels-photo-7853221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "David Selbert",
-  "photo_credit_url": "https://www.pexels.com/@davidohboy"
+  "photo_credit_url": "https://www.pexels.com/@davidohboy",
+  "rewritten": "2026-07-17T14:45:42Z"
 }

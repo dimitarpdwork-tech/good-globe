@@ -1,15 +1,16 @@
 {
   "id": "34f8c511ed977d44",
   "slug": "uganda-ebola-patient-discharged-34f8",
-  "headline": "Uganda Discharges Final Ebola Patient, Marking Outbreak's End",
-  "meta_description": "Uganda has discharged its last Ebola patient, marking a significant victory in controlling the outbreak and bringing hope to the region.",
-  "summary_short": "Uganda celebrates a major health milestone as the final Ebola patient is discharged, signaling the end of the outbreak in the country.",
-  "body": "Uganda is marking a moment of profound relief and joy. The nation has discharged its last Ebola patient, closing a difficult chapter and demonstrating the effectiveness of rapid response and community mobilization in containing the virus.\n\nThe achievement reflects the coordinated efforts of health workers, public health officials, and community members who worked to identify cases, isolate patients, and trace contacts. Each discharge represented a life saved and a step toward ending the outbreak.\n\nWhile the World Health Organization continues to monitor the situation in neighboring areas, Uganda's success offers encouraging evidence that determined action can control even the most serious health threats. For patients, families, and healthcare workers who lived through the outbreak, the final discharge carries the weight of resilience and the promise of moving forward.",
+  "headline": "Uganda's Victory Against Ebola Offers Blueprint for Global Fight",
+  "meta_description": "Uganda discharged its last Ebola patient, demonstrating how early detection and strong health systems can defeat the deadly virus.",
+  "summary_short": "Uganda has no active Ebola cases after discharging its final patient. The country's success contrasts sharply with the worsening crisis in neighbouring Democratic Republ…",
+  "body": "Uganda has become Ebola-free after discharging its last patient from hospital, marking the end of an outbreak that began in May when a man travelled from the neighbouring Democratic Republic of Congo for treatment.\n\nHealth Minister Dr Chris Baryomunsi called the moment \"a moment of joy,\" underscoring what Uganda's experience reveals: that Ebola can be defeated with the right tools. The country recorded just 20 confirmed cases and two deaths—a stark contrast to the escalating crisis across the border, where more than 2,000 confirmed infections and 796 deaths have been recorded.\n\nUganda's success reflects decades of hard-won experience. Having faced multiple Ebola outbreaks over the last two decades, the country has established robust protocols: rapid isolation of suspected cases, contact tracing, and targeted public health messaging. When symptoms like fever, vomiting, or unexplained bleeding emerged, patients received prompt treatment.\n\nBut the broader picture is troubling. The WHO describes the Congo outbreak as the world's third-largest on record, spreading at alarming speed. About two-thirds of deaths occur in communities where people never reach health facilities. The WHO requires $115 million to respond adequately—so far, it has received just $45 million.\n\nUganda now enters a critical 42-day countdown before official declaration as Ebola-free, provided no new cases emerge. The health ministry's simple message to citizens remains vital: stay vigilant.",
   "category": "health",
   "tags": [
     "ebola",
     "uganda",
-    "disease-control",
+    "health-crisis",
+    "infectious-disease",
     "public-health"
   ],
   "source_name": "BBC World",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "RDNE Stock project",
-  "photo_credit_url": "https://www.pexels.com/@rdne"
+  "photo_credit_url": "https://www.pexels.com/@rdne",
+  "rewritten": "2026-07-17T14:49:16Z"
 }

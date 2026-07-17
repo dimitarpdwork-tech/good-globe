@@ -1,15 +1,16 @@
 {
   "id": "502c9cc218ded92e",
   "slug": "quantum-light-magnetism-breakthrough-502c",
-  "headline": "Light and Magnetism Dance Together in New Quantum Materials",
-  "meta_description": "Scientists achieve a first: light and magnetism interact directly in atomically thin materials, opening doors to revolutionary memory and computing technologie…",
-  "summary_short": "Researchers have unlocked a new phenomenon where light can directly control magnetic behavior in ultrathin materials—paving the way for transformative optical technologi…",
-  "body": "For the first time, scientists have demonstrated that light and magnetism can interact directly in atomically thin quantum materials in ways previously thought impossible. In these materials, light generates particles called excitons that interact with magnetic behavior, creating an opportunity to control magnetic states using light alone.\n\nThis breakthrough opens exciting new pathways for practical applications. The discovery could lead to advanced optical memory systems, quantum devices with unprecedented capabilities, and photonic technologies far more efficient than current alternatives.\n\nThe work represents a significant step forward in quantum materials science, where controlling properties at the atomic scale offers tantalizing possibilities for next-generation computing and information storage.",
+  "headline": "Scientists Discover How Light Can Control Magnetism in Ultra-Thin Materials",
+  "meta_description": "Researchers at City College of New York reveal how light and magnetism interact in atomically thin materials, opening doors to quantum devices and optical memo…",
+  "summary_short": "A quantum leap: scientists show light can now control magnetic states in materials just a few atoms thick, enabling revolutionary quantum technologies.",
+  "body": "At City College of New York, physicists have uncovered something remarkable: in certain ultra-thin materials, light and magnetism are no longer independent forces. They dance together.\n\nWhen light strikes these atomically thin crystals, it creates excitons—pairs of energized electrons and positively charged holes that remain linked. In ordinary materials, these excitons would simply sit on top of the magnetism. But in van der Waals magnetic semiconductors like chromium triiodide, something different happens. The excitons and magnetic moments emerge from the same place within the material's electronic structure, allowing them to influence each other directly.\n\n\"An exciton is not just a passive light-driven excitation,\" explains Pratap Chandra Adak, lead author of a new review in Nature Materials. \"It can sense the spin order and even help control the magnetic state itself.\"\n\nThis breakthrough matters because it opens practical doors. Researchers now see paths toward advanced optical memory, quantum devices that convert microwave signals to light, and magneto-optic lasers. The work, supported by DARPA and the Gordon and Betty Moore Foundation, represents the field moving from simply detecting magnetism in thin crystals to actively controlling it with light.\n\nMany mysteries remain unsolved, but the direction is clear: light and magnetism are partners waiting to be fully understood.",
   "category": "science",
   "tags": [
-    "quantum-physics",
-    "materials-science",
-    "innovation"
+    "quantum-materials",
+    "photonics",
+    "magnetism",
+    "nanotechnology"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
@@ -17,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/38032287/pexels-photo-38032287.png?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Nicola Narracci",
-  "photo_credit_url": "https://www.pexels.com/@nicola-narracci-157460431"
+  "photo_credit_url": "https://www.pexels.com/@nicola-narracci-157460431",
+  "rewritten": "2026-07-17T14:46:37Z"
 }

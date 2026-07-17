@@ -1,16 +1,16 @@
 {
   "id": "0a8176ab85f48796",
   "slug": "frog-bacteria-cancer-breakthrough-0a81",
-  "headline": "Japanese Scientists Discover Frog Bacteria That Destroys Cancer Tumors",
-  "meta_description": "Researchers in Japan identified a naturally occurring bacteria from a tree frog that eliminated cancer tumors in a single dose in laboratory studies.",
-  "summary_short": "A Japanese team discovered bacteria from a tree frog's intestines with remarkable anticancer properties, destroying tumors in a single dose.",
-  "body": "Researchers at Japan's Advanced Institute of Science and Technology have made an unexpected discovery in the fight against cancer. Led by Professor Eijiro Miyako, the team identified a naturally occurring bacteria found in the intestines of a Japanese tree frog with striking anticancer activity.\n\nIn laboratory studies, this bacteria—Ewingella americana—demonstrated the ability to destroy cancer tumors with just one application. The finding is significant because it points to a potential new avenue for cancer treatment, drawing on nature's own chemical defenses rather than synthetic drugs alone.\n\nThe discovery highlights how solutions to modern medical challenges sometimes emerge from unexpected places. By studying the natural microbiomes of organisms in their own environments, scientists can uncover biological mechanisms that may eventually help treat serious diseases. This work opens a new chapter in understanding how nature's compounds might complement existing cancer therapies.",
-  "category": "health",
+  "headline": "Japanese Tree Frog's Bacteria Eliminates Cancer in Single Treatment",
+  "meta_description": "Scientists discover bacteria from Japanese tree frogs that destroyed cancer tumors with 100% success rate in mice with just one dose.",
+  "summary_short": "A naturally-occurring bacteria from Japanese tree frogs achieved complete tumor elimination in mice, outperforming current cancer therapies in groundbreaking research.",
+  "body": "In a discovery that hints at nature's hidden pharmacy, Japanese scientists have identified a bacteria living in the intestines of Japanese tree frogs that completely eliminated cancer tumors in mice—with just a single injection.\n\nLed by Professor Eijiro Miyako at Japan's Advanced Institute of Science and Technology, the team isolated 45 bacterial strains from the guts of tree frogs, fire belly newts, and grass lizards. Nine showed anti-tumor promise, but one strain—Ewingella americana—proved exceptional: it achieved a 100% complete response rate in colorectal cancer cases, surpassing standard immunotherapy and chemotherapy treatments.\n\nWhat makes this discovery remarkable isn't merely the results, but how the bacteria worked. Rather than simply killing cancer cells directly, E. americana engaged the animal's own immune system, triggering what researchers call \"comprehensive tumor destruction.\"\n\nThe innovation also passed safety tests. The bacteria cleared from the bloodstream within 24 hours, colonized no vital organs, and caused only mild, temporary inflammation that resolved within three days.\n\nWhile these results come from mouse studies, the research team plans to evaluate the bacteria's effectiveness against breast cancer, pancreatic cancer, and melanoma. They're also exploring how E. americana might work alongside existing therapies.\n\n\"Unexplored biodiversity represents a treasure trove for novel medical technology,\" the authors concluded—a reminder that sometimes the cure lives closer than we think.",
+  "category": "science",
   "tags": [
-    "cancer-research",
-    "bacteria",
+    "cancer-treatment",
+    "microbiology",
     "medical-breakthrough",
-    "japan"
+    "japan-science"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/japanese-find-frog-bacteria-that-wipes-out-cancer-tumors-with-a-single-dose/",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8697464/pexels-photo-8697464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "turek",
-  "photo_credit_url": "https://www.pexels.com/@turek3024"
+  "photo_credit_url": "https://www.pexels.com/@turek3024",
+  "rewritten": "2026-07-17T14:42:08Z"
 }

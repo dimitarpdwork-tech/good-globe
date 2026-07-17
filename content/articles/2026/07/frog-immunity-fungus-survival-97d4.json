@@ -1,16 +1,17 @@
 {
   "id": "97d40eb20abc0ba5",
   "slug": "frog-immunity-fungus-survival-97d4",
-  "headline": "How Some Frogs Survive a Deadly Global Fungus",
-  "meta_description": "Scientists discovered how some frogs survive a deadly fungus: powerful immune defenses developed during their tadpole stage.",
-  "summary_short": "Researchers have solved the mystery of frog survival against a devastating fungus, uncovering immune defenses that form in tadpoles.",
-  "body": "A fungal disease has devastated amphibian populations worldwide, wiping out entire species and leaving scientists searching for answers. Yet some frogs mysteriously survive the infection. A new study has finally revealed their secret.\n\nSurviving frogs develop powerful immune defences, but not after infection strikes—while they are still tadpoles. This early head start, forged in the water before metamorphosis, equips them to resist the fungus once they become adult frogs on land. It's a elegant biological strategy: preparation long before the threat arrives.\n\nThe research yielded another unexpected discovery: a vast collection of previously unknown antimicrobial peptides—molecules that kill harmful organisms. These natural compounds, evolved by frogs over millions of years, could eventually inspire new human medicines to fight infections. The findings offer hope: understanding how nature solves the problem of fungal survival might help scientists protect vulnerable amphibian populations, while the biochemistry behind it opens doors to treatments that could benefit many species, including our own.",
+  "headline": "A Frog's Secret Weapon: How Some Populations Beat a Deadly Fungus",
+  "meta_description": "Scientists discovered why some frog populations survive a devastating fungus while others collapse—it comes down to timing and tadpole immunity.",
+  "summary_short": "Researchers found that amphibian populations recovering from a deadly fungus develop immune defenses as tadpoles, giving them protection before adulthood makes them vuln…",
+  "body": "Around four lakes in the Pyrenees of France and Spain, something unexpected happened. While one midwife toad population nearly vanished, three others rebounded—despite the same deadly fungus still lingering in the water.\n\nScientists from University College London finally understood why. The difference came down to timing.\n\nThe chytrid fungus Batrachochytrium dendrobatidis attacks adult frogs by damaging their keratinized skin, disrupting their ability to regulate water and minerals. Tadpoles, with their softer skin, remain largely safe. But researchers discovered that toads from recovering populations developed powerful immune peptides—natural antimicrobial chemicals—while still tadpoles. By the time they matured and became vulnerable, their defenses were already battle-ready.\n\nToads from the struggling population never got this head start, leaving them defenseless when infection struck.\n\nThe study uncovered something even more remarkable: using advanced mass spectrometry, researchers identified 1,152 antimicrobial peptides in the toads' skin. Only seven had been documented before. This vast hidden arsenal could eventually inspire new human medicines, especially as antimicrobial resistance grows increasingly troubling.\n\nThe findings, published in Nature Chemical Biology, prove that species devastated by disease aren't necessarily doomed. They possess the tools to recover—it just depends on when those tools develop.",
   "category": "science",
   "tags": [
     "amphibians",
     "fungus",
     "immunity",
-    "conservation"
+    "conservation",
+    "science"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/21273767/pexels-photo-21273767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Petr Ganaj",
-  "photo_credit_url": "https://www.pexels.com/@ganajp"
+  "photo_credit_url": "https://www.pexels.com/@ganajp",
+  "rewritten": "2026-07-17T14:42:14Z"
 }

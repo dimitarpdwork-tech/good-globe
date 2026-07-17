@@ -1,16 +1,17 @@
 {
   "id": "29a2db2cad3818b1",
   "slug": "megalith-builders-ancient-dna-europe-29a2",
-  "headline": "Ancient DNA reveals Europe's megalith builders and migration",
-  "meta_description": "DNA analysis of a 5,000-year-old French tomb uncovers the genetic story of Europe's mysterious megalithic civilizations and the populations that replaced them.",
-  "summary_short": "A genetic study of ancient remains in France reveals that Europe's megalith builders were genetically distinct from those who succeeded them after a major population shi…",
-  "body": "Scientists studying DNA extracted from a 5,000-year-old megalithic tomb in France have made a fascinating discovery about one of Europe's most enigmatic cultures. The genetic analysis reveals that the people buried in the monument before and after a significant population collapse were genetically unrelated, pointing to a substantial migration event that transformed the region.\n\nThis genetic turnover coincided with major changes in social practices and marked the disappearance of the communities responsible for constructing Europe's remarkable megalithic monuments. The findings offer researchers a rare window into how population movements and cultural transitions unfolded in prehistoric Europe.\n\nBy combining archaeology with DNA analysis, scientists can now piece together stories of human migration and cultural change that were previously lost to time, deepening our understanding of how ancient European societies evolved and transformed.",
+  "headline": "DNA Solves 5,000-Year Mystery of Europe's Stone Monument Builders",
+  "meta_description": "Ancient DNA from a French tomb reveals how plague and crisis wiped out Europe's megalith builders, replaced by new populations around 3000 BC.",
+  "summary_short": "Scientists studying 132 skeletons in a 5,000-year-old French tomb discovered the original population vanished and was replaced by migrants from the south.",
+  "body": "A stone tomb near Bury, 50 kilometers north of Paris, has revealed one of prehistory's most dramatic stories. When researchers analyzed DNA from 132 people buried there over centuries, they found something startling: the earlier inhabitants and later ones were genetically unrelated.\n\nAround 3000 BC, the original population—farmers with roots in northern France and Germany—largely disappeared. They were replaced by newcomers from southern France and the Iberian Peninsula, bringing different burial practices and social structures.\n\nWhat caused this upheaval? The answer wasn't simple. Scientists identified plague bacteria and louse-borne relapsing fever in the ancient remains, but disease alone didn't explain the collapse. The real culprit appears to have been a perfect storm: disease combined with environmental stress and other crises. The skeletal evidence tells a grim story—unusually high mortality among children and young people marked the earlier period.\n\nThe social changes were equally profound. Early burials held multiple generations of extended families, suggesting tight-knit communities. Later burials became selective, dominated by a single male lineage, revealing a completely reorganized society.\n\nThe findings help explain a long-standing puzzle: why massive stone monuments vanished across Europe at precisely this moment. The people who built them were gone, replaced by others with different priorities and beliefs.",
   "category": "science",
   "tags": [
-    "archaeology",
     "ancient-dna",
-    "europe",
-    "megalithic"
+    "neolithic",
+    "archaeology",
+    "migration",
+    "europe"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/14288482/pexels-photo-14288482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Damir K .",
-  "photo_credit_url": "https://www.pexels.com/@damir"
+  "photo_credit_url": "https://www.pexels.com/@damir",
+  "rewritten": "2026-07-17T14:44:28Z"
 }

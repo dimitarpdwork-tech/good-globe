@@ -1,16 +1,16 @@
 {
   "id": "ba0c83060e1776ac",
   "slug": "programmable-heat-material-innovation-ba0c",
-  "headline": "Scientists create programmable heat material for smarter technology",
-  "meta_description": "A new material can control and store thermal radiation without continuous power, opening doors to better sensors and energy devices.",
-  "summary_short": "A breakthrough material can control heat like a computer program, remembering settings and directing thermal energy on demand.",
-  "body": "A newly developed material has cracked something that seemed impossible: the ability to program and control heat itself. The material can direct thermal radiation, switch between modes, and remember its settings without needing constant power—behaving almost like a computer program made of physics.\n\nThis breakthrough could ripple across multiple fields. Infrared sensors could become sharper and smarter. Energy technologies could work more efficiently. Even memory devices could eventually store information using light and heat instead of electrical charges. The innovation opens a new frontier in how materials interact with one of nature's most fundamental forces.",
+  "headline": "Heat Gets Its Own Programming Language",
+  "meta_description": "Scientists at Osaka Metropolitan University have created a material that controls heat like computer code controls data—a breakthrough for energy and sensing t…",
+  "summary_short": "A new magneto-optical material can direct heat on demand, switching behavior on and off while retaining its settings without power.",
+  "body": "For centuries, scientists understood heat as a one-way street: if a surface absorbed thermal energy efficiently, it also released that same energy in identical ways. This fundamental principle seemed unchangeable—until now.\n\nResearchers at Osaka Metropolitan University's Graduate School of Engineering, led by Professor Koichi Okamoto and Dr. Shunsuke Murai, have broken this rule by creating a material that treats heat more like data in a computer chip. By pairing a magneto-optical material with a phase-change material called GST, they developed a device that can direct thermal radiation in chosen directions, toggle its behavior on and off, and remember its settings even after power shuts down.\n\nWhat makes this breakthrough practical is its efficiency. Earlier attempts required light to strike materials at steep, impractical angles. This new design works effectively even with light arriving nearly straight on—a crucial advantage for real-world devices.\n\nThe implications ripple outward: smarter infrared sensors that detect heat more accurately, energy systems that manage temperature with unprecedented control, and memory devices using light and heat instead of electrical charges. These aren't distant dreams. The team has already built a working model that reliably maintains its configuration, proving the concept isn't theoretical.\n\n\"We made heat radiation behave in a smarter way,\" Dr. Murai explained. For engineers seeking to manage thermal energy with the precision engineers currently apply to electricity, this is the moment everything changes.",
   "category": "science",
   "tags": [
-    "material-science",
-    "heat-technology",
-    "innovation",
-    "energy"
+    "programmable-materials",
+    "thermal-engineering",
+    "infrared-technology",
+    "energy-innovation"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/9010823/pexels-photo-9010823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "turek",
-  "photo_credit_url": "https://www.pexels.com/@turek3024"
+  "photo_credit_url": "https://www.pexels.com/@turek3024",
+  "rewritten": "2026-07-17T14:46:24Z"
 }

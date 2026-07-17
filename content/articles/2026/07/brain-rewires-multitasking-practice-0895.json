@@ -1,15 +1,15 @@
 {
   "id": "0895c6a873217f71",
   "slug": "brain-rewires-multitasking-practice-0895",
-  "headline": "How Practice Rewires the Brain for True Multitasking",
-  "meta_description": "New research shows intensive training physically reorganizes the brain, enabling genuine multitasking by bypassing the prefrontal cortex.",
-  "summary_short": "Researchers discovered that extensive practice actually rewires the brain, allowing learned tasks to operate independently and freeing mental resources.",
-  "body": "For decades, scientists believed humans could only rapidly switch between tasks rather than truly multitask. New research challenges this assumption, revealing that intensive practice produces physical changes in the brain's structure and function.\n\nWhen people train extensively in a skill, that task migrates from the prefrontal cortex—the brain's center for conscious thought and decision-making—to more specialized neural circuits. This reorganization frees up the brain's limited \"thinking\" resources, making it possible to perform another demanding task simultaneously.\n\nThe findings suggest that what feels impossible at first becomes genuinely automatic through dedicated practice. By offloading learned skills to dedicated brain pathways, people gain real mental capacity rather than simply becoming faster at switching attention. This insight could reshape how we understand expertise and skill development.",
+  "headline": "Your Brain Can Actually Learn to Multitask",
+  "meta_description": "Georgetown researchers show the brain physically reorganizes with practice, enabling true multitasking instead of rapid task-switching.",
+  "summary_short": "Scientists at Georgetown University discovered that extensive practice rewires the brain, allowing automatic tasks to free up mental resources for simultaneous activitie…",
+  "body": "For decades, scientists insisted humans cannot truly multitask—we merely switch between activities so quickly it feels simultaneous. New research from Georgetown University Medical Center challenges this assumption, revealing that the brain can fundamentally reorganize itself through practice to perform multiple tasks at once.\n\nResearchers asked volunteers to sort morphed car images using a smartphone app over five to ten weeks, completing more than 30,000 sorting trials. Brain scans taken before and after training showed a striking shift: early learning activated the prefrontal cortex, the brain's \"thinking\" center responsible for conscious decisions. After weeks of practice, however, the same task migrated to the temporal cortex, a region specialized in memory and object recognition.\n\nThis rewiring proved crucial. Information from the newly developed car-recognition area could bypass the prefrontal cortex entirely, leaving that cognitive bottleneck free for another task. The more participants offloaded the sorting task, the better they performed a second activity simultaneously.\n\n\"Experience remodels the brain to bypass that frontal bottleneck,\" explained senior researcher Maximilian Riesenhuber. \"The prefrontal cortex stays free for whatever else you want to do.\"\n\nThe findings explain everyday experiences—why experienced drivers can chat while navigating safely—and suggest learning never truly stops reshaping our minds.",
   "category": "science",
   "tags": [
     "neuroscience",
-    "brain-research",
     "learning",
+    "brain-plasticity",
     "cognition"
   ],
   "source_name": "ScienceDaily",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/3807741/pexels-photo-3807741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Andrea Piacquadio",
-  "photo_credit_url": "https://www.pexels.com/@olly"
+  "photo_credit_url": "https://www.pexels.com/@olly",
+  "rewritten": "2026-07-17T14:38:26Z"
 }

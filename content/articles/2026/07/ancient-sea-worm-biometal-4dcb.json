@@ -1,16 +1,16 @@
 {
   "id": "4dcb0b14c72d1838",
   "slug": "ancient-sea-worm-biometal-4dcb",
-  "headline": "Ancient Sea Worm's Bio-Metal Jaws Reveal Nature's Material Innovation",
-  "meta_description": "Fossils of an ancient sea worm show how nature combines proteins and metals to create materials with unique properties never before seen.",
-  "summary_short": "Scientists studying ancient sea worm fossils discovered a natural 'bio-metal' that could inspire entirely new materials science.",
-  "body": "Deep in the fossil record lies a clue to materials engineering that nature has mastered: an ancient sea worm whose jaws combine proteins and metal ions in a way that has no parallel in modern materials. These fossilized jaws exhibit the strength of metal while behaving in ways that traditional metals do not, suggesting a entirely new category of natural material.\n\nWhat makes this discovery remarkable is not just what the jaws can do, but how they do it. By integrating metal and protein at the molecular level, nature created something neither substance could achieve alone. The jaws are simultaneously strong and flexible, hard and resilient—properties that materials engineers have long struggled to combine in synthetic materials.\n\nFor scientists, this ancient worm is a teacher. By understanding how these bio-metals work, researchers may unlock new directions in materials science, leading to stronger alloys, more durable composites, and innovations currently unimaginable. The discovery reminds us that nature has already solved many of the engineering challenges we face today—we simply need to look closely enough, and far enough back, to find the answers.",
+  "headline": "Tiny Sea Worm's Metal Jaws Unlock New Materials Science",
+  "meta_description": "Ancient sea worm jaws reveal 'bio-metals'—a new class of natural materials combining proteins and metal ions with unprecedented strength.",
+  "summary_short": "Scientists studying an ancient sea worm have discovered jaws made of 'bio-metals'—materials that blend proteins and metal ions in ways nature never showed us before.",
+  "body": "When researchers at Vienna University of Technology examined the jaws of Perinereis cultrifera, an ancient sea worm still thriving today, they stumbled onto something extraordinary: a material that defies easy categorization.\n\nThe worm's jaws are built from structural proteins and metal ions woven together in such a way that they behave like metals—yet fundamentally aren't. Scientists now call these materials \"bio-metals,\" and they're opening an entirely new direction in materials science.\n\nUsing nanoindentation tests, the research team discovered that metal ions concentrate more densely at the jaw tips than elsewhere, making those crucial biting surfaces harder and more effective for crushing prey. Even more surprising: the jaws showed the same size-dependent hardening effect found in metals like copper and silver—a phenomenon called the Nix-Gao effect.\n\nBut here's where nature's sophistication truly shines: bristle worm jaws also display size-dependent elasticity, a property that distinguishes bio-metals from ordinary crystalline metals.\n\n\"This is what makes them remarkable,\" researcher Christian Hellmich explained. The team plans to investigate other species and explore how genetic differences might shape material design in nature. For materials scientists worldwide, a tiny sea worm has just revealed that nature's innovations may be far richer than we ever imagined.",
   "category": "science",
   "tags": [
+    "biomaterials",
     "materials-science",
-    "paleontology",
-    "biomimicry",
-    "innovation"
+    "nature-innovation",
+    "marine-biology"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/2726724/pexels-photo-2726724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Alejandro Quintanar",
-  "photo_credit_url": "https://www.pexels.com/@aquintanar"
+  "photo_credit_url": "https://www.pexels.com/@aquintanar",
+  "rewritten": "2026-07-17T14:36:45Z"
 }

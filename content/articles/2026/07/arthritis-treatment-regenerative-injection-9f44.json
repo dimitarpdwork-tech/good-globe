@@ -1,16 +1,16 @@
 {
   "id": "9f4433a0f931ba2b",
   "slug": "arthritis-treatment-regenerative-injection-9f44",
-  "headline": "New Joint Injection Shows Promise for Reversing Arthritis",
-  "meta_description": "Colorado researchers develop therapies that help damaged joints repair themselves within weeks, offering hope for osteoarthritis patients.",
-  "summary_short": "A Colorado research team has created new treatments, including a single regenerative injection, that prompt damaged joints to heal themselves in weeks.",
-  "body": "A team of researchers in Colorado has developed promising new approaches to treat osteoarthritis, one of the most common joint conditions. Their work centers on therapies designed to encourage the body's own repair mechanisms, allowing aging or damaged joints to mend themselves.\n\nThe treatment options include a single regenerative injection delivered directly into the affected joint, along with a biomaterial repair kit that activates the body's cells to fill in damaged areas. Early animal studies have shown encouraging results, with joints showing signs of meaningful repair within weeks rather than months.\n\nIf these findings translate successfully to human patients, the approach could offer relief to millions living with joint pain and stiffness. The focus on harnessing the body's natural healing capacity represents a significant shift in how scientists are approaching joint repair, moving beyond traditional pain management toward genuine regeneration.",
+  "headline": "Colorado Scientists Reverse Arthritis in Animals With New Injection",
+  "meta_description": "A Colorado research team has developed regenerative therapies that reverse osteoarthritis in animal studies, offering hope to millions suffering from joint dam…",
+  "summary_short": "Researchers at CU Boulder have created a single injection that helps damaged joints repair themselves within weeks, potentially ending osteoarthritis.",
+  "body": "A research team at CU Boulder has achieved what once seemed impossible: reversing osteoarthritis in animal studies using a simple injection.\n\nThe breakthrough comes from Professor Stephanie Bryant and her colleagues, who developed two complementary approaches. The first repurposes an existing FDA-approved drug, delivering it through a patented particle system that provides intermittent doses over months. The second uses a cocktail of engineered proteins that recruits the body's own cells to repair cartilage and bone damage.\n\nWhen tested on animals with arthritic joints and significant lesions, the results were striking. Joints returned to a healthy state within four to eight weeks, with researchers observing \"full regeneration and repair of the defect.\"\n\nOsteoarthritis affects roughly one in six people over age 30 worldwide, making it the third most common disease in the U.S. Current options for patients are limited: manage pain or undergo expensive joint replacement surgery.\n\n\"At the moment, there's not a lot in between,\" said Dr. Evalina Burger from CU Anschutz. Bryant and her team imagine a future where earlier-stage patients access affordable single-dose therapy, while those with injuries receive repairs during a quick doctor's visit.\n\nFunded by the ARPA-H NITRO program with $30 million support, the team has advanced to phase two. Clinical trials could begin within 18 months.",
   "category": "health",
   "tags": [
-    "arthritis",
+    "osteoarthritis",
+    "joint-repair",
     "regenerative-medicine",
-    "joint-health",
-    "research"
+    "breakthrough"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/a-simple-shot-shows-promise-to-reverse-osteo-arthritis-within-months/",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Artem Podrez",
-  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+  "photo_credit_url": "https://www.pexels.com/@artempodrez",
+  "rewritten": "2026-07-17T14:37:07Z"
 }

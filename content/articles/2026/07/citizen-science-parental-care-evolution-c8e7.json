@@ -1,16 +1,17 @@
 {
   "id": "c8e7052bf50ec531",
   "slug": "citizen-science-parental-care-evolution-c8e7",
-  "headline": "Citizen Scientists Unlock Mystery of Parental Care Evolution",
-  "meta_description": "Citizen scientists used online observations to help researchers solve a long-standing question about how parental care evolved in harvestmen.",
-  "summary_short": "Working with citizen scientists, researchers discovered how parental care evolved in harvestmen—and completed the project in just days.",
-  "body": "An international team of researchers has solved a long-standing biological mystery with help from thousands of citizen scientists. By analyzing photos and observations contributed through iNaturalist—a platform where the public shares wildlife sightings—they uncovered how parental care behavior first evolved in harvestmen, small arachnids related to spiders.\n\nThe citizen science approach proved remarkably powerful. Volunteers more than doubled the number of known cases of egg-guarding behavior in these creatures, providing researchers with a much larger dataset than they could have gathered alone. This expanded evidence revealed something surprising: maternal and paternal care evolved along different paths, each shaped by distinct biological pressures.\n\nThe project was completed in just days, demonstrating how modern technology and public participation can accelerate scientific discovery. This success story shows that groundbreaking research doesn't always require expensive laboratories or years of fieldwork. When scientists invite the public to contribute observations, remarkable insights can emerge surprisingly quickly—insights that deepen our understanding of how life on Earth evolved.",
+  "headline": "How Citizen Scientists Solved Evolution's Parenting Mystery",
+  "meta_description": "Volunteers on iNaturalist doubled research on parental care in harvestmen, revealing how motherhood and fatherhood evolved differently.",
+  "summary_short": "Thousands of citizen observers helped researchers understand how parental care evolved in harvestmen—in just one week of searching.",
+  "body": "A team led by a University of São Paulo scientist needed answers about how parental care evolved in harvestmen, those spider-like arachnids found worldwide. But traditional research would have meant years of museum visits and fieldwork. Instead, they turned to iNaturalist, a platform where nature enthusiasts upload photographs and observations from virtually anywhere on Earth.\n\nThe results were startling. From 1936 through 2025, published studies had documented parental guarding in only 80 harvestman species. Using iNaturalist's public database, researchers more than doubled that number in just two days of searching—adding 62 new records contributed by citizen scientists alone.\n\nThe expanded dataset revealed something unexpected: maternal and paternal care followed entirely different evolutionary paths. Mothering evolved only from species with no parental care, mirroring patterns in insects. Fatherhood, however, could evolve either directly from non-caring ancestors or from species where females already guarded eggs—suggesting different pressures shaped each behavior.\n\nLead researcher Glauco Machado emphasized what this means for science globally: eliminating costly museum visits and extensive fieldwork makes large-scale biological research far more accessible, particularly for scientists in the Global South. Yet the team stresses that expert taxonomists remain irreplaceable—correctly identifying species and distinguishing true parental care from similar behaviors still requires specialized knowledge.\n\nCitizen science isn't replacing expertise. It's accelerating discovery.",
   "category": "science",
   "tags": [
     "citizen-science",
     "evolution",
-    "biology",
-    "crowdsourced-research"
+    "parental-care",
+    "iNaturalist",
+    "taxonomy"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/13877643/pexels-photo-13877643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Marek Kupiec",
-  "photo_credit_url": "https://www.pexels.com/@marek-kupiec-1696944"
+  "photo_credit_url": "https://www.pexels.com/@marek-kupiec-1696944",
+  "rewritten": "2026-07-17T14:39:44Z"
 }

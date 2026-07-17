@@ -1,16 +1,17 @@
 {
   "id": "1d2f8a1a32f5d8c5",
   "slug": "canada-white-hydrogen-discovery-1d2f",
-  "headline": "Canada Discovers Natural Hydrogen Gas Beneath Mines",
-  "meta_description": "Scientists in Canada have found that ancient underground rocks naturally produce hydrogen gas, potentially offering a new source of clean energy.",
-  "summary_short": "Canadian researchers have discovered that ancient underground rocks naturally produce hydrogen gas—a clean energy source that could be abundant and affordable.",
-  "body": "Scientists in Canada have made an intriguing discovery: ancient rocks beneath the earth are naturally generating hydrogen gas. This process, which has been happening for millions of years in underground formations, could unlock a new frontier in clean energy production.\n\nThe hydrogen being produced through this geological process is called \"white hydrogen,\" and it represents a largely untapped resource. Unlike hydrogen produced through conventional industrial methods, this naturally occurring gas requires no energy input to generate—it forms through natural chemical reactions within the rock layers themselves.\n\nIf this source proves abundant and economically viable to extract, it could provide another important tool in the transition to clean energy. The discovery suggests that hydrogen reserves may exist in many locations worldwide, potentially offering communities a new path toward sustainable power.",
-  "category": "progress",
+  "headline": "Canada Taps Into Natural Hydrogen Hidden Beneath Its Soil",
+  "meta_description": "Canadian scientists discover natural hydrogen gas flowing from underground rocks, offering a clean energy source that could power homes and industries.",
+  "summary_short": "Researchers in Canada have discovered that ancient rocks naturally produce hydrogen gas—a clean energy source that may be cheaper and more accessible than expected.",
+  "body": "A team of Canadian geologists has made an unexpected discovery: the rocks beneath our feet are quietly producing hydrogen gas, and there's plenty of it.\n\nWhile studying an active mine near Timmins, Ontario, researchers found that boreholes drilled by gold miners release about 8 kilograms of hydrogen gas annually. With nearly 15,000 boreholes across the site, the total output exceeds 140 metric tonnes per year—enough to generate approximately 4.7 million kilowatts of energy, meeting the yearly needs of more than 400 homes.\n\nThe discovery goes further. In Saskatchewan, exploration company MAX Power drilled 1.2 miles through prairie bedrock and struck what the company calls a \"discovered geological system.\" The sample returned a 28% hydrogen concentration, remarkably free of toxic hydrogen sulphide.\n\n\"Natural hydrogen is produced over time through underground chemical reactions between rocks and groundwaters,\" explains Professor Barbara Sherwood Lollar of the University of Toronto. \"Canada is blessed that vast amounts of its territories contain the right rocks and minerals to create this natural hydrogen.\"\n\nUnlike industrial hydrogen production—which relies on fossil fuels and releases carbon emissions—this \"white hydrogen\" flows naturally from the earth. It's a resource that could help Canada power remote communities and industries while reducing dependence on imported fuels. The discovery suggests that similar hydrogen-producing rocks may exist worldwide, opening possibilities for clean energy far beyond Canada's borders.",
+  "category": "science",
   "tags": [
-    "clean-energy",
     "hydrogen",
+    "clean-energy",
+    "canada",
     "geology",
-    "canada"
+    "sustainability"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/canada-successfully-exploring-for-white-hydrogen-gas-a-clean-power-source-beneath-existing-mines/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/16274068/pexels-photo-16274068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Miguel Delima",
-  "photo_credit_url": "https://www.pexels.com/@miguel-delima-1419393"
+  "photo_credit_url": "https://www.pexels.com/@miguel-delima-1419393",
+  "rewritten": "2026-07-17T14:39:04Z"
 }

@@ -1,16 +1,17 @@
 {
   "id": "2409f358d8ea9ad4",
   "slug": "paris-seine-cooling-system-2409",
-  "headline": "Paris Harnesses the Seine to Cool Buildings Naturally",
-  "meta_description": "Paris is using the Seine river to cool thousands of buildings without air conditioning, reducing urban heat and energy waste.",
-  "summary_short": "Paris has engineered an ingenious system that uses the Seine river to naturally cool thousands of buildings, cutting energy use and heat pollution.",
-  "body": "As cities grow hotter, most reach for the same solution: air conditioning units pulling heat from indoors and dumping it outside. When millions of units operate together on a sweltering day, they paradoxically make streets hotter, intensifying the heat that drives the next crisis. Paris found another way.\n\nThe city has tapped the Seine itself as a natural cooling system. Rather than forcing buildings to generate and expel their own waste heat, the river's water circulates through a network, absorbing excess warmth and carrying it away. Thousands of buildings now benefit from this approach.\n\nThe system is elegant because it solves multiple problems at once. It reduces energy consumption—meaning less electricity demand and fewer emissions from power plants. It lowers street temperatures, making neighbourhoods more liveable during heat waves. And it works with the city's natural geography instead of against it, turning a river that runs through Paris into an infrastructure asset. It's a reminder that sometimes the best solutions aren't the newest technologies, but the wisdom to work with what's already there.",
+  "headline": "Paris Taps the Seine to Cool an Entire City",
+  "meta_description": "Paris is tripling its underground network that uses river water to cool buildings naturally, reducing energy use and urban heat.",
+  "summary_short": "For 30 years, Paris has quietly built an ingenious system. Now it's expanding dramatically to cool the whole city.",
+  "body": "Millions of air conditioners running on a hot day create a vicious cycle: each unit pushes heat outside, warming the streets, making cooling harder tomorrow. Paris found a way to break it.\n\nBeneath the city's streets runs Fraîcheur de Paris—\"the freshness of Paris\"—a network of 120 kilometers of pipes that draws cold water directly from the Seine. The system works like a city-wide cooling utility. Water from the river circulates through buildings via heat exchangers, absorbing warmth without ever touching the return water, then flows back to the Seine slightly warmer than it left. Environmental monitoring shows these temperature changes cause no measurable harm to the river's ecology.\n\nThe Louvre, hospitals, and major office districts already rely on this network. Now Paris is betting big on its future. By 2042, the city plans to triple the system's size, connecting over 3,000 buildings across all arrondissements. A €2.4 billion contract renewed in 2022 will fund the expansion, with hospitals, schools, and retirement homes prioritized.\n\nThe logic is spreading. Stockholm uses the Baltic Sea; Toronto draws from Lake Ontario. But these systems only work where conditions align—dense enough demand and the right water source nearby. London's Thames doesn't qualify. The real question: as Paris expands, will residents stop installing individual air conditioners and actually reduce the waste heat warming their streets?",
   "category": "progress",
   "tags": [
     "cooling",
-    "energy-efficiency",
-    "urban-design",
-    "sustainability"
+    "climate",
+    "paris",
+    "sustainability",
+    "innovation"
   ],
   "source_name": "The Optimist Daily",
   "source_url": "https://www.optimistdaily.com/2026/07/how-paris-uses-the-seine-to-cool-thousands-of-buildings-without-ac/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/32393661/pexels-photo-32393661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Stephen Leonardi",
-  "photo_credit_url": "https://www.pexels.com/@stephen-leonardi-587681991"
+  "photo_credit_url": "https://www.pexels.com/@stephen-leonardi-587681991",
+  "rewritten": "2026-07-17T14:46:02Z"
 }

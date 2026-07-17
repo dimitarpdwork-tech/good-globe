@@ -1,14 +1,16 @@
 {
   "id": "58aabf9040854739",
   "slug": "mummy-homer-iliad-discovery-58aa",
-  "headline": "Ancient Egyptian Mummy Reveals Homer's Iliad Papyrus",
-  "meta_description": "A 1,600-year-old Egyptian mummy contained a fragment of Homer's Iliad, marking the first known evidence of Greek literature intentionally used in mummification.",
-  "summary_short": "Archaeologists discovered a fragment of Homer's Iliad inside a 1,600-year-old Egyptian mummy, offering a first glimpse of Greek texts in ancient burial practices.",
-  "body": "When Egyptian archaeologists unwrapped a 1,600-year-old mummy, they made a discovery that surprised even the most seasoned researchers: a papyrus fragment containing part of Homer's Iliad, specifically the famous \"Catalogue of Ships\" section. The text had been deliberately placed within the wrappings during the mummification process.\n\nThis find is unprecedented. It marks the first archaeological evidence that ancient Egyptians intentionally incorporated Greek literature into mummification rituals, revealing a fascinating cultural bridge between two ancient civilizations. The discovery enriches our understanding of how different cultures exchanged ideas, honored their dead, and valued the written word across centuries and boundaries.",
+  "headline": "Ancient Mummy Yields Unexpected Literary Treasure",
+  "meta_description": "Archaeologists in Egypt uncovered Homer's Iliad inside a 1,600-year-old mummy, marking the first known literary text deliberately placed in an ancient burial.",
+  "summary_short": "A remarkable find at an Egyptian archaeological site reveals Homer's Iliad was deliberately placed inside a Roman-era mummy 1,600 years ago.",
+  "body": "In a discovery that bridges two thousand years of history, archaeologists working near Cairo have uncovered something extraordinary: a papyrus fragment of Homer's Iliad, deliberately placed inside a 1,600-year-old mummy during the embalming process.\n\nThe find emerged during excavations at Al Bahnasa, in the ancient city of Oxyrhynchus, about 190 kilometers south of Cairo. A team led by Núria Castellano uncovered the papyrus resting on a mummy's abdomen in Tomb 65, positioned as part of the funerary ritual itself. Expert analysis identified the text as the \"Catalogue of Ships\"—one of Western literature's most celebrated passages, describing Greek forces preparing for the Trojan War.\n\nWhat makes this discovery genuinely novel is not simply finding Greek papyri in burials; researchers had previously encountered texts in such contexts. But those earlier finds were invariably magical or ritual in nature. This is the first time a literary work has been identified serving this funerary purpose.\n\n\"This is the real novelty,\" explained Professor Ignasi-Xavier Adiego, director of the project at the University of Barcelona. The discovery hints at something deeper: how profoundly Homer's epic was woven into the cultural life of Greco-Roman Egypt, valued enough to accompany the dead into eternity.\n\nThe University of Barcelona's Oxyrhynchus mission, running since 1992, continues revealing how ancient communities preserved what mattered most.",
   "category": "culture",
   "tags": [
     "archaeology",
-    "ancient-history",
+    "ancient-egypt",
+    "homer",
+    "literature",
     "discovery"
   ],
   "source_name": "ScienceDaily",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/29712588/pexels-photo-29712588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "hayriyenur .",
-  "photo_credit_url": "https://www.pexels.com/@hayriyenur-351892318"
+  "photo_credit_url": "https://www.pexels.com/@hayriyenur-351892318",
+  "rewritten": "2026-07-17T14:44:45Z"
 }

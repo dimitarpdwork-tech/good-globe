@@ -1,16 +1,16 @@
 {
   "id": "94312383f940845b",
   "slug": "greece-nanosatellites-wildfire-detection-9431",
-  "headline": "Greece Launches Tiny Satellites to Catch Wildfires Early",
-  "meta_description": "Four nanosatellites smaller than carry-on bags now detect wildfires when they are just 13 feet across—far earlier than conventional satellites.",
-  "summary_short": "Greece has deployed four nanosatellites that detect wildfires at just 4 meters wide, catching fires 100 times earlier than conventional satellites.",
-  "body": "Conventional satellite technology has a serious limitation when it comes to wildfire detection: fires must grow to roughly the size of a cruise ship before they become visible from orbit. This delay can mean the difference between a contained incident and a catastrophic blaze. Greece saw an opportunity to change this equation.\n\nIn May, the country launched four OroraTech nanosatellites into low Earth orbit. Each device is smaller than a carry-on suitcase, yet capable of detecting a wildfire when it is only about 4 meters (13 feet) across. This represents a dramatic leap in early warning capability—catching fires approximately 100 times smaller than conventional systems can detect.\n\nThe implications for fire management are substantial. Earlier detection means faster response, which can dramatically improve the chances of containing a fire before it spreads widely. For a Mediterranean region increasingly threatened by wildfires, this technological advancement offers a concrete tool for protecting communities and landscapes.",
+  "headline": "Greece's Tiny Satellites Spot Wildfires Before They Spread",
+  "meta_description": "Greece deploys nanosatellites to detect wildfires at just four meters across, catching fires hours earlier than traditional methods.",
+  "summary_short": "Four shoebox-sized satellites now scan Greece hourly for wildfires, detecting them at a quarter the size conventional satellites can spot.",
+  "body": "In May, Greece became the first country to launch satellites designed specifically for wildfire response. The four OroraTech nanosatellites—each smaller than a carry-on bag—orbit overhead scanning for thermal signatures that reveal danger before flames spread beyond control.\n\nConventional satellites can't detect a fire until it reaches the size of a cruise ship. These new ones catch them at just four meters across. That difference means hours of precious time in remote terrain, where wildfires can grow unchecked while no one watches.\n\nHere's how it works: each satellite captures thermal images and feeds them to AI models that analyze data in four-by-four-meter grid cells. The artificial intelligence filters out false alarms from solar panels, factory rooftops, and sun-warmed rock before alerting emergency services. When a fire is confirmed, incident commanders receive location, size, and intensity instantly.\n\nThe system updates every hour with no gaps in coverage—critical during Greece's brutal summer months, when the country faces some of Europe's worst wildfire seasons. Fire Brigade Commander Zisoula Dasiou emphasized that hourly monitoring matters most in isolated valleys and national parks, where small fires can vanish from sight until they become catastrophic.\n\nWith all four satellites now operational and EU-funded, Greece's emergency responders have gained an early-warning system that transforms how they fight nature's fiercest threat.",
   "category": "progress",
   "tags": [
     "wildfire-detection",
-    "nanosatellites",
     "greece",
-    "early-warning"
+    "technology",
+    "climate-resilience"
   ],
   "source_name": "The Optimist Daily",
   "source_url": "https://www.optimistdaily.com/2026/07/greece-launches-nanosatellite-system-to-catch-wildfires-early/",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "SpaceX",
-  "photo_credit_url": "https://www.pexels.com/@spacex"
+  "photo_credit_url": "https://www.pexels.com/@spacex",
+  "rewritten": "2026-07-17T14:42:57Z"
 }

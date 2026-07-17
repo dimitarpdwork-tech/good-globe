@@ -1,17 +1,16 @@
 {
   "id": "0ce1ca6e5011fa15",
   "slug": "ai-water-structure-mystery-0ce1",
-  "headline": "AI Solves Water's Mysterious Structural Puzzle",
-  "meta_description": "Osaka researchers used artificial intelligence to crack water's structural mystery, identifying how supercooled water behaves at the molecular level.",
-  "summary_short": "Using AI, scientists have solved a long-standing mystery about how supercooled water structures itself at the molecular level.",
-  "body": "Water harbors one of nature's most intriguing secrets: when supercooled, it exhibits bizarre behaviors that have puzzled scientists for years. The challenge lay not in observing these strange properties, but in understanding the microscopic structures responsible for them. Researchers at the University of Osaka deployed artificial intelligence to cut through this complexity, training an AI model on computer simulations to evaluate 16 different ways of describing water's molecular arrangement.\n\nThe result was a breakthrough in clarity. The AI system identified which structural descriptors most effectively distinguished between water's two competing liquid states, providing researchers with a much sharper framework for understanding supercooled water. This achievement demonstrates how computational intelligence can illuminate nature's deepest puzzles, giving scientists clearer vision into the molecular foundations of everyday substances. The work opens pathways to better understanding phase transitions and the peculiar physics of water that makes life itself possible.",
+  "headline": "AI Finally Cracks Water's Ancient Structural Secret",
+  "meta_description": "Researchers at University of Osaka used artificial intelligence to solve one of nature's biggest puzzles about water's molecular behavior.",
+  "summary_short": "Scientists have finally decoded water's hidden molecular patterns using AI, solving a mystery that has puzzled researchers for decades.",
+  "body": "Water is everywhere on Earth, yet it refuses to behave like other liquids. It expands when it freezes. It acts even stranger when supercooled—remaining liquid far below its normal freezing point. For years, scientists suspected these oddities came from changes in water's microscopic structure, but they lacked a unified way to describe what they were seeing.\n\nResearchers at the University of Osaka have now used artificial intelligence to change that. Their neural network system evaluated 16 different methods scientists use to describe water's molecular arrangement, identifying which ones capture the most important structural features.\n\nThe key breakthrough involved studying supercooled water—liquid water that has been chilled below freezing point without ice crystals forming. At this molecular level, scientists believe water exists in two competing states: a high-density liquid and a low-density liquid, constantly shifting as temperature changes. Past structural descriptors, developed independently over decades, used different scales and measurements, making direct comparison impossible.\n\nBy training the AI on computer simulations of supercooled water, the system learned to recognize which descriptors most efficiently distinguished between these two competing structures. The findings, published in Communications Chemistry, offer a clearer framework for understanding one of nature's most mysterious substances—potentially unlocking answers about water's unusual properties and guiding future research tools.",
   "category": "science",
   "tags": [
     "water",
-    "ai",
-    "physics",
-    "supercooled",
-    "osaka"
+    "artificial-intelligence",
+    "molecular-science",
+    "discovery"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
@@ -19,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8533093/pexels-photo-8533093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Artem Podrez",
-  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+  "photo_credit_url": "https://www.pexels.com/@artempodrez",
+  "rewritten": "2026-07-17T14:36:22Z"
 }

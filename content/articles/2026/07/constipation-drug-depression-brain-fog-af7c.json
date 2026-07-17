@@ -1,15 +1,17 @@
 {
   "id": "af7c44b40c171caf",
   "slug": "constipation-drug-depression-brain-fog-af7c",
-  "headline": "Old Depression Drug Shows Unexpected Promise for Brain Fog",
-  "meta_description": "A medication long used for constipation may help people recovering from depression regain clarity and focus—early research shows remarkable improvements in mem…",
-  "summary_short": "Researchers discovered that prucalopride, a common digestive medication, helps clear the persistent mental cloudiness that lingers after depression, improving memory and…",
-  "body": "A medication that has been used to treat constipation for years may offer unexpected relief for people struggling with depression-related brain fog. In a small clinical trial, patients with a history of depression who took prucalopride for about a week showed measurable improvements in memory, attention, and thinking speed compared to those given a placebo.\n\nThe mechanism behind this discovery lies in how the drug works. Prucalopride targets a serotonin receptor that exists in both the gut and the brain, suggesting a previously underappreciated connection between digestive health and mental clarity.\n\nThese early findings are encouraging for the millions of people who experience persistent cognitive difficulties as they recover from depression. Further research could validate this approach and offer a new option for those seeking to reclaim their mental sharpness.",
+  "headline": "A Constipation Drug Unexpectedly Clears Depression's Lingering Brain Fog",
+  "meta_description": "Researchers find that prucalopride, a licensed constipation medication, helps restore memory and concentration in people recovering from depression.",
+  "summary_short": "An existing constipation drug shows surprising promise for clearing the mental fog that lingers after depression recovery, new research reveals.",
+  "body": "For people recovering from depression, the hardest part often comes after the sadness lifts. Memory falters. Concentration scatters. Mental \"brain fog\" persists, sometimes for months.\n\nNow, researchers at the University of Birmingham and University of Oxford have discovered an unlikely solution hiding in plain sight: a medication already prescribed for chronic constipation.\n\nIn a clinical trial published in Psychological Medicine, fifty adults with a history of depression took either prucalopride or a placebo for seven to ten days. Those receiving prucalopride—the standard 2mg dose normally used for bowel issues—performed noticeably better on memory and attention tests. They answered more accurately and responded faster than the placebo group.\n\nThe drug works by activating a specific serotonin receptor found in both gut and brain. What makes this discovery remarkable isn't just the results, but the simplicity: participants experienced no significant side effects during the study.\n\n\"Cognitive problems are an important and often overlooked feature of depression,\" says Dr. Angharad de Cates, the study's lead researcher. The findings suggest that existing serotonin-targeting medications might be repurposed to help millions struggling with depression's stubborn aftermath—transforming an ordinary constipation drug into an unexpected gift for clearer thinking.",
   "category": "health",
   "tags": [
-    "mental-health",
     "depression",
-    "medication"
+    "brain-fog",
+    "cognitive-health",
+    "medication",
+    "mental-wellness"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8533136/pexels-photo-8533136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Artem Podrez",
-  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+  "photo_credit_url": "https://www.pexels.com/@artempodrez",
+  "rewritten": "2026-07-17T14:40:06Z"
 }

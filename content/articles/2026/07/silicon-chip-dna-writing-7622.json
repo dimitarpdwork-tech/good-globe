@@ -1,17 +1,17 @@
 {
   "id": "7622f1bdbc76afad",
   "slug": "silicon-chip-dna-writing-7622",
-  "headline": "Silicon Chip Breakthrough Enables DNA Writing at Scale",
-  "meta_description": "Harvard scientists have created a silicon chip that writes DNA sequences using electricity, offering a cleaner manufacturing method with future applications in…",
-  "summary_short": "Harvard researchers have developed a silicon chip that writes DNA sequences simultaneously, potentially revolutionizing how we manufacture genetic material.",
-  "body": "A significant breakthrough in biotechnology has emerged from Harvard scientists who have engineered a silicon chip capable of writing multiple DNA sequences at once using electricity and water-based enzymes. This innovation offers a cleaner, more efficient alternative to traditional DNA manufacturing methods. The approach harnesses simple tools—electricity and enzymes—to accomplish what previously required more complex chemical processes.\n\nThe potential applications stretch far into the future. Portable DNA-writing devices could eventually bring genetic technology to remote laboratories and field settings. Even more ambitiously, the underlying principle could support massive DNA data storage systems. While the technology still requires further refinement before reaching full-scale practical use, the achievement represents a genuine leap forward in our ability to work with genetic material. Such advances promise to reshape medicine, biotechnology, and our fundamental capacity to understand and engineer life itself.",
+  "headline": "Harvard Chip Transforms DNA Manufacturing Into Water-Based Process",
+  "meta_description": "Harvard researchers created a silicon chip that writes 64 DNA sequences simultaneously using water and electricity, offering a cleaner alternative to tradition…",
+  "summary_short": "Harvard's new silicon chip synthesizes DNA using water-based enzymes instead of hazardous solvents, potentially making genetic research safer and more accessible.",
+  "body": "When Jeffrey Abbott designed electronics to record neuron activity, he didn't know he was building a DNA factory. Yet that's exactly what happened when Harvard researchers repurposed his silicon chip for an entirely different purpose.\n\nThe team, led by Donhee Ham at Harvard's School of Engineering and Applied Sciences, discovered that the precision current control used for studying brain cells could be redirected to manufacture DNA. Their breakthrough, published in Nature Electronics, demonstrates a chip capable of synthesizing 64 different DNA sequences simultaneously—a significant leap from the dozen sequences previous enzymatic methods could produce.\n\nThe innovation replaces the hazardous organic solvents used in conventional DNA manufacturing with water and naturally occurring enzymes. Tiny electrical currents activate specific locations on the chip's surface, each featuring concentric ring electrodes that lower the local pH just enough for DNA molecules to grow, one nucleotide at a time.\n\nThis matters because synthetic DNA is vital for diagnostics, cancer research, and genome engineering. Yet today's manufacturing typically requires specialized centralized facilities. A water-based approach could enable smaller, safer systems accessible to more laboratories.\n\nThe researchers even encoded a 169-byte text message using their 64 synthesized sequences, hinting at a tantalizing future: DNA data storage at enormous scale. While that remains years away, the path forward is becoming clearer.",
   "category": "science",
   "tags": [
-    "dna",
-    "biotechnology",
-    "silicon-chip",
-    "innovation",
-    "harvard"
+    "dna-synthesis",
+    "biotech",
+    "harvard",
+    "green-chemistry",
+    "innovation"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
@@ -19,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8976794/pexels-photo-8976794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "turek",
-  "photo_credit_url": "https://www.pexels.com/@turek3024"
+  "photo_credit_url": "https://www.pexels.com/@turek3024",
+  "rewritten": "2026-07-17T14:47:55Z"
 }

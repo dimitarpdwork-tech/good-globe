@@ -1,15 +1,17 @@
 {
   "id": "4dda6c761340af5d",
   "slug": "cyanide-free-gold-extraction-4dda",
-  "headline": "Quebec Firm Develops Cleaner Gold Mining Method",
-  "meta_description": "A Quebec chemical company has created a cyanide-free method to extract gold, significantly reducing environmental harm from mining operations.",
-  "summary_short": "Dundee Sustainable Technologies has pioneered a non-toxic alternative to traditional gold extraction, reducing mining's environmental footprint.",
-  "body": "Mining has long relied on chemicals like cyanide to extract gold from ore, creating serious environmental risks. Now a Quebec-based firm, Dundee Sustainable Technologies, has developed a cyanide-free method that maintains extraction efficiency while eliminating toxic exposure.\n\nThe company has also created GlassLock, a patented process that tackles another major mining challenge: handling arsenic and other hazardous byproducts safely. These innovations allow mining operations to meet environmental standards more easily and reduce their toxic burden on surrounding ecosystems.\n\nThe breakthrough matters because it shows that industries built on harmful practices can evolve. By offering companies a genuinely safer alternative, this technology creates room for mining to continue while protecting both workers and the environment from unnecessary poison.",
+  "headline": "Quebec Firm Cuts Gold Mining's Environmental Toll",
+  "meta_description": "A Quebec chemical firm has developed a cyanide-free method to extract gold, eliminating toxic arsenic through an innovative glass process.",
+  "summary_short": "Dundee Sustainable Technologies has created a safer way to mine gold without cyanide, converting arsenic into inert glass instead of toxic waste.",
+  "body": "When Freegold Ventures tested a new gold extraction method on ore from Alaska's Golden Summit project, the results told a compelling story about how chemistry can reshape mining's environmental footprint.\n\nThe process, called GlassLock and developed by Quebec's Dundee Sustainable Technologies, replaced cyanide leaching with sodium hypochlorite and sodium hypobromite—chemicals that work at room temperature in just 2 hours instead of the traditional 36-hour cyanide method. But the real breakthrough lies in what happens to arsenic, one of mining's most stubborn environmental problems.\n\nInstead of ending up in tailings ponds—the manmade lakes that can rupture during storms or earthquakes—the arsenic is transformed into inert glass by mixing it with silica, recycled glass, and hematite. In testing, the process recovered 95% of gold while isolating 98% of arsenic, reducing its toxicity from 7% to just 0.17%.\n\nFor mining companies already navigating 8 to 20 years of environmental permitting in North America, this matters enormously. Removing the need for tailings ponds eliminates a persistent regulatory headache while actually protecting the ecosystems surrounding mining operations. It's an example of how cleaner technology can make responsible resource extraction work better—for both industry and the environment.",
   "category": "progress",
   "tags": [
     "mining",
-    "sustainability",
-    "environmental-protection"
+    "environment",
+    "clean-technology",
+    "gold",
+    "canada"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/quebec-firm-pioneers-cyanide-free-gold-extraction-and-arsenic-capture-to-clean-up-mining-industry/",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/36147114/pexels-photo-36147114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Wolfgang Weiser",
-  "photo_credit_url": "https://www.pexels.com/@wolfgang-weiser-467045605"
+  "photo_credit_url": "https://www.pexels.com/@wolfgang-weiser-467045605",
+  "rewritten": "2026-07-17T14:40:26Z"
 }

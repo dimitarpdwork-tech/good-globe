@@ -1,16 +1,16 @@
 {
   "id": "d9cc5e73d11a4973",
   "slug": "particle-detector-camera-technology-d9cc",
-  "headline": "New Camera Technology Tracks Invisible Particles in 3D Detail",
-  "meta_description": "Scientists have created PLATON, a revolutionary particle detector that could transform physics research and medical imaging.",
-  "summary_short": "A breakthrough particle detector called PLATON could revolutionize physics research and make medical scans sharper and more accessible.",
-  "body": "Particle physics research has long relied on massive, complex detector systems containing millions of tiny components working in concert to track subatomic particles. Now, scientists have reimagined this approach entirely. A new device called PLATON combines a light-field camera, highly sensitive photon sensors, and artificial intelligence to achieve something that seemed impossible: tracking invisible particles in detailed three-dimensional space using a single block of light-producing material.\n\nThe implications are profound. PLATON could match or surpass the performance of today's best particle detectors while being far simpler to manufacture and scale. This simplification opens doors—making cutting-edge physics research more accessible to more institutions and more researchers worldwide.\n\nBeyond fundamental physics, the technology promises practical benefits closer to home. Medical PET scans, which use similar detection principles to diagnose cancer and other diseases, could become sharper and more precise. What began as a solution to a challenge in particle physics may ultimately help doctors see disease more clearly and help patients receive better diagnoses. The innovation shows how solving one scientific puzzle can ripple outward in unexpected and beneficial ways.",
+  "headline": "Breakthrough Camera Simplifies the Hunt for Invisible Particles",
+  "meta_description": "Scientists replace millions of detector parts with one block of material using light-field camera technology and AI to track elusive particles.",
+  "summary_short": "Researchers at ETH Zurich have built a revolutionary particle detector that could transform how physicists search for neutrinos and dark matter.",
+  "body": "For decades, particle physicists have faced an engineering nightmare: detecting invisible particles requires vast networks of millions of tiny components. The T2K neutrino experiment in Japan, for example, relies on approximately two million detector cubes and 60,000 optical fibers to track particle movements through just two tons of material.\n\nNow, scientists at ETH Zurich and EPFL have proposed something radically simpler. Their new detector, called PLATON, replaces all those individual components with a single unsegmented block of light-producing material paired with advanced camera technology.\n\nThe innovation draws inspiration from plenoptic cameras—devices that capture not just light intensity but also the direction light arrives from. When combined with extremely sensitive photon sensors and artificial intelligence, this approach reconstructs the three-dimensional paths of particles passing through the detector.\n\nIn laboratory tests, the prototype successfully detected electrons and tracked their positions using remarkably faint light signals—as few as five detected photons. The timing-sensitive sensor also filters out background noise, focusing only on authentic particle signals.\n\nSimulations suggest PLATON could match today's best detectors while being far easier to manufacture and scale. The breakthrough even promises sharper medical PET scans, showing how physics innovations often ripple into unexpected applications.",
   "category": "science",
   "tags": [
     "particle-physics",
     "detector-technology",
-    "medical-imaging",
-    "innovation"
+    "innovation",
+    "neutrino-research"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/6208712/pexels-photo-6208712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "cottonbro studio",
-  "photo_credit_url": "https://www.pexels.com/@cottonbro"
+  "photo_credit_url": "https://www.pexels.com/@cottonbro",
+  "rewritten": "2026-07-17T14:46:08Z"
 }

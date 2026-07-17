@@ -1,16 +1,17 @@
 {
   "id": "a9753cfbf08069ca",
   "slug": "gold-tarnish-mystery-solved-a975",
-  "headline": "Gold's Hidden Defense: Scientists Unlock Why It Never Tarnishes",
-  "meta_description": "Researchers discover how gold atoms protect themselves from oxidation, opening doors to stronger catalysts for clean energy and manufacturing.",
-  "summary_short": "Scientists have finally explained gold's remarkable resistance to tarnishing—and the discovery could revolutionize clean energy technology.",
-  "body": "Gold has captivated humanity for millennia, prized not only for its beauty but for its mysterious ability to remain lustrous across centuries. Now, researchers have solved a fundamental puzzle: how does gold protect itself from tarnishing?\n\nThe answer lies in the atoms themselves. Scientists found that atoms on gold surfaces naturally reorganize into specific patterns that form a barrier against oxygen, preventing oxidation from occurring. This self-defense mechanism is remarkably effective, suppressing oxidation by up to a trillion-fold—explaining why gold jewelry can gleam for generations without losing its shine.\n\nBeyond settling a centuries-old question, this discovery has profound practical implications. Understanding gold's atomic protection strategy could help scientists develop more powerful catalysts based on gold for manufacturing processes and clean energy applications, potentially accelerating progress toward sustainable technologies.",
+  "headline": "Why Your Gold Jewelry Will Outlast You",
+  "meta_description": "Researchers at Tulane University discovered gold's atomic secret: surface atoms rearrange to block oxygen, keeping jewelry bright for centuries.",
+  "summary_short": "Scientists finally understand why gold never tarnishes—and the answer could revolutionize clean energy technology.",
+  "body": "For centuries, gold has kept its shine while silver darkens and copper oxidizes. Now researchers at Tulane University have solved the mystery: gold's atoms are smarter than we thought.\n\nUsing computer simulations, Matthew Montemore and Santu Biswas discovered that atoms on gold's surface naturally reorganize themselves into protective patterns that make it nearly impossible for oxygen to react with the metal. The effect is stunning—these rearrangements reduce oxidation reactions by a factor of a billion to a trillion.\n\n\"People have generally thought gold doesn't tarnish simply because it doesn't interact strongly with oxygen,\" Montemore explained in the study published in Physical Review Letters. \"What we show is that the surface atoms actually rearrange themselves in a way that makes the gold much more resistant to oxidation.\"\n\nThe discovery does more than explain why your grandmother's ring still gleams. It opens a surprising door to better catalysts—substances that speed up chemical reactions. Gold catalysts are already used to manufacture vinyl acetate for plastics and remove carbon monoxide from exhaust, yet their resistance to oxygen limits their effectiveness.\n\nBy understanding how to control gold's surface geometry, scientists may finally unlock its potential as a powerful catalyst for industrial manufacturing and clean energy technologies. The metal that has long protected our treasures might soon help protect our planet.",
   "category": "science",
   "tags": [
     "gold",
-    "chemistry",
+    "science",
     "catalysts",
-    "clean-energy"
+    "chemistry",
+    "innovation"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/12214777/pexels-photo-12214777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Marek Piwnicki",
-  "photo_credit_url": "https://www.pexels.com/@marek-piwnicki-3907296"
+  "photo_credit_url": "https://www.pexels.com/@marek-piwnicki-3907296",
+  "rewritten": "2026-07-17T14:42:49Z"
 }

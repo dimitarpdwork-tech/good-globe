@@ -1,16 +1,16 @@
 {
   "id": "dfe3f8215fe721c5",
   "slug": "indigenous-values-guide-ai-development-dfe3",
-  "headline": "Indigenous Wisdom Shapes the Future of AI Ethics",
-  "meta_description": "Researchers highlight how Indigenous environmental principles could inform responsible artificial intelligence development and protect communities.",
-  "summary_short": "Indigenous leaders are bringing their communities' values into conversations about AI development, offering wisdom from generations of sustainable practice.",
-  "body": "As artificial intelligence grows rapidly across industries, Indigenous activists and researchers are stepping forward to ensure that community values shape how these powerful technologies develop. Nicole Horseherder, a Navajo environmental advocate, draws connections between the harms of extractive industries and the risks of uncontrolled AI expansion, both threatening to communities without their consent or benefit.\n\nBy centering Indigenous knowledge about long-term sustainability and collective wellbeing, rather than purely technical optimization, decision-makers can build AI systems that serve people and ecosystems rather than exploit them. This emerging conversation shows how ancestral wisdom and modern innovation can strengthen each other when given equal voice.",
+  "headline": "Ancient Knowledge Becomes AI's Ethical Compass",
+  "meta_description": "Researchers integrate Indigenous ecological knowledge into AI governance, showing how concepts like balance and guardianship can reshape technology ethics.",
+  "summary_short": "A groundbreaking study reveals how Navajo and Māori philosophical traditions offer practical ethical frameworks for responsible AI development.",
+  "body": "When Nicole Horseherder fights to protect water from industrial exploitation in Arizona, she sees a troubling parallel: both unsustainable development and artificial intelligence advance with little regard for their true cost.\n\nA Navajo environmental activist and co-founder of Tó Nizhóní Ání (Sacred Water Speaks), Horseherder understands that Indigenous knowledge isn't simply data to be extracted. It represents thousands of years of careful observation—communities in the high deserts, river valleys, and arid landscapes of the Southwest have each developed sophisticated local understanding of their environments.\n\nNow researchers are formally integrating this wisdom into AI governance. A recent study published in AI and Ethics journal draws on Navajo philosophy of Hózhó (balance and harmony) and the Māori value of Kaitiakitanga (guardianship) to reshape how we build and deploy AI systems. Rather than pursuing technological expansion at any cost, these frameworks ask a simple but radical question: Is this AI model's environmental impact justifiable?\n\nThe practical benefits are real. When AI tools are developed with Indigenous communities—as they're being used to track deforestation in the Congo Basin and illegal mining in the Amazon—they become more accurate and trustworthy.\n\nYet the real story lies deeper: when communities aren't consulted, projects fail. Google's proposed data center in Chile was ultimately abandoned after local resistance. Good technology, the research suggests, requires listening first.",
   "category": "progress",
   "tags": [
-    "indigenous-leadership",
+    "indigenous-knowledge",
     "ai-ethics",
-    "sustainability",
-    "community-voice"
+    "environmental-impact",
+    "community-centered-tech"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/2026/07/in-ai-race-indigenous-values-could-guide-environmental-issues-researchers-suggest/",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/20349399/pexels-photo-20349399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Marie-Claude Vergne",
-  "photo_credit_url": "https://www.pexels.com/@marie-claude-vergne-316473708"
+  "photo_credit_url": "https://www.pexels.com/@marie-claude-vergne-316473708",
+  "rewritten": "2026-07-17T14:43:51Z"
 }

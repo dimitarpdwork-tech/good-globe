@@ -1,16 +1,17 @@
 {
   "id": "e111917509ccd384",
   "slug": "nepal-ai-monkey-crop-protection-e111",
-  "headline": "Nepal Uses AI to Protect Crops From Crop-Raiding Macaques",
-  "meta_description": "Farmers in Nepal are testing AI technology to detect and deter macaques from raiding maize fields, reducing crop damage.",
-  "summary_short": "Farmers in Nepal are gaining a powerful new ally in their fields: artificial intelligence. AI systems now help detect macaques before they raid crops, giving villagers b…",
-  "body": "In the villages of central Nepal, dawn has long meant a tense vigil. Farmers stand guard over maize fields, eyes scanning the treeline for movement, knowing that even a brief absence can mean considerable crop damage when macaques arrive. The burden of protection has fallen heavily on families who cannot afford to lose their harvest.\n\nNow, AI technology is beginning to change that equation. Instead of relying solely on human vigilance, villages are testing systems that can detect macaques approaching the fields. The technology offers farmers a chance to respond before damage occurs, rather than simply managing loss after the fact.\n\nThis application of artificial intelligence represents a practical solution to a very real problem. For farming communities where crops are survival, the ability to protect yields through smarter technology can mean the difference between a successful season and hardship. It is a reminder that innovation need not be distant or abstract—sometimes it simply means bringing a new tool to an old challenge.",
+  "headline": "Nepal's Farmers Get AI Eyes in the Sky to Fight Crop-Raiding Monkeys",
+  "meta_description": "Researchers in Nepal are testing AI systems to detect macaques raiding crops, achieving 88% accuracy as farmers struggle with mounting losses.",
+  "summary_short": "Nepali farmers standing guard at dawn against crop-raiding macaques may soon have high-tech help. Researchers are testing AI systems that detect monkeys with 88% accurac…",
+  "body": "At dawn in Birta Deurali village in central Nepal, farmers take turns scanning maize fields for movement, beating drums and waving burning sticks to chase away rhesus macaques. It's exhausting work—and it's not always enough.\n\nSunmaya Lama, a 32-year-old farmer, lost crops worth about $670 over three years. When she approached local government for compensation, she was turned away. \"So we just bear the loss ourselves,\" she said.\n\nThe problem extends far beyond one village. A 2026 study found that nearly half the diet of one macaque troop comes from cultivated crops, and about 15% of Nepal's habitable land experiences moderate to high rates of human-wildlife conflict.\n\nNow, technology is stepping in. At Madan Bhandari University of Science and Technology, researcher Progress Jung Thapa has developed an AI system using cameras and lightweight computers to detect macaques in real time and interpret their behavior. Trained on over 4,000 annotated images, the system achieved around 88% accuracy across 28 field sessions.\n\nThe distinction matters: a watching monkey gives farmers precious seconds to respond, while one already feeding requires immediate action. The system sends alerts directly to farmers' phones, turning detection into defense.\n\nThough researchers acknowledge the technology isn't yet a complete solution, the numbers suggest the core detection capability is maturing quickly—and for exhausted farmers, that's progress worth protecting.",
   "category": "progress",
   "tags": [
-    "ai-technology",
-    "farming",
+    "artificial-intelligence",
+    "agriculture",
     "nepal",
-    "wildlife"
+    "wildlife-conflict",
+    "innovation"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/2026/07/monkey-vs-machine-nepal-tests-ai-to-fight-crop-raiding-macaques/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/20650097/pexels-photo-20650097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "donny yularso",
-  "photo_credit_url": "https://www.pexels.com/@donnyyularso"
+  "photo_credit_url": "https://www.pexels.com/@donnyyularso",
+  "rewritten": "2026-07-17T14:45:06Z"
 }

@@ -1,15 +1,15 @@
 {
   "id": "dca2c2b41481f9e8",
   "slug": "glioblastoma-nanoparticle-therapy-dca2",
-  "headline": "Sugar-Coated Nanoparticles Show 50% Survival Boost Against Brain Cancer",
-  "meta_description": "Researchers have developed a promising experimental treatment for glioblastoma that increased survival by 50% in mouse studies.",
-  "summary_short": "Scientists used sugar-coated nanoparticles to deliver cancer-fighting therapy across the blood-brain barrier, with stunning results.",
-  "body": "Glioblastoma is one of the most aggressive and difficult-to-treat brain cancers, in part because of a natural barrier that protects the brain: the blood-brain barrier. Most therapies cannot cross this protective wall, making it nearly impossible to deliver treatment directly to tumor cells. A team of researchers has now found an elegant solution.\n\nBy coating nanoparticles with sugar, the researchers created a delivery vehicle that the blood-brain barrier recognizes and allows to pass through. These tiny particles carry genetic instructions that restore a crucial tumor-suppressing protein directly inside cancer cells, rebooting the body's own defenses against the tumor. In mouse studies, this approach increased median survival by 50 percent while shrinking tumors without causing noticeable harm to healthy tissue.\n\nThe results are remarkable not just for the survival improvement, but for the strategy itself. By working with the body's biology rather than against it, the researchers have shown a path forward that is both effective and safe. While human trials are still ahead, this breakthrough offers genuine hope to patients and families facing one of medicine's most formidable challenges.",
-  "category": "health",
+  "headline": "Sweet Breakthrough: Sugar-Coated Particles Double Brain Cancer Survival",
+  "meta_description": "Oregon State researchers used mannose-coated nanoparticles to boost glioblastoma survival by 50% in mice, offering hope for this deadly cancer.",
+  "summary_short": "A sugar-coating trick helps medicine cross the brain barrier. In mice, survival from glioblastoma jumped 50%. Human trials may follow.",
+  "body": "The blood-brain barrier is nature's fortress—a tightly controlled network that shields the central nervous system but also blocks most cancer treatments. Researchers at Oregon State University may have finally found the key.\n\nLed by Oleh and Olena Taratula, the team coated tiny lipid nanoparticles with mannose, a sugar related to glucose. Brain cells naturally transport glucose inward through a protein called GLUT1. By tricking that same transporter, the sugar-coated particles slipped across the barrier and into tumor cells.\n\nThe nanoparticles carried genetic instructions to produce PTEN, a protein that stops tumors from growing unchecked. Glioblastoma cells, which express GLUT1 at three times the level of healthy brain tissue, preferentially absorbed the particles.\n\nIn mice, the approach increased median survival by 50% and shrank tumors without harming other organs—a rare combination in cancer research. Glioblastoma remains devastatingly difficult to treat: fewer than 30% of patients survive two years after diagnosis.\n\nPublished in the Journal of Controlled Release, this work represents years of careful chemistry. The innovation wasn't just the sugar coating—it was coating it densely enough to compete with the body's own glucose flooding the bloodstream. It's exactly the kind of lateral thinking that transforms impossible problems into solvable ones.",
+  "category": "science",
   "tags": [
-    "brain-cancer",
-    "glioblastoma",
+    "cancer-research",
     "nanoparticles",
+    "glioblastoma",
     "medical-breakthrough"
   ],
   "source_name": "ScienceDaily",
@@ -18,5 +18,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Artem Podrez",
-  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+  "photo_credit_url": "https://www.pexels.com/@artempodrez",
+  "rewritten": "2026-07-17T14:42:32Z"
 }

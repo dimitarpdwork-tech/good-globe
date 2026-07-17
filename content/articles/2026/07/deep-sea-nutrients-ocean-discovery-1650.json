@@ -1,16 +1,17 @@
 {
   "id": "1650a6cd5f7601b8",
   "slug": "deep-sea-nutrients-ocean-discovery-1650",
-  "headline": "Deep-Sea Microbes Find Unexpected Nutrient Source",
-  "meta_description": "Scientists discovered that extreme deep-sea pressure extracts nutrients from sinking particles, feeding ocean microbes in surprising ways.",
-  "summary_short": "A surprising discovery reveals how deep-ocean pressure creates an unexpected food source that sustains microbial life far below the surface.",
-  "body": "The deep ocean is one of Earth's most extreme environments, yet life persists in ways scientists are still uncovering. Researchers have identified a previously unknown mechanism that feeds the microbes living in these remote depths: the intense pressure itself squeezes valuable nutrients out of sinking organic particles.\n\nAs dead organisms and waste material drift downward from the sunlit waters above, the crushing pressure at the ocean floor breaks down these particles and releases nutrients that would otherwise remain locked inside. This process provides a vital food source for the microbial communities that form the foundation of deep-sea ecosystems.\n\nThe discovery has broader implications for understanding how our planet works. It may change our understanding of how carbon is stored and cycled in Earth's oceans, with consequences for climate science and ocean health. The deep sea continues to reveal its secrets.",
+  "headline": "Ocean's Hidden Pantry: How Deep-Sea Pressure Feeds Marine Life",
+  "meta_description": "Scientists discover that extreme ocean pressure releases nutrients from sinking particles, feeding deep-sea microbes and reshaping our understanding of Earth's…",
+  "summary_short": "Researchers find that crushing deep-ocean pressure squeezes nutrients from sinking organic matter, providing unexpected food for microbes living miles below the surface.",
+  "body": "For decades, scientists assumed deep-sea microbes survived in a nutrient-starved world. New research from the University of Southern Denmark overturns that assumption entirely.\n\nWhen tiny clumps of dead algae and organic material—known as marine snow—sink through the ocean, something unexpected happens around 2 to 6 kilometers depth. The immense hydrostatic pressure acts like a \"giant juicer,\" forcing dissolved carbon and nitrogen out of the particles. Microbes living in the surrounding water immediately consume these leaked nutrients.\n\nThe numbers are striking: sinking marine snow loses up to 50% of its carbon and between 58% and 63% of its nitrogen during descent. In laboratory experiments using diatoms, bacterial abundance surged 30-fold within just two days after exposure to this released material.\n\nThe implications extend far beyond feeding deep-sea bacteria. This discovery could fundamentally reshape how scientists understand Earth's carbon cycle. If substantial carbon escapes these sinking particles before reaching the seafloor, less carbon gets permanently buried in ocean sediments than previously believed. Instead, that carbon remains suspended in deep waters for centuries or millennia before gradually rising back to the surface.\n\nNext, researchers plan Arctic Ocean expeditions aboard the research vessel Polarstern to confirm this pressure-driven mechanism occurs throughout the world's oceans. The study was published in Science Advances.",
   "category": "science",
   "tags": [
-    "ocean",
-    "marine-life",
     "deep-sea",
-    "microbiology"
+    "ocean-science",
+    "carbon-cycle",
+    "marine-microbes",
+    "research"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/932638/pexels-photo-932638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Blaque X",
-  "photo_credit_url": "https://www.pexels.com/@blaque-x-264516"
+  "photo_credit_url": "https://www.pexels.com/@blaque-x-264516",
+  "rewritten": "2026-07-17T14:40:40Z"
 }

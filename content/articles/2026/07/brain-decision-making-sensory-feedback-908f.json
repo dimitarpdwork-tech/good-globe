@@ -1,16 +1,17 @@
 {
   "id": "908f8776c988a0f4",
   "slug": "brain-decision-making-sensory-feedback-908f",
-  "headline": "Brain Decisions Begin Earlier Than Scientists Thought",
-  "meta_description": "New research reveals the brain makes decisions through rapid feedback loops earlier than previously understood.",
-  "summary_short": "The brain is more democratic than we thought. Instead of top-down decision-making, sensory regions influence choices through rapid feedback from higher brain areas.",
-  "body": "Scientists have long understood decision-making as a process that flows upward: sensory information arrives, travels to higher brain regions, and decisions form there. A new study upends that view. The brain, it turns out, works more like a conversation than a lecture—with feedback happening almost instantaneously in both directions.\n\nResearchers discovered that even primary sensory regions receive rapid feedback from higher brain areas, meaning that the process of making a decision begins much earlier than previously thought. Rather than simply passing information forward like a relay baton, sensory regions are already influenced by the brain's higher-level goals and expectations.\n\nThis finding has implications beyond neuroscience. Understanding how biological brains operate through dynamic feedback loops could inspire engineers designing artificial intelligence systems. If AI could mimic the brain's efficient, bidirectional approach rather than relying on linear processing, future computers might think more like humans while using significantly less power. Sometimes the best technology comes from understanding how nature already solved the problem.",
+  "headline": "Your Brain Decides Faster Than Science Once Believed",
+  "meta_description": "Researchers at University of Illinois discovered decision-making starts in early sensory regions, challenging decades of neuroscience theory and inspiring new…",
+  "summary_short": "Brain decisions begin earlier than scientists thought, with new research suggesting sensory regions actively participate in decision-making rather than passively process…",
+  "body": "For decades, neuroscientists believed the brain made decisions like an assembly line: sensory information travels upward through increasingly complex regions until reaching the frontal cortex, where actual decisions happen. A new study from the University of Illinois Grainger College of Engineering has overturned that assumption.\n\nLed by professor Yurii Vlasov, researchers found that even the brain's earliest sensory processing areas—like the primary somatosensory cortex—actively influence decision-making. By recording neural activity in mice navigating a virtual reality corridor, they discovered something unexpected: these early regions aren't simply passing information forward. Instead, they're shaped by feedback loops from higher brain areas, creating a dynamic two-way conversation rather than a one-direction flow.\n\n\"The brain doesn't rely only on step-by-step information flow,\" Vlasov explained. Decision-making depends on interconnected feedback loops that work simultaneously across multiple regions.\n\nThis matters beyond neuroscience. Biological brains accomplish complex tasks using far less energy than today's artificial intelligence systems. By understanding how nature organized decision-making through billions of years of evolution, engineers could build AI that's more efficient, more powerful, and genuinely thoughtful. The research published in the Proceedings of the National Academy of Sciences suggests that future artificial intelligence might finally begin thinking like we actually do.",
   "category": "science",
   "tags": [
     "neuroscience",
-    "brain",
+    "brain-research",
+    "artificial-intelligence",
     "decision-making",
-    "ai"
+    "evolution"
   ],
   "source_name": "ScienceDaily",
   "source_url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Google DeepMind",
-  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind",
+  "rewritten": "2026-07-17T14:38:20Z"
 }

@@ -1,15 +1,17 @@
 {
   "id": "88c345a173178748",
   "slug": "global-seagrass-mapping-ai-technology-88c3",
-  "headline": "AI Maps Global Seagrass Meadows for First Time",
-  "meta_description": "Scientists used artificial intelligence to create the first high-resolution map of seagrass meadows worldwide, revealing critical conservation gaps.",
-  "summary_short": "Researchers have created the first detailed global map of seagrass meadows using AI, revealing where protection is most urgently needed.",
-  "body": "Seagrass meadows support extraordinary marine biodiversity and store carbon efficiently, yet they remain poorly understood and inadequately protected. Scientists at Arizona State University have now created the first high-resolution map of seagrass extent globally using satellite technology and artificial intelligence, revealing the scale and distribution of these vital ecosystems.\n\nThe mapping reveals that nearly seventy percent of the world's seagrass meadows are concentrated off the coasts of just five countries. However, only twenty-one percent of these meadows currently fall within marine protected areas—a significant gap in conservation coverage.\n\nThis breakthrough in mapping technology matters because it transforms seagrass from an overlooked ecosystem into something measurable and manageable. By showing exactly where seagrass meadows exist and where protection is lacking, the map provides a concrete foundation for conservation priorities. Countries and organizations can now target their efforts where they will have the greatest impact, turning data into action for marine ecosystems that sustain both wildlife and human communities.",
+  "headline": "AI Reveals Hidden Ocean Forests—and How to Save Them",
+  "meta_description": "Scientists used AI to map 148,506 km² of seagrass globally for the first time, revealing urgent conservation opportunities.",
+  "summary_short": "Researchers have created the first high-resolution map of Earth's seagrass meadows using satellite imagery and AI—uncovering where these underwater forests need protecti…",
+  "body": "Beneath the waves lies one of Earth's most powerful but overlooked ecosystems. Scientists at Arizona State University have now made it visible: the first high-resolution map of seagrass meadows across the entire globe.\n\nUsing satellite imagery and artificial intelligence, researchers identified 148,506 square kilometers of seagrass—an area larger than England. These underwater flowering plants absorb carbon 35 times faster than terrestrial forests and shelter countless marine species. Yet they've remained largely unmapped, overshadowed by more photogenic coral reefs.\n\nThe discovery reveals both crisis and opportunity. Nearly 80% of seagrass loss occurred outside marine protected areas, suggesting that strategic conservation could make a real difference. The data also shows that five countries—the Bahamas, the United States, Australia, Indonesia, and Cuba—hold 70% of the world's seagrass cover.\n\nBut there's a reason for hope. In South Bay, Los Angeles, and in Cuba, improved water quality has sparked seagrass recovery. \"If the water conditions are good, and there is no disturbance from human activities, it comes back really fast,\" said Jiwei Li, who led the study. That gives conservationists a concrete pathway forward: protect these underwater forests before they vanish, and they'll flourish again. The maps are now available to guide real decisions about where protection matters most.",
   "category": "science",
   "tags": [
+    "seagrass",
     "marine-conservation",
     "artificial-intelligence",
-    "seagrass"
+    "carbon-sequestration",
+    "climate-action"
   ],
   "source_name": "Mongabay",
   "source_url": "https://news.mongabay.com/2026/07/scientists-use-ai-to-produce-first-high-resolution-map-of-global-seagrass-extent/",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/36197844/pexels-photo-36197844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Andrei Simon Amisi",
-  "photo_credit_url": "https://www.pexels.com/@andrei-simon-amisi-2159595332"
+  "photo_credit_url": "https://www.pexels.com/@andrei-simon-amisi-2159595332",
+  "rewritten": "2026-07-17T14:42:38Z"
 }

@@ -1,16 +1,17 @@
 {
   "id": "fa4bb0a8d26a6a36",
   "slug": "nuclear-reactor-tennessee-energy-fa4b",
-  "headline": "Advanced Nuclear Reactor Construction Begins in Tennessee",
-  "meta_description": "A next-generation nuclear reactor plant breaks ground in Oak Ridge, Tennessee, expected to power data centers with advanced clean energy technology by 2030.",
-  "summary_short": "A pioneering advanced nuclear reactor plant has begun construction in Tennessee, designed to provide clean energy for major data centers in the region.",
-  "body": "A nuclear energy firm has broken ground on the first advanced reactor plant of its kind in the United States, located in Oak Ridge, Tennessee. The facility is expected to begin operations in 2030 and will provide power to several large data centers in the Tennessee and Alabama region, helping to manage the rising energy demands of modern computing infrastructure.\n\nThe project represents a significant step forward in American energy innovation. Advanced nuclear reactor technology has been extensively researched and refined, offering a promising path to meet growing electricity needs while reducing reliance on traditional power sources. By bringing this infrastructure online, the plant aims to address energy cost pressures facing the data center industry while demonstrating the viability of next-generation nuclear technology at scale.\n\nThe development signals growing confidence in advanced nuclear solutions as a practical answer to America's evolving energy challenges.",
+  "headline": "Tennessee Breaks Ground on Revolutionary Nuclear Reactor",
+  "meta_description": "Kairos Power begins construction of Hermes 2, an advanced molten salt reactor designed to be safer and power data centers with clean energy.",
+  "summary_short": "A California nuclear firm has broken ground on America's first advanced reactor plant in Oak Ridge, Tennessee, set to come online in 2030.",
+  "body": "Kairos Power has begun construction on Hermes 2, the nation's first advanced nuclear reactor plant, in Oak Ridge, Tennessee. The facility represents a significant milestone in nuclear innovation—one that comes at a moment when the U.S. nuclear fleet is aging and energy demands are surging.\n\nThe molten salt reactor will operate differently from traditional nuclear plants. Rather than using pressurized water as a coolant, Hermes 2 will use molten salt that functions at ambient pressures. This fundamental design change removes a major cause of reactor accidents: the catastrophic explosions that occur when high pressure suddenly drops to low pressure, as happened during the 2011 Fukushima disaster.\n\nThe reactor will also use TRISO fuel—uranium kernels the size of poppy seeds encased in ceramic and graphite layers. Chinese demonstrations in the 2010s proved TRISO's resilience: the shells showed no damage even at temperatures of 1,620°C, far exceeding any realistic emergency scenario.\n\nGoogle has signed an agreement for 500 megawatts from multiple advanced reactors, with Hermes 2 delivering the first 50 megawatts to power its Tennessee data centers. The facility is expected to come online in 2030, marking a turning point in how America powers its digital future with clean, reliable energy.",
   "category": "progress",
   "tags": [
     "nuclear-energy",
     "clean-power",
-    "infrastructure",
-    "innovation"
+    "innovation",
+    "climate",
+    "technology"
   ],
   "source_name": "Good News Network",
   "source_url": "https://www.goodnewsnetwork.org/firm-breaks-ground-on-first-advanced-nuclear-reactor-in-america-to-power-data-centers-for-less/",
@@ -18,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "Sarowar Hussain",
-  "photo_credit_url": "https://www.pexels.com/@sarowar-hussain-3111579"
+  "photo_credit_url": "https://www.pexels.com/@sarowar-hussain-3111579",
+  "rewritten": "2026-07-17T14:45:25Z"
 }

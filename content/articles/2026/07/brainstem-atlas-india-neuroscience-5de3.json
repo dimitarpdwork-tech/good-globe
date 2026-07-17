@@ -1,15 +1,17 @@
 {
   "id": "5de38881af7be966",
   "slug": "brainstem-atlas-india-neuroscience-5de3",
-  "headline": "Indian Scientists Map the Brain's Least Known Region",
-  "meta_description": "India's new brainstem atlas provides scientists with an unprecedented detailed map of one of the brain's most mysterious and least understood areas.",
-  "summary_short": "Indian neuroscientists have created a detailed atlas of the brainstem, opening new frontiers in understanding this crucial brain region.",
-  "body": "Indian neuroscientists have achieved a significant milestone by creating a comprehensive atlas of the brainstem, one of the brain's most enigmatic and least explored regions. This detailed map represents the first-of-its-kind resource, offering researchers unprecedented clarity about the structure and organization of this vital area.\n\nThe brainstem, located at the base of the brain, controls many essential functions that keep us alive—from regulating breathing and heart rate to managing sleep and consciousness. Despite its critical importance, it has remained far less understood than other brain regions, partly due to its complexity and the technical challenges involved in studying it.\n\nThis new atlas opens doors for future research into brainstem function and disease. Scientists around the world can now use this resource to better understand how the brainstem works, how it develops, and what goes wrong in various neurological conditions. The achievement represents the kind of foundational scientific work that fuels medical breakthroughs for years to come.",
+  "headline": "Indian Scientists Create Unprecedented Map of the Brain's Control Center",
+  "meta_description": "Indian researchers have created the world's most detailed 3D atlas of the human brainstem, potentially transforming how doctors understand neurological disease.",
+  "summary_short": "Scientists at IIT Madras have created Anchor, a revolutionary digital map linking whole-brain imaging with individual nerve cells for the first time.",
+  "body": "For over a century, neuroscientists have studied the human brain much like early cartographers mapping unknown lands. Yet the landscape has remained largely invisible—pathologists diagnosing Alzheimer's disease typically examine only a handful of tissue samples from an organ containing 86 billion neurons.\n\nNow, researchers at the Sudha Gopalakrishnan Brain Centre at IIT Madras have taken a significant step toward filling this gap. They've created Anchor, the world's most detailed three-dimensional atlas of the human brainstem at cellular resolution.\n\nBuilt from over 500 tissue sections across foetal, childhood, and adult brains, Anchor combines high-resolution microscope images to identify more than 200 clusters of brain cells and nerve pathways. The breakthrough lies not just in anatomical detail, but in bridging two previously separate worlds: medical imaging showing the whole brain, and cellular pathology revealing it one cell at a time.\n\nThe brainstem, though occupying only a small sliver of the brain, controls breathing, heartbeat, sleep, and movement. Its densely packed architecture has long frustrated mapping efforts.\n\nAbout 20 scientists spent 18 months manually analysing brain sections to create this digital atlas, which is now freely available online. Scientists worldwide hope to use it to better understand Parkinson's disease, stroke, autism, and other neurological conditions—potentially transforming patient outcomes.",
   "category": "science",
   "tags": [
     "neuroscience",
+    "medical-breakthrough",
+    "india",
     "brain-research",
-    "medical-breakthrough"
+    "health"
   ],
   "source_name": "BBC World",
   "source_url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
@@ -17,5 +19,6 @@
   "lang": "en",
   "photo_url": "https://images.pexels.com/photos/724994/pexels-photo-724994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "photo_credit": "meo",
-  "photo_credit_url": "https://www.pexels.com/@xespri"
+  "photo_credit_url": "https://www.pexels.com/@xespri",
+  "rewritten": "2026-07-17T14:38:32Z"
 }
