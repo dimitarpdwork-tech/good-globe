@@ -1,0 +1,23 @@
+{
+  "id": "8f06d49215fd6c88",
+  "slug": "scientists-destroy-forever-chemicals-8f06",
+  "headline": "Two Breakthrough Methods Could Finally Destroy 'Forever Chemicals'",
+  "meta_description": "Researchers in Germany discover two powerful ways to break down PFAS forever chemicals using collapsing bubbles and cold plasma.",
+  "summary_short": "Scientists at a German research center have found two promising methods to destroy PFAS—stubborn chemicals contaminating water worldwide, including Germany's Elbe River.",
+  "body": "For decades, PFAS—industrial chemicals nicknamed \"forever chemicals\"—have resisted every attempt at destruction. Their carbon-fluorine bonds are among the strongest in organic chemistry, allowing over 10,000 different PFAS compounds to accumulate in water and resist conventional treatment. Now, researchers at the Helmholtz-Zentrum Dresden-Rossendorf may have found a solution.\n\nThe first method uses hydrodynamic cavitation: pressurized water creates tiny vapor bubbles that violently collapse, generating temperatures of several thousand degrees Celsius. When PFAS molecules attached to these bubbles burst apart under the pressure, they break down. In initial tests on perfluorooctane sulfonate (PFOS), a particularly persistent PFAS, the process degraded about 37 percent of dissolved molecules while releasing measurable fluoride.\n\nA second approach combines cold atmospheric plasma with rising gas bubbles. PFAS attach to the bubble surfaces as they rise through contaminated water, reaching the surface where plasma breaks them apart. This method works faster and nearly completely degraded both long-chain and short-chain PFAS, though it requires more energy.\n\nBoth technologies emerged from Germany's National Water Strategy, which aims to protect water resources after high PFAS concentrations were recently detected in the Elbe River. Rather than simply removing these chemicals, researchers are systematically destroying them—offering real hope for industries treating wastewater before it contaminates rivers and oceans.",
+  "category": "science",
+  "tags": [
+    "forever-chemicals",
+    "water-treatment",
+    "environmental-science",
+    "pfas",
+    "germany"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+  "published": "2026-07-20T17:02:04Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7298554/pexels-photo-7298554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "RephiLe water",
+  "photo_credit_url": "https://www.pexels.com/@rephile-water-40367341"
+}

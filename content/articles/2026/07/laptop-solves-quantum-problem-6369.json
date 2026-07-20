@@ -1,0 +1,22 @@
+{
+  "id": "6369bd536783140c",
+  "slug": "laptop-solves-quantum-problem-6369",
+  "headline": "Laptop Beats Quantum Computer at Its Own Game",
+  "meta_description": "Researchers at the Simons Foundation proved that classical computers can solve quantum problems once thought impossible, using clever mathematics.",
+  "summary_short": "Scientists used an ordinary laptop and tensor networks to solve a quantum puzzle that a quantum computer had tackled months earlier—proving classical computing still has…",
+  "body": "When researchers at Boston University claimed in March 2025 that a quantum computer had solved a problem beyond the reach of classical machines, the team at the Center for Computational Quantum Physics smelled a challenge worth investigating.\n\n\"Whenever we see these kinds of claims, we're always a bit skeptical,\" says Joseph Tindall, first author of the new study published in Science. \"Did you try this? Did you try that?\"\n\nSo they tried. Using tensor networks—mathematical structures that compress quantum information the way a zip file compresses data—Tindall and his colleagues managed to run simulations on a personal laptop that matched both theoretical predictions and the quantum computer's results.\n\nThe breakthrough hinges on solving a fundamental problem in quantum physics: entanglement. When qubits become entangled, their properties remain mysteriously connected across distances, making them impossible to model independently. The wave function describing such a system grows exponentially, becoming impossibly large to store.\n\nTensor networks act as \"a zip file for the wave function,\" Tindall explains, compressing vast amounts of information into interconnected tables of numbers. This elegant solution didn't require cutting-edge hardware—the team even dusted off belief propagation, an algorithm from the 1980s, and adapted it for quantum problems.\n\nThe findings suggest that classical computers remain far more capable than recently assumed, potentially opening new paths for studying quantum materials and optimization problems.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "classical-computing",
+    "mathematics",
+    "simons-foundation"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+  "published": "2026-07-20T17:01:42Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/20251480/pexels-photo-20251480.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jakub Zerdzicki",
+  "photo_credit_url": "https://www.pexels.com/@jakubzerdzicki"
+}
