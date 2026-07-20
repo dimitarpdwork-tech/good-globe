@@ -1,0 +1,23 @@
+{
+  "id": "ffc663dacd3cd4e6",
+  "slug": "creatine-cancer-immunotherapy-ucla-ffc6",
+  "headline": "A Gym Supplement May Help Cancer Fighters Work Better",
+  "meta_description": "UCLA researchers find creatine, a common gym supplement, could strengthen the immune cells that train cancer-fighting T cells.",
+  "summary_short": "A UCLA study reveals creatine energizes dendritic cells—the immune system's training sergeants—potentially boosting cancer immunotherapy for the millions who don't respo…",
+  "body": "When cancer immunotherapy fails, the problem often isn't the killer T cells doing the fighting. It's the dendritic cells supposed to train them. A new UCLA study published in iScience identifies an unexpected ally: creatine, the supplement bodybuilders have used for decades.\n\nResearchers noticed something striking in tumor-infiltrating dendritic cells in mice: the gene for the creatine transporter was significantly elevated compared to healthy tissue. When they removed that transporter entirely, dendritic cells weakened, struggled to activate, and left T cells unprepared for battle.\n\nThe opposite experiment proved transformative. Daily creatine injections in melanoma mouse models slowed tumor growth, boosted dendritic cell numbers inside tumors, and increased their activation. The mechanism? Creatine acts like a battery, releasing stored energy to power the dendritic cells' functions—including the inflammatory signaling needed to draw immune reinforcements into the tumor.\n\nHuman cell experiments showed the same pattern. Creatine enhanced human dendritic cells used in cancer vaccines and improved their ability to stimulate T cells against cancer targets.\n\nThis research remains in mouse models and human cells, not patients. Anyone undergoing cancer treatment should consult their physician before supplementing. But because creatine monohydrate has a decades-long safety record, clinical trials could move forward relatively quickly. If results translate to humans, this inexpensive supplement could become part of standard immunotherapy protocols.",
+  "category": "science",
+  "tags": [
+    "cancer-research",
+    "immunotherapy",
+    "creatine",
+    "dendritic-cells",
+    "ucla"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/07/could-this-popular-gym-supplement-strengthen-cancer-immunotherapy/",
+  "published": "2026-07-20T05:02:33Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}
