@@ -38,6 +38,10 @@ CONTENT = ROOT / "content" / "articles"
 ASSETS_SRC = ROOT / "assets"
 DIST = ROOT / "dist"
 PAGE_SIZE = 12
+MIN_TAG_ARTICLES = 5  # a /tag/{slug}/ archive page is only built once a tag
+                      # has at least this many articles — below that, the
+                      # hashtag stays plain text rather than linking to a
+                      # thin, near-empty page.
 
 esc = html.escape
 
@@ -118,6 +122,50 @@ def reading_time(body: str) -> int:
 def hnum(seed: str, lo: int, hi: int, salt: str = "") -> int:
     h = int(hashlib.sha1((seed + salt).encode()).hexdigest()[:8], 16)
     return lo + h % (hi - lo + 1)
+
+
+# Standard Bulgarian Cyrillic -> Latin transliteration (matches the scheme
+# used on Bulgarian road signs / official transliteration law), used only
+# for building clean ASCII URL slugs from hashtags. Display text keeps the
+# original Cyrillic; only the URL is transliterated.
+BG_TRANSLIT = {
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ж": "zh",
+    "з": "z", "и": "i", "й": "y", "к": "k", "л": "l", "м": "m", "н": "n",
+    "о": "o", "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f",
+    "х": "h", "ц": "ts", "ч": "ch", "ш": "sh", "щ": "sht", "ъ": "a",
+    "ь": "y", "ю": "yu", "я": "ya",
+}
+
+
+def tag_slug(tag: str) -> str:
+    """Transliterate a (typically Cyrillic) hashtag into a clean URL slug.
+    Latin input passes through unchanged aside from lowercasing/hyphenation."""
+    out = []
+    for ch in tag.strip().lower():
+        if ch in BG_TRANSLIT:
+            out.append(BG_TRANSLIT[ch])
+        elif ch.isalnum():
+            out.append(ch)
+        elif ch in (" ", "-", "_"):
+            out.append("-")
+        # anything else (punctuation, emoji, etc.) is simply dropped
+    return re.sub(r"-+", "-", "".join(out)).strip("-")
+
+
+def build_tag_index(articles: list[dict]) -> dict:
+    """Group articles by tag slug: slug -> {'display': original_tag_text,
+    'articles': [...]}. Articles are assumed pre-sorted newest-first, so each
+    tag's article list stays newest-first too. Tags that transliterate to an
+    empty slug (pure punctuation/emoji) are skipped."""
+    idx: dict[str, dict] = {}
+    for a in articles:
+        for t in a.get("tags", []):
+            slug = tag_slug(t)
+            if not slug:
+                continue
+            entry = idx.setdefault(slug, {"display": t, "articles": []})
+            entry["articles"].append(a)
+    return idx
 
 
 # ---------------------------------------------------------------- css -----
@@ -214,9 +262,16 @@ margin:0 0 1em;text-align:center}
 @keyframes catpoem-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 .article .banner{border-radius:var(--r);overflow:hidden;margin:20px 0;line-height:0;border:1px solid var(--line)}
 .article .body p{font-size:1.07rem;line-height:1.75;margin:0 0 1.2em}
+.article .body h2{font-family:var(--fd);font-weight:800;font-size:1.5rem;
+letter-spacing:-.01em;margin:1.5em 0 .5em}
+.article .body h3{font-family:var(--fd);font-weight:700;font-size:1.2rem;
+letter-spacing:-.01em;margin:1.3em 0 .4em}
+.article .body h2:first-child,.article .body h3:first-child{margin-top:0}
 .tags{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0}
 .tag{font-family:var(--fl);font-size:.78rem;font-weight:700;color:var(--pd);
 background:color-mix(in srgb,var(--p) 14%,var(--card));border-radius:999px;padding:5px 12px}
+.tag[href]{cursor:pointer;transition:background .15s}
+.tag[href]:hover{background:color-mix(in srgb,var(--p) 26%,var(--card))}
 .srcbox{border-left:4px solid var(--p);background:var(--card);border-radius:0 var(--r) var(--r) 0;
 padding:14px 18px;margin:24px 0;border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
 .srcbox a{font-weight:700;color:var(--pd);text-decoration:underline;text-underline-offset:3px}
@@ -368,6 +423,9 @@ class Site:
     def cat_path(self, cid) -> str:
         return f'/c/{cid}/'
 
+    def tag_path(self, slug: str) -> str:
+        return f'/tag/{slug}/'
+
 
 def org_ld(site) -> dict:
     cfg = site.cfg
@@ -379,11 +437,16 @@ def org_ld(site) -> dict:
             "sameAs": cfg.get("same_as", [])}
 
 
-def person_ld(site) -> dict | None:
+def author_ld(site) -> dict:
+    """Article authorship is always attributed to the automated editorial
+    system as an Organization, never to a fabricated human Person — see
+    /<about_path>/#editorial-process for the disclosed process. Set
+    'byline_name' in config.json to customize the displayed name (defaults
+    to '<site_name> AI Editorial System')."""
     cfg = site.cfg
-    if not cfg.get("editor_name"):
-        return None
-    return {"@type": "Person", "name": cfg["editor_name"], "jobTitle": cfg.get("editor_title", "Editor")}
+    name = cfg.get("byline_name", f'{cfg["site_name"]} AI Editorial System')
+    return {"@type": "Organization", "name": name,
+            "url": site.abs_(f'/{cfg["about_path"]}/#editorial-process')}
 
 
 def verification_tags(cfg) -> str:
@@ -558,10 +621,10 @@ def meta_row(site, a, with_cat=True) -> str:
             f' · {reading_time(a["body"])} {ui["min_read"]}</div>')
 
 
-def card(site, a) -> str:
+def card(site, a, eager=False) -> str:
     href = site.u(site.article_path(a))
     return f"""<article class="card">
-<a href="{href}" aria-label="{esc(a['headline'])}">{media(site.cfg, a, site.cfg['ui'])}</a>
+<a href="{href}" aria-label="{esc(a['headline'])}">{media(site.cfg, a, site.cfg['ui'], eager=eager)}</a>
 <div class="cbody">
 <h3><a href="{href}">{esc(a['headline'])}</a></h3>
 <p>{esc(a['summary_short'])}</p>
@@ -650,7 +713,10 @@ def build_lists(site) -> None:
             body += f'<div class="sec"><h2>{esc(label)}</h2><span class="rule"></span></div>'
             if intro and p == 1:
                 body = f'<p class="cat-intro">{esc(intro)}</p>' + body
-            body += '<div class="grid">' + "".join(card(site, a) for a in rest) + "</div>"
+            is_home_p1 = (key == "home" and p == 1)
+            body += '<div class="grid">' + "".join(
+                card(site, a, eager=(is_home_p1 and i == 0)) for i, a in enumerate(rest)
+            ) + "</div>"
             body += pager(site, base_path, p, pages)
             jsonld = None
             if key == "home" and p == 1:
@@ -678,6 +744,27 @@ def build_lists(site) -> None:
             write(out, base_page(site, title=title if p == 1 else f'{title} · {ui["page"]} {p}',
                                  description=desc, path=path, body=body, jsonld=jsonld,
                                  noindex=(p > 1), is_home=(key == "home" and p == 1)))
+
+
+def render_article_body(body: str) -> str:
+    """Render article body text into HTML paragraphs, with optional light
+    heading support: a block (separated by a blank line, same as any other
+    paragraph) that starts with '## ' or '### ' renders as <h2>/<h3> instead
+    of <p>. Plain paragraph blocks with no such marker render exactly as
+    before — fully backward-compatible with existing short-form articles
+    that don't use headings at all."""
+    parts = []
+    for block in body.split("\n\n"):
+        block = block.strip()
+        if not block:
+            continue
+        if block.startswith("### "):
+            parts.append(f"<h3>{esc(block[4:].strip())}</h3>")
+        elif block.startswith("## "):
+            parts.append(f"<h2>{esc(block[3:].strip())}</h2>")
+        else:
+            parts.append(f"<p>{esc(block)}</p>")
+    return "".join(parts)
 
 
 def apply_cat_unlock(paras_html: str, unlock: dict) -> str:
@@ -719,11 +806,55 @@ def cat_unlock_block(unlock: dict) -> str:
 </script>"""
 
 
-def build_articles(site) -> None:
+def build_tags(site) -> set:
+    """Generate /tag/{slug}/ archive pages for tags with at least
+    MIN_TAG_ARTICLES articles (paginated identically to category pages;
+    page 1 is indexable, page 2+ is noindex and excluded from sitemap.xml,
+    same convention as categories). Returns the set of slugs that got a
+    page, so build_articles() knows which hashtags to render as links vs.
+    plain text."""
+    cfg, ui = site.cfg, site.cfg["ui"]
+    idx = build_tag_index(site.articles)
+    qualifying = {slug: data for slug, data in idx.items()
+                  if len(data["articles"]) >= MIN_TAG_ARTICLES}
+    for slug, data in qualifying.items():
+        arts, display = data["articles"], data["display"]
+        base_path = site.tag_path(slug)
+        pages = max(1, -(-len(arts) // PAGE_SIZE))
+        for p in range(1, pages + 1):
+            chunk = arts[(p - 1) * PAGE_SIZE: p * PAGE_SIZE]
+            title = f'#{display} · {cfg["site_name"]}'
+            body = f'<div class="sec"><h2>#{esc(display)}</h2><span class="rule"></span></div>'
+            body += '<div class="grid">' + "".join(card(site, a) for a in chunk) + "</div>"
+            body += pager(site, base_path, p, pages)
+            jsonld = None
+            if p == 1:
+                crumbs = [(ui["home"], site.abs_("/")), (f'#{display}', site.abs_(base_path))]
+                item_list = {"@type": "ItemList", "itemListElement": [
+                    {"@type": "ListItem", "position": i + 1, "url": site.abs_(site.article_path(a))}
+                    for i, a in enumerate(chunk)
+                ]}
+                jsonld = [
+                    breadcrumb_ld(site, crumbs),
+                    {"@context": "https://schema.org", "@type": "CollectionPage",
+                     "name": title, "url": site.abs_(base_path), "inLanguage": cfg["lang"],
+                     "mainEntity": item_list}
+                ]
+            path = base_path if p == 1 else f'{base_path}page/{p}/'
+            out = DIST / path.strip("/") / "index.html"
+            write(out, base_page(
+                site,
+                title=title if p == 1 else f'{title} · {ui["page"]} {p}',
+                description=f'{ui.get("tags", "Tags")}: #{display}',
+                path=path, body=body, jsonld=jsonld, noindex=(p > 1)))
+    return set(qualifying.keys())
+
+
+def build_articles(site, linked_tags: set) -> None:
     cfg, ui = site.cfg, site.cfg["ui"]
     for a in site.articles:
         cat = cfg["categories"][a["category"]]
-        paras = "".join(f"<p>{esc(p.strip())}</p>" for p in a["body"].split("\n\n") if p.strip())
+        paras = render_article_body(a["body"])
         cat_unlock = a.get("cat_unlock")
         if cat_unlock:
             paras = apply_cat_unlock(paras, cat_unlock)
@@ -735,7 +866,11 @@ def build_articles(site) -> None:
         if related:
             rel_html = (f'<div class="sec"><h2>{esc(ui["more_good"])}</h2><span class="rule"></span></div>'
                         '<div class="grid">' + "".join(card(site, r) for r in related) + "</div>")
-        tags = "".join(f'<span class="tag">#{esc(t)}</span>' for t in a.get("tags", []))
+        tags = "".join(
+            (f'<a class="tag" href="{site.u(site.tag_path(tag_slug(t)))}">#{esc(t)}</a>'
+             if tag_slug(t) in linked_tags
+             else f'<span class="tag">#{esc(t)}</span>')
+            for t in a.get("tags", []))
         src = ""
         if a.get("source_url"):
             src = (f'<aside class="srcbox"><strong>{esc(ui["source"])}:</strong> '
@@ -745,7 +880,7 @@ def build_articles(site) -> None:
 <a class="backlink" href="{site.u('/')}">← {esc(ui['back_home'])}</a>
 {meta_row(site, a)}
 <h1>{esc(a['headline'])}</h1>
-{f'<span class="byline">{esc(ui.get("editor_label", "Editor:"))} {esc(cfg["editor_name"])}</span>' if cfg.get('editor_name') else ''}
+<span class="byline">{esc(ui.get('byline_label', 'Compiled by'))} {esc(cfg.get('byline_name', cfg['site_name'] + ' AI'))} · <a href="{site.u('/' + cfg['about_path'] + '/#editorial-process')}">{esc(ui.get('how_it_works', 'How this works'))}</a></span>
 {f'<span class="ai-badge">{esc(ui.get("ai_badge", "AI-summarized"))}</span>' if not a.get('no_ai_badge') else ''}
 <div class="banner">{media(cfg, a, ui, height=250, eager=True)}</div>
 <div class="body">{paras}</div>
@@ -763,7 +898,7 @@ def build_articles(site) -> None:
               "inLanguage": cfg["lang"], "articleSection": cat["label"],
               "mainEntityOfPage": site.abs_(path),
               "image": [a["photo_url"]] if a.get("photo_url") else [site.abs_("/assets/og-default.png")],
-              "author": person_ld(site) or org_ld(site), "publisher": org_ld(site)}
+              "author": author_ld(site), "publisher": org_ld(site)}
         if a.get("source_url"):
             ld["isBasedOn"] = a["source_url"]
         write(DIST / path.strip("/") / "index.html",
@@ -802,17 +937,19 @@ def build_about(site) -> None:
     secs = "".join(
         f'<h2>{esc(h)}</h2><p>{esc(t.format(site=cfg["site_name"], email=cfg["contact_email"]))}</p>'
         for h, t in ABOUT[cfg["lang"]])
-    editor = ""
-    if cfg.get("editor_name"):
-        editor = (f'<div class="editor-card">'
-                  f'<div class="editor-name">{esc(cfg["editor_name"])}</div>'
-                  f'<div class="editor-title">{esc(cfg.get("editor_title", ""))}</div>'
-                  f'<p>{esc(cfg.get("editor_bio", ""))}</p></div>')
+    editor = (f'<div class="editor-card" id="editorial-process">'
+              f'<div class="editor-title">{esc(cfg["ui"].get("editorial_process_label", "Editorial process"))}</div>'
+              f'<p>{esc(cfg.get("editorial_process_note", ""))}</p></div>')
     body = f'<div class="about"><h1>{esc(cfg["ui"]["about"])} · {esc(cfg["site_name"])}</h1>{editor}{secs}</div>'
     path = f'/{cfg["about_path"]}/'
+    jsonld = [{"@context": "https://schema.org", "@type": "AboutPage",
+               "name": f'{cfg["ui"]["about"]} · {cfg["site_name"]}',
+               "url": site.abs_(path),
+               "description": cfg.get("editorial_process_note", cfg["description"]),
+               "mainEntity": org_ld(site)}]
     write(DIST / cfg["about_path"] / "index.html",
           base_page(site, title=f'{cfg["ui"]["about"]} · {cfg["site_name"]}',
-                    description=cfg["description"], path=path, body=body))
+                    description=cfg["description"], path=path, body=body, jsonld=jsonld))
 
 
 PRIVACY = {
@@ -895,18 +1032,19 @@ def build_feed(site) -> None:
     write(DIST / "feed.xml", feed)
 
 
-def build_sitemap(site) -> None:
+def build_sitemap(site, tag_slugs: set) -> None:
     cfg = site.cfg
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     urls = [(site.abs_("/"), now), (site.abs_(f'/{cfg["about_path"]}/'), now),
             (site.abs_(f'/{cfg["privacy_path"]}/'), now)]
-    home_pages = max(1, -(-len(site.articles) // PAGE_SIZE))
-    urls += [(site.abs_(f'/page/{p}/'), now) for p in range(2, home_pages + 1)]
+    # Note: page 2+ (home, category, and tag) are intentionally excluded here
+    # — they carry noindex and stay reachable only via in-page pagination
+    # links, so the sitemap doesn't send Google a mixed noindex-but-submitted
+    # signal.
     for cid in cfg["categories"]:
-        arts = [a for a in site.articles if a["category"] == cid]
         urls.append((site.abs_(site.cat_path(cid)), now))
-        pages = max(1, -(-len(arts) // PAGE_SIZE))
-        urls += [(site.abs_(f'{site.cat_path(cid)}page/{p}/'), now) for p in range(2, pages + 1)]
+    for slug in sorted(tag_slugs):
+        urls.append((site.abs_(site.tag_path(slug)), now))
     def _lastmod(a):
         return (a.get("updated") or "")[:10] or a["_dt"].strftime("%Y-%m-%d")
     urls += [(site.abs_(site.article_path(a)), _lastmod(a)) for a in site.articles]
@@ -981,12 +1119,13 @@ def main() -> None:
                 shutil.copy(f, DIST / "assets" / f.name)
 
     build_lists(site)
-    build_articles(site)
+    qualifying_tag_slugs = build_tags(site)
+    build_articles(site, qualifying_tag_slugs)
     build_about(site)
     build_privacy(site)
     build_404(site)
     build_feed(site)
-    build_sitemap(site)
+    build_sitemap(site, qualifying_tag_slugs)
     build_llms_txt(site)
     print(f"[{cfg['site_name']}] built {len(articles)} articles → {DIST}")
 
