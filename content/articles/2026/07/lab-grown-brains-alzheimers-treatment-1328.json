@@ -1,0 +1,30 @@
+{
+  "id": "132857b4f7a26336",
+  "slug": "lab-grown-brains-alzheimers-treatment-1328",
+  "headline": "Tiny Lab-Grown Brains Unlock Personalized Alzheimer's Treatment",
+  "meta_description": "Johns Hopkins researchers used mini brain organoids grown from patient cells to predict how individuals respond to Alzheimer's medications.",
+  "summary_short": "Scientists at Johns Hopkins grew tiny brain models from Alzheimer's patients' cells to predict drug responses and identify new diagnostic markers.",
+  "body": "Scientists at Johns Hopkins Medicine have grown miniature brain tissues from the cells of people with Alzheimer's disease and used them to predict how individual patients might respond to antidepressant medications. The pea-sized organoids revealed striking differences in how diseased tissue reacts to escitalopram, a widely prescribed SSRI used to manage psychiatric symptoms like anxiety and depression that affect nearly all Alzheimer's patients. Some organoids showed strong molecular responses to the drug, while others showed little to no change—a finding that could eventually guide doctors toward more targeted, personalized treatments for specific patient groups.\n\nThe research began with blood samples from people with Alzheimer's enrolled at the Johns Hopkins Alzheimer's Disease Research Center. Researchers reprogrammed these blood cells into induced pluripotent stem cells, which can develop into any cell type in the body, then coaxed them to organize into small clusters resembling the hindbrain—the region controlling breathing, sleep, and heart rate. The study included hundreds of organoids representing individual patients and healthy controls, making it one of the largest brain organoid studies conducted in Alzheimer's research so far.\n\nBeyond predicting drug responses, the organoids revealed something equally promising: they release tiny particles called extracellular vesicles that carry disease-related proteins. These vesicles showed distinct molecular signatures in Alzheimer's tissue compared to healthy tissue, suggesting they could become valuable biomarkers for diagnosing the disease and tracking its progression. The findings, published in Alzheimer's & Dementia: The Journal of the Alzheimer's Association, offer hope that laboratory-grown brain tissue could eventually help scientists develop more precise treatments for the 7 million Americans living with this devastating disease.",
+  "category": "science",
+  "tags": [
+    "alzheimers",
+    "personalized-medicine",
+    "brain-organoids",
+    "drug-response",
+    "biomarkers"
+  ],
+  "quick_facts": [
+    "Johns Hopkins researchers created hundreds of brain organoids from patient blood cells",
+    "Mini brains showed different responses to escitalopram antidepressant medication",
+    "Tiny vesicles released by organoids may serve as Alzheimer's biomarkers",
+    "Study focused on hindbrain region controlling breathing, sleep, and heart rate",
+    "Research published in Alzheimer's & Dementia journal"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+  "published": "2026-07-22T17:01:43Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8940349/pexels-photo-8940349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Thirdman",
+  "photo_credit_url": "https://www.pexels.com/@thirdman"
+}

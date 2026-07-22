@@ -1,0 +1,30 @@
+{
+  "id": "af57c7d8c8ef4e61",
+  "slug": "quantum-proton-energy-transfer-breakthrough-af57",
+  "headline": "Quantum Proton Trick Supercharges Energy Transfer in New Materials",
+  "meta_description": "Chinese scientists discover a proton-assisted quantum effect that dramatically boosts energy transfer in quantum dots, with applications for solar cells and la…",
+  "summary_short": "Researchers at China's Dalian Institute discovered that protons acting as tiny shuttles can dramatically speed up energy transfer in quantum dots—opening new possibiliti…",
+  "body": "A team of researchers led by Prof. Kaifeng Wu at the Dalian Institute of Chemical Physics of the Chinese Academy of Sciences has uncovered a previously unknown quantum mechanism that dramatically improves how energy moves between quantum dots and nearby molecules. Published in Nature Materials, the discovery reveals that protons can act as tiny shuttles, briefly shifting position to coordinate electron movement before returning to their original location. This proton shuttle-assisted triplet energy transfer—or PS-TET—works so efficiently that it vastly outperforms similar systems without the proton movement, even at room temperature.\n\nThe discovery emerged while studying energy transfer in ZnSe-based quantum dots paired with phenol-pyridine acceptor molecules. When these quantum dots absorb light, a carefully choreographed dance unfolds: a hole moves from the ZnSe to phenol while a proton simultaneously shifts to pyridine. An electron then transfers from ZnSe to the phenoxyl radical, and the proton shuttles back home. The proton's temporary journey, though it ends where it started, dramatically increases both the speed and efficiency of energy movement. Remarkably, this process appears to operate through quantum tunneling rather than heat-driven mechanisms—meaning it works just as effectively in cold conditions as warm ones.\n\nThe implications extend far beyond laboratory curiosity. By controlling whether proton shuttles are present or absent, scientists may soon be able to fine-tune triplet energy transfer for specific technologies. In solar cells and lasers, suppressing unwanted triplet states could boost performance. In catalytic reactions and photoredox chemistry, enhancing triplet generation could improve efficiency. Prof. Wu emphasized that understanding this mechanism opens powerful new ways to tune energy flow in advanced materials—potentially revolutionizing how we design tomorrow's renewable energy devices.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "energy-transfer",
+    "materials-science",
+    "photovoltaics",
+    "chinese-research"
+  ],
+  "quick_facts": [
+    "Chinese Academy of Sciences team led by Prof. Kaifeng Wu",
+    "Protons tunnel through quantum dots at room temperature",
+    "ZnSe quantum dots paired with phenol-pyridine acceptors",
+    "Findings published in Nature Materials, July 2026",
+    "Applications for solar cells, lasers, and catalytic reactions"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+  "published": "2026-07-22T17:01:28Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7293750/pexels-photo-7293750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Adam spinos",
+  "photo_credit_url": "https://www.pexels.com/@adam-spinos-205786"
+}

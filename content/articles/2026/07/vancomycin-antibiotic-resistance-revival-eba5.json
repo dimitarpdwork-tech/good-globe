@@ -1,0 +1,30 @@
+{
+  "id": "eba5dc8ceb96e477",
+  "slug": "vancomycin-antibiotic-resistance-revival-eba5",
+  "headline": "Scientists Give Vancomycin a Second Life Against Resistant Bacteria",
+  "meta_description": "Researchers restore a powerful antibiotic's effectiveness by pairing it with a helper molecule, offering new hope against drug-resistant superbugs.",
+  "summary_short": "Scientists have revived vancomycin, a critical antibiotic that some bacteria had learned to resist, by combining it with a small molecule called pghi-4.",
+  "body": "Antibiotic resistance threatens to turn common infections into untreatable killers, but researchers at Cold Spring Harbor Laboratory have found an elegant solution: they did not invent a new drug, but revived an old one. By pairing vancomycin—a powerful antibiotic used against severe infections including MRSA and C. difficile—with a small molecule called pghi-4, scientists restored the drug's ability to kill resistant strains of E. faecium. The molecule blocks a bacterial enzyme linked to resistance, allowing the antibiotic to work again. This approach suggests that rescuing failing medicines may be faster and more practical than developing entirely new ones.\n\nProfessor John Moses and his team spent years building a library of more than 150 compounds using a technique called diversity oriented clicking. When they collaborated with researchers at Scripps Research, molecules from this collection proved instrumental in targeting the enzyme secreted antigen A (SagA)—the key to restoring vancomycin's power. Notably, pghi-4 itself was first discovered in the Moses laboratory back in 2020, showing how foundational chemistry research can yield unexpected medical breakthroughs.\n\nWhat makes this work particularly promising is its potential reach. By sharing their molecular library with other researchers worldwide, the team hopes similar strategies could rescue additional failing antibiotics, including treatments for drug-resistant tuberculosis. As antibiotic resistance accelerates globally, this discovery demonstrates that the future of medicine may not always require inventing something entirely new—sometimes, the answer lies in chemistry that helps what already exists work better.",
+  "category": "health",
+  "tags": [
+    "antibiotics",
+    "antibiotic-resistance",
+    "superbugs",
+    "drug-discovery",
+    "medical-innovation"
+  ],
+  "quick_facts": [
+    "Vancomycin paired with pghi-4 molecule restores killing power against resistant E. faecium",
+    "Cold Spring Harbor Laboratory built library of 150+ compounds using diversity oriented clicking",
+    "pghi-4 first discovered in Moses laboratory in 2020, now applied to antibiotic resistance",
+    "Strategy targets bacterial enzyme SagA that causes vancomycin resistance",
+    "Approach could eventually help rescue other failing antibiotics like resistant tuberculosis drugs"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+  "published": "2026-07-22T17:01:36Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/10448365/pexels-photo-10448365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
