@@ -1,0 +1,29 @@
+{
+  "id": "adb80f2995fdd253",
+  "slug": "webb-telescope-beta-pictoris-planet-adb8",
+  "headline": "Hidden Giant Planet Found in Famous Star System",
+  "meta_description": "NASA's Webb telescope discovered a giant exoplanet hiding in Beta Pictoris, a nearby young star system, by detecting its atmospheric chemicals.",
+  "summary_short": "A hidden giant planet has been found orbiting Beta Pictoris, 63 light-years away, using a groundbreaking new detection method based on atmospheric chemistry.",
+  "body": "NASA's James Webb Space Telescope has uncovered a giant exoplanet concealed within one of astronomy's most closely studied planetary systems. The newly confirmed Beta Pictoris d was hiding inside the debris disk surrounding the nearby star Beta Pictoris, which sits 63 light-years from Earth. Rather than being spotted as a bright point of light, the planet revealed itself through its atmospheric signature—distinctive patterns of carbon monoxide, water vapor, and methane detected by Webb's spectrographic instruments. Researchers estimate the planet has at least twice Jupiter's mass and orbits at a distance comparable to Neptune's position in our solar system. The discovery raises Beta Pictoris to only the second known system with at least three directly imaged planets and demonstrates a powerful new method for finding worlds hidden behind cosmic dust.\n\nThe discovery happened by chance. Scientists were using Webb's NIRSpec instrument to study Beta Pictoris b, an already-known planet, when an unexpected signal appeared in the data. Where they expected a smooth spectrum from reflected light, they found a barcode-like pattern of absorption lines—the unmistakable chemical fingerprint of a giant planet's atmosphere. This spectroscopic approach offered an advantage over traditional imaging: astronomers could immediately confirm the object's identity and begin analyzing its properties, temperature, and motion simultaneously.\n\nBeta Pictoris itself provides an extraordinary natural laboratory. At roughly 23 million years old, the system remains youthful in cosmic terms, allowing astronomers to observe how newly formed planets interact with surrounding dust and debris. The discovery adds fresh evidence that systematic spectroscopic observation may unlock the location of countless other hidden worlds orbiting distant stars—particularly those concealed within the bright, dusty environments where conventional photography fails.",
+  "category": "science",
+  "tags": [
+    "exoplanet",
+    "webb-telescope",
+    "astronomy",
+    "spectroscopy",
+    "discovery"
+  ],
+  "quick_facts": [
+    "Beta Pictoris d has at least twice Jupiter's mass",
+    "Located 63 light-years from Earth, system is 23 million years old",
+    "Planet discovered through carbon monoxide and methane atmospheric signatures",
+    "Makes Beta Pictoris only the second system with three imaged planets"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
+  "published": "2026-07-23T17:02:06Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/34787343/pexels-photo-34787343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Dian is Light",
+  "photo_credit_url": "https://www.pexels.com/@dianislight"
+}

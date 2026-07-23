@@ -1,0 +1,30 @@
+{
+  "id": "3380791091653b47",
+  "slug": "bee-brain-neural-circuits-behavior-3380",
+  "headline": "Brain Switch Controls What Jobs Bees Do as They Age",
+  "meta_description": "Researchers discover how a hidden neural switch in bee brains determines which tasks workers perform at different life stages.",
+  "summary_short": "Scientists at Heinrich Heine University found that specific brain circuits control whether bees nurse the queen, guard the hive, or forage.",
+  "body": "Researchers at Heinrich Heine University Düsseldorf have uncovered how honeybees decide which jobs to perform without any leader telling them what to do. By studying a gene called doublesex, scientists discovered that specific neural circuits in a bee's brain act as a biological switch, determining whether a worker will nurse the queen, build and defend the hive, or search for food. When the researchers selectively deactivated these circuits in older worker bees, the insects reverted to caring for the queen—a task normally performed only by younger bees. This surprising finding, published in the Proceedings of the National Academy of Sciences in July 2026, reveals that a colony's remarkable division of labor is guided by hidden switches within each bee's brain rather than by central command.\n\nThe discovery emerged from a collaboration between researchers from Heinrich Heine University, the universities in Cologne and Frankfurt/Main, and builds on earlier work by Professor Martin Beye's team. Scientists used a clever technique: they produced a protein from the doublesex gene that suppresses neural activity, then fed bees a special substance to activate it. This allowed them to turn off specific brain circuits with precision and observe how behavior changed. Lead author Dr. Jana Seiler explained that when these circuits were inhibited, older workers returned to their younger-bee duties, while normal age-related behavior resumed once the circuits were reactivated.\n\nThe findings hint at something profound: different neural circuits may communicate with each other to coordinate the entire colony's work. As Professor Beye concluded, understanding how bees cooperate so seamlessly without a blueprint for work likely depends on unraveling the brain's neural circuits. This research opens new pathways to understanding how animals organize societies and solve complex collective problems—questions that fascinate biologists studying cooperation across species.",
+  "category": "science",
+  "tags": [
+    "honeybees",
+    "neuroscience",
+    "animal-behavior",
+    "collective-intelligence",
+    "genetics"
+  ],
+  "quick_facts": [
+    "Research team from Heinrich Heine University Düsseldorf, Cologne, and Frankfurt/Main",
+    "Gene called doublesex controls which tasks worker bees perform",
+    "Older bees resumed queen care when neural circuits were switched off",
+    "Findings published in Proceedings of the National Academy of Sciences, July 2026",
+    "A bee brain contains roughly one million neurons"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+  "published": "2026-07-23T17:01:50Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/36813175/pexels-photo-36813175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Vitaly Gariev",
+  "photo_credit_url": "https://www.pexels.com/@silverkblack"
+}
