@@ -1,0 +1,29 @@
+{
+  "id": "c98a9fa014eded61",
+  "slug": "stanford-ai-natural-ozempic-alternative-c98a",
+  "headline": "Scientists Discover Natural Appetite Suppressant Without Ozempic's Side Effects",
+  "meta_description": "Stanford researchers used AI to discover BRP, a naturally occurring molecule that suppresses appetite like Ozempic but without nausea, constipation, or muscle…",
+  "summary_short": "Stanford scientists used artificial intelligence to identify a tiny natural peptide called BRP that reduces appetite without the common side effects of weight-loss drugs.",
+  "body": "Stanford Medicine researchers have identified a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic—but without several of its most troubling drawbacks. The molecule, called BRP, works through a more targeted approach, acting specifically in the hypothalamus, the brain region controlling hunger and metabolism, rather than affecting tissues throughout the body. In animal studies, BRP appeared to avoid nausea, constipation, and substantial muscle loss, the side effects that trouble many people taking semaglutide-based medications.\n\nThe breakthrough hinged on artificial intelligence. Rather than manually searching through hundreds of thousands of protein fragments—a process that could take years—researchers created an algorithm called Peptide Predictor that scanned all 20,000 human protein-coding genes for sites where metabolic enzymes typically cut proteins. This narrowed the investigation from an overwhelming dataset down to just 373 prohormones worth studying. Among 100 peptides they tested, one stood out dramatically: BRP, made from only 12 amino acids, increased activity in neuron-like cells tenfold compared with untreated controls. When tested in minipigs, which more closely mirror human metabolism than mice, an injection of BRP reduced food intake by as much as 50 percent.\n\nAssistant professor Katrin Svensson, senior author of the research published in Nature in March 2026, noted that BRP's precision offers a genuine advantage over existing drugs. \"The receptors targeted by semaglutide are found in the brain but also in the gut, pancreas and other tissues,\" she explained. \"In contrast, BRP appears to act specifically in the hypothalamus.\" Svensson has already co-founded a company planning to begin human clinical trials in the near future, suggesting this discovery may move from laboratory to patients relatively quickly.",
+  "category": "science",
+  "tags": [
+    "artificial-intelligence",
+    "weight-loss",
+    "metabolic-health",
+    "stanford-medicine",
+    "peptide-therapy"
+  ],
+  "quick_facts": [
+    "Stanford researchers discovered BRP, a 12-amino-acid peptide that suppresses appetite",
+    "AI algorithm reduced search field from 20,000 genes to 373 prohormones",
+    "BRP reduced food intake by up to 50% in minipig studies",
+    "Published in Nature, March 2026; clinical trials planned soon"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+  "published": "2026-07-24T17:01:49Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
