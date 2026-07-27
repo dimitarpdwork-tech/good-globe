@@ -1,0 +1,30 @@
+{
+  "id": "97c60ea8e97772c2",
+  "slug": "jupiter-saturn-moons-magnetic-fields-97c6",
+  "headline": "Magnetic Fields Explain Why Jupiter Kept Giant Moons and Saturn Did Not",
+  "meta_description": "New research reveals how young Jupiter's powerful magnetic field created a safe zone for giant moons, while Saturn's weaker field left only Titan to survive.",
+  "summary_short": "Scientists discover magnetic fields shaped the moon systems of Jupiter and Saturn, explaining why one planet has four giant moons and the other has mainly one.",
+  "body": "For decades, astronomers have puzzled over a striking difference in the Solar System: Jupiter hosts four especially large moons, including Ganymede—the biggest moon anywhere—while Saturn is dominated by a single giant survivor, Titan. Both planets are gas giants surrounded by extensive moon families, yet their largest satellites developed along completely different paths. New research from Kyoto University suggests the answer lies not in orbital mechanics alone, but in each planet's magnetic field. Young Jupiter possessed a powerful magnetic field that carved out a protective cavity within the rotating disk of material surrounding it. This magnetospheric safe zone allowed Io, Europa, and Ganymede to survive their migrations through the disk and settle into stable orbits. Saturn's magnetic field, by contrast, was too weak to create such protection. Without this shielding, migrating moons could not endure the hazardous journey through Saturn's circumplanetary disk, leaving only Titan as the dominant survivor.\n\nThe international team used advanced computer simulations at Japan's National Astronomical Observatory to model how both planets' magnetic fields evolved when young, tracking how those fields influenced the formation and orbital movement of moons. The results suggest a predictable pattern: massive planets like Jupiter should develop compact systems with multiple large moons, while smaller gas giants may typically retain only one or two.\n\nThis discovery opens a window onto distant worlds. As astronomers continue searching for moons around exoplanets, they can now use planetary size and magnetic strength as guides for predicting what kinds of moon systems might exist light-years away. The researchers plan to test their theory on additional moons and explore possible satellite systems around young gas giants beyond our Solar System.",
+  "category": "science",
+  "tags": [
+    "jupiter",
+    "saturn",
+    "moons",
+    "magnetism",
+    "planetary-science"
+  ],
+  "quick_facts": [
+    "Jupiter has four especially large moons; Saturn is dominated by Titan alone",
+    "Young Jupiter's powerful magnetic field created a protective cavity for moons",
+    "Saturn's weaker magnetic field could not shield migrating moons from destruction",
+    "Research team used numerical simulations at National Astronomical Observatory of Japan",
+    "Theory may predict moon systems around distant planets and young gas giants"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm",
+  "published": "2026-07-27T13:57:42Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/33161088/pexels-photo-33161088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "meomupmofilm",
+  "photo_credit_url": "https://www.pexels.com/@meomupmofilm-2153775418"
+}
