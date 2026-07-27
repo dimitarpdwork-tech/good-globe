@@ -1,0 +1,29 @@
+{
+  "id": "a501d40b8bb8e112",
+  "slug": "molten-salt-liquid-air-storage-a501",
+  "headline": "Strange New Materials Are Quietly Solving Energy's Biggest Problem",
+  "meta_description": "Liquid air and molten salt are emerging as practical solutions to store renewable energy at scale, avoiding the environmental costs of lithium-ion batteries.",
+  "summary_short": "Two unconventional technologies—frozen air and heated salt—are being deployed worldwide to store renewable energy longer and cleaner than traditional batteries.",
+  "body": "The clean energy transition has largely cracked solar and wind power generation. The unsolved puzzle sits elsewhere: how to store that energy when the sun sets and winds drop. The answers now receiving serious investment sound almost fictional—one cools air to -321°F (-196°C) until it becomes liquid; another heats industrial salt to 1,040°F (560°C) and holds the heat for hours. Both technologies are being built at scale across the globe, and both accomplish what lithium-ion batteries fundamentally cannot.\n\nOn the outskirts of Manchester, a former coal plant is being transformed into a liquid air storage facility. Highview Power's Carrington project will freeze surplus renewable electricity into liquid air, compress it into insulated tanks, and release it as expanding gas to spin turbines when the grid needs power. Once complete, the facility will store 300MWh and supply enough electricity for nearly half a million homes for six hours. Across the Atlantic, Nevada's Crescent Dunes project uses 10,000 mirrors to heat molten salt to over 1,000 degrees, holding that thermal energy in a central tank for up to ten hours after sunset.\n\nThe appeal of these materials extends beyond raw capability. Lithium-ion batteries depend on mining cobalt, nickel, and lithium—processes that damage ecosystems and communities. Molten salt and liquid air sidestep that entirely. One uses air. The other relies on nitrate salts found worldwide. Both can be recycled at end of life, creating supply chains far less fraught with environmental and social costs. What makes this revolution genuinely strange is that nobody invented these technologies. Molten salt has powered missiles and nuclear weapons for decades. Liquid air has existed for centuries. The innovation wasn't discovery—it was finally realizing what to do with materials that were always there.",
+  "category": "progress",
+  "tags": [
+    "renewable-energy",
+    "energy-storage",
+    "clean-technology",
+    "innovation",
+    "sustainability"
+  ],
+  "quick_facts": [
+    "Liquid air facility in Manchester will store 300MWh for up to 6 hours",
+    "Molten salt heated to 1,040°F can hold energy for 10 hours after sunset",
+    "Nevada's Crescent Dunes uses 10,000 mirrors to focus sunlight on salt tanks",
+    "Both technologies avoid mining lithium, cobalt, and nickel used in conventional batteries"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/07/from-molten-salt-to-liquid-air-clean-energys-weird-storage-revolution/",
+  "published": "2026-07-27T11:01:29Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/29050401/pexels-photo-29050401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "耀方 胡",
+  "photo_credit_url": "https://www.pexels.com/@amber"
+}
