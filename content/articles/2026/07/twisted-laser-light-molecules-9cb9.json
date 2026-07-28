@@ -1,0 +1,29 @@
+{
+  "id": "9cb9abb9a4627721",
+  "slug": "twisted-laser-light-molecules-9cb9",
+  "headline": "Twisted Laser Light Reveals the Handedness of Molecules",
+  "meta_description": "Scientists use specially engineered twisted laser beams to distinguish mirror-image molecules, offering a faster, simpler way to analyze pharmaceuticals.",
+  "summary_short": "Researchers have created twisted laser beams that interact differently with left and right-handed molecules, making it easier to tell them apart.",
+  "body": "Scientists at India's Tata Institute of Fundamental Research, working with colleagues at IIT Mumbai and IIT Hyderabad, have developed a breakthrough method for identifying mirror-image molecules using specially engineered laser light. The twisted beams—which spin and twist as they move forward—interact differently depending on whether a molecule is left-handed or right-handed, much like how a screw's thread must match its nut. When the structured light strikes a chiral molecule, this mismatch or match creates measurable differences that reveal the molecule's identity. The discovery matters because many pharmaceuticals and important chemicals come in two mirror forms that behave drastically differently in living systems, yet distinguishing between them has long been scientifically difficult.\n\nAt the laser facility in TIFR Hyderabad, researchers directed ultrashort laser pulses lasting just a few hundred femtoseconds at gaseous samples of R- or S-Camphor, a well-known chiral molecule. The twisted light caused the molecules to break into charged fragments, which scientists then analyzed using a time-of-flight mass spectrometer. The key finding: the number of fragments produced changed based on how the light's twist matched the molecule's handedness. This simple comparison—counting fragments—allowed the team to distinguish between the two mirror forms without needing the complicated equipment and precise alignments that traditional methods require.\n\nWhat makes this approach genuinely valuable is its practical simplicity. Conventional chirality detection often measures tiny differences in how molecules absorb light or tracks where electrons are emitted—both requiring complex measurements. The new technique instead reads ion signals directly from the fragmentation pattern, boosting sensitivity while reducing technical burden. The results open pathways in chemistry, biology, and pharmaceutical science, where selecting the correct molecular form can determine whether a treatment works or fails.",
+  "category": "science",
+  "tags": [
+    "chirality",
+    "laser-physics",
+    "pharmaceuticals",
+    "molecular-chemistry",
+    "india-research"
+  ],
+  "quick_facts": [
+    "Twisted laser beams engineered at TIFR Hyderabad distinguish left and right-handed molecules",
+    "Method counts molecular fragments to identify chirality—simpler than conventional optical techniques",
+    "Tested on R- and S-Camphor using ultrashort laser pulses of a few hundred femtoseconds",
+    "Could improve pharmaceutical development by making enantiomer selection faster and more accurate"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+  "published": "2026-07-28T21:36:36Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/29746584/pexels-photo-29746584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Тимур Керимов",
+  "photo_credit_url": "https://www.pexels.com/@190703726"
+}

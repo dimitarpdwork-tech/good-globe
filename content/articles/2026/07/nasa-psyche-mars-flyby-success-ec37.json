@@ -1,0 +1,30 @@
+{
+  "id": "ec37612dbee51ea0",
+  "slug": "nasa-psyche-mars-flyby-success-ec37",
+  "headline": "NASA's Psyche Spacecraft Aces Mars Flyby, Preparing for Asteroid Mission",
+  "meta_description": "NASA's Psyche spacecraft successfully flew past Mars on May 15, testing instruments and capturing stunning images while en route to a metal-rich asteroid in 20…",
+  "summary_short": "NASA's Psyche spacecraft completed a successful Mars flyby, using the planet's gravity to accelerate toward its 2029 encounter with a metal-rich asteroid.",
+  "body": "NASA's Psyche spacecraft completed a highly successful flyby of Mars on May 15, using the planet's gravity to increase its speed and fine-tune its trajectory toward an unprecedented 2029 encounter with a metal-rich asteroid. The encounter served a dual purpose: providing the gravitational boost the mission needed while offering scientists a rare opportunity to test the spacecraft's cameras, magnetometer, and particle-detecting instruments around a well-studied world. All three instrument teams—imager, magnetometer, and gamma-ray and neutron spectrometer—performed flawlessly, validating that the tools designed to investigate an asteroid would work as intended.\n\nPsyche's multispectral imager captured striking views of Mars as the spacecraft approached at an unusually steep angle, first appearing as a narrow crescent before revealing intricate surface details: wind-shaped craters, the south polar ice cap, and the distinctive double-ringed Huygens crater. The month-long sequence was assembled into a time-lapse video that showcases both the mission's technical prowess and the rare beauty of the Red Planet from an unexpected vantage point. Even more impressively, the imager detected Mars's tiny moons Phobos and Deimos from a great distance—a dress rehearsal for searching for potential moonlets around asteroid Psyche itself.\n\nThe neutron spectrometer also excelled during the flyby, detecting neutrons escaping from the Martian surface despite passing at an altitude of 2,864 miles. Meanwhile, the magnetometer recorded the intense magnetic field signature at Mars's bow shock region, where solar wind collides with the planet's protective magnetic field. Each successful test brings NASA closer to unlocking the secrets of asteroid Psyche, believed to be the exposed metallic core of an ancient planetary building block.",
+  "category": "science",
+  "tags": [
+    "nasa",
+    "space-exploration",
+    "asteroid-mission",
+    "mars-flyby",
+    "technology"
+  ],
+  "quick_facts": [
+    "Psyche spacecraft flew past Mars on May 15, 2026",
+    "Passed Mars at altitude of 2,864 miles (4,609 kilometers)",
+    "All three instrument teams performed successfully during flyby",
+    "Detected Martian moons Phobos and Deimos from far away",
+    "On trajectory to reach metal-rich asteroid Psyche in 2029"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
+  "published": "2026-07-28T21:36:28Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/586030/pexels-photo-586030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "SpaceX",
+  "photo_credit_url": "https://www.pexels.com/@spacex"
+}
