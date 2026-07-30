@@ -1,0 +1,30 @@
+{
+  "id": "669a3e0bf95cb9a9",
+  "slug": "indigenous-knowledge-reshape-ai-669a",
+  "headline": "Indigenous Wisdom Could Transform How We Build AI",
+  "meta_description": "Researchers explore how Indigenous philosophies like Hózhó and Kaitiakitanga could guide ethical AI development and environmental protection.",
+  "summary_short": "New research suggests Indigenous ecological knowledge offers crucial frameworks for developing AI systems that respect environmental limits and community rights.",
+  "body": "Indigenous philosophies could hold the key to building artificial intelligence systems that prioritize environmental protection and community welfare. Researchers examining the Navajo concept of Hózhó—meaning balance and harmony—and the Māori principle of Kaitiakitanga, or guardianship, argue these worldviews emphasize collective responsibility in ways that challenge how AI is currently developed. Rather than treating natural resources as commodities, these frameworks view them as essential to sustainable ways of living. The implications matter urgently: while AI tools already help track illegal mining in the Amazon and monitor deforestation in the Congo Basin and Indonesia, the infrastructure supporting these systems often damages the very ecosystems they aim to protect. Data centers, for instance, can drain local water supplies. Indigenous communities have already resisted this harm—efforts in Chile recently halted a Google data center project—demonstrating that exclusion from AI decision-making breeds conflict.\n\nYet integrating Indigenous values into AI governance poses genuine risks. Karaitiana Taiuru, an expert in Indigenous data sovereignty from New Zealand, warns that when non-Indigenous engineers reduce distinct cultural systems into a generic category of \"Indigenous knowledge,\" the specific, irreducible meaning gets lost. Navajo environmental activist Nicole Horseherder echoes this concern, noting that thousands of years of human observation cannot simply be translated into an evolving technology. She insists AI can inform communities but will never replace Indigenous ways of being.\n\nDespite these challenges, researchers emphasize that meaningful Indigenous participation remains essential. The goal is not representation within existing systems, but genuine control over how AI is designed and deployed from the start. Getting this right requires listening to Indigenous communities not as sources of data, but as partners who hold irreplaceable knowledge about living sustainably on Earth.",
+  "category": "science",
+  "tags": [
+    "indigenous-knowledge",
+    "artificial-intelligence",
+    "environmental-ethics",
+    "data-sovereignty",
+    "sustainable-technology"
+  ],
+  "quick_facts": [
+    "Navajo Hózhó philosophy and Māori Kaitiakitanga guide new AI ethics research",
+    "AI already monitors illegal mining in Amazon and Congo Basin deforestation",
+    "Data centers stress local water resources in affected communities",
+    "Indigenous resistance halted a Google data center project in Chile",
+    "Expert warns against reducing distinct Indigenous systems into generic categories"
+  ],
+  "source_name": "Mongabay",
+  "source_url": "https://news.mongabay.com/short-article/2026/07/how-can-indigenous-knowledge-reshape-ai-development/",
+  "published": "2026-07-30T07:43:34Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/32358153/pexels-photo-32358153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ehaan Dewa",
+  "photo_credit_url": "https://www.pexels.com/@ehaan-dewa-2149036462"
+}
