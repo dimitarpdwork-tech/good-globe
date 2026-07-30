@@ -1,0 +1,29 @@
+{
+  "id": "0db024fcb0f720d6",
+  "slug": "ai-reveals-bird-evolution-bursts-0db0",
+  "headline": "AI Unlocks Hidden Pattern in Bird Evolution: Sudden Bursts Tied to Climate Shifts",
+  "meta_description": "University of Michigan researchers used AI to discover that songbirds evolved in rapid bursts tied to climate change, not at a steady pace.",
+  "summary_short": "Scientists used AI to analyze 170,000 bird skeleton measurements and found evolution happens in explosive bursts—many linked to major climate shifts.",
+  "body": "University of Michigan researchers have made a striking discovery about how evolution actually works: songbirds didn't evolve at a steady pace, but rather in rare, rapid bursts separated by slower periods—and many of those bursts lined up with major shifts in Earth's climate. The findings, published in Nature Ecology & Evolution, challenge the assumption that evolutionary change happens gradually and consistently over time. Instead, they suggest that environmental upheaval can reshape life in powerful ways, with new species radiating outward when ecological opportunities open up.\n\nThe breakthrough came from an unexpected source: artificial intelligence and massive museum collections. Researchers scanned over 15,000 bird skeletons from the U-M Museum of Zoology and beyond, using an AI tool called Skelevision to automatically measure 12 bones across each skeleton in about 45 seconds. This allowed them to gather 170,000 individual skeletal measurements from more than 2,000 species—a scale of data collection that would have taken years through traditional methods. They then applied a new statistical approach called bifrost, which analyzed each species' complete skeleton as an integrated whole rather than examining bones in isolation, revealing how body shapes changed over roughly 45 million years of passerine evolution.\n\nThe data told a clear story: a period of especially rapid evolution occurred around 35 million years ago, coinciding precisely with the Eocene-Oligocene transition, a time of intense global cooling. The analysis also revealed that birds living at more extreme latitudes—where seasonal temperatures swing more dramatically—tend to evolve faster than those near the equator. This pattern suggests that environmental variability, both across geological time and across geography, plays a crucial role in driving the speed of evolutionary change. The work demonstrates that museum collections, long thought of as static archives, have become dynamic research tools when paired with modern AI.",
+  "category": "science",
+  "tags": [
+    "artificial-intelligence",
+    "evolution",
+    "birds",
+    "climate-science",
+    "museums"
+  ],
+  "quick_facts": [
+    "University of Michigan team analyzed 170,000 skeletal measurements from 2,000+ bird species",
+    "AI tool Skelevision measured specimens in 45 seconds using automated imaging",
+    "Major evolutionary burst around 35 million years ago matched global cooling period",
+    "Birds at extreme latitudes evolve faster than equatorial species"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+  "published": "2026-07-30T18:49:33Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/9660895/pexels-photo-9660895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jonathan Cooper",
+  "photo_credit_url": "https://www.pexels.com/@theshuttervision"
+}

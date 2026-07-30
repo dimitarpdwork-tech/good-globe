@@ -1,0 +1,30 @@
+{
+  "id": "a383689362ef760f",
+  "slug": "ultrafast-xrays-chemistry-atoms-a383",
+  "headline": "Scientists Watch Chemistry Happen Atom by Atom",
+  "meta_description": "European XFEL researchers captured light-driven chemistry in real time, revealing how individual atoms experience different stages of molecular transformation.",
+  "summary_short": "Using ultrafast X-rays, scientists observed how molecules convert absorbed light into motion in trillionths of a second—opening new insights into light-driven chemistry.",
+  "body": "Researchers at the European XFEL have achieved something remarkable: they watched chemistry unfold at the atomic scale, capturing how a molecule absorbs light and transforms its structure in just picoseconds—trillionths of a second. Using rapid X-ray pulses, scientists followed energy as it moved through a molecule called 3-fluoropyridine, revealing that different atoms experience fundamentally different parts of the process. The fluorine atom provided clear signals about how vibrations relaxed over time, while the nitrogen atom told a more intricate story, reflecting both the redistribution of electrons and the molecule's changing shape. This discovery opens a powerful new window into how light-driven chemistry actually works at its most fundamental level.\n\nThe team used a technique called time-resolved X-ray photoelectron spectroscopy at the European XFEL's Small Quantum Systems instrument. They delivered an ultraviolet laser pulse to energize the molecules, then sent carefully timed soft X-ray pulses to remove electrons from specific atoms. By repeating this measurement with the X-ray arriving at different delays, researchers reconstructed how the chemical environment changed over a couple of picoseconds—essentially creating a frame-by-frame movie of transformation at the atomic level.\n\nThe implications stretch far beyond one simple molecule. These same methods could eventually reveal how DNA protects itself from light exposure, how materials designed to harvest solar energy actually function, and how other fundamental processes triggered by light occur in nature. Daniel Rivas, co-author of the study, notes this represents exactly what the European XFEL was built to achieve: watching chemical change where it truly begins, on its natural timescale.",
+  "category": "science",
+  "tags": [
+    "xray-technology",
+    "photochemistry",
+    "molecular-dynamics",
+    "light-energy",
+    "scientific-breakthrough"
+  ],
+  "quick_facts": [
+    "Ultrafast X-rays captured molecular change in picoseconds—trillionths of a second",
+    "European XFEL's Small Quantum Systems instrument enabled the breakthrough",
+    "Study focused on 3-fluoropyridine, a small ring-shaped nitrogen-fluorine molecule",
+    "Different atoms revealed distinct stages of light-energy absorption and transformation",
+    "Technique could improve understanding of DNA protection, solar energy materials, and photochemistry"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+  "published": "2026-07-30T18:49:25Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7617601/pexels-photo-7617601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "PURPLE24",
+  "photo_credit_url": "https://www.pexels.com/@purple24-2299924"
+}
