@@ -1,0 +1,30 @@
+{
+  "id": "e3d786168a52328c",
+  "slug": "ant-brains-evolution-parenting-e3d7",
+  "headline": "How evolution turned hunger into love: the ant brain reveals parenting's origin",
+  "meta_description": "Researchers discovered that evolution repurposed ancient hunger signals to create parenting behavior. Study of clonal raider ants reveals how caregiving emerge…",
+  "summary_short": "Scientists studying ant brains found that evolution didn't invent parenting from scratch—it adapted ancient hunger systems. Two molecules control the shift.",
+  "body": "Researchers at Rockefeller University have uncovered an elegant answer to one of biology's enduring puzzles: how did parenting emerge in animals that once abandoned their young? By studying clonal raider ants, they discovered that evolution didn't create entirely new brain systems for caregiving. Instead, it repurposed ancient neural pathways originally designed to regulate hunger and feeding, transforming them into an instinct to nurture. The findings, published in Nature, suggest that ants and mammals alike use related brain signaling systems for caregiving—a blueprint evolution has followed across vastly different species. As Daniel Kronauer, head of the Laboratory of Social Evolution and Behavior at Rockefeller, observed, \"Evolution takes what it has and works with that, sometimes in very surprising ways.\"\n\nThe breakthrough emerged from meticulous observation. Researchers created an automated system that placed individual ants with individual larvae, allowing them to monitor hundreds of caregiving interactions and identify the chemical messengers involved. They identified 70 neuropeptides in the ant brain and tested each one to see how it influenced behavior. Two molecules proved decisive: Neuropeptide F encouraged ants to care for larvae, while Allatostatin A pushed them toward foraging. Young ants naturally had higher levels of the caregiving molecule and lower levels of the foraging one—a pattern that reversed as they aged, matching their natural transition from nursing larvae inside the nest to gathering food outside it.\n\nWhat makes ants particularly valuable for this research is their simplicity. An ant brain contains roughly 60,000 cells compared with 100 million in a mouse brain, making it possible for scientists to study the underlying circuits in far greater detail. The team also discovered that hunger still influences these caregiving molecules—starved ants showed higher caregiving signals, while fed ants became less focused on tending larvae. This connection hints at why parenting and feeding evolved from the same root: both behaviors fundamentally involve nourishing dependents, whether yourself or your offspring.",
+  "category": "science",
+  "tags": [
+    "evolution",
+    "neuroscience",
+    "parenting",
+    "ants",
+    "behavior"
+  ],
+  "quick_facts": [
+    "Rockefeller University researchers studied clonal raider ants to trace parenting's evolution",
+    "Ant brain has 60,000 cells versus 100 million in a mouse brain",
+    "Two molecules control the shift: NPF encourages caregiving, AstA promotes foraging",
+    "Scientists identified 70 neuropeptides in ant brains through detailed chemical analysis",
+    "Hunger still influences caregiving signals, showing the ancient feeding-parenting connection"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+  "published": "2026-08-01T18:13:18Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/17564406/pexels-photo-17564406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Petr Ganaj",
+  "photo_credit_url": "https://www.pexels.com/@ganajp"
+}
