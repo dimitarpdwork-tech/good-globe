@@ -1,0 +1,30 @@
+{
+  "id": "5368ba9aa85e079e",
+  "slug": "dark-matter-hidden-force-discovery-5368",
+  "headline": "Dark matter's hidden force works backwards, surprising physicists",
+  "meta_description": "A new study reveals dark matter may interact through a hidden force, but with counterintuitive effects on cosmic structure growth.",
+  "summary_short": "Researchers discovered dark matter particles may exert a hidden force on each other—but it slows cosmic growth rather than speeding it up.",
+  "body": "Scientists investigating dark matter have uncovered something unexpected: a hidden force may pull dark matter particles together, yet this same force actually slows the growth of the Universe's largest structures. The discovery, published in the Journal of Cosmology and Astroparticle Physics, challenges intuitive assumptions about how additional forces should behave. Researcher Zachary Weiner from the Perimeter Institute for Theoretical Physics notes that while we have long known dark matter only through gravity's effects, the possibility of hidden interactions remained unexplored—until now.\n\nThe research team modeled what would happen if dark matter particles attracted each other through a force beyond gravity. Initial expectations suggested stronger clustering would accelerate cosmic structure formation. Instead, something counterintuitive occurred: as dark matter particles cluster more efficiently through the hidden force, they paradoxically become lighter and weaker gravitationally as the Universe expands. This reduction in gravitational strength offsets the benefit of enhanced clustering, ultimately suppressing rather than accelerating structural growth.\n\nThese findings matter because precise observations of the Universe have recently hinted at small discrepancies in the standard model of cosmology. Some measurements suggest the Universe expanded more slowly in the past than expected, while cosmic microwave background studies indicate matter may be denser across large scales than theory predicts. A hidden dark force could explain these puzzles—but only if scientists account for how it fundamentally alters dark matter's behavior over cosmic time. As observations from instruments like the Dark Energy Spectroscopic Instrument grow more precise, upcoming surveys will test whether dark matter truly possesses such hidden interactions, helping physicists refine their understanding of the cosmos.",
+  "category": "science",
+  "tags": [
+    "dark-matter",
+    "cosmology",
+    "physics",
+    "universe",
+    "research"
+  ],
+  "quick_facts": [
+    "Study published in Journal of Cosmology and Astroparticle Physics, 2026",
+    "Zachary Weiner from Perimeter Institute for Theoretical Physics led research",
+    "Hidden force makes dark matter cluster but become effectively lighter",
+    "Findings may explain recent discrepancies in cosmic expansion measurements",
+    "Dark forces suppress rather than accelerate large-scale structure growth"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+  "published": "2026-08-02T18:13:12Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/41951/solar-system-emergence-spitzer-telescope-telescope-41951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Pixabay",
+  "photo_credit_url": "https://www.pexels.com/@pixabay"
+}
