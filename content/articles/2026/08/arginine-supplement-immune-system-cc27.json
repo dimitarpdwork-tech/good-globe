@@ -1,0 +1,30 @@
+{
+  "id": "cc2745591cd8cf5a",
+  "slug": "arginine-supplement-immune-system-cc27",
+  "headline": "Common amino acid shows promise against cancer and viral infections",
+  "meta_description": "Rockefeller University researchers discover that arginine supplementation may strengthen the immune system's ability to fight cancer and viruses by restoring a…",
+  "summary_short": "A simple amino acid supplement could help the immune system recognize and fight cancer cells and viruses by restoring production of a crucial immune-alert protein.",
+  "body": "Researchers at Rockefeller University have discovered that a common amino acid called arginine may hold surprising therapeutic potential against both cancer and viral infections. When arginine levels drop too low, cells lose the ability to produce MHC-1, a protein that acts as a cellular alarm system, alerting immune cells to threats like mutated cancer cells and invading viruses. In studies conducted by Sohail Tavazoie's laboratory, mice fed diets rich in arginine developed fewer colon tumors and experienced milder symptoms from influenza and SARS-CoV-2 infections. Most strikingly, even giving arginine to mice after they had already contracted influenza improved their recovery outcomes.\n\nThe mechanism is elegantly simple: when arginine becomes scarce, the cellular machines that build proteins—called ribosomes—get stuck mid-production while trying to assemble MHC-1. The incomplete proteins never reach the cell surface where they could warn the immune system of danger. The good news is that restoring arginine to adequate levels, roughly equivalent to a couple of over-the-counter supplement tablets, can restart this critical immune signal. Qiushuang Wu, the study's first author, notes that arginine was \"the most depleted amino acid in all of these diseases,\" suggesting its role spans multiple health threats.\n\nWhat makes this discovery particularly promising is its accessibility. Arginine is inexpensive, widely available, and the body produces it naturally from protein-rich foods. Scientists already knew that low arginine levels were linked to colon cancer; this research reveals why, and suggests a straightforward intervention. Tavazoie hopes that therapeutic and preventative studies in human patients could begin soon, particularly for those receiving immunotherapies or at high risk of viral exposure.",
+  "category": "science",
+  "tags": [
+    "arginine",
+    "immunotherapy",
+    "cancer-research",
+    "viral-infections",
+    "amino-acids"
+  ],
+  "quick_facts": [
+    "Rockefeller University study led by Sohail Tavazoie, published in Cell",
+    "Arginine deficiency prevents immune system from producing MHC-1 warning protein",
+    "Mice on arginine-rich diets developed fewer colon tumors",
+    "Simple supplement dose equivalent to a couple of over-the-counter tablets",
+    "Arginine inexpensive and readily available for immediate clinical testing"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+  "published": "2026-08-03T13:50:01Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/11516492/pexels-photo-11516492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Marek Piwnicki",
+  "photo_credit_url": "https://www.pexels.com/@marek-piwnicki-3907296"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "d79eb159c4766cac",
+  "slug": "alzheimers-taok-protein-discovery-d79e",
+  "headline": "New Compounds Unlock Alzheimer's Mystery Protein",
+  "meta_description": "Vanderbilt researchers created the first selective compound to study TAOK-1, a poorly understood protein linked to Alzheimer's disease, opening new research pa…",
+  "summary_short": "Vanderbilt scientists have created two breakthrough compounds that could finally unlock how a mysterious protein drives Alzheimer's disease.",
+  "body": "Researchers at Vanderbilt University have created the first selective compound designed to inhibit TAOK-1, a protein linked to Alzheimer's disease that has remained largely mysterious to scientists. The breakthrough, led by the Warren Center for Neuroscience Drug Discovery, produced VU6083859—a tool compound that allows researchers to study how this poorly understood protein behaves. In an unexpected twist, the team also discovered a second compound, VU6080195, that activates all three proteins in the TAOK family rather than blocking them. Together, these two compounds could reveal hidden disease mechanisms and point toward entirely new treatment strategies for a condition that currently affects more than seven million Americans and remains without a cure.\n\nThe real challenge in Alzheimer's research has never been identifying suspect proteins—it has been finding reliable ways to study them. \"Alzheimer's is a condition that remains recalcitrant to the scientific community's attempts at developing a cure,\" noted Daniel Schultz, who led the research. Tool compounds like these fill that gap, allowing neuroscientists to safely manipulate protein activity and observe the consequences without the toxicity concerns that would make them unsuitable as medicines. The collaboration showcased the strength of the WCNDD's drug discovery infrastructure, with researchers systematically creating a large collection of molecules with slightly different structures, then evaluating which ones showed the most promise.\n\nWhat makes this discovery particularly encouraging is the accidental discovery of VU6080195. \"As scientists, we can get lost in planning our projects to the last detail and expecting things to go a certain way, so it was quite fun to see this unexpected result,\" Schultz reflected. With these new research tools now available, the relatively overlooked TAOK protein family is poised to receive the scientific attention it deserves—potentially unlocking pathways toward treatments that could finally move beyond merely slowing Alzheimer's symptoms.",
+  "category": "health",
+  "tags": [
+    "alzheimers",
+    "neuroscience",
+    "drug-discovery",
+    "medical-research",
+    "protein-study"
+  ],
+  "quick_facts": [
+    "Vanderbilt created VU6083859, the first selective TAOK-1 inhibitor",
+    "Second compound VU6080195 unexpectedly activates all TAOK proteins",
+    "Alzheimer's affects over seven million people in the United States",
+    "Research published in ACS Chemical Neuroscience, August 2026",
+    "WCNDD has five compounds currently in phase I clinical trials"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+  "published": "2026-08-03T13:49:52Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
