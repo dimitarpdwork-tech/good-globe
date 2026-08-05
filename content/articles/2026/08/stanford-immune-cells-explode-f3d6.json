@@ -1,0 +1,30 @@
+{
+  "id": "f3d65cf86c56007b",
+  "slug": "stanford-immune-cells-explode-f3d6",
+  "headline": "Scientists Discover Immune Cells That Explode to Kill Infections",
+  "meta_description": "Stanford researchers found immune cells in flatworms that explode within seconds to destroy bacteria and foreign cells—a rapid defense mechanism absent in huma…",
+  "summary_short": "Stanford scientists discovered explosive immune cells in flatworms that kill nearby pathogens in seconds. The finding could inspire new treatments for infections and can…",
+  "body": "Stanford researchers have identified a remarkable immune cell that destroys nearby pathogens by exploding—a process so swift and complete that the cell vanishes within five minutes, leaving virtually no trace. The discovery, published in *Cell*, was made in planarian flatworms, small aquatic animals famous for their extraordinary ability to regenerate even when cut into pieces. The newly discovered cells, named \"ruptoblasts\" by the team, represent an entirely different immune strategy from anything known in humans, one that may hold clues for developing targeted medical treatments.\n\nThe cells were found while postdoctoral researcher Chey Chai investigated whether flatworms could distinguish their own tissues from those of other individuals. When Chai fused worms together lengthwise, the organisms rejected tissue from unrelated worms in a dramatic inflammatory response. Under a microscope, individual ruptoblasts suddenly burst open, released toxic substances that killed nearby cells, and disappeared—all within seconds to minutes. \"It's this huge inflammatory response. Like there's a fire and an alarm goes off, and the cells just blow up,\" Chai explained. What triggers this explosion is a hormone called activin, whose elevated levels initiate the self-destructive cascade.\n\nWhat sets ruptosis apart from other forms of cell death is its stunning speed and precision. While some mammalian cells undergo explosive death, they leak their contents slowly over hours. Ruptoblasts, by contrast, deliver their payload almost instantly, creating a highly localized weapon that damages only nearby cells without triggering chain reactions or leaving persistent toxicity. When tested against E. coli bacteria, human kidney cells, and mouse blood cells, ruptoblasts destroyed all three. Senior author Bo Wang noted that this ability to deliver powerful yet tightly contained attacks could inspire new approaches to fighting bacterial infections or tumors. The strategy appears limited to basal bilaterians like flatworms—vertebrates likely lost it because they cannot repair the surrounding damage the way regenerative flatworms can.",
+  "category": "science",
+  "tags": [
+    "immunology",
+    "flatworms",
+    "cellbiology",
+    "medicineresearch",
+    "regeneration"
+  ],
+  "quick_facts": [
+    "Discovered at Stanford University, published in Cell journal",
+    "Immune cells explode within seconds to minutes, killing pathogens",
+    "Found in planarian flatworms, not previously seen in humans",
+    "Activated by the hormone activin during tissue rejection",
+    "Could inspire new treatments for infections and cancer"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+  "published": "2026-08-05T13:04:07Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/11516492/pexels-photo-11516492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Marek Piwnicki",
+  "photo_credit_url": "https://www.pexels.com/@marek-piwnicki-3907296"
+}
