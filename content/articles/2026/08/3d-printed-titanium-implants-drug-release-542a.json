@@ -1,0 +1,30 @@
+{
+  "id": "542adac56c0622d9",
+  "slug": "3d-printed-titanium-implants-drug-release-542a",
+  "headline": "Smart implants that heal and fight infection at once",
+  "meta_description": "Czech researchers have designed 3D-printed titanium joint implants with porous structures that release medication gradually during healing.",
+  "summary_short": "Titanium implants built with tiny pores can now deliver antibiotics directly where they're needed most—inside the joint itself.",
+  "body": "Researchers at the University of Chemistry and Technology in Prague have engineered a solution to one of surgery's most dangerous complications: post-operative infection. Working with surgeons at Motol University Hospital, the team has developed 3D-printed titanium joint implants with an ingenious internal design—a porous structure that acts as both a biological scaffold and a drug delivery system. Rather than rely on systemic antibiotics that circulate through the whole body, these implants can release medication directly at the surgical site, exactly where it's needed.\n\nThe printing process itself is a marvel of precision. Using laser powder bed fusion, technicians spread a microscopic layer of titanium powder, a laser fuses it into shape, and the process repeats roughly 1,300 times to create a single knee implant—a painstaking cycle that takes about ten and a half hours. The result mimics nature itself: researcher Jiří Kubásek explains that bone tissue naturally contains pores tens to hundreds of micrometers wide, allowing fluids to circulate. By recreating this microscopic architecture, the implants bond far more effectively with surrounding bone as tissue grows into the gaps.\n\nBut the engineering challenge remains genuine. Professor Dalibor Vojtěch notes that finding a carrier material that is both safe for the body and releases medication at a controlled rate—gradually rather than all at once—is still being solved. Early prototypes mix sulfates, phosphates, and silver with the antibiotic vancomycin. Though the team hasn't perfected the timing yet, they've already demonstrated working implants for the hip, shoulder, and ankle. For patients facing joint replacement, this quiet innovation could mean the difference between a straightforward recovery and a serious complication.",
+  "category": "science",
+  "tags": [
+    "3d-printing",
+    "medical-innovation",
+    "infection-prevention",
+    "biomaterials",
+    "orthopedic-surgery"
+  ],
+  "quick_facts": [
+    "University of Chemistry and Technology in Prague leads the research",
+    "Laser powder bed fusion creates 1,300 layers over 10.5 hours per implant",
+    "Pores measure tens to hundreds of micrometers, mimicking real bone",
+    "Prototype uses vancomycin antibiotic with silver sulfates and phosphates",
+    "Tested for hip, shoulder, knee, and ankle replacements"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/08/3d-printed-bone-implants-that-release-drugs-as-they-heal/",
+  "published": "2026-08-05T07:49:59Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6629364/pexels-photo-6629364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "https://kaboompics.com/",
+  "photo_credit_url": "https://www.pexels.com/@karola-g"
+}

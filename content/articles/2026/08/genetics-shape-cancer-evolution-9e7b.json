@@ -1,0 +1,30 @@
+{
+  "id": "9e7bee9ea2f532b6",
+  "slug": "genetics-shape-cancer-evolution-9e7b",
+  "headline": "Your genes may decide how cancer evolves, study shows",
+  "meta_description": "Groundbreaking research reveals inherited genetics influence not just cancer risk, but how tumors develop and respond to treatment.",
+  "summary_short": "New study shows inherited genetics shape how cancer evolves, suggesting personalized approaches to screening and treatment may be necessary.",
+  "body": "A landmark study published in Nature reveals that inherited genetics do more than determine whether someone develops cancer—they fundamentally shape how tumors evolve once they begin. Researchers at the CRUK Cambridge Institute exposed four genetically distinct mouse strains to identical doses of a liver carcinogen at the same age, then analyzed nearly 600 tumors to map their development paths. Despite receiving the same exposure, cancers in each strain took different genetic routes, activating the same cancer-promoting processes through entirely different mutations. The genetic differences between strains were modest—comparable to natural human diversity—yet produced substantially different tumor evolution patterns.\n\nThese findings carry real implications for how medicine approaches cancer. Sarah Aitken, an Assistant Professor at Yale School of Medicine who participated in the research, explained that drug responses likely vary based on inherited genetics, meaning diagnostics and treatments may need tailoring to individual genetic backgrounds. The team suggests this principle extends to how patients respond to chemotherapy and radiotherapy. \"We've been able to show for the first time the extent to which genetic background influences both the mutation processes and the pathways leading to tumor development,\" said Duncan Odom, now leading research at the German Cancer Research Centre in Heidelberg.\n\nWhile the study was conducted in mice, its implications for human cancer care are profound. Current cancer screening strategies often focus on shared environmental risks, but this research suggests they may be missing crucial pieces of the puzzle. The findings hint that inherited genes could play a far larger role in cancer development than previously understood—a discovery that could reshape how we think about prevention, early detection, and personalized medicine.",
+  "category": "science",
+  "tags": [
+    "cancer-research",
+    "genetics",
+    "personalized-medicine",
+    "tumor-development",
+    "drug-response"
+  ],
+  "quick_facts": [
+    "Four genetically distinct mouse strains received identical carcinogen doses",
+    "Nearly 600 tumors analyzed to trace different evolutionary paths",
+    "Genetic differences between strains comparable to human population diversity",
+    "Research conducted at CRUK Cambridge Institute, published in Nature",
+    "Findings suggest need for tailored diagnostics and personalized treatment"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/08/how-inherited-genetics-shape-the-way-cancer-forms-and-evolves/",
+  "published": "2026-08-05T07:50:05Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533021/pexels-photo-8533021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
