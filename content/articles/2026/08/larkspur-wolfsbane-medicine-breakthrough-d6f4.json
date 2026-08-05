@@ -1,0 +1,30 @@
+{
+  "id": "d6f4bafdc7bdd05b",
+  "slug": "larkspur-wolfsbane-medicine-breakthrough-d6f4",
+  "headline": "Ancient Poisons Become Medicine as Scientists Crack Plant Chemistry",
+  "meta_description": "Researchers at Michigan State University and Czech Academy of Sciences have synthesized compounds from toxic plants for the first time, opening doors to new me…",
+  "summary_short": "Two famously poisonous plants used for millennia in traditional medicine have yielded their secrets to modern science—potentially unlocking treatments for pain, malaria,…",
+  "body": "For the first time, scientists have successfully synthesized medicinal compounds from two historically toxic plants: wolfsbane and larkspur. The breakthrough emerged from an unexpected collaboration between researchers at Michigan State University and the Czech Academy of Sciences, published in the journal Molecular Plant. The team identified six unique enzymes that create a complex compound called atisinium, one of a family of alkaloids that these plants produce naturally—but which had never been successfully synthesized in a laboratory before. What makes this achievement remarkable is that aconitine, one of the best-known compounds from this family, had eluded lab synthesis for nearly 200 years despite being isolated in the 1800s.\n\nThe story began serendipitously at a research conference in Barcelona, where Björn Hamberger from MSU's Department of Biochemistry and Molecular Biology met scientists from Tomáš Pluskal's lab at the Czech Academy of Sciences. Both groups were independently pursuing the same difficult compounds. Recognizing they could accomplish more together, they joined forces to decode exactly how these plants manufacture their intricate chemicals—a process complicated by the fact that plants produce these compounds slowly and in tiny amounts.\n\nOnce the team identified the relevant genes in wolfsbane and larkspur, they inserted them into tobacco plants, which served as engineered biofactories producing the desired compounds at larger scales. This approach—inserting genetic blueprints into host organisms like yeast or specially modified plants—could eventually enable researchers to produce new medicines inspired by these natural products without relying on harvesting from wild plants. As co-author Garret Miller noted, understanding how to create these compounds opens \"totally new routes of testing.\" The plants that once poisoned historical figures like Socrates may now help heal modern patients.",
+  "category": "science",
+  "tags": [
+    "biotechnology",
+    "medicinal-plants",
+    "alkaloids",
+    "research",
+    "chemistry"
+  ],
+  "quick_facts": [
+    "Scientists at MSU and Czech Academy of Sciences collaborated on the discovery",
+    "Six unique enzymes successfully created the compound atisinium",
+    "Aconitine remained unsynthesized in labs for nearly 200 years",
+    "Tobacco plants were engineered as biofactories to produce the compounds",
+    "Discovery published in the journal Molecular Plant"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/used-for-millennia-as-poison-larkspur-wolfsbane-could-become-medicine-after-laboratory-breakthrough/",
+  "published": "2026-08-05T18:55:28Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533021/pexels-photo-8533021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}

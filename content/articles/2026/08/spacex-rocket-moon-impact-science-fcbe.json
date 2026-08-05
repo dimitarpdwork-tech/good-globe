@@ -1,0 +1,30 @@
+{
+  "id": "fcbeeaa2a9f93409",
+  "slug": "spacex-rocket-moon-impact-science-fcbe",
+  "headline": "Moon crash becomes scientific goldmine for lunar researchers",
+  "meta_description": "A SpaceX Falcon 9 rocket stage crashed into the Moon near Einstein crater, giving planetary scientists a rare controlled experiment to study impact craters and…",
+  "summary_short": "When a SpaceX rocket stage struck the Moon, scientists saw not a mishap but an opportunity. The crash offers rare data on how impacts shape lunar terrain.",
+  "body": "On Wednesday near the Einstein crater, a spent SpaceX Falcon 9 rocket stage—roughly the size of a five-storey building and weighing at least 4,000kg—slammed into the lunar surface at approximately 5,400mph. Rather than treating this as space debris gone wrong, planetary geologists are treating it as a scientific gift. Because researchers knew the rocket's exact size, speed, and impact point beforehand, what began as an accident has transformed into something far more valuable: a rare, controlled experiment that will help them understand how impacts create craters, scatter debris, and send tremors through the Moon's interior.\n\nThe journey to impact took 18 months. After the rocket launched from Florida in January 2021 to deliver two lunar landers, its upper stage remained in a looping orbit swinging toward and away from the Moon. Over time, gravitational tugs from Earth, Moon, and Sun—even faint pressure from sunlight—nudged it millimetre by millimetre onto a collision course. By Wednesday morning, when the impact occurred in daylight across much of the world, the flash lasted only a fraction of a second, too faint for amateur astronomers to spot. A dust plume stretching up to 100km lingered longer, visible only to those watching from the right place at the right moment.\n\nThe real payoff arrives in the coming days and weeks. NASA's Lunar Reconnaissance Orbiter will photograph the crater, allowing before-and-after comparisons that reveal how much rock was ejected and how far debris travelled. This knowledge has practical weight: engineers designing safer lunar landers and future Moon bases need to understand how hard impacts shake the ground and what flying debris might damage nearby structures. Material excavated from beneath the surface also holds clues about lunar geology and the Moon's formation 4.5 billion years ago. This won't be the first human-made object to hit the Moon—dozens have since 1959—but the precision of knowing exactly what struck makes this collision uniquely scientific.",
+  "category": "science",
+  "tags": [
+    "space",
+    "moon",
+    "science",
+    "spacex",
+    "lunar-research"
+  ],
+  "quick_facts": [
+    "SpaceX Falcon 9 upper stage crashed into Moon near Einstein crater Wednesday",
+    "Rocket stage was 5-storey building size, weighed at least 4,000kg",
+    "Impact occurred at 5,400mph after 18-month orbital drift",
+    "Dust plume stretched up to 100km across lunar surface",
+    "Data helps engineers design safer lunar landers and future Moon bases"
+  ],
+  "source_name": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+  "published": "2026-08-05T18:55:56Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/29367121/pexels-photo-29367121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jay Brand",
+  "photo_credit_url": "https://www.pexels.com/@jay-brand-1763356224"
+}
