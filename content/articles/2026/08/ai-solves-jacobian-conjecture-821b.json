@@ -1,0 +1,29 @@
+{
+  "id": "821b46f196627dcf",
+  "slug": "ai-solves-jacobian-conjecture-821b",
+  "headline": "AI Solves 87-Year-Old Math Mystery with a Tiny Formula",
+  "meta_description": "Anthropic mathematician uses Claude Fable 5 to find a simple counterexample disproving the Jacobian conjecture in higher dimensions.",
+  "summary_short": "A mathematician at Anthropic used Claude Fable 5 AI to discover a remarkably brief formula that disproves a century-old mathematical conjecture.",
+  "body": "In August 2026, mathematician Levent Alpöge made a quiet but momentous announcement: using Anthropic's newly released AI model Claude Fable 5, he had found a counterexample to the Jacobian conjecture, one of mathematics' most stubbornly unsolved problems. The discovery proves the conjecture false in three dimensions and beyond—though the original two-dimensional version, first stated by Ludwig Kraus in 1884, remains open. What made this breakthrough remarkable was not just its significance, but its elegance: Alpöge's counterexample was so concise it fit into a single social media post.\n\nThe Jacobian conjecture concerns polynomial functions and whether they are reversible in higher-dimensional spaces. Mathematicians had pursued it for over a century, through failed proofs by celebrated figures and computational verification up to degree 100 in two dimensions. The Fields Medallist Stephen Smale even included it in his 1998 list of Mathematical Problems for the Next Century. Yet despite the conjecture's apparent simplicity—in theory, finding a counterexample should be straightforward—no one had succeeded until now.\n\nAlpöge's discovery is the latest in a remarkable series of AI-assisted mathematical breakthroughs, joining recent achievements like OpenAI's disproof of the unit distance conjecture. What sets this result apart is its striking simplicity. Rather than requiring AI to synthesize complex ideas across different mathematical domains, the AI helped identify an elegantly minimal solution—a function in three dimensions with a constant Jacobian determinant of -2 that collapses multiple input points into identical outputs. The brevity of the counterexample made verification straightforward for other mathematicians, and the discovery hints at mathematics' deeper truth: sometimes the most powerful answers are hiding in plain sight, waiting only for fresh eyes—or an AI's perspective—to find them.",
+  "category": "science",
+  "tags": [
+    "artificial-intelligence",
+    "mathematics",
+    "breakthrough",
+    "algebraic-geometry",
+    "conjecture"
+  ],
+  "quick_facts": [
+    "Levent Alpöge at Anthropic used Claude Fable 5 AI in August 2026",
+    "Disproves Jacobian conjecture in 3+ dimensions; 2D version still unsolved",
+    "Ludwig Kraus first stated conjecture in 1884; generalized in 1939",
+    "Counterexample fits in a single social media post—remarkably brief"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+  "published": "2026-08-06T07:50:05Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8197529/pexels-photo-8197529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Yan Krukau",
+  "photo_credit_url": "https://www.pexels.com/@yankrukov"
+}
