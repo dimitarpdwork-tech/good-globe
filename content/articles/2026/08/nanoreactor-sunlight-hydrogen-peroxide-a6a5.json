@@ -1,0 +1,29 @@
+{
+  "id": "a6a515bf6825fdc8",
+  "slug": "nanoreactor-sunlight-hydrogen-peroxide-a6a5",
+  "headline": "Scientists Create Tiny Solar Factories That Turn Sunlight Into Hydrogen Peroxide",
+  "meta_description": "Researchers in China have designed cell-inspired nanoreactors that efficiently produce hydrogen peroxide from sunlight, offering cleaner alternatives for chemi…",
+  "summary_short": "A hollow nanoreactor mimicking living cells converts sunlight into hydrogen peroxide efficiently, opening doors to greener chemistry and artificial photosynthesis.",
+  "body": "Researchers at the Dalian Institute of Chemical Physics in China have created a miniature hollow nanoreactor that learns from nature's own design—living cells—to convert sunlight into hydrogen peroxide with impressive efficiency. The device, a hollow structure made of cadmium sulfide and polydopamine, achieved a production rate of 3.24 millimoles of hydrogen peroxide per gram of catalyst per hour under visible light. Led by Prof. LI Can and conducted in collaboration with Prof. Jian Liu's team at Inner Mongolia University, the work was published in the Journal of the American Chemical Society and represents a significant step toward cleaner industrial chemistry powered entirely by the sun.\n\nWhat makes this nanoreactor different is how deliberately it mimics two essential features of living cells. First, a chemical pair in its outer shell acts like a relay system, rapidly shuttling protons and electrons to speed up the reactions needed for hydrogen peroxide formation. Second, the reactor's hollow cavity traps incoming photons while concentrating reactants in a confined space—much the way cell membranes organize biochemical processes. Together, these features solved a longstanding challenge: balancing the speeds of two competing reactions that must happen simultaneously to produce hydrogen peroxide.\n\nThe breakthrough doesn't stop at the lab bench. The researchers embedded their nanoreactors into an environmentally safe sodium alginate hydrogel, creating solid, recyclable catalysts that work continuously under natural sunlight without losing performance. Hydrogen peroxide is a cornerstone chemical used in manufacturing, disinfection, and energy storage. Producing it directly from sunlight, rather than through petroleum-dependent industrial processes, could meaningfully reduce the carbon footprint of global chemical production. Prof. Li described the work as opening \"new opportunities in artificial photosynthesis, energy catalysis, and synthetic chemistry\"—a reminder that some of nature's most elegant solutions still await our discovery.",
+  "category": "science",
+  "tags": [
+    "nanoreactor",
+    "photocatalysis",
+    "renewable-energy",
+    "chemistry",
+    "biomimetic"
+  ],
+  "quick_facts": [
+    "Researchers at Dalian Institute of Chemical Physics, China created the nanoreactor",
+    "Produces 3.24 mmol of hydrogen peroxide per gram catalyst per hour",
+    "Designed to mimic two key features of living cells",
+    "Embedded in recyclable sodium alginate hydrogel for real-world use"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+  "published": "2026-08-06T13:04:27Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8853509/pexels-photo-8853509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Los Muertos Crew",
+  "photo_credit_url": "https://www.pexels.com/@cristian-rojas"
+}

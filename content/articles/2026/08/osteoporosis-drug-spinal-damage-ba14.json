@@ -1,0 +1,30 @@
+{
+  "id": "ba142b9ceb36a55f",
+  "slug": "osteoporosis-drug-spinal-damage-ba14",
+  "headline": "Common Osteoporosis Drug Shows Promise Against Spinal Disc Disease",
+  "meta_description": "Researchers discover that an existing osteoporosis medication can block mineral buildup in the spine, offering hope for treating back pain without surgery.",
+  "summary_short": "Scientists at the University of Edinburgh found that a bisphosphonate—already used safely to treat osteoporosis—prevented spinal damage in zebrafish, potentially opening…",
+  "body": "For decades, surgery has been the only reliable treatment for intervertebral disc degeneration, the progressive breakdown of the spine's shock-absorbing discs that affects millions worldwide. Now, researchers at the University of Edinburgh and University of Bristol have discovered something encouraging: a medication already safely used for osteoporosis can block the mineral buildup that drives this painful spinal damage. The finding emerged from studying zebrafish bred without a functioning copy of a gene linked to collagen IX, a protein essential for holding spinal discs together. As these fish aged, they developed vertebral fusion and mineral deposits strikingly similar to human disc disease—revealing the biological chain reaction behind the condition.\n\nThe breakthrough came when the team examined which genes switched on or off in damaged spines. They identified problems with fat processing, a growth-regulating pathway called mTOR, and phosphate control. When researchers treated affected fish with a bisphosphonate—the same class of bone-protecting drug used for osteoporosis—mineral accumulation slowed dramatically. Spinal fusion also decreased when fish received less food or took drugs that suppressed fat metabolism. These results point to fat metabolism and phosphate regulation as particularly promising targets for future medicines.\n\nDr. Erika Kague, the study's lead researcher, emphasized the significance: for a condition that has affected people for generations without effective treatment, discovering that an existing drug can slow progression is genuinely exciting. The work, published in Communications Biology and funded by Arthritis UK and BBSRC, suggests that zebrafish provide a valuable model for testing potential therapies. With 9.5 million people across the UK living with back pain, this research brings tangible hope that new treatment options—beyond surgery—may finally be within reach.",
+  "category": "health",
+  "tags": [
+    "backpain",
+    "spinal-health",
+    "drug-research",
+    "osteoporosis",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "University of Edinburgh researchers tested existing osteoporosis drug on spinal damage",
+    "Bisphosphonate prevented mineral buildup in zebrafish with collagen IX gene defects",
+    "9.5 million people in the UK live with back pain",
+    "Study published in Communications Biology journal, 2026",
+    "Fat metabolism and phosphate regulation identified as key treatment targets"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+  "published": "2026-08-06T13:04:19Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/5723877/pexels-photo-5723877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "cottonbro studio",
+  "photo_credit_url": "https://www.pexels.com/@cottonbro"
+}
