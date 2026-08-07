@@ -1,0 +1,30 @@
+{
+  "id": "95b69b53cf16da05",
+  "slug": "brain-learning-physical-changes-95b6",
+  "headline": "Brain's Hidden Blueprint: What Happens When You Learn",
+  "meta_description": "New imaging reveals two separate processes in the brain when learning a skill: temporary cell swelling and lasting structural growth in specific regions.",
+  "summary_short": "Scientists used advanced MRI to discover that learning triggers two distinct cellular changes—one temporary, one lasting—that standard imaging tools couldn't tell apart.",
+  "body": "When 29 adults learned a finger-tapping sequence with their non-dominant hand, their brains underwent two separate transformations at different speeds and in different locations—a discovery that challenges how neuroscientists have been measuring learning itself. Using a new imaging method called SANDI, researchers led by Valeria Della-Maggiore from the University of Buenos Aires found that 30 minutes after practice, cell bodies swelled across all brain regions involved in the task: the hippocampus, motor cortex, and parietal areas. But by 24 hours, that swelling had vanished. The second change told a different story. In just two regions—the precuneus and posterior parietal cortex—the physical structure of neurons actually grew, with dendrites and axons becoming denser. This change persisted and directly correlated with how much each person improved. The hippocampus, which drove the early learning phase, showed no lasting rewiring at all.\n\nThe insight matters because standard brain imaging (DTI) collapses both processes into one blurry signal, making it impossible to distinguish temporary housekeeping from genuine learning. The temporary swelling, the researchers explain, happens because intense neural activity disrupts ion balance in cells, causing water to flow in—a kind of neural shock that resolves within hours. Only the cortical restructuring represents the brain's actual rewriting of itself.\n\nDella-Maggiore emphasized that these two processes operate on \"different spatial and temporal dynamics.\" One is transient noise; the other is the persistent architecture of improvement. The SANDI method opens new pathways for studying not just learning, but aging, neurodegeneration, and development—anywhere scientists need to distinguish adaptive change from damage in living human brains.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "learning",
+    "brain-imaging",
+    "neuroplasticity",
+    "research"
+  ],
+  "quick_facts": [
+    "29 adults learned a five-digit finger-tapping sequence in 15-20 minutes",
+    "Cell swelling peaked at 30 minutes, returned to baseline by 24 hours",
+    "Lasting neurite growth appeared only in precuneus and posterior parietal cortex",
+    "Standard DTI imaging could not separate the two processes",
+    "Hippocampus showed early engagement but no lasting structural change"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/08/learning-a-new-skill-triggers-both-temporary-cell-swelling-and-lasting-brain-growth/",
+  "published": "2026-08-07T11:59:20Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Google DeepMind",
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+}
