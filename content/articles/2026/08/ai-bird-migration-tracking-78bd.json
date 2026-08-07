@@ -1,0 +1,29 @@
+{
+  "id": "78bd3b360514acdf",
+  "slug": "ai-bird-migration-tracking-78bd",
+  "headline": "AI Tool Transforms Blurry Radar Blobs Into Clear Bird Migration Maps",
+  "meta_description": "BirdFlow combines citizen science and weather radar to identify specific bird species during migration, helping scientists protect threatened populations.",
+  "summary_short": "A new AI tool called BirdFlow can now identify individual bird species migrating across North America, moving beyond the radar 'blobs' that haunted scientists for decade…",
+  "body": "For decades, weather radar has tracked migrating bird flocks across the United States—but with a crucial blind spot. The birds appeared as dark blobs on screens, indistinguishable from clouds, revealing nothing about which species were flying where. Now, an AI-powered tool called BirdFlow is changing that picture. Developed by researchers at Cornell University, the University of Massachusetts, and the University of Illinois Urbana-Champaign, BirdFlow combines citizen science observations with weather data and artificial intelligence to identify specific species and predict their migration routes. Two peer-reviewed studies detail how the tool works for tracking 153 migratory bird species across North America.\n\nThe breakthrough relies on something unexpected: billions of birdwatching reports. The team drew on two billion observations from eBird, an app developed by Cornell, transforming casual citizen science into precise migration models. By analyzing 30 years of weather surveillance data from 152 stations alongside GPS and radio tracking information, they created what they call the BirdFlow Migration Traffic Rate—a metric that estimates migration intensity for specific species week by week. The result is a tool that can predict, week to week, where birds are likely to fly next.\n\nThe applications ripple outward in promising directions. Conservationists can now track threatened species and protect them along their routes. Aviation managers can identify larger birds that pose collision risks. Public health officials are already interested: they want to monitor whether wild birds might spread avian diseases to poultry farms. Perhaps most tangibly, cities running campaigns to darken buildings during migration nights can now target lights off during the weeks when the most vulnerable species are passing overhead. As researchers refine the tool, they plan to create species-specific alerts—a small innovation that could transform how ordinary people engage with conservation, one illuminated window at a time.",
+  "category": "science",
+  "tags": [
+    "bird-conservation",
+    "artificial-intelligence",
+    "citizen-science",
+    "migration",
+    "wildlife-protection"
+  ],
+  "quick_facts": [
+    "BirdFlow identifies 153 migratory bird species across North America using AI",
+    "Built on 2 billion citizen observations from Cornell's eBird app",
+    "Validated against 30 years of data from 152 weather surveillance stations",
+    "Helps prevent building collisions and track avian disease spread"
+  ],
+  "source_name": "Mongabay",
+  "source_url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+  "published": "2026-08-07T06:34:37Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/34589996/pexels-photo-34589996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Luca Dross",
+  "photo_credit_url": "https://www.pexels.com/@lucadross"
+}
