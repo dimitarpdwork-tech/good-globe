@@ -1,0 +1,30 @@
+{
+  "id": "fa720e9cd014b9f9",
+  "slug": "autism-therapy-adult-mice-breakthrough-fa72",
+  "headline": "Autism Treatment Works in Adult Mice, Offering New Hope",
+  "meta_description": "Researchers blocked a glycine transporter to restore brain signaling in autism models, with surprising benefits lasting 8 weeks even in adult mice.",
+  "summary_short": "A targeted therapy restored crucial brain function and eased autism symptoms in adult mice—and worked in human brain tissue too.",
+  "body": "Researchers at the Institute for Basic Science have identified a promising new approach to treating autism spectrum disorder by targeting a specific brain transporter called SLC6A20. The team, led by Director Eunjoon Kim, used antisense oligonucleotides to reduce the activity of this glycine transporter, which restored critical NMDA receptor function in mouse models carrying SHANK2 and SHANK3 mutations—two major autism risk genes. The treatment improved social interaction, communication difficulties, and repetitive behaviors. Most remarkably, the benefits appeared in adult mice, suggesting that autism-related brain dysfunction may remain treatable even after key developmental stages conclude. A single treatment remained effective for at least eight weeks with no detectable adverse effects.\n\nWhat makes this discovery particularly significant is the precision of the approach. Earlier attempts to boost NMDA receptor activity by blocking a different transporter, GlyT1, often failed because that transporter operates widely throughout the brainstem, affecting breathing and movement. By contrast, SLC6A20 concentrates in brain regions tied to cognition—the cortex and hippocampus—allowing researchers to target the problem more directly and minimize side effects.\n\nTo test whether this strategy might eventually help people, the team created human cortical organoids with the same SHANK mutations using CRISPR gene editing. When they applied the human-targeted therapy, NMDAR function recovered to near-normal levels. \"Unlike gene re-expression strategies, SLC6A20 inhibition works by modulating endogenous signaling pathways and may offer a more practical therapeutic route,\" Director Kim explained. The findings suggest this approach could ultimately benefit not only autism but also schizophrenia and certain forms of intellectual disability—conditions similarly linked to reduced NMDA receptor activity.",
+  "category": "science",
+  "tags": [
+    "autism",
+    "neuroscience",
+    "therapy",
+    "brain-signaling",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Treatment restored NMDA receptor function in autism-related mouse models",
+    "Benefits persisted for at least 8 weeks after a single dose",
+    "Therapy worked in human cortical organoids with SHANK2/SHANK3 mutations",
+    "Approach targets brain regions involved in cognition, reducing side effects",
+    "Institute for Basic Science led research published August 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+  "published": "2026-08-07T18:04:18Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
