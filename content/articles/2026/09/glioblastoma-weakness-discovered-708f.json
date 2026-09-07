@@ -1,0 +1,30 @@
+{
+  "id": "708fbec33bdca5a1",
+  "slug": "glioblastoma-weakness-discovered-708f",
+  "headline": "New Hope Against One of Brain Cancer's Deadliest Forms",
+  "meta_description": "Researchers at Ohio State University have identified a protein called SET as a potential target to weaken glioblastoma's resistance to treatment.",
+  "summary_short": "Scientists discover a new weak spot in glioblastoma, one of the deadliest brain cancers, by targeting a protein that shields tumors from radiation and chemotherapy.",
+  "body": "Researchers at Ohio State University's Comprehensive Cancer Center have identified a potential breakthrough in treating glioblastoma, one of the most lethal forms of cancer. By blocking a protein called SET, scientists prevented tumors from forming in laboratory and animal models. More importantly, they discovered that interfering with SET and related proteins restored activity of PP2A, an enzyme that glioblastoma cells normally suppress to protect themselves from treatment. This discovery offers a clear path: rather than replace existing therapies, the strategy could make radiation and chemotherapy significantly more effective against a disease that has resisted treatment advances for years.\n\nGlioblastoma's deadliness lies in its ability to adapt and survive both radiation and chemotherapy. The Ohio State team found that cancer cells use three specific proteins—ANP32A, CIP2A, and SET—to interfere with PP2A and maintain their defenses. When researchers blocked these proteins, fewer cancer cells survived, and the survivors became more vulnerable to radiation. Dr. Arnab Chakravarti, chair of radiation oncology at the center, noted that restoring PP2A activity could fundamentally change how the disease responds to treatment.\n\nThe research, published in Cancer Letters in May 2026, remains in early stages. Scientists are now investigating how to safely target SET and related proteins in human patients, and they are examining whether an FDA-approved antipsychotic drug that increases PP2A activity might offer a therapeutic route. While human testing is still needed to confirm safety and effectiveness, this work represents a meaningful first step toward transforming treatment for patients facing this devastating diagnosis.",
+  "category": "health",
+  "tags": [
+    "brain-cancer",
+    "glioblastoma",
+    "medical-research",
+    "oncology",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "Researchers blocked protein SET to prevent glioblastoma tumors in preclinical models",
+    "Ohio State University Comprehensive Cancer Center led the study",
+    "Discovery restores PP2A enzyme activity that cancer cells normally suppress",
+    "Published in Cancer Letters, May 2026",
+    "Strategy aims to make radiation and chemotherapy more effective"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
+  "published": "2026-09-07T05:58:51Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}

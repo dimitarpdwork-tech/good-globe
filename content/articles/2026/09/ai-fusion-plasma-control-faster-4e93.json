@@ -1,0 +1,30 @@
+{
+  "id": "4e9321703f721bd8",
+  "slug": "ai-fusion-plasma-control-faster-4e93",
+  "headline": "AI Predicts Fusion Instabilities Before Humans Can Blink",
+  "meta_description": "Princeton researchers have built an AI system that controls fusion plasma in milliseconds, even predicting dangerous instabilities 200ms before they occur.",
+  "summary_short": "A new AI framework called PACMAN can monitor and control fusion plasma faster than any human operator, responding to problems in milliseconds.",
+  "body": "Researchers at Princeton University and the U.S. Department of Energy's Princeton Plasma Physics Laboratory have developed an AI system that makes critical decisions about fusion plasma in milliseconds—far faster than any human could react. The framework, called PACMAN, combines multiple machine learning models that work together to monitor and control the plasma inside tokamak fusion machines. In testing at the DOE's DIII-D National Fusion Facility in San Diego, the system demonstrated its most striking achievement: it predicted a dangerous instability called a tearing mode about 200 milliseconds before it could form and adjusted the plasma to prevent it from happening at all. Conventional controllers cannot identify this instability until it has already begun, leaving them to suppress it after damage has started.\n\nThe challenge PACMAN solves is fundamentally one of speed. Plasma hotter than the sun's core can become unstable within thousandths of a second—a timeframe impossible for human operators to navigate. While advanced computer simulations can predict plasma behavior, they take days or months to run, making them useless for real-time guidance during experiments that last only minutes. Machine learning models, by contrast, can make predictions and adjustments in roughly 20 milliseconds, repeatedly, giving the system the agility to respond to problems a human operator would never even perceive.\n\nWhat sets PACMAN apart is its architecture. Rather than deploying isolated AI models, the framework creates a shared structure where different machine learning components can communicate and coordinate—much like an assembly line with four stations. It collects live measurements from the tokamak, processes them for errors, feeds them to prediction models, determines necessary actions, and finally applies strict safety limits before sending commands to the machine. Scientists can add new components without disrupting the whole system. In five separate experiments, PACMAN controlled heating systems, predicted energy bursts, managed plasma waves, and adjusted density and rotation. For fusion energy's future, this may prove crucial: a system that keeps plasma stable and productive, automatically, at speeds no human hand could match.",
+  "category": "science",
+  "tags": [
+    "fusion-energy",
+    "artificial-intelligence",
+    "plasma-physics",
+    "clean-energy",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "AI system PACMAN controls fusion plasma in 20 milliseconds",
+    "Predicted tearing mode instability 200 milliseconds before it appeared",
+    "Tested at DIII-D tokamak facility in San Diego, California",
+    "Human operators can respond in seconds; AI responds in milliseconds",
+    "Framework combines multiple machine learning models working together"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+  "published": "2026-09-07T05:59:01Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/2635595/pexels-photo-2635595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Killian Eon",
+  "photo_credit_url": "https://www.pexels.com/@killian-eon-1185568"
+}
