@@ -1,0 +1,30 @@
+{
+  "id": "8409b73bae389814",
+  "slug": "einstein-gravity-quantum-breakthrough-8409",
+  "headline": "Einstein's gravity confirmed in quantum realm",
+  "meta_description": "International team directly observes Einstein's gravitational effect on quantum objects for the first time, bridging two pillars of modern physics.",
+  "summary_short": "Scientists have directly observed Einstein's gravity affecting quantum objects, using ultracold atoms split into two paths—one falling, one held still.",
+  "body": "An international research team has achieved a landmark confirmation: they have directly observed one of Einstein's foundational gravitational principles working at the quantum scale for the first time. Using an instrument called the Quantum Galileo Interferometer, researchers split an atom's quantum wave into two separate paths. While one part remained stationary, the other fell freely under gravity. When the two paths were recombined, the team measured a tiny difference in quantum phase that matched Einstein's prediction perfectly. The work, led by Ben-Gurion University of the Negev, the University of Ulm, and the University of Oxford and published in *Science Advances* in September 2026, included Nobel Prize-winning physicist Professor Sir Roger Penrose among its authors.\n\nThe experiment tested Einstein's equivalence principle—the idea that gravity should effectively vanish for an observer in free fall—but at the quantum level, where objects behave like waves and can follow multiple paths simultaneously. At Ben-Gurion University, researchers used clouds of rubidium atoms cooled to temperatures just above absolute zero, manipulated near a specially designed atom chip. Tiny electrical wires in the chip generated magnetic fields that allowed one half of the atom's wave to remain fixed while the other experienced ballistic free fall, like a ball tossed upward.\n\nThis result represents a genuine bridge between two pillars of physics that have resisted unification. The finding does not provide a complete unified theory, nor does it prove that gravity itself is quantum. Instead, it shows that Einstein's description of gravity and quantum mechanics remain compatible even in this exotic regime—suggesting that when physics finally does unite these frameworks, both theories will play essential roles in the answer.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "gravity",
+    "einstein",
+    "unified-theory",
+    "science"
+  ],
+  "quick_facts": [
+    "Experiment used ultracold rubidium atoms cooled near absolute zero",
+    "Led by Ben-Gurion University, University of Ulm, and University of Oxford",
+    "Published in Science Advances in September 2026",
+    "Quantum Galileo Interferometer split atom's wave into two simultaneous paths",
+    "Einstein's equivalence principle confirmed at quantum scale for first time"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
+  "published": "2026-09-08T15:09:41Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}
