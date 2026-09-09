@@ -1,0 +1,30 @@
+{
+  "id": "07f67301299c2aaa",
+  "slug": "photoswitchable-drops-restore-vision-07f6",
+  "headline": "Eye Drops Restore Sight in Blind Animal Models Without Surgery",
+  "meta_description": "Scientists developed light-activated eye drops that restored vision in blind animals, offering hope for 200 million people with degenerative blindness worldwid…",
+  "summary_short": "Researchers at a Catalan institute created eye drops containing photoswitchable molecules that restored light perception in blind animal models without gene therapy or i…",
+  "body": "Scientists at the Institute for Bioengineering of Catalonia have developed a deceptively simple solution to a stubborn problem: light-activated eye drops that restored vision in blind animal models without requiring gene therapy, surgical implants, or specialized equipment. Two compounds, prosthe6-12 and prosthe6-15, proved most effective, working by chemically substituting for photoreceptor cells destroyed by diseases like age-related macular degeneration and retinitis pigmentosa—conditions affecting roughly 200 million people worldwide. In mice engineered to model these diseases, the drops restored an instinctive behavior sighted mice naturally possess: the spontaneous avoidance of bright areas. After treatment, previously blind mice avoided light at intensities comparable to indoor environments or cloudy outdoor conditions, all without any training.\n\nWhat makes this approach genuinely novel is not just its simplicity but its biological logic. Rather than bypassing the retina's damaged circuitry, the photoswitchable molecules, called prosthe6, work directly with surviving retinal neurons called ON-bipolar cells—the same cells that would normally receive signals from healthy photoreceptors. This mimics how vision naturally operates. The treatment is also reversible and works regardless of which genetic mutation caused the photoreceptor loss, meaning it could help patients who don't qualify for gene therapy.\n\nThe research, published in the Journal of the American Chemical Society, represents more than a decade of work across multiple Spanish universities and institutions. While human trials remain years away—the path from animal studies to approved therapy is long and demanding—a spin-off company is already forming to advance the work toward clinical testing. Researchers emphasize the drops don't cure the underlying degeneration, but the potential to restore meaningful vision through a patient-friendly eye drop represents a significant step forward for people living with these devastating conditions.",
+  "category": "science",
+  "tags": [
+    "blindness",
+    "phototherapy",
+    "eye-drops",
+    "vision-restoration",
+    "medical-innovation"
+  ],
+  "quick_facts": [
+    "Institute for Bioengineering of Catalonia developed photoswitchable eye drops",
+    "200 million people worldwide affected by these degenerative eye diseases",
+    "Blind mice regained ability to avoid light after treatment",
+    "Works without gene therapy, implants, or surgical procedures",
+    "Over 10 years of research across multiple Spanish institutions"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/09/a-simpler-path-to-treating-degenerative-blindness-photoswitchable-eye-drops/",
+  "published": "2026-09-09T15:08:29Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8376199/pexels-photo-8376199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Tima Miroshnichenko",
+  "photo_credit_url": "https://www.pexels.com/@tima-miroshnichenko"
+}

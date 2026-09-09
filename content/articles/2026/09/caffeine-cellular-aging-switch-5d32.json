@@ -1,0 +1,29 @@
+{
+  "id": "5d323df8631c0eb9",
+  "slug": "caffeine-cellular-aging-switch-5d32",
+  "headline": "Your Morning Coffee May Help Cells Age More Slowly",
+  "meta_description": "Research from Queen Mary University of London reveals caffeine activates an ancient cellular energy system tied to stress resistance, DNA repair, and slower ag…",
+  "summary_short": "Scientists discover caffeine may slow aging by activating AMPK, an ancient cellular energy sensor found in both yeast and humans that regulates stress response and DNA r…",
+  "body": "Researchers at Queen Mary University of London have discovered that your morning coffee may do far more than chase away drowsiness. A new study published in *Microbial Cell* reveals that caffeine activates AMPK, an ancient cellular energy-sensing system involved in stress resistance, DNA repair, and cellular growth—processes directly linked to aging. The finding could help explain decades of research suggesting caffeine consumption correlates with lower risk of certain age-related diseases, while also pointing toward new therapeutic targets for longevity research.\n\nTo uncover this mechanism, scientists used fission yeast, a single-celled organism that shares crucial biological features with human cells and is widely called a \"mini-human\" in research circles. The surprise came when the team found that caffeine doesn't work the way they expected. Rather than directly targeting TOR (a cellular growth regulator that has controlled energy and stress responses for over 500 million years), caffeine instead activates AMPK—a fuel gauge system that helps cells detect low energy and adjust accordingly. This matters enormously because AMPK exists in both yeast and humans, giving researchers a concrete biological pathway to study.\n\nThe discovery also creates intriguing connections to existing medicine. AMPK is linked to metformin, a widely used diabetes drug now being studied for its potential effects on aging. While this research was conducted in yeast and doesn't prove coffee will extend human lifespan, the shared biology across species offers real hope. As the lead researcher noted, these findings open possibilities for triggering anti-aging effects through diet, lifestyle, or future medicines—all by flipping an ancient cellular switch that has kept organisms healthy for millions of years.",
+  "category": "science",
+  "tags": [
+    "caffeine",
+    "aging",
+    "cellular-biology",
+    "longevity",
+    "science-health"
+  ],
+  "quick_facts": [
+    "Research conducted at Queen Mary University of London's Centre for Molecular Cell Biology",
+    "Caffeine activates AMPK, a cellular energy sensor found in both yeast and humans",
+    "AMPK system has regulated growth and stress responses for over 500 million years",
+    "Published in journal Microbial Cell in 2025"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260907201609.htm",
+  "published": "2026-09-09T15:08:56Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/12039010/pexels-photo-12039010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "onehundredseventyfive .",
+  "photo_credit_url": "https://www.pexels.com/@onehundredseventyfive"
+}
