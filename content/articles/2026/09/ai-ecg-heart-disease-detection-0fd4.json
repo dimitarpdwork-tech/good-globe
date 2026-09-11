@@ -1,0 +1,30 @@
+{
+  "id": "0fd46e38a12018e0",
+  "slug": "ai-ecg-heart-disease-detection-0fd4",
+  "headline": "AI Spots Heart Disease in Seconds Where Tests Failed for a Century",
+  "meta_description": "New AI tool identifies heart failure and valve disease from standard ECG tests in under 2 seconds, catching up to 90% of cases missed by human analysis.",
+  "summary_short": "A breakthrough AI tool developed at Imperial College London can now detect heart failure and valve disease from routine ECG tests—conditions doctors couldn't identify be…",
+  "body": "Researchers at Imperial College London have created an artificial intelligence tool that detects heart failure in up to 81 percent of cases and heart valve disease in up to 90 percent—all from a standard electrocardiogram, a test that has remained largely unchanged for over a century. The breakthrough came from a trial involving 67,000 patients and runs in less than two seconds. What makes this significant is not just the speed, but what it solves: ECGs have long identified heart attacks and abnormal rhythms, yet they've been blind to these two conditions. Until now, patients suspected of having either disease faced months of waiting for an echocardiogram, an ultrasound scan that actually could reveal the problem.\n\nThe AI tool doesn't diagnose definitively, but it flags patients most likely to have heart failure or valve disease, allowing clinicians to prioritize them for faster follow-up imaging. Given that roughly one billion ECGs are performed worldwide each year, the potential is enormous. Researchers envision hospitals running the model across all their ECGs—even those ordered for unrelated reasons—to catch at-risk patients earlier. Dr. Sonya Babu-Narayan, consultant cardiologist and clinical director of the British Heart Foundation, notes that \"earlier diagnosis and treatment saves and improves lives.\" Both conditions are treatable, but outcomes improve dramatically when caught before deterioration.\n\nThe tool was developed with funding from the British Heart Foundation and presented at the European Society of Cardiology annual congress in Munich. The next phase involves creating handheld AI-driven ECG readers for healthcare professionals to use in the field, potentially bringing this life-saving capability beyond hospital walls into clinics and remote settings.",
+  "category": "health",
+  "tags": [
+    "artificial-intelligence",
+    "heart-disease",
+    "medical-breakthrough",
+    "early-diagnosis",
+    "healthcare"
+  ],
+  "quick_facts": [
+    "AI tool identifies heart failure in up to 81% of cases, valve disease in up to 90%",
+    "Analyzes standard ECG tests—performed 1 billion times yearly worldwide",
+    "Developed at Imperial College London with British Heart Foundation funding",
+    "Results in under 2 seconds; tool presented at European Society of Cardiology congress",
+    "Trial included 67,000 patients; conditions previously undetectable by standard ECG"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/09/heart-failure-and-valve-disease-spotted-in-seconds-by-new-ai-ecg-tool/",
+  "published": "2026-09-11T15:03:30Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6129683/pexels-photo-6129683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "RDNE Stock project",
+  "photo_credit_url": "https://www.pexels.com/@rdne"
+}

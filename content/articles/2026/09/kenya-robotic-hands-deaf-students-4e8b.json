@@ -1,0 +1,30 @@
+{
+  "id": "4e8b8d748a0cc2c1",
+  "slug": "kenya-robotic-hands-deaf-students-4e8b",
+  "headline": "Kenyan Startup's Robotic Hands Translate Teacher's Voice Into Sign Language",
+  "meta_description": "A 22-year-old entrepreneur in Nairobi created 3D-printed robotic hands that translate speech to sign language, helping 300,000 deaf children access education.",
+  "summary_short": "Kenyan startup ZeroBionic builds affordable robotic hands that convert teacher's voice into sign language for deaf students, expanding educational access across Africa.",
+  "body": "In Nairobi, a young entrepreneur named Norah Kimathi has developed a solution to a pressing educational crisis: robotic hands that translate a teacher's spoken words into sign language in real time. With approximately 300,000 deaf and hearing-impaired children in Kenya—most of them out of school—the barriers to learning are enormous. Teachers rarely know sign language, and Kenya has no standardized signed language system, making it nearly impossible to teach subjects like mathematics and science to deaf students. Kimathi's company, ZeroBionic, addresses this gap by creating 3D-printed robotic hands from recycled plastic litter that work with teachers who have no sign language training, dramatically expanding educational opportunities for students who have long been left behind.\n\nEach robotic hand costs just $350 and requires no maintenance for three years—a significant factor in a region where resources are limited. The company has already sold 78 units and reports a 92% accuracy rate in converting speech to sign. Yet building the mechanics was only half the challenge. When the team began programming the sign language translations, they discovered there was no unified Kenyan or African sign language dataset to draw from. They partnered with deaf teachers and experienced signers, who recorded movement patterns using electrode-lined bodysuits to create the first comprehensive African sign language library for the system.\n\n\"No one else had built this on the continent,\" Kimathi reflected from her small lab in Nairobi. \"We had to start from scratch.\" The robotic hands represent just the beginning. ZeroBionic plans to develop Africa One, a robotic upper torso that will further enhance accuracy and expand the vocabulary of African sign language, promising even greater potential to transform education across the continent.",
+  "category": "progress",
+  "tags": [
+    "education",
+    "assistive-technology",
+    "deaf-accessibility",
+    "kenya",
+    "innovation"
+  ],
+  "quick_facts": [
+    "22-year-old Norah Kimathi founded ZeroBionic in Nairobi, Kenya",
+    "Robotic hands cost $350, made from recycled plastic, last 3 years",
+    "78 units already sold with 92% speech-to-sign accuracy rating",
+    "300,000 deaf and hearing-impaired children in Kenya lack school access",
+    "Team worked with deaf teachers to create first African sign language dataset"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/kenyan-startup-makes-robotic-hands-that-translate-teachers-voice-into-signs-for-deaf-students/",
+  "published": "2026-09-11T15:03:22Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/10029698/pexels-photo-10029698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "RDNE Stock project",
+  "photo_credit_url": "https://www.pexels.com/@rdne"
+}

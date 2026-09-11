@@ -1,0 +1,30 @@
+{
+  "id": "2121e4be40961a5d",
+  "slug": "ucla-cord-blood-cancer-t-cells-2121",
+  "headline": "Scientists Create Off-the-Shelf Cancer Fighter From Cord Blood",
+  "meta_description": "UCLA researchers engineered T cells from cord blood stem cells to fight solid tumors in mice, offering a faster, cheaper alternative to personalized cancer tre…",
+  "summary_short": "UCLA scientists developed ready-made cancer-fighting T cells from cord blood that controlled tumors in mice while avoiding dangerous side effects of donor therapies.",
+  "body": "UCLA researchers have engineered a new type of cancer-fighting T cell from cord blood stem cells that successfully controlled solid tumors in mice while potentially solving two major obstacles in immune therapy: cost and safety. The cells, called AlloESO-T cells, use two separate detection systems to hunt down cancer, meaning they can still recognize and destroy tumor cells even if cancer tries to hide by changing its molecular markers. In mouse models of ovarian cancer and melanoma, a single dose extended survival without triggering graft-versus-host disease, a dangerous condition where donor immune cells mistakenly attack healthy tissue. Published in Cell Reports Medicine, this work brings researchers closer to a future where cancer treatments could be made ahead of time, frozen, and ready to administer whenever a patient needs them.\n\nThe breakthrough lies in how the UCLA team built these cells. Rather than starting with mature T cells from donors—which can take weeks to produce and cost hundreds of thousands of dollars per patient—they began earlier in development, using immature blood stem cells from donated cord blood. By inserting a cancer-targeting receptor at this early stage, the engineered cells naturally avoided developing the random collection of receptors found on conventional donor T cells, reducing the risk of attacking healthy tissue. As Yichen Zhu, a graduate student on the team, explained, the resulting cells all carry the same receptor and target the same tumor protein, creating consistency across batches.\n\nThe dual-detection system represents another leap forward. Beyond recognizing NY-ESO-1, a protein found in many solid tumors, the AlloESO-T cells also carry natural killer cell receptors that detect stress signals displayed by cancer cells. This redundancy matters because solid tumors are notoriously diverse—cancer cells can escape by hiding or losing the markers a therapy was designed to find. With a backup detection mechanism, these cells retain their killing power even when cancer attempts to vanish.",
+  "category": "health",
+  "tags": [
+    "immunotherapy",
+    "cancer-research",
+    "t-cell-therapy",
+    "stem-cells",
+    "ucla"
+  ],
+  "quick_facts": [
+    "UCLA researchers developed AlloESO-T cells from donated cord blood stem cells",
+    "Single dose controlled ovarian cancer and melanoma in mouse models",
+    "Cells engineered with two separate detection systems to recognize cancer",
+    "Published in Cell Reports Medicine in September 2026",
+    "Could be frozen and stored ahead of time for patient use"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+  "published": "2026-09-11T15:03:59Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8976794/pexels-photo-8976794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
