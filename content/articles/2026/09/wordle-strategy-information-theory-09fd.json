@@ -1,0 +1,29 @@
+{
+  "id": "09fde38c25dbe174",
+  "slug": "wordle-strategy-information-theory-09fd",
+  "headline": "Math Beats Luck: Scientists Crack Wordle With 99% Success Rate",
+  "meta_description": "Researchers at Binghamton University developed a mathematical strategy using Shannon entropy that solves Wordle 99% of the time, outperforming common guessing…",
+  "summary_short": "Scientists at Binghamton University used information theory to create a Wordle strategy with a 99% success rate—beating traditional approaches by 9 percentage points.",
+  "body": "Researchers at Binghamton University have cracked the code to Wordle using mathematics rather than luck. By applying Shannon entropy—a concept from information theory that measures uncertainty—the team developed a strategy solving 99% of puzzles in simulations. The breakthrough came not from chasing obvious answers, but from a counterintuitive insight: the best guess isn't necessarily the word most likely to be correct. Instead, it's the word that reveals the most useful information, rapidly narrowing the remaining possibilities. When tested against a conventional strategy favoring common letters like A, E, and R, the mathematical approach proved decisively superior, with the common-letter method solving only 90% of puzzles.\n\nThe research, led by Assistant Professor Congyu \"Peter\" Wu at the Thomas J. Watson College of Engineering and Applied Science's School of Systems Science and Industrial Engineering, began as a classroom assignment. Wu challenged students to demonstrate how information theory could solve a real-world problem, and they chose Wordle—turning a popular daily puzzle into a rigorous test of mathematical decision-making. The insight reveals something profound about problem-solving itself: maximizing information gain often matters more than pursuing the most probable outcome.\n\nTo use this strategy in an actual Wordle game, players would need to run a separate program alongside the puzzle. After each guess, they'd enter Wordle's color-coded feedback (grey for absent letters, yellow for wrong position, green for correct placement), and the software would calculate the next move most likely to provide maximum information. While that requires external assistance, the research demonstrates how mathematical principles can reshape our understanding of everyday challenges—and sometimes, the seemingly strangest guess is actually the wisest one.",
+  "category": "science",
+  "tags": [
+    "wordle",
+    "mathematics",
+    "information-theory",
+    "strategy",
+    "binghamton-university"
+  ],
+  "quick_facts": [
+    "Binghamton University researchers achieved 99% Wordle success using Shannon entropy",
+    "Information theory method beat common-letter strategy by 9 percentage points",
+    "Project grew from a classroom assignment into published research",
+    "Strategy recommends guesses that eliminate the most possibilities, not likely answers"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+  "published": "2026-09-12T19:24:25Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/34591/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Negative Space",
+  "photo_credit_url": "https://www.pexels.com/@negativespace"
+}
