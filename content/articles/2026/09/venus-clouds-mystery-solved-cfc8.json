@@ -1,0 +1,29 @@
+{
+  "id": "cfc829f0fc7f14b8",
+  "slug": "venus-clouds-mystery-solved-cfc8",
+  "headline": "Scientists crack Venus's century-old cloud mystery",
+  "meta_description": "An international team has narrowed down what darkens Venus's clouds, bringing a 100-year puzzle closer to resolution.",
+  "summary_short": "Researchers calculate how strongly the unknown substance darkening Venus's clouds must absorb light, sharply limiting what it could be.",
+  "body": "An international team of scientists has made a significant breakthrough in solving a mystery that has puzzled planetary researchers for roughly a century. By combining spacecraft observations with radiative-transfer modeling, researchers led by Dr. Jan Spacek and Dr. Yeon Joo Lee of the Institute for Basic Science calculated precisely how strongly the unidentified material in Venus's upper sulfuric acid clouds must absorb ultraviolet and blue light. Their findings, published in Astrobiology, reveal that the \"unknown absorber\" requires an absorption coefficient of about 1,278 cm⁻¹ at 375 nanometers—a demanding requirement that dramatically narrows the field of possibilities. This achievement brings future spacecraft closer to identifying whether the mysterious substance is organic, inorganic, or something entirely unexpected.\n\nVenus presents a striking visual paradox: it appears pale yellow in ordinary light, yet infrared and ultraviolet observations reveal dark and bright patterns sweeping across its clouds. Scientists have observed these ultraviolet features for a century without identifying their cause. The new research approaches the problem creatively, imagining what would happen if cloud material could be collected into a laboratory container—similar to how cigarette smoke appears white in air but forms dark tar when concentrated. By accounting for how cloud particles scatter and absorb light repeatedly, the model reveals the underlying liquid must either absorb light exceptionally well or exist at very high concentrations, or both.\n\nIntriguingly, the sharp absorption profile doesn't match typical organic compounds dissolved in concentrated sulfuric acid, which usually create broad, tar-like brown or black mixtures. This peculiar signature makes the mystery \"even more intriguing,\" according to researcher Janusz J. Petkowski. Rather than immediately solving the puzzle, these new constraints actually make it harder—eliminating many suspected candidates while suggesting the unknown absorber is something chemically defined and remarkably resistant to decomposition in Venus's harsh atmosphere.",
+  "category": "science",
+  "tags": [
+    "venus",
+    "space-science",
+    "planetary-mystery",
+    "astrobiology",
+    "research"
+  ],
+  "quick_facts": [
+    "International team calculated light absorption of Venus's mysterious cloud substance",
+    "Ultraviolet patterns observed for approximately 100 years remain unidentified",
+    "Required absorption coefficient of 1,278 cm⁻¹ at 375 nm dramatically limits possibilities",
+    "Study published in Astrobiology by Institute for Basic Science researchers"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+  "published": "2026-09-13T10:19:26Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/20376407/pexels-photo-20376407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Zelch Csaba",
+  "photo_credit_url": "https://www.pexels.com/@zelch"
+}
