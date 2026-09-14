@@ -1,0 +1,29 @@
+{
+  "id": "04492fa58ba94b23",
+  "slug": "zombie-cells-inflammation-aging-0449",
+  "headline": "New path to healthier aging: blocking inflammation in 'zombie' cells",
+  "meta_description": "Scientists discovered how senescent cells fuel chronic inflammation with age, and blocking one metabolic pathway reduced inflammation and improved aging in mic…",
+  "summary_short": "Researchers found that senescent 'zombie' cells use faulty mitochondria to unlock inflammatory genes. Blocking this process in mice reduced inflammation and improved hea…",
+  "body": "Scientists at Sanford Burnham Prebys, Mayo Clinic, and collaborating institutions have uncovered how cells accumulate with age to keep the body locked in a prolonged inflammatory state—and more importantly, how to interrupt that process. The research, published in Nature, shows that blocking a specific metabolic trigger reduced inflammation throughout multiple tissues in mice and improved their healthspan. The finding offers a promising new direction for fighting age-related decline, one of the central challenges of modern medicine.\n\nThe culprit behind persistent inflammation is senescent cells—living cells that have stopped dividing but remain metabolically active and inflammatory. As we age, these \"zombie\" cells accumulate throughout the body, continuously secreting inflammatory molecules. This chronic inflammation has long been linked to diseases that become more common later in life, from heart disease to neurodegeneration. The immune system's inflammation response is essential when fighting infection or injury, but it should shut down once danger passes. In aging bodies, it simply doesn't.\n\nThe researchers discovered that two independent mitochondrial processes converge to keep inflammation burning. First, malfunctioning mitochondria produce excessive amounts of acetyl-CoA, a metabolic molecule that loosens how DNA is packaged around histone proteins, making inflammatory genes more accessible. Second, damaged mitochondria leak genetic material that the immune system interprets as a danger signal, activating genes in those now-exposed inflammatory regions. When scientists used a drug called CTPI-2 to block the acetyl-CoA pathway in mice, inflammation decreased throughout multiple tissues and tissue function improved—even though the immune signaling from leaky mitochondria persisted. By weakening just one side of this metabolic partnership, they achieved meaningful anti-inflammatory benefits without completely silencing immune defenses.",
+  "category": "health",
+  "tags": [
+    "aging",
+    "mitochondria",
+    "senescent-cells",
+    "inflammation",
+    "medical-research"
+  ],
+  "quick_facts": [
+    "Senescent cells remain metabolically active and inflammatory as we age",
+    "Study conducted at Sanford Burnham Prebys and Mayo Clinic, published in Nature",
+    "CTPI-2 drug reduced inflammation in mice by targeting acetyl-CoA production",
+    "Two mitochondrial pathways work together to activate inflammatory genes in aging cells"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
+  "published": "2026-09-14T16:59:21Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
