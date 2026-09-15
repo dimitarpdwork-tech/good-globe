@@ -1,0 +1,30 @@
+{
+  "id": "04323a8fd245e897",
+  "slug": "einstein-problem-shape-controls-light-0432",
+  "headline": "Mathematical Shape That Solved Einstein's Problem Now Bends Light in Unexpected Ways",
+  "meta_description": "Researchers discover that the Smith hat monotile, which solved a decades-old mathematical puzzle, can manipulate light into chiral patterns, opening new possib…",
+  "summary_short": "The Smith hat, a shape that solved a 60-year math problem, reveals a surprising ability to twist light into unusual patterns—pointing toward revolutionary optical device…",
+  "body": "In a striking convergence of pure mathematics and practical physics, researchers at the Institute of Industrial Science at the University of Tokyo have discovered that the Smith hat—a mathematical shape famous for solving the Einstein problem—can manipulate light in entirely unexpected ways. When the team created nanoscale versions of the pattern on silicon nitride films using electron beam lithography and illuminated them with laser light, the resulting diffraction patterns formed distinctive pinwheel shapes that displayed unusual chiral properties. This discovery, published in Nature Communications, suggests that structures inspired by this monotile could eventually enable new technologies for controlling light and developing advanced optical devices.\n\nThe Einstein problem, which mathematicians puzzled over for decades, asked whether a single tile shape could cover an entire surface without ever repeating. Familiar patterns like checkerboards and honeycombs repeat regularly, but the Smith hat—discovered in 2023—fills a space irregularly while maintaining a hidden mathematical order based on the honeycomb lattice. Lead author Yuto Moritake notes that this unique geometry is what makes the optical effects possible: the structures lack mirror symmetry, causing light itself to display a chiral response, or \"handedness,\" where a structure and its mirror image cannot be perfectly matched.\n\nWhat makes this discovery particularly elegant is how it demonstrates that abstract mathematical solutions can unlock entirely new physics. The researchers found that the diffraction patterns changed based on both the direction and polarization of incoming light, and when the physical structures were mirrored, their optical behavior reversed accordingly. This opens a fresh research direction exploring how the interplay between symmetry, chirality, and aperiodicity can be harnessed. The Smith hat has moved from solving a decades-old puzzle to becoming a gateway for understanding and controlling light itself.",
+  "category": "science",
+  "tags": [
+    "mathematics",
+    "physics",
+    "optics",
+    "innovation",
+    "light-manipulation"
+  ],
+  "quick_facts": [
+    "Discovered at University of Tokyo's Institute of Industrial Science",
+    "Smith hat monotile solved the Einstein problem in 2023",
+    "Nanoscale patterns created using electron beam lithography on silicon nitride",
+    "Diffraction patterns reveal chiral pinwheel shapes in laser light",
+    "Could lead to advanced optical devices and light control technologies"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+  "published": "2026-09-15T15:35:36Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/39234235/pexels-photo-39234235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Sóc Năng Động",
+  "photo_credit_url": "https://www.pexels.com/@soc-nang-d-ng-2150345854"
+}
