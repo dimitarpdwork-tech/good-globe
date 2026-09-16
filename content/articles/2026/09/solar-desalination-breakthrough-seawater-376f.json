@@ -1,0 +1,30 @@
+{
+  "id": "376fc4a2f37c0ea1",
+  "slug": "solar-desalination-breakthrough-seawater-376f",
+  "headline": "New Solar Desalination System Transforms Seawater Into Fresh Water—Without Toxic Waste",
+  "meta_description": "Scientists at University of Rochester develop solar-powered desalination that eliminates harmful brine and recovers valuable minerals like lithium.",
+  "summary_short": "Researchers have created a solar desalination system that turns seawater into fresh water while collecting salt as solid waste instead of toxic brine.",
+  "body": "Researchers at the University of Rochester have solved one of desalination's most stubborn problems: what to do with the toxic brine left behind. Their new solar-powered system produces fresh water efficiently while eliminating harmful liquid waste and potentially recovering valuable minerals like lithium. The breakthrough, described in the journal Light: Science & Applications, uses specially treated black metal panels that absorb nearly all incoming solar radiation, heating seawater until it evaporates. Rather than allowing salt to accumulate and clog the system—a problem that has plagued previous solar desalination attempts—the panels automatically direct minerals to designated collection zones, preventing the buildup that would otherwise shut down the process.\n\nWhat makes this innovation genuinely transformative is how it handles real seawater. Previous laboratory systems worked well with simplified salt-and-water mixtures, but actual ocean water from the Pacific, Atlantic, and Indian Oceans contains magnesium, calcium, and hundreds of other dissolved substances that crystallize into hard, stubborn deposits—similar to mineral scale inside a tea kettle. Chunlei Guo's team at URochester's Institute of Optics used femtosecond lasers to etch microscopic grooves into the metal, then applied a principle known as the coffee ring effect to push salts toward the panel's edges rather than letting them form a crust on the active surface.\n\nFor a world where 2.2 billion people lack safely managed drinking water, this matters enormously. Traditional desalination methods consume huge amounts of energy and generate brine that harms marine ecosystems when returned to the ocean. This system not only sidesteps that environmental damage—it potentially transforms what was once waste into a resource. The self-cleaning technology works continuously without chemical pre-treatment, making it a genuinely sustainable path toward solving one of humanity's most urgent challenges.",
+  "category": "science",
+  "tags": [
+    "desalination",
+    "renewable-energy",
+    "water-access",
+    "innovation",
+    "sustainability"
+  ],
+  "quick_facts": [
+    "University of Rochester team led by Professor Chunlei Guo",
+    "Seawater tested from Pacific, Atlantic, and Indian Oceans",
+    "Femtosecond lasers treat metal to enhance solar absorption",
+    "2.2 billion people globally lack safely managed drinking water",
+    "System collects salt as solid waste, not toxic brine"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+  "published": "2026-09-16T15:26:45Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/38126749/pexels-photo-38126749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Abdulaziz hasan",
+  "photo_credit_url": "https://www.pexels.com/@abdulaziz-hasan-2154785125"
+}

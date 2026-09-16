@@ -1,0 +1,29 @@
+{
+  "id": "45cb1826836dcdeb",
+  "slug": "immune-false-alarm-aging-breakthrough-45cb",
+  "headline": "Immune System's False Alarm May Drive Rapid Aging",
+  "meta_description": "Scientists discover that an overactive immune sensor, not just DNA damage itself, drives rapid aging in genetic disorders. New hope for treatment.",
+  "summary_short": "Researchers at Hebrew University found that the body's overreaction to damaged DNA—not the damage alone—may drive rapid aging. Reducing this immune response restored tis…",
+  "body": "An international research team led by scientists at Hebrew University of Jerusalem has uncovered an unexpected culprit in rapid-aging genetic disorders: not the damaged DNA itself, but the body's exaggerated immune response to it. When DNA fragments escape into the wrong part of a cell, an immune sensor called cGAS mistakes them for viral invaders, triggering chronic inflammation that damages healthy tissue and even interferes with the cell's own repair machinery. By reducing cGAS activity in fast-aging animal models, researchers saw broad improvements in neuroinflammation, tissue degeneration, and reproductive capacity—suggesting the body can tolerate more DNA damage than previously thought, provided the inflammatory reaction stays controlled.\n\nFor decades, scientists assumed that unrepaired DNA itself was the primary driver of cellular decline in disorders like Ataxia-Telangiectasia and Bloom syndrome. The new findings, led by Dr. Marva Bergman and Prof. Itamar Harel, reveal a more complicated picture. \"It's the body's response to that damage, an exaggerated, chronic inflammatory reaction, that drives much of the degeneration,\" Prof. Harel explained. Remarkably, cGAS contributes to decline in two ways: by promoting inflammation and by moving into the cell nucleus to disrupt DNA repair itself.\n\nThis discovery opens a fundamentally different treatment pathway. Rather than attempting to repair every individual DNA lesion—an enormously complex task—future therapies could focus on controlling the harmful inflammatory response that follows damage. The challenge lies in calibrating any treatment carefully: cGAS is also essential for detecting genuine viral infections, so simply shutting it down could weaken the body's antiviral defenses. Yet the implications extend beyond rare genetic conditions. Since chronic inflammation and genomic instability are common features of age-related diseases, similar mechanisms may contribute to broader forms of degeneration in the general population.",
+  "category": "health",
+  "tags": [
+    "aging",
+    "immunology",
+    "dna-repair",
+    "genetic-disorders",
+    "inflammation"
+  ],
+  "quick_facts": [
+    "Hebrew University team identified cGAS immune sensor as major aging contributor",
+    "Reducing cGAS activity restored tissue function in multiple biological systems",
+    "DNA damage alone may not drive degeneration; immune overreaction does",
+    "Rare disorders studied: Ataxia-Telangiectasia and Bloom syndrome"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
+  "published": "2026-09-16T15:26:38Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8976794/pexels-photo-8976794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
