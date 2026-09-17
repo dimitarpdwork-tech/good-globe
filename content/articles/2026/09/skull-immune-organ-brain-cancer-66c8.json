@@ -1,0 +1,29 @@
+{
+  "id": "66c8054852626940",
+  "slug": "skull-immune-organ-brain-cancer-66c8",
+  "headline": "Brain's Hidden Immune Defense Could Transform Cancer Treatment",
+  "meta_description": "Scientists at WashU Medicine discovered specialized immune structures in skull bone marrow that fight brain cancer before the broader immune system responds.",
+  "summary_short": "Researchers discovered immune 'security stations' in the skull that rapidly fight brain cancer in mice—and similar structures may exist in humans.",
+  "body": "Scientists at Washington University School of Medicine in St. Louis have discovered previously unknown immune structures hidden inside skull bone marrow—specialized hubs that act as rapid first responders to brain cancer before the rest of the immune system even receives a signal. In mouse models of glioblastoma, an aggressive form of brain cancer, disrupting these local immune centers caused tumors to grow faster and reduced survival time. When researchers deliberately strengthened these skull-based defenses using a gel containing three immune-boosting proteins placed beneath the scalp, mice rejected tumors more effectively and lived longer. Most striking, the immune response appeared first in the skull bone marrow hubs and only later emerged in distant lymph nodes outside the skull.\n\nThis discovery upends decades of scientific thinking. For years, researchers believed the brain was largely isolated from the immune system. Recent work from the same laboratory has already shown that the brain communicates with immune cells through lymphatic vessels and tiny physical channels bridging the skull, dura, and brain tissue. The new findings, published in Nature, reveal that these channels lead to organized immune structures resembling those normally found only in lymph nodes—a discovery the researchers had never witnessed in healthy bone marrow before.\n\nThe implications extend far beyond cancer. Because these immune hubs sit directly adjacent to the brain, they could eventually provide a targeted way to influence immune activity in neurological diseases without causing broad side effects across the body. Conditions including Alzheimer's disease, Parkinson's disease, schizophrenia, and long COVID—many with immune components—could potentially be treated by accessing these localized immune stations directly through the skull. This localized approach represents a fundamentally new avenue for developing therapies that work where they're needed most.",
+  "category": "science",
+  "tags": [
+    "brain-cancer",
+    "immunology",
+    "neuroscience",
+    "medical-breakthrough",
+    "skull"
+  ],
+  "quick_facts": [
+    "Washington University researchers discovered immune structures in skull bone marrow",
+    "These hubs respond to brain cancer before distant lymph nodes in mice",
+    "Strengthened immune defenses using gel improved tumor rejection and survival",
+    "Similar immune cells found in human skull tissue, suggesting broader application"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+  "published": "2026-09-17T10:02:27Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}

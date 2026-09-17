@@ -1,0 +1,30 @@
+{
+  "id": "79b0af2c6682b04b",
+  "slug": "ai-wolves-yellowstone-language-79b0",
+  "headline": "AI and Wolf Calls: Scientists Decode the Language of Yellowstone's Packs",
+  "meta_description": "A linguist and engineer has built the world's largest wolf vocalization database using AI, revealing how these apex predators communicate in ways we're only be…",
+  "summary_short": "Jeff Reed has created an AI system that isolates 8,000+ hours of wolf vocalizations—the largest database ever—helping scientists decode what wolves are actually saying t…",
+  "body": "Jeff Reed, a Montana-based linguist and software engineer, has built something unprecedented: a database of more than 8,000 hours of continuous wolf vocalizations—the largest collection of its kind in the world. Using 50 automated recording devices scattered across Yellowstone's backcountry and artificial intelligence models to analyze the resulting data, Reed is helping researchers understand what wolves are actually communicating when they howl, bark, whimper, and yelp across the park. The work, launched in 2023 as the Cry Wolf Project within Yellowstone's broader Wolf Project, represents a fundamental shift in how scientists approach one of nature's most enduring mysteries: what do wolves mean when they speak to one another?\n\nReed's journey to this work began with a personal reckoning. Five years ago on his Montana farm, a gray wolf appeared in his pickup truck's headlights—close enough to shoot. With rifle raised, Reed suddenly stopped himself. That moment of grace transformed a skeptic into an obsessive learner, and his unique blend of linguistic training and computer science expertise made him the ideal person to build something entirely new. His AI systems now convert wolf vocalizations into spectrograms, colorful graphs that reveal the intricate frequencies and patterns hidden within what Reed calls \"wolfish,\" the presumed language of these family-oriented apex predators.\n\nThe implications extend far beyond Yellowstone. Reed's technology is already being deployed to study wolf packs in Italy, and the insights gained—about why wolves howl, what distinct call types might signify, and how entire packs communicate in unison—could reshape conservation efforts worldwide. By choosing to listen rather than shoot, one man has opened a door to understanding wolves on their own terms.",
+  "category": "science",
+  "tags": [
+    "wolves",
+    "artificial-intelligence",
+    "conservation",
+    "yellowstone",
+    "bioacoustics"
+  ],
+  "quick_facts": [
+    "8,000+ hours of wolf vocalizations collected—world's largest database",
+    "50 automated recording devices across Yellowstone backcountry",
+    "Wolves have over 20 distinct call types including howls, barks, and whimpers",
+    "Technology already deployed in Italy for wolf research",
+    "Project launched in 2023 by Jeff Reed, a linguist and software engineer"
+  ],
+  "source_name": "Mongabay",
+  "source_url": "https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/",
+  "published": "2026-09-17T10:02:44Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/26594362/pexels-photo-26594362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Wesley Klijnstra",
+  "photo_credit_url": "https://www.pexels.com/@wesley-klijnstra-1425001922"
+}

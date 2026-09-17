@@ -1,0 +1,30 @@
+{
+  "id": "0fdd84ee78800345",
+  "slug": "mesothelioma-drug-turns-defense-weakness-0fdd",
+  "headline": "New Drug Reverses Cancer's Defense Strategy",
+  "meta_description": "Scientists reverse cancer's own antioxidant defenses using an experimental drug that controlled disease progression in 67% of mesothelioma patients in early tr…",
+  "summary_short": "Experimental mesothelioma drug controlled disease progression in 67% of patients by disabling PRX3, an enzyme tumors use to survive oxidative stress.",
+  "body": "Scientists at the University of Vermont have discovered an unexpected way to fight mesothelioma, an aggressive asbestos-linked cancer that kills most patients within a year. In a phase one clinical trial, an experimental drug controlled disease progression in 67% of patients with relapsed mesothelioma, with tumors shrinking in some cases. The drug works by disabling PRX3, a protective enzyme that cancer cells depend on to survive. By removing this defense, oxidative stress builds inside tumor cells until they die. The treatment was generally well tolerated, and critically ill patients in the trial lived longer than those receiving standard treatments—a striking result for a disease with only about a 10 percent five-year survival rate.\n\nThe strategy reverses decades of failed research. Scientists previously tested whether boosting antioxidants could fight cancer, but those trials largely failed and sometimes helped tumors grow. The UVM team instead asked what happens when cancer cells lose one of their most critical protective systems. The experimental drug, RSO-021, uses thiostrepton, a naturally occurring antibiotic, to block PRX3 in the mitochondria where it operates. Cancer cells may be especially vulnerable because they already produce unusually high levels of damaging reactive oxygen species and rely heavily on PRX3 for survival.\n\nLaboratory evidence supports the approach. When researchers completely deleted PRX3 from mesothelioma cell lines, cancer cells could no longer form tumors in animal experiments. Importantly, mice without PRX3 developed and functioned normally, suggesting the treatment can safely target cancer without harming healthy tissue. The clinical trial, conducted between 2022 and 2023 in the United Kingdom under regulatory oversight, represents the journey from UVM's Cancer Center discoveries beginning around 2015 to human patients—and opens possibilities for treating other cancers the same way.",
+  "category": "health",
+  "tags": [
+    "mesothelioma",
+    "cancer-research",
+    "drug-development",
+    "clinical-trial",
+    "oxidative-stress"
+  ],
+  "quick_facts": [
+    "67% of mesothelioma patients had controlled disease progression in early trial",
+    "Drug disables PRX3, an antioxidant enzyme tumors depend on for survival",
+    "Mesothelioma affects 30,000 people worldwide annually, mostly former industrial workers",
+    "Median survival without this treatment: approximately 12 months",
+    "Clinical trial conducted UK, 2022–2023 under regulatory authority oversight"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+  "published": "2026-09-17T10:02:19Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}
