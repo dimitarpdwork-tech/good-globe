@@ -1,0 +1,29 @@
+{
+  "id": "df762919586a2c40",
+  "slug": "chinese-scientists-oil-refining-breakthrough-df76",
+  "headline": "Scientists Cut Oil Refining Energy Use by 90% With Room-Temperature Method",
+  "meta_description": "Researchers at China's Dalian Institute develop molecular refining using chemical membranes, slashing energy consumption and potentially reducing global petrol…",
+  "summary_short": "Chinese scientists have invented a room-temperature refining method using molecular sieves that cuts energy use by 91% compared to traditional boiling-based distillation.",
+  "body": "Researchers at Dalian Institute of Chemical Physics in northern China have developed a fundamentally different way to refine crude oil—one that eliminates the energy-intensive boiling process entirely. Instead of heating crude oil repeatedly to separate its components by boiling point, the scientists use specially designed chemical membranes that work like molecular sieves, filtering different crude oil ingredients into separate containers at room temperature. The breakthrough cuts energy consumption by 91%, a dramatic reduction that could transform the economics of petroleum refining globally.\n\nThe innovation hinges on extraordinary precision. The membranes distinguish between molecules whose size differs by only about one-hundredth of a nanometer—a difference so minute it required extensive refinement to achieve. When tested with light sweet crude containing 15 different chemicals, the process separated the mixture into three groups of high-value products with a recovery rate between 85 and 90%, as reported in the National Science Review.\n\nIf this laboratory breakthrough scales to industrial production, the implications extend far beyond fuel efficiency. Oil refining ranks as the third-largest stationary source of global CO2 emissions, accounting for approximately 1.3 gigatons annually—surpassing contributions from maritime shipping and aviation. Molecular refining could dramatically reduce both costs and emissions from producing gasoline, diesel, and plastics, affecting thousands of common goods that depend on refined petroleum as a manufacturing input. The researchers acknowledge that scaling from lab to global industry remains uncertain, yet the potential to reshape one of the world's most energy-intensive processes offers genuine hope for emissions reduction.",
+  "category": "science",
+  "tags": [
+    "oil-refining",
+    "clean-energy",
+    "emissions-reduction",
+    "chemistry",
+    "sustainability"
+  ],
+  "quick_facts": [
+    "Dalian Institute of Chemical Physics, northern China",
+    "91% less energy than traditional distillation methods",
+    "Membranes separate molecules differing by one-hundredth of a nanometer",
+    "Oil refining produces 1.3 gigatons of CO2 annually"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
+  "published": "2026-09-17T15:33:40Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/15970032/pexels-photo-15970032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jakub Pabis",
+  "photo_credit_url": "https://www.pexels.com/@jakub-pabis-147246622"
+}

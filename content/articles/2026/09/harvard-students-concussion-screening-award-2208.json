@@ -1,0 +1,30 @@
+{
+  "id": "220805e92250a2ba",
+  "slug": "harvard-students-concussion-screening-award-2208",
+  "headline": "Harvard Students Win Award for Concussion Screening Headset",
+  "meta_description": "Three Harvard students invented Rumble Rims, an eye-tracking headset that screens athletes for concussions in minutes, winning the 2026 James Dyson Award.",
+  "summary_short": "A trio of Harvard students have created a low-cost eye-tracking headset that screens young athletes for concussions on the sidelines, winning national recognition.",
+  "body": "Three Harvard University students—Radhika Saran, Cleo Pontone, and Sophia DeVito—have invented a device that could transform how coaches protect young athletes from brain injury. Called Rumble Rims, their eye-tracking headset screens for concussions in just 2 to 3 minutes by measuring how an athlete's eyes follow, fixate, and move during an infrared test the athlete cannot see. The invention earned them the James Dyson Award for the United States in 2026, along with a $6,500 prize to advance their work. The timing matters: the CDC found that 15.1% of US high school students—approximately 2.5 million—reported at least one sports-related concussion in a 12-month period. Yet most concussions today are still assessed through subjective sideline checks or costly clinical systems unavailable to schools.\n\nThe real insight behind Rumble Rims came from the team's direct engagement with users—athletes, coaches, medical professionals, and physical therapists. Early prototypes explored helmets, mouthguards, and enclosed structures, but testing revealed that accuracy depended less on creating a controlled environment and more on precisely tracking the relationship between the eyes and camera. A coach-facing display then translates complex eye-tracking data into real-time guidance for whether a player should be removed from play. The stakes of getting this right are high: if a young athlete plays just 15 minutes of high-intensity sport with an undetected concussion, recovery time can double. About 7 in 10 emergency department visits for sports-related traumatic brain injuries involve children 17 and under, when brains are still developing.\n\nThe team plans to build higher-fidelity prototypes and validate Rumble Rims with schools and youth sports programs. As high school lacrosse coach Elliot Sawyer-Kaplan noted during development, removing emotion and subjectivity from concussion decisions—placing the call in objective data rather than in coaches' or players' hands—matters profoundly for protecting young brains.",
+  "category": "health",
+  "tags": [
+    "concussion-screening",
+    "youth-sports-safety",
+    "harvard-innovation",
+    "medical-technology",
+    "student-inventors"
+  ],
+  "quick_facts": [
+    "Three Harvard students invented eye-tracking headset for concussion screening",
+    "Rumble Rims won 2026 James Dyson Award for United States",
+    "15.1% of US high school students reported sports-related concussions yearly",
+    "Test takes 2-3 minutes using infrared eye-tracking technology",
+    "Playing 15 minutes with undetected concussion can double recovery time"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
+  "published": "2026-09-17T15:33:49Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/13345763/pexels-photo-13345763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Yura Forrat",
+  "photo_credit_url": "https://www.pexels.com/@yuraforrat"
+}
