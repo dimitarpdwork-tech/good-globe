@@ -1,0 +1,29 @@
+{
+  "id": "6c8906ecd8886cf3",
+  "slug": "cells-survive-death-rebuild-tissue-6c89",
+  "headline": "Scientists find cells that survive death to heal damaged tissue",
+  "meta_description": "Researchers at Weizmann Institute discover cells that activate death pathways but survive, then rapidly rebuild damaged tissue.",
+  "summary_short": "Weizmann scientists discovered cells that start dying but survive, then rebuild half of damaged tissue in 48 hours—opening new healing possibilities.",
+  "body": "Researchers at the Weizmann Institute of Science have uncovered a remarkable cellular mechanism that allows severely damaged tissue to regenerate rapidly. The team discovered a population of cells they named DARE cells—which activate their own death pathways during radiation exposure but somehow survive the process. Even more striking: these survivors multiply and repair nearly half of the damaged tissue within 48 hours. The findings, published in Nature Communications, reveal that caspase enzymes, long understood only as cell-killing machines, can actually help certain cells become resistant to death and then participate in rebuilding tissue. The discovery hinges on a molecular motor protein that can stall the death process mid-way, preventing the \"executioner\" stage that would normally destroy the cell completely.\n\nThe phenomenon itself isn't new. Scientists have documented compensatory proliferation—the body's ability to regrow tissue after extensive damage—since the 1970s, when researchers exposed fruit fly larvae to high doses of radiation and watched their wings regenerate fully. What remained mysterious was the cellular mechanism driving this response. Working with modern genetic tools, Dr. Tslil Braun's team recreated those classic fruit fly experiments and tracked exactly which cells were responsible for the regrowth.\n\nThe implications extend beyond healing. The same survival mechanism that helps tissue recover could explain why some cancers return after treatment in more aggressive forms. Cancer cells may exploit this pathway to evade death. Understanding how DARE cells harness caspases to survive could eventually lead to therapies that encourage healthy tissue repair while reducing cancer recurrence—turning a fundamental biological puzzle into practical medicine.",
+  "category": "science",
+  "tags": [
+    "cellular-regeneration",
+    "tissue-healing",
+    "cancer-research",
+    "apoptosis",
+    "weizmann-institute"
+  ],
+  "quick_facts": [
+    "Weizmann Institute scientists identified DARE cells that survive radiation exposure",
+    "These cells rebuild nearly half of damaged tissue within 48 hours",
+    "Molecular motor protein stalls the death process inside surviving cells",
+    "Mechanism originally discovered in fruit fly larvae regeneration studies"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+  "published": "2026-09-18T15:01:15Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}

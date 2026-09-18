@@ -1,0 +1,30 @@
+{
+  "id": "11b7cff9640b7af9",
+  "slug": "roman-telescope-fuel-extended-mission-11b7",
+  "headline": "NASA's Roman Telescope Could Work for 22 Years, Not 10",
+  "meta_description": "NASA's Roman Space Telescope now has enough fuel for at least 22 years of operations—more than double its original 10-year design life—thanks to precise planni…",
+  "summary_short": "NASA's Roman Space Telescope could operate for at least 22 years instead of the planned 10, thanks to exceptional accuracy and unexpected fuel savings during its journey…",
+  "body": "NASA's Nancy Grace Roman Space Telescope has unexpectedly inherited extra years of scientific life. The observatory, which was built to operate for a decade, now appears to have enough fuel for at least 22 years of observations—more than double its original mission length. The windfall came from three converging factors: an extraordinarily precise first course correction performed on August 31, the discovery that the spacecraft weighed less than anticipated at launch, and projected savings during upcoming maneuvers. \"As a result of exquisite planning by our orbital dynamics team, brilliant execution by the operations team, and a precise launch from SpaceX, Roman has fuel for at least 22 years of potential science operations,\" said Jamie Dunn, center director at NASA's Goddard Space Flight Center in Greenbelt, Maryland.\n\nThe first mid-course correction alone reveals how much slack the mission team built into their plans. Roman burned about 40 pounds of fuel for that maneuver, consuming less than 10 percent of the 441 pounds reserved for it—a feat completed with more than 99% accuracy. Those savings alone could provide roughly four additional years of observation. The spacecraft also arrived at launch lighter than engineers had conservatively budgeted for: at 17,760 pounds rather than the maximum 21,605 pounds planners had assumed. This lighter actual weight meant Roman's propellant tanks could be filled to capacity, adding another four potential years of operations.\n\nThe second mid-course correction, now scheduled for later in September, is expected to be smaller than originally planned because the first burn was so accurate. Mission controllers can afford to wait longer before making the adjustment, which will fine-tune Roman's path toward its permanent orbit around L2—a gravitational balance point approximately 100 days from launch. Together, the second correction and orbital insertion should require even less fuel than budgeted, potentially adding four more years to the mission. Once Roman reaches its destination around early December, maintaining position will require only modest station-keeping burns roughly once every 28 days.",
+  "category": "science",
+  "tags": [
+    "nasa",
+    "space-telescope",
+    "roman",
+    "mission-extension",
+    "fuel-efficiency"
+  ],
+  "quick_facts": [
+    "Roman Space Telescope fuel budget extended from 10 years to at least 22 years",
+    "First course correction used only 40 pounds instead of 441 pounds planned",
+    "Spacecraft weighed 17,760 pounds at launch, lighter than 21,605-pound budget maximum",
+    "NASA Goddard Space Flight Center manages the mission",
+    "Roman targets L2 orbit approximately 100 days after launch"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+  "published": "2026-09-18T15:00:56Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/5032708/pexels-photo-5032708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "braincontour",
+  "photo_credit_url": "https://www.pexels.com/@braincontour-3018267"
+}
