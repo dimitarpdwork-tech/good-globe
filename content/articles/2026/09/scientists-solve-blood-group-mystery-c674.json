@@ -1,0 +1,30 @@
+{
+  "id": "c6747c1e4bf94daa",
+  "slug": "scientists-solve-blood-group-mystery-c674",
+  "headline": "Fifty-Year Mystery Solved: Scientists Identify New Blood Group System",
+  "meta_description": "Researchers at NHS Blood and Transplant finally traced the AnWj antigen to its genetic source, establishing MAL as the 47th official blood group system.",
+  "summary_short": "After 54 years, scientists have identified the genetic cause of the rare AnWj blood group antigen, helping doctors protect a tiny population from dangerous transfusions.",
+  "body": "In September 2026, researchers at NHS Blood and Transplant in Bristol solved a puzzle that had stumped scientists since 1972: the genetic origin of the AnWj blood group antigen. By analyzing DNA from five individuals with inherited AnWj-negative blood—including members of an Arab Israeli family and a woman first identified in the 1970s—they discovered that the MAL gene holds the answer. When this gene carries specific deletions on both copies, people lack the Mal protein on their red blood cells and therefore lack the AnWj antigen present in more than 99.9% of the human population. The breakthrough led the International Society of Blood Transfusion to formally recognize MAL as the 47th official blood group system, designated ISBT 047.\n\nWhile most people know about ABO and Rh blood groups, red blood cells carry hundreds of different molecular markers. For patients with rare blood types or unusual antibodies, finding compatible blood can become extraordinarily challenging. An AnWj-negative person who develops antibodies against the antigen faces real danger: receiving AnWj-positive blood can trigger hemolytic transfusion reactions, where the immune system destroys the transfused cells.\n\nThe discovery transforms medical practice from guesswork into precision. By identifying the MAL gene variants responsible, doctors can now design genotyping tests to locate rare patients and compatible donors—a crucial advantage when searching for blood in a population where the needed type is present in fewer than one in a thousand people. The work illustrates how genetics continues expanding our understanding of human biology; the International Society of Blood Transfusion announced a 49th blood group system just weeks later, showing the genetic map of human blood remains actively incomplete.",
+  "category": "science",
+  "tags": [
+    "blood-groups",
+    "genetics",
+    "medical-breakthrough",
+    "nhs",
+    "transfusion"
+  ],
+  "quick_facts": [
+    "Mystery began in 1972, solved 54 years later in 2026",
+    "AnWj antigen present in over 99.9% of people",
+    "MAL becomes the 47th officially recognized blood group system",
+    "Five genetically AnWj-negative individuals studied, including Arab Israeli family",
+    "Lack of MAL gene causes dangerous transfusion reactions"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
+  "published": "2026-09-20T09:50:54Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/37548861/pexels-photo-37548861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Tahir Xəlfəquliyev",
+  "photo_credit_url": "https://www.pexels.com/@tahir"
+}

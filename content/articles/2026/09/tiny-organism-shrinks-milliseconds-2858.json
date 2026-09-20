@@ -1,0 +1,30 @@
+{
+  "id": "285894fc8b796026",
+  "slug": "tiny-organism-shrinks-milliseconds-2858",
+  "headline": "A Single Cell's Lightning-Fast Trick Could Reshape Artificial Muscles",
+  "meta_description": "Scientists discover how a single-celled organism shrinks to one-quarter its size in milliseconds, revealing calcium-powered mechanics that could inspire faster…",
+  "summary_short": "A microscopic organism contracts 100 times faster than human muscle. Researchers hope its calcium-powered protein network could revolutionize artificial muscle design.",
+  "body": "Spirostomum ambiguum, a single-celled aquatic organism, can compress its body to one quarter of its original length in under five milliseconds—hundreds of times faster than a human blink. Scientists at North Carolina State University have now identified the mechanism behind this extraordinary feat: a calcium-powered protein network arranged like a fishnet. The discovery offers a blueprint for building artificial muscles that move far faster than current designs, powered by a fundamentally different system than the energy molecules that drive human movement.\n\nThe organism relies on specialized fibrous structures called myonemes, made from calcium-binding proteins centrin and Sfi1. When calcium ions trigger contraction, the Sfi1 protein loses its stiffness and clumps like wet spaghetti, causing the fishnet-shaped web surrounding the organism to tighten inward. This geometry protects the cell's internal organs during movement—something human muscle achieves through a much slower process. The contraction happens at roughly 100 body lengths per second, a speed scientists believe helps the organism escape predators or communicate with other ciliates.\n\nWhat makes this discovery truly significant is how differently Spirostomum powers movement. While human muscles burn adenosine triphosphate (ATP) like gasoline, this organism uses calcium ions like an electrical current—a fundamentally distinct energy system. Researchers still have questions about how the organism resets itself to contract repeatedly, but solving that puzzle could unlock the design principles for faster, ATP-independent synthetic muscles. Associate Professor Mary Elting explains the stakes plainly: understanding these processes could help engineers build systems that mimic the speed and power of this single cell, opening new possibilities for robotics, prosthetics, and beyond.",
+  "category": "science",
+  "tags": [
+    "cellular-mechanics",
+    "artificial-muscles",
+    "calcium-biology",
+    "biomimicry",
+    "scientific-discovery"
+  ],
+  "quick_facts": [
+    "Single-celled organism shrinks to one-quarter size in milliseconds",
+    "Contracts 100 times faster than human muscle fibers",
+    "Uses calcium ions instead of ATP for power",
+    "North Carolina State University led the research",
+    "Fishnet-shaped protein network enables the movement"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
+  "published": "2026-09-20T09:51:02Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8917462/pexels-photo-8917462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
