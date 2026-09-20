@@ -1,0 +1,29 @@
+{
+  "id": "f0c0ee6d395748e6",
+  "slug": "einstein-spooky-action-survives-extreme-test-f0c0",
+  "headline": "Quantum entanglement confirmed at record energies",
+  "meta_description": "Physicists confirm quantum entanglement survives extreme conditions at CERN's Large Hadron Collider, proving Einstein's 'spooky action' is more fundamental tha…",
+  "summary_short": "Oxford physicists have detected quantum entanglement in heavy Z bosons created in extreme collisions at CERN, confirming Einstein's strangest prediction holds up under t…",
+  "body": "Physicists at the University of Oxford have confirmed that quantum entanglement—one of the strangest phenomena in physics—persists even among the heaviest and shortest-lived particles ever created in a laboratory. Using CERN's Large Hadron Collider near Geneva, an international team detected strong evidence that pairs of Z bosons, which exist for only fractions of a second before decaying, can become quantum entangled during Higgs boson decay. The finding, published in Physical Review Letters, represents one of the highest-energy confirmations of quantum entanglement ever achieved and shows that Einstein's famous \"spooky action at a distance\" is far more robust and fundamental than previously understood.\n\nThe researchers didn't directly observe the fleeting Z bosons—they couldn't. Instead, they measured the electrons and muons produced when those particles decayed, analyzed the angles at which those decay products emerged, and used that data to reconstruct the spins of the original Z bosons. This clever indirect approach revealed the quantum correlations that prove entanglement had occurred, even amid proton collisions reaching energies of thirteen trillion electron volts.\n\nThe discovery matters beyond pure physics. Quantum entanglement already underpins emerging technologies like quantum computers and ultra-secure communication networks, and this work suggests entanglement may be even more universal and resilient than scientists realized. Professor Alan Barr at Oxford, who was among the first to propose using particle colliders to study entanglement at extreme energies, noted that finding entanglement \"alive and well\" in such violent conditions reveals how deeply woven this quantum effect is into nature itself. The finding opens new doors for using quantum information science to unlock hidden patterns in particle physics data—potentially revealing physics that lies beyond our current theories.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "cern",
+    "entanglement",
+    "oxford",
+    "particle-collider"
+  ],
+  "quick_facts": [
+    "Quantum entanglement confirmed in Z bosons at CERN's Large Hadron Collider",
+    "Particles collide at 99.99% the speed of light, reaching 13 trillion electron volts",
+    "Oxford University physicists led by Professor Alan Barr spearheaded the research",
+    "Results published in Physical Review Letters in September 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+  "published": "2026-09-20T14:43:21Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}

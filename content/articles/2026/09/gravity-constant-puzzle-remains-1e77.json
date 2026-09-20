@@ -1,0 +1,30 @@
+{
+  "id": "1e77f1365383da1f",
+  "slug": "gravity-constant-puzzle-remains-1e77",
+  "headline": "A Decade of Mystery: Why Gravity Still Refuses to Add Up",
+  "meta_description": "After 10 years of painstaking experiments, NIST scientists opened a sealed envelope to reveal their measurement of gravity's fundamental strength—only to find…",
+  "summary_short": "A physicist's decade-long quest to measure gravity's fundamental constant ends with an uncomfortable discovery: the universe still isn't cooperating with our equations.",
+  "body": "For ten years, physicist Stephan Schlamminger at the National Institute of Standards and Technology pursued one of science's most stubborn mysteries: the precise value of big G, the universal gravitational constant that determines how strongly gravity pulls throughout the cosmos. On July 11, 2024, at a precision measurement conference in Aurora, Colorado, he finally opened a sealed envelope containing the answer his team had hidden from themselves to avoid bias. The result was simultaneously reassuring and deeply unsettling. The measurement differed from another leading result in ways that shouldn't happen—a tiny discrepancy, but enormous for such a fundamental constant.\n\nThe challenge is almost poetically simple: gravity is extraordinarily weak. A pinhead-sized magnet can lift a paper clip against the entire Earth's gravitational pull, demonstrating how easily electromagnetism overpowers gravity in direct competition. In the laboratory, scientists must measure gravitational attraction between objects roughly 500 billion trillion times smaller than Earth, making the forces they detect almost impossibly faint.\n\nFor 225 years, since scientists began measuring big G roughly a century after Newton's time, results have stubbornly refused to agree. The disagreements are small—about one part in 10,000—yet large enough to unsettle physicists. The most likely explanation involves some overlooked experimental subtlety. But there's a more intriguing possibility: perhaps something fundamental about gravity itself remains hidden from us. Schlamminger's meticulous decade of work, including his careful decision to delay opening the envelope when he discovered an unaccounted air-pressure effect, demonstrates the painstaking honesty science demands. The mystery remains open, and that itself is progress.",
+  "category": "science",
+  "tags": [
+    "gravity",
+    "physics",
+    "nist",
+    "scientific-mystery",
+    "measurement"
+  ],
+  "quick_facts": [
+    "Physicist Stephan Schlamminger spent 10 years measuring gravity's fundamental constant",
+    "The sealed envelope was opened July 11, 2024, at a Colorado conference",
+    "Gravity remains 225 years unsolved since scientists began measuring it",
+    "A pinhead magnet lifts paper clip against Earth's entire gravitational pull",
+    "Measurement disagreements persist at roughly one part in 10,000"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+  "published": "2026-09-20T14:42:56Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/9629662/pexels-photo-9629662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ivan S",
+  "photo_credit_url": "https://www.pexels.com/@ivan-s"
+}
