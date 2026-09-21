@@ -1,0 +1,30 @@
+{
+  "id": "6a1faa01958ba9f9",
+  "slug": "nasa-roman-telescope-camera-activated-6a1f",
+  "headline": "NASA's Roman Telescope Powers Up Its 300-Megapixel Eye on the Universe",
+  "meta_description": "NASA successfully activated the Roman Space Telescope's 300-megapixel infrared camera, marking a major step toward groundbreaking observations of distant plane…",
+  "summary_short": "NASA has powered up the Nancy Grace Roman Space Telescope's massive 300-megapixel infrared camera, which will survey vast cosmic regions with Hubble-like clarity startin…",
+  "body": "NASA has successfully activated the Nancy Grace Roman Space Telescope's Wide Field Instrument—a 300-megapixel infrared camera designed to capture enormous stretches of the cosmos with unprecedented clarity and speed. The achievement, completed on September 11, marks a critical milestone for a mission that promises to transform our understanding of planets beyond our solar system, dark energy, and the structure of the universe itself. Roman's planet-imaging system, the Coronagraph Instrument, has also passed its early systems checks, confirming that ground teams can remotely control its advanced optical components. Both instruments are now on track for the telescope to begin releasing its first science images by early 2027.\n\nThe activation process itself reveals the intricate engineering behind space observation. Engineers first allowed the Wide Field Instrument's 18 infrared detectors to cool from minus 85 degrees Fahrenheit to minus 225 degrees Fahrenheit over the course of a single day before powering them on. The detectors, which together occupy a light-sensitive area roughly the size of a laptop screen, then continued cooling toward their final operating temperature of about minus 300 degrees Fahrenheit. On subsequent days, teams tested the instrument's filter wheel—which had never been operated without gravity—and its critical focusing mechanism.\n\nWhat makes Roman truly distinctive is its combination of breadth and sharpness. A single image from the Wide Field Instrument will cover an area of sky larger than the apparent size of a full moon, yet maintain the fine detail associated with NASA's legendary Hubble Space Telescope. Currently traveling roughly one million miles toward its destination at the second Lagrange point, Roman will spend months undergoing commissioning before those first images arrive. For scientists and the teams at NASA's Goddard Space Flight Center and partner institutions like BAE Systems and Teledyne, the successful activation represents years of meticulous work finally bearing fruit in space.",
+  "category": "science",
+  "tags": [
+    "space-telescope",
+    "nasa",
+    "infrared-imaging",
+    "exoplanets",
+    "dark-energy"
+  ],
+  "quick_facts": [
+    "300-megapixel infrared camera activated September 11, 2026",
+    "Single image covers area larger than full moon",
+    "Will reach destination one million miles away at L2",
+    "First science images expected by early 2027",
+    "18 infrared detectors cool to minus 300 degrees Fahrenheit"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+  "published": "2026-09-21T17:05:37Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/10064346/pexels-photo-10064346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Micotino",
+  "photo_credit_url": "https://www.pexels.com/@micotino-126770659"
+}

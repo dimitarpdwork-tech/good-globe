@@ -1,0 +1,30 @@
+{
+  "id": "f2a5aecc296bcc12",
+  "slug": "plastic-waste-fuel-breakthrough-f2a5",
+  "headline": "Scientists Turn Plastic Bags Into Fuel—at Kitchen-Oven Temperatures",
+  "meta_description": "Oak Ridge researchers convert polyethylene plastic into gasoline using inexpensive molten salts, achieving 60% fuel yield below 200°C.",
+  "summary_short": "Scientists at Oak Ridge National Laboratory have developed a simple process that transforms common plastic waste into usable gasoline and diesel fuel using affordable al…",
+  "body": "Researchers at the Department of Energy's Oak Ridge National Laboratory have found an unexpectedly practical solution to plastic waste: convert it into gasoline and diesel fuel. The breakthrough uses inexpensive molten salts containing aluminum chloride to break down polyethylene—the plastic found in shopping bags and cutting boards—into smaller hydrocarbon molecules. The process achieves about 60 percent gasoline yield under mild conditions, and notably, it works at temperatures below 200 degrees Celsius, comparable to a conventional kitchen oven. This represents a dramatic simplification over traditional methods, which typically require temperatures of 450 to 500 degrees Celsius and rely on costly noble-metal catalysts, organic solvents, and external hydrogen.\n\nThe team, led by Sheng Dai and colleagues at Oak Ridge and the University of Tennessee, Knoxville, used advanced analytical techniques to understand exactly how the molten salts work. The charged aluminum atoms create highly acidic sites that split the long polymer chains into smaller molecules; simpler chains produce gasoline-like compounds, while more complex chains generate diesel-like fuels. The elegance of the approach lies in its efficiency: the molten salts simultaneously serve as both the reaction medium and the catalyst, eliminating the need for additional initiators or solvents.\n\nThe findings, published in the Journal of the American Chemical Society, carry real significance beyond the laboratory. If scaled up, this technology could help address plastic waste—a persistent global problem—while supporting U.S. energy security and industrial competitiveness. Oak Ridge has built expertise in molten salts over decades, dating back to its 1960s Molten Salt Reactor Experiment. The team's ability to apply that foundation to an entirely new challenge demonstrates how fundamental science can create unexpected solutions to modern problems.",
+  "category": "science",
+  "tags": [
+    "plastic-recycling",
+    "renewable-energy",
+    "materials-science",
+    "waste-reduction",
+    "fuel-innovation"
+  ],
+  "quick_facts": [
+    "Oak Ridge National Laboratory developed the plastic-to-fuel process in 2026",
+    "Produces 60% gasoline yield from polyethylene plastic waste",
+    "Works below 200°C, much lower than traditional 450-500°C methods",
+    "Uses inexpensive aluminum-based molten salts as both medium and catalyst",
+    "Published in the Journal of the American Chemical Society"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+  "published": "2026-09-21T17:05:52Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/14370990/pexels-photo-14370990.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Gaurav Ranjitkar",
+  "photo_credit_url": "https://www.pexels.com/@gaurav-ranjitkar-2476729"
+}

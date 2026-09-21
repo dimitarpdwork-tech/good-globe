@@ -1,0 +1,28 @@
+{
+  "id": "9757ec14eda8fa7c",
+  "slug": "brain-implant-three-functions-9757",
+  "headline": "Needle-Thin Brain Implant Does Three Jobs at Once",
+  "meta_description": "Researchers have created a flexible brain implant thinner than a needle that can record signals, deliver drugs, and stimulate brain regions simultaneously.",
+  "summary_short": "Scientists developed a needle-thin brain implant that records neural activity, delivers medication, and stimulates multiple brain regions using a single flexible fiber.",
+  "body": "Researchers from the Technical University of Denmark, the University of Copenhagen, University College London, and partner institutions have developed a breakthrough device that combines three separate brain functions into one needle-thin implant. The microfluidic Axialtrode, or mAxialtrode, is a flexible fiber less than half a millimeter across equipped with a light-conducting core and eight microscopic channels that can transport liquids and measure electrical activity. Tests in living mice demonstrated that the device could simultaneously stimulate nerve cells using blue and red light while recording electrical activity from both shallow and deeper brain regions, including the cerebral cortex and hippocampus. Researchers were also able to inject different substances at separate depths spaced almost three millimeters apart—all through a single lightweight fiber that mice carried without apparent discomfort.\n\nThe key innovation lies not just in what the device does, but how it achieves multiple functions without the damage caused by conventional implants. Current brain electrodes are typically made from hard materials like silicon, which can irritate tissue and trigger inflammatory responses. The mAxialtrode, by contrast, uses soft, plastic-like optical fibers with a specially angled tip that minimizes trauma during insertion. This flexibility allows the implant to move with brain tissue rather than pressing rigidly through it—a crucial advantage for devices that may remain in place for extended periods.\n\nFor now, the technology serves primarily as a research tool to investigate how signals travel through different brain layers during epilepsy, memory formation, and decision-making. Researchers are working to patent the technology and exploring what would be required to begin clinical testing. However, scientists emphasize the device remains far from routine patient use, with extensive testing, development, and regulatory approval still required before therapeutic applications become reality.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "medical-innovation",
+    "brain-research",
+    "flexible-implants"
+  ],
+  "quick_facts": [
+    "Fiber measures less than half a millimeter across, made from soft plastic-like material",
+    "Tests conducted in living mice with electrodes in cerebral cortex and hippocampus",
+    "Eight microscopic channels enable light stimulation, drug delivery, and electrical recording simultaneously",
+    "Developed by Technical University of Denmark with University of Copenhagen and University College London"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+  "published": "2026-09-21T17:05:44Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Pixabay",
+  "photo_credit_url": "https://www.pexels.com/@pixabay"
+}

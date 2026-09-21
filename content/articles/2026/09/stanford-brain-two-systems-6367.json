@@ -1,0 +1,30 @@
+{
+  "id": "636745326a3706d3",
+  "slug": "stanford-brain-two-systems-6367",
+  "headline": "Brain's Hidden Origin Story Unlocks Cure for Deadly Diseases",
+  "meta_description": "Stanford researchers discover the human brain evolved from two separate nervous systems, opening new treatment paths for ALS and spinal muscular atrophy.",
+  "summary_short": "Stanford scientists found the brain isn't one organ but two ancient systems fused together—a discovery that finally lets researchers grow hindbrain cells in the lab.",
+  "body": "Scientists at Stanford Medicine have overturned a centuries-old assumption about human development: the brain isn't actually a single organ, but two distinct nervous systems that evolved separately and merged over millions of years. One system controls essential survival functions like breathing and heartbeat. The other powers higher thought—language, mathematics, abstract reasoning, and self-reflection. The breakthrough, published in Nature Neuroscience in September 2026, came when researchers examined the earliest stages of embryonic development and found that hindbrain cells follow an entirely separate developmental pathway from forebrain and midbrain cells, marked by different genes and different DNA packaging from the very beginning.\n\nThe discovery solves a puzzle that has frustrated neuroscientists for decades: why has it been nearly impossible to grow hindbrain neurons in laboratory dishes? Previous attempts tried to convert forebrain cells into hindbrain cells—a biological impossibility, since the two systems were never meant to interchange. \"Our careful attention to that early time point allowed us to find this fundamental split in brain development,\" explains graduate researcher Rayyan Jokhai. Once the team understood this separation, they succeeded in growing human hindbrain neurons in petri dishes for the first time.\n\nThe implications for patients are profound. Spinal muscular atrophy is the leading genetic cause of death in children under one year old. Amyotrophic lateral sclerosis, or ALS, typically strikes between ages 40 and 70, progressively destroying hindbrain neurons until patients lose the ability to swallow and breathe. Now researchers can finally study these brain stem diseases using living human cells grown in the laboratory—opening genuine pathways toward understanding and potentially treating diseases that have claimed countless lives.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "medical-breakthrough",
+    "brain-research",
+    "als",
+    "genetic-disease"
+  ],
+  "quick_facts": [
+    "Stanford Medicine researchers discovered brain evolved from two separate systems",
+    "Hindbrain neurons can now be grown in laboratory dishes for first time",
+    "Discovery published in Nature Neuroscience, September 2026",
+    "SMA is leading genetic cause of death in children under age 1",
+    "Different genes mark forebrain and hindbrain development from earliest stages"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+  "published": "2026-09-21T17:06:00Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
