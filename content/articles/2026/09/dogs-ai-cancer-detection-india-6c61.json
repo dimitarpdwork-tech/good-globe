@@ -1,0 +1,30 @@
+{
+  "id": "6c61e0bd77d4c0af",
+  "slug": "dogs-ai-cancer-detection-india-6c61",
+  "headline": "Dogs Train AI to Detect Cancer in Human Breath",
+  "meta_description": "A startup in India uses dogs' natural abilities to train AI that detects seven cancer types from breath samples with over 90% accuracy.",
+  "summary_short": "Dogs wearing sensor-fitted helmets are helping train artificial intelligence to detect cancer from breath samples with promising early results.",
+  "body": "A startup near Bengaluru is harnessing the remarkable sense of smell that dogs possess to train artificial intelligence capable of detecting seven types of cancer from breath samples alone. In a company-reported study of more than 1,500 participants across six hospitals, the diagnostic system achieved accuracy above 90 percent. The innovation is elegant in its approach: fifteen dogs wear helmets and harnesses fitted with sensors that track their breathing, brain activity, and movement as they sniff sealed breath samples. The AI learns not to detect cancer directly, but rather to recognize the involuntary biological responses a dog's body produces when encountering odor compounds associated with cancer in human breath. Patients simply breathe into a cotton mask for about ten minutes—no blood draw, no imaging required—and the sealed sample travels to the lab for analysis.\n\nThe real promise lies in where this technology could make the deepest impact. In India, many cancer diagnoses arrive only after the disease has already advanced, partly because accessible, non-invasive early-screening options remain scarce. A breath test that could flag people needing further evaluation, without requiring specialist access or complex procedures at the first step, would address a genuine gap in healthcare.\n\nDognosis is positioning the tool as a first-pass filter, not a replacement for conventional diagnostics, and is pursuing further trials toward potential commercial approval. Researchers emphasize that the 90 percent figure, while striking, comes from a single company-run study and requires independent verification before clinical adoption. As oncologist Santhosh Kumar Devadas noted, the results are promising as an early signal, but much larger studies with independent oversight will be necessary before drawing definitive conclusions. The pathway forward involves rigorous testing, but the fundamental insight—that we can scale and systematize what dogs do naturally—offers genuine hope for earlier detection.",
+  "category": "health",
+  "tags": [
+    "cancer-detection",
+    "artificial-intelligence",
+    "medical-innovation",
+    "india",
+    "dogs"
+  ],
+  "quick_facts": [
+    "Startup near Bengaluru uses 15 dogs with sensor helmets to train cancer-detection AI",
+    "90% accuracy reported across seven cancer types in study of 1,500+ participants",
+    "Non-invasive breath test takes 10 minutes, requires no blood draw or imaging",
+    "AI learns dogs' biological responses to cancer-related odor compounds, not cancer itself",
+    "Positioned as first-pass screening filter for early cancer detection in India"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/09/can-dogs-sniff-out-cancer-new-ai-study-shows-promise/",
+  "published": "2026-09-21T10:46:46Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/30107321/pexels-photo-30107321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Molnár Tamás Photography™",
+  "photo_credit_url": "https://www.pexels.com/@molnartamasphotography"
+}
