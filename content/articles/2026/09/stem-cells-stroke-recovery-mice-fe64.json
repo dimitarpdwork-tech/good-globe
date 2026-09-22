@@ -1,0 +1,30 @@
+{
+  "id": "fe645890e241b080",
+  "slug": "stem-cells-stroke-recovery-mice-fe64",
+  "headline": "Stem Cell Treatment Restores Movement After Stroke in Mice",
+  "meta_description": "Researchers at University of Zurich used human stem cells to reverse stroke damage in mice, restoring movement and triggering multiple brain repair processes.",
+  "summary_short": "Scientists transplanted human neural stem cells into stroke-damaged mouse brains and watched them transform into functioning neurons, restoring lost movement.",
+  "body": "In a significant step toward regenerative medicine, researchers at the University of Zurich have shown that human neural stem cells can reverse the effects of stroke in mice. When transplanted into brain tissue damaged by stroke one week after the injury occurred, the cells not only transformed into new neurons that connected with existing brain cells—they also triggered a cascade of broader healing. Blood vessels regenerated, inflammatory processes calmed, and the protective blood-brain barrier improved. Most remarkably, the treated mice regained motor function they had lost, with improvements measured through AI-assisted analysis of their walking patterns.\n\nStroke affects roughly one in four adults over a lifetime, leaving half of survivors with lasting disabilities like paralysis. Until now, the brain damage has been considered permanent. Christian Tackenberg, Scientific Head of the Neurodegeneration Group at UZH's Institute for Regenerative Medicine, explains why this work matters: the field has lacked treatments capable of rebuilding affected brain tissue. The team, collaborating with researchers from the University of Southern California, used human neural stem cells created from induced pluripotent stem cells—ordinary human cells reprogrammed to regain their developmental flexibility.\n\nWhat makes this research particularly promising is a detail often overlooked in headlines: waiting one week before transplanting the cells worked better than transplanting them immediately after stroke. That timing advantage could transform clinical practice, giving doctors time to prepare treatment during the healing window rather than requiring emergency intervention. The researchers also deliberately avoided animal-derived materials in producing the cells, reducing potential safety complications for eventual human trials. Though obstacles remain—including developing safety switches to prevent uncontrolled cell growth—this work demonstrates that brain regeneration after stroke is no longer purely theoretical.",
+  "category": "science",
+  "tags": [
+    "stem-cells",
+    "stroke",
+    "neuroscience",
+    "brain-repair",
+    "regenerative-medicine"
+  ],
+  "quick_facts": [
+    "University of Zurich team transplanted human neural stem cells into stroke-damaged mouse brains",
+    "Stem cells transformed into neurons and restored lost motor function in treated mice",
+    "One-week delay before transplantation proved more effective than immediate treatment",
+    "New blood vessels formed and inflammation decreased alongside neuron regeneration",
+    "Stroke affects one in four adults, leaving half with lasting disabilities"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+  "published": "2026-09-22T10:01:08Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8940349/pexels-photo-8940349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Thirdman",
+  "photo_credit_url": "https://www.pexels.com/@thirdman"
+}
