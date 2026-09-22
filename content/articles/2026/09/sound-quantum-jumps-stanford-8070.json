@@ -1,0 +1,30 @@
+{
+  "id": "80705d52b7c35234",
+  "slug": "sound-quantum-jumps-stanford-8070",
+  "headline": "Scientists Hear Sound Take Quantum Leap for First Time",
+  "meta_description": "Stanford researchers directly observe quantum jumps of sound in a mechanical resonator, opening new paths for quantum computing and ultra-sensitive biological…",
+  "summary_short": "For the first time, Stanford physicists have watched sound make quantum jumps in real time, a breakthrough that could revolutionize quantum computing and cell-level sens…",
+  "body": "For over a century, quantum theory predicted that energy jumps in discrete steps rather than smoothly—but demonstrating this with sound proved far harder than with light or trapped ions. Now Stanford researchers led by physicist Amir Safavi-Naeini have directly observed quantum jumps of sound in a mechanical resonator, watching single phonons abruptly vanish from one energy state to another. The findings, published in Science, mark a watershed moment: vibrating objects can now be harnessed for quantum technologies, opening pathways to more reliable quantum computers and extraordinarily sensitive biological sensors.\n\nThe key to success was engineering a mechanical resonator—built using chip fabrication techniques and shaped like a microscopic tuning fork—that could vibrate for two full milliseconds. Remarkably, if a normal-sized tuning fork had the same relative staying power, it would ring for hours. That extended ringdown time gave researchers hundreds of measurement opportunities. Co-first authors Takuma Makihara and Erik Szakiel solved a longstanding problem in quantum engineering by coupling the resonator to a superconducting qubit, which repeatedly monitored whether the vibration held one phonon or zero, pinpointing the exact moment of the quantum jump.\n\nThe implications ripple outward. In quantum computing, where fragile states collapse into errors before calculations complete, detecting quantum jumps in sound could become a powerful error-correction tool. Safavi-Naeini's team is already collaborating with researchers at Caltech to explore whether the system might detect and identify proteins inside living cells—a sensitivity that could transform medical diagnostics. Even consumer electronics may eventually benefit: finer control over vibrations in smartphones and other sound-based devices could usher in a new generation of technology.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "stanford",
+    "sound-waves",
+    "quantum-computing",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "Stanford physicists directly observed quantum jumps of sound for the first time",
+    "Mechanical resonator vibrates for two milliseconds—like a tuning fork ringing for hours",
+    "Discovery could enable quantum error correction and cell-level protein detection",
+    "Findings published in Science journal, September 2026",
+    "Superconducting qubit used as detector without disrupting the quantum state"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+  "published": "2026-09-22T15:32:44Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}
