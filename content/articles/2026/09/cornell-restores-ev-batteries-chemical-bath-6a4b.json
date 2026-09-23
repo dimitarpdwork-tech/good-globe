@@ -1,0 +1,30 @@
+{
+  "id": "6a4b6c524bea0c3e",
+  "slug": "cornell-restores-ev-batteries-chemical-bath-6a4b",
+  "headline": "Cornell Scientists Restore Aging EV Batteries to 95% Power",
+  "meta_description": "A new electrochemical cleaning method called DEER can restore aging electric vehicle batteries to 95% capacity without breaking them down.",
+  "summary_short": "Cornell researchers have developed a chemical bath technique that restores degraded EV batteries to nearly full capacity, offering a cheaper alternative to traditional r…",
+  "body": "Cornell University scientists have demonstrated a breakthrough method for restoring aging electric vehicle batteries to 95% of their original charge capacity—without shredding them into recycling furnaces. The technique, called Direct Electrode-to-Electrode Regeneration (DEER), involves immersing battery electrodes in a chemical bath that removes the buildup preventing energy flow. This discovery offers hope for the billions of lithium-ion packs heading toward landfills as the EV boom accelerates globally, and provides a far more economical path than traditional pyrometallurgical recycling.\n\nThe innovation targets a practical reality often overlooked: many discarded EV batteries still function at 70–80% of their original capacity. Rather than melting these down at extreme temperatures to extract cobalt, lithium, nickel, aluminum, and manganese, DEER cleans them. Over repeated charge and discharge cycles, a substance called solid electrolyte interphase builds up on electrodes, impeding electron flow and reducing range. When submerged in 1,3-dimethyl-2-imidazolidinone, this layer dissolves, and the electrodes regain their potential. Remarkably, batteries cleaned this way actually degrade more slowly in future use than factory-new ones.\n\nThe economics tell the real story. DEER costs $15.25 per kilogram of battery, compared with $26.31 for traditional pyrometallurgy—roughly 42% cheaper. The method consumes far less energy and produces fewer greenhouse gas emissions, supporting what the Cornell authors call a \"closed-loop battery manufacturing\" future. The main cost barrier is the chemical bath itself, accounting for about 62% of expenses. If future applications can recover and reuse this solution, prices could drop even further. Not every battery qualifies—DEER only works when capacity loss stems from electrode buildup, not structural damage or lithium loss—but for the vast majority of aging EV batteries, this gentle bath offers a second life.",
+  "category": "science",
+  "tags": [
+    "battery-recycling",
+    "electric-vehicles",
+    "sustainable-tech",
+    "cornell-university",
+    "circular-economy"
+  ],
+  "quick_facts": [
+    "Cornell University scientists developed the DEER battery restoration method",
+    "Electrochemical bath restores aged batteries to 95% capacity",
+    "DEER costs $15.25 per kilogram versus $26.31 for traditional recycling",
+    "Works on batteries degraded to 70–80% capacity from normal use",
+    "Chemical bath removes solid electrolyte interphase buildup on electrodes"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
+  "published": "2026-09-23T15:27:47Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/34800929/pexels-photo-34800929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "smart-me AG",
+  "photo_credit_url": "https://www.pexels.com/@smart-me-ag-2155714756"
+}
