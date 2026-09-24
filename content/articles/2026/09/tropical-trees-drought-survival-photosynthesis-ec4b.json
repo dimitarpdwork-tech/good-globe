@@ -1,0 +1,29 @@
+{
+  "id": "ec4b3aee91f26682",
+  "slug": "tropical-trees-drought-survival-photosynthesis-ec4b",
+  "headline": "Tropical Trees Unlock Ancient Secret to Survive Drought",
+  "meta_description": "Scientists discover how tropical trees evolved a water-saving photosynthesis strategy by absorbing CO2 at night, offering clues for drought-resistant crops.",
+  "summary_short": "Researchers at the University of Vienna found that tropical Clusia trees evolved multiple ways to survive drought by breathing at night, a discovery that could transform…",
+  "body": "Researchers at the University of Vienna have uncovered how tropical trees developed a remarkable water-saving strategy: they absorb carbon dioxide at night and keep their pores closed during scorching days, dramatically reducing water loss. By analyzing the genomes of three Clusia species—rosea, minor, and major—scientists discovered this efficient form of photosynthesis, called CAM, did not evolve through a single genetic change. Instead, ancient genome duplications followed by millions of years of genetic reshuffling produced strikingly different approaches to the same problem. Clusia rosea uses strong CAM and stores substantial carbon dioxide as malic acid overnight, while Clusia minor switches on this strategy only under stress, and Clusia major employs a hybrid combination of two photosynthetic methods. The findings, published in Nature Communications, reveal that this water-saving mechanism was not a one-time evolutionary breakthrough but rather an ongoing process of genomic adaptation.\n\nThe story began around 1800 when naturalist Alexander von Humboldt observed something puzzling: a tropical leaf placed in sunlight produced no oxygen bubbles, suggesting it operated on an entirely different schedule than expected. What scientists have now confirmed is that this nocturnal CO2 absorption represents millions of years of nature's problem-solving—not through sudden change, but through the gradual reorganization of duplicated genes into new functions.\n\nBeyond tropical biology, this discovery offers hope for global food security. CAM plants require substantially less water than conventional crops, making them potential models for developing climate-resilient agriculture adapted to increasingly arid environments. The newly available genomic information could help researchers identify the precise metabolic processes behind efficient water use, laying groundwork for crops better suited to a warming world.",
+  "category": "science",
+  "tags": [
+    "photosynthesis",
+    "drought",
+    "tropical-trees",
+    "genetics",
+    "agriculture"
+  ],
+  "quick_facts": [
+    "University of Vienna scientists studied three Clusia tropical tree species",
+    "Trees absorb CO2 at night, keeping pores closed during hot days",
+    "Ancient genome duplications reshaped photosynthesis over millions of years",
+    "CAM plants need far less water than conventional photosynthetic crops"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
+  "published": "2026-09-24T10:05:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/32651412/pexels-photo-32651412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Marri Smith",
+  "photo_credit_url": "https://www.pexels.com/@marri-smith-2153296504"
+}
