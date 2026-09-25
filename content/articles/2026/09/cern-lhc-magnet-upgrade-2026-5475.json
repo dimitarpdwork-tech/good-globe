@@ -1,0 +1,30 @@
+{
+  "id": "54757a79d80fdd20",
+  "slug": "cern-lhc-magnet-upgrade-2026-5475",
+  "headline": "CERN Begins Upgrading the World's Most Powerful Particle Collider",
+  "meta_description": "CERN has started replacing magnets in the Large Hadron Collider with 40% stronger versions, marking the beginning of a major upgrade to unlock new physics disc…",
+  "summary_short": "CERN has begun replacing critical magnets in the 27-kilometer Large Hadron Collider with more powerful versions, a major step toward unlocking deeper insights into the u…",
+  "body": "On September 7, 2026, crews at CERN cut the first magnet interconnection at the Large Hadron Collider, formally launching one of the most significant hardware upgrades in the facility's history. The team is replacing 28 superconducting magnets—including specialized inner triplets that have operated since the collider's construction phase between 2005 and 2007—with a new generation roughly 40% more powerful. These upgraded magnets will generate magnetic fields reaching 11.3 tesla, allowing the particle beams to be squeezed far more tightly before collision. The result: dramatically more collisions for physicists to analyze, revealing secrets about the universe's fundamental workings that have remained hidden.\n\nThe replacement work is part of the High-Luminosity LHC project, an ambitious modernization occurring during the collider's third long shutdown. The new inner triplets will be installed around the ATLAS and CMS experiments, where increased collision rates will prove especially valuable. According to Jean-Philippe Tock, Head of the LS3 Coordination Team, the first quadrupole of the new triplets should arrive in the tunnel at the start of 2029. In total, 16 cryostats and 28 cryo-assemblies will be installed—a complex undertaking that represents years of research and technological innovation.\n\nThe new magnets use niobium-tin superconducting coils instead of the older niobium-titanium material, a material science leap that enables unprecedented field strength. For nearly two decades, the current inner triplets faithfully steered billions of particle collisions. Now, as Markus Zerlauth, the HiLumi LHC Project Leader, observed, the facility witnesses \"a handover from one generation of innovation to the next.\" This upgrade promises to transform how scientists explore the universe's deepest mysteries.",
+  "category": "science",
+  "tags": [
+    "cern",
+    "physics",
+    "technology",
+    "collider",
+    "science"
+  ],
+  "quick_facts": [
+    "CERN began disconnecting LHC magnets on September 7, 2026",
+    "New magnets are 40% stronger than current models",
+    "28 superconducting magnets will be replaced during shutdown",
+    "First new magnet arrives in tunnel at start of 2029",
+    "Current magnets have operated since 2005–2007 installation"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+  "published": "2026-09-25T15:50:31Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}
