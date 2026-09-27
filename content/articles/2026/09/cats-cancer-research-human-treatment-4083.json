@@ -1,0 +1,29 @@
+{
+  "id": "4083a0cd11b9b03a",
+  "slug": "cats-cancer-research-human-treatment-4083",
+  "headline": "House Cats' Cancer Genetics Could Transform Human Treatment",
+  "meta_description": "Scientists analyzed nearly 500 cats' tumors and found striking genetic similarities to human cancers, opening new paths for precision treatment.",
+  "summary_short": "A landmark study of cat tumors reveals shared genetic patterns with human cancer, potentially unlocking better treatments for both species.",
+  "body": "Scientists have decoded the genetics of cat cancer on an unprecedented scale, uncovering striking similarities to human tumors that could reshape how both species are treated. Researchers examined tumor samples from nearly 500 domestic cats across five countries and published their findings in Science, creating a freely available genetic database for further study. The work reveals that many cancers in cats—including aggressive mammary tumors, blood cancers, and lung cancers—are driven by the same genetic mutations that fuel human disease. In breast tissue cancers specifically, the FBXW7 gene was mutated in more than 50 percent of feline tumors studied, mirroring the genetic pattern seen in human breast cancer patients with worse prognosis. This breakthrough matters because it closes a knowledge gap that has long existed: cancer researchers have historically understood far less about feline tumor genetics than human or canine cancers, despite cats being common household pets.\n\nWhat makes this discovery especially promising is its practical potential. Rather than collecting new samples, the research team sequenced DNA from tissues veterinarians had already obtained for diagnosis, allowing them to study naturally occurring cancers across a large population. The researchers even found that certain chemotherapy drugs were more effective against cat mammary tumors carrying the mutated FBXW7 gene—a finding that suggests genetic information could eventually guide doctors and veterinarians toward precision treatments tailored to individual tumors.\n\nThe study embodies a broader approach called One Medicine, which recognizes that human and veterinary medicine can learn from each other. Because domestic cats share our homes and environments, studying their naturally occurring cancers could help scientists understand how genetics and environmental factors—household chemicals, air pollutants, smoke—interact to influence cancer risk in both species. The genetic database is now available to researchers worldwide, accelerating the path toward better treatments for both cats and people.",
+  "category": "science",
+  "tags": [
+    "cancer-research",
+    "precision-medicine",
+    "cats",
+    "genetics",
+    "one-medicine"
+  ],
+  "quick_facts": [
+    "Nearly 500 domestic cats across five countries were included in the study",
+    "FBXW7 gene mutation found in over 50% of feline mammary tumors",
+    "Findings published in Science with a freely available genetic database created",
+    "Research involved University of Guelph, Wellcome Sanger Institute, and University of Bern"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm",
+  "published": "2026-09-27T15:41:01Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/33394322/pexels-photo-33394322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Tahir Xəlfəquliyev",
+  "photo_credit_url": "https://www.pexels.com/@tahir"
+}

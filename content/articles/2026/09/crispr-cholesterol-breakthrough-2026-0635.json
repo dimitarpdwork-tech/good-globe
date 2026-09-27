@@ -1,0 +1,30 @@
+{
+  "id": "0635bd733fed94ab",
+  "slug": "crispr-cholesterol-breakthrough-2026-0635",
+  "headline": "One Shot of Gene Therapy Cuts Cholesterol in Half—for a Year",
+  "meta_description": "A single CRISPR treatment reduced harmful cholesterol by 52.5% in patients with hard-to-treat lipid disorders, with benefits lasting a full year.",
+  "summary_short": "A groundbreaking gene-editing therapy given as a single infusion cut LDL cholesterol and triglycerides by about half, with results holding steady after 12 months.",
+  "body": "In a first-in-human trial at Cleveland Clinic, a single infusion of experimental CRISPR therapy produced sustained reductions in LDL cholesterol and triglycerides for patients whose lipid disorders had resisted standard medications. Fifteen participants were tracked for a year after receiving the treatment, called CTX310. Those who received the highest dose experienced a 52.5% drop in LDL cholesterol and a 47.8% reduction in triglycerides—and these improvements persisted throughout the entire year. Importantly, no serious adverse events related to the therapy were reported. The findings were presented at the 2026 European Society of Cardiology annual meeting and published simultaneously in the New England Journal of Medicine.\n\nCTX310 works by delivering the CRISPR-Cas9 gene-editing system directly to the liver, where it switches off a gene called ANGPTL3 that regulates blood fats. By disabling this single gene, the therapy addresses cholesterol and triglycerides at their source—both of which contribute to cardiovascular disease risk. The one-time treatment represents a fundamental shift from lifelong medication: rather than taking pills daily, patients receive a single infusion after receiving corticosteroids and antihistamines as preparation.\n\nWhile these early results are encouraging, CTX310 remains experimental. The trial involved only 15 people, and researchers plan to continue monitoring participants for safety over the next 15 years, following FDA guidance for gene-editing therapies. The next phase will test the approach in a larger patient population. For people with difficult-to-treat lipid disorders, the prospect of a one-time treatment offering year-long benefits represents genuine hope—a reminder that genetic medicine continues to open doors previously thought sealed.",
+  "category": "health",
+  "tags": [
+    "crispr",
+    "gene-therapy",
+    "cholesterol",
+    "cardiology",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Single CRISPR infusion reduced LDL cholesterol by 52.5% at highest dose",
+    "Benefits persisted for full 12 months after one-time treatment",
+    "First-in-human trial at Cleveland Clinic involved 15 patients",
+    "No serious safety events reported during year-long follow-up",
+    "Therapy targets ANGPTL3 gene in liver to regulate blood fats"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+  "published": "2026-09-27T15:40:53Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4032060/pexels-photo-4032060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}

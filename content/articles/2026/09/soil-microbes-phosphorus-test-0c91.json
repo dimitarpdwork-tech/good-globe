@@ -1,0 +1,29 @@
+{
+  "id": "0c91c2c23ae75faf",
+  "slug": "soil-microbes-phosphorus-test-0c91",
+  "headline": "Simpler soil test unlocks secrets of how microbes feed plants",
+  "meta_description": "Scientists streamline DNA-phosphorus measurement in soil, offering new insights into microbial nutrient cycles and sustainable farming.",
+  "summary_short": "Researchers have simplified a soil test that measures DNA-bound phosphorus, revealing how microbes help recycle this vital nutrient for plants.",
+  "body": "An international team of researchers has developed a faster, cheaper way to measure DNA-bound phosphorus in soil—a discovery that could transform how scientists understand the microbial processes that keep farmland fertile. The refined method, published in the Journal of Agricultural and Marine Sciences, removes unnecessary steps while maintaining measurement precision, making it practical for widespread use in studying how soil microbes help plants access this essential nutrient. Since phosphorus reserves are finite and critical for food production, understanding how this element moves through ecosystems matters increasingly for agriculture facing pressure to use resources more efficiently.\n\nThe breakthrough came from testing an existing laboratory procedure across 32 different soil types from the United Kingdom. Researchers from Sultan Qaboos University, James Hutton Institute, and Oman's Environment Authority found that enzyme treatments previously considered essential could be eliminated without sacrificing accuracy. What remained crucial was ultrafiltration—a separation step that distinguishes DNA-bound phosphorus from other phosphorus compounds, ensuring reliable results. This focused refinement transformed the technique from cumbersome to accessible.\n\nWhat makes this discovery genuinely important is what it reveals about soil biology itself. DNA-phosphorus exists in only small amounts within soil, yet its concentration correlates strongly with microbial biomass, organic matter content, and other markers of living soil ecosystems. This suggests DNA-phosphorus acts as a window into the active, biologically driven part of the phosphorus cycle—the portion most influenced by living microorganisms. Rather than measuring stable, long-term phosphorus reserves, this test captures the dynamic nutrient exchanges that determine what plants can actually absorb. As sustainable agriculture seeks smarter ways to maintain soil fertility while conserving finite phosphorus resources, this clearer view of microbial activity offers researchers a practical tool for designing more efficient nutrient management systems.",
+  "category": "science",
+  "tags": [
+    "soil-science",
+    "phosphorus",
+    "microbes",
+    "sustainable-farming",
+    "nutrients"
+  ],
+  "quick_facts": [
+    "Researchers refined the test across 32 UK soil types",
+    "Unnecessary enzyme steps were removed to cut costs",
+    "DNA-phosphorus links closely to living soil microbes",
+    "Published in Journal of Agricultural and Marine Sciences, 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm",
+  "published": "2026-09-27T15:40:45Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/33995853/pexels-photo-33995853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Silva Montanis",
+  "photo_credit_url": "https://www.pexels.com/@silvamontanis"
+}
