@@ -1,0 +1,26 @@
+{
+  "id": "937ccaee0fbbd94a",
+  "slug": "california-researchers-bee-repellent-odors-937c",
+  "headline": "Scientists Discover Odors That Safely Repel Honeybees From Pesticides",
+  "meta_description": "UC Riverside researchers used machine learning to identify chemical compounds that safely repel honeybees from pesticide-treated crops, protecting pollinators…",
+  "summary_short": "Researchers at UC Riverside have identified odors that can safely repel honeybees from pesticide-treated crops, offering a breakthrough solution to protect pollinators.",
+  "body": "Researchers at the University of California, Riverside, have cracked a persistent agricultural puzzle: how to keep honeybees safely away from pesticide-treated crops without harming them. Working with biologist Anandasankar Ray, an expert on insect smell, the team identified approximately 130 chemical compounds predicted to repel honeybees—a major breakthrough given that bees possess over 200 odor receptors capable of detecting countless volatile compounds. Ray's goal was straightforward but scientifically demanding: find scents that push bees away rather than draw them in, since the insects rely heavily on their sense of smell to forage.\n\nTo solve this, Ray's team collaborated with entomology professor Boris Baer and built a machine-learning model trained on the chemical structures of odorants and recorded bee behavioral responses. The system screened more than 50 million compounds before identifying the most promising candidates. When researchers tested the top performers in their laboratory, honeybees exhibited clear avoidance behaviors that closely matched the model's predictions. Field experiments with freely foraging bees confirmed that all seven compounds tested reliably repelled bees from honey combs without causing harm.\n\nThe implications extend beyond protecting crops. A contributing factor to bee population decline is unintended pesticide exposure; by keeping bees away from harmful chemicals, the risk can be reduced without compromising crop protection. Ray noted the compounds also have applications in hospitals, office buildings, and residential areas where beehive formation may cause human-bee conflicts. The research, published in eLife, represents a step toward bee-friendly pesticide formulations that safeguard pollinators while meeting modern agriculture's needs. As Ray emphasized, protecting pollinators doesn't require sacrificing food security.",
+  "category": "science",
+  "tags": [
+    "honeybees",
+    "pesticides",
+    "machine-learning",
+    "pollinator-protection",
+    "sustainable-agriculture"
+  ],
+  "quick_facts": [
+    "UC Riverside identified 130 compounds to repel honeybees from pesticides",
+    "Honeybees have over 200 odor receptors detecting volatile compounds",
+    "Machine learning screened more than 50 million chemical compounds",
+    "All seven field-tested compounds successfully repelled bees without harm"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+  "published": "2026-09-28T11:44:04Z",
+  "lang": "en"
+}
