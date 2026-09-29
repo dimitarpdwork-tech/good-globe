@@ -1,0 +1,30 @@
+{
+  "id": "0498fcdb537a6687",
+  "slug": "cosmocube-moon-early-universe-0498",
+  "headline": "Suitcase-sized satellite to hear universe's first light",
+  "meta_description": "CosmoCube will use the Moon's far side to detect signals from before the first stars existed, revealing how dark matter shaped the earliest galaxies.",
+  "summary_short": "A UK-developed spacecraft the size of a carry-on suitcase will orbit the Moon to listen for radio signals from the cosmic dark ages—over 13.5 billion years old.",
+  "body": "A satellite no larger than a small carry-on suitcase is about to help humanity peer into one of the universe's deepest mysteries. Called CosmoCube and developed in the UK, the spacecraft will orbit the Moon and use its far side as a natural shield against Earth's radio interference. From this uniquely quiet location, researchers led by the University of Cambridge plan to detect an extraordinarily faint signal left behind from roughly 150 million years of cosmic darkness—the period between the Big Bang's afterglow and when the universe's first stars ignited. The signal, known as the 21 centimeter line, has never been directly observed before. Detecting it from Earth is nearly impossible because our planet's ionosphere blocks the relevant radio frequencies, while FM broadcasts, satellites, and telecommunications create overwhelming noise that drowns out the faint cosmic whisper.\n\nWhen CosmoCube passes behind the Moon during its two-hour orbits, the lunar body will block Earth's radio interference for about 40 minutes at a time. Over the spacecraft's expected two-year mission, researchers hope to collect roughly 1000 hours of observations from this largely unexplored era. The observations could reveal how the cosmos transformed from a dark, relatively empty place into the rich universe of stars and galaxies we see today—and crucially, how dark matter's gravity pulled hydrogen together to form the first stellar structures.\n\nThe compact spacecraft contains cutting-edge miniature technology using RF Systems on Chip technology, and will deploy a lightweight radio antenna once in lunar orbit. The UK Space Agency has already funded the project, with researchers hoping to launch within the next five years. As other nations including the US and India also plan missions to exploit the Moon's radio silence, CosmoCube represents an ambitious scientific leap—proving that sometimes the biggest discoveries come from the smallest packages.",
+  "category": "science",
+  "tags": [
+    "space",
+    "cosmology",
+    "moon",
+    "dark-matter",
+    "universe"
+  ],
+  "quick_facts": [
+    "UK-developed CosmoCube satellite is carry-on suitcase-sized",
+    "Will orbit Moon's far side to block Earth's radio noise",
+    "Detecting signals from over 13.5 billion years ago",
+    "Expected two-year mission to collect ~1000 hours of observations",
+    "Launch planned within five years with UK Space Agency funding"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+  "published": "2026-09-29T11:24:43Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/37864536/pexels-photo-37864536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Juan Poblete",
+  "photo_credit_url": "https://www.pexels.com/@juan-poblete-49914846"
+}
