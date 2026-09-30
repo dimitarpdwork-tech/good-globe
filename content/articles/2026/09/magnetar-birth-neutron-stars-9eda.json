@@ -1,0 +1,30 @@
+{
+  "id": "9edadeb380117aa2",
+  "slug": "magnetar-birth-neutron-stars-9eda",
+  "headline": "Scientists Witness Record X-Ray Flash From Newborn Magnetar",
+  "meta_description": "Astronomers detected a record-breaking X-ray flash lasting nearly 10 minutes, providing strong evidence of a magnetar born from colliding neutron stars over 6…",
+  "summary_short": "A cosmic event 6+ billion light-years away reveals the birth of a magnetar when two neutron stars collided, opening new ways to find these extreme mergers.",
+  "body": "On July 4, 2025, astronomers detected something extraordinary: an X-ray flash that burned for nearly ten minutes—the longest ever observed from a neutron star merger. The event, designated EP250704a/GRB 250704B and spotted by multiple satellites, provided strong evidence that when two neutron stars collide, they can create a magnetar—a rapidly spinning neutron star with an enormous magnetic field. What makes magnetars special is their ability to brighten and extend explosions by channeling their magnetic power outward. This discovery suggests that mysterious cosmic X-ray flashes, long difficult to explain, may actually come from these violent stellar collisions.\n\nGraduate student Niccolò Passaleva responded to the alert within minutes while traveling home by train, rapidly commanding observations from the Very Large Telescope in Chile. Using the telescope's instruments to break the light into individual components, Passaleva's team measured the explosion's redshift—revealing it occurred over six billion years ago, long before our Sun formed. Crucially, they found no supernova accompanying the event, which would have been expected if a massive star had collapsed instead. This absence, combined with the measured distance and burst properties, pointed definitively toward a neutron star merger.\n\nThe findings, published in Science Bulletin, represent years of searching by researchers supported by a European Research Council grant. If astronomers continue finding similar X-ray flashes, they could finally determine how often neutron star mergers produce magnetars. Future observations may even pair these X-ray signals with gravitational waves from the same collision, creating a richer picture of the universe's most violent events.",
+  "category": "science",
+  "tags": [
+    "magnetar",
+    "neutron-stars",
+    "x-rays",
+    "astronomy",
+    "gravitational-waves"
+  ],
+  "quick_facts": [
+    "X-ray flash lasted nearly 10 minutes—longest ever from a neutron star merger",
+    "Event occurred over 6 billion years ago, light traveled across the universe",
+    "Detected July 4, 2025 by Einstein Probe, SVOM, and Insight-HXMT satellites",
+    "Graduate student responded within minutes from a train to coordinate observations",
+    "No supernova found, confirming neutron star merger rather than stellar collapse"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+  "published": "2026-09-30T16:50:25Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/20083457/pexels-photo-20083457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Robert Clark",
+  "photo_credit_url": "https://www.pexels.com/@robert-clark-504241532"
+}
