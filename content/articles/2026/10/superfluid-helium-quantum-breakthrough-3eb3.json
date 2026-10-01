@@ -1,0 +1,30 @@
+{
+  "id": "3eb370930bab1332",
+  "slug": "superfluid-helium-quantum-breakthrough-3eb3",
+  "headline": "Superfluid Helium Qubit Could Slash Quantum Computing Errors by 100x",
+  "meta_description": "Researchers at University of Surrey propose a new qubit using superfluid helium that could reduce quantum computing error rates dramatically.",
+  "summary_short": "A new qubit design using superfluid helium could cut quantum computing errors by around 100 times, offering a path to more reliable systems.",
+  "body": "Researchers at the University of Surrey have designed a qubit that could fundamentally change how quantum computers handle one of their greatest challenges: error rates that multiply as systems grow larger. The proposed device, called the Superfluid Helium Oscillator Quantum (SHOQ) device, uses superfluid helium-3—a form of liquid helium that flows without friction—to shield quantum information from electromagnetic noise that disrupts conventional systems. Because superfluid helium carries no electric charge, it naturally resists the kinds of electromagnetic disturbances that plague today's leading superconducting qubits. According to calculations published in npj Quantum Information, the SHOQ device could achieve error rates roughly 100 times lower than existing superconducting designs.\n\nDr. Priya Sharma, lead author of the study and Daphne Jackson Fellow at Surrey's School of Mathematics and Physics, emphasized that while individual components existed before, this is the first time researchers have integrated them into a working qubit design. \"The maths tells us that it should work,\" Sharma explained, noting that the team has established the specific parameters and specifications needed to build a prototype. The next phase involves constructing that prototype to test whether theoretical predictions match real-world performance.\n\nRather than replacing existing quantum hardware, the SHOQ device could complement superconducting technology within larger systems, with different qubit types handling different tasks. One particularly promising application is quantum memory—superfluid-based qubits could store information while other processors perform calculations. The research was led by Surrey in collaboration with Professor Jens Koch at Northwestern University, who helped develop the transmon, a widely used superconducting qubit design. Though the SHOQ device requires extremely low temperatures, researchers have already achieved these conditions in previous superfluid helium experiments, suggesting the path forward is technically feasible.",
+  "category": "science",
+  "tags": [
+    "quantum-computing",
+    "superfluid-helium",
+    "qubit-design",
+    "error-reduction",
+    "university-of-surrey"
+  ],
+  "quick_facts": [
+    "University of Surrey researchers proposed a new qubit design using superfluid helium-3",
+    "Predicted error rates could be 100 times lower than conventional superconducting qubits",
+    "Called the SHOQ (Superfluid Helium Oscillator Quantum) device",
+    "Led by Dr. Priya Sharma at Surrey's School of Mathematics and Physics",
+    "Team plans to build a prototype to test the predictions"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+  "published": "2026-10-01T21:51:21Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}

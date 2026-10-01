@@ -1,0 +1,29 @@
+{
+  "id": "c5a8a7cd74ee07d8",
+  "slug": "alzheimers-gene-apoe4-reversible-c5a8",
+  "headline": "Scientists Reverse Brain Damage from Alzheimer's Risk Gene",
+  "meta_description": "Mount Sinai researchers discover that APOE4, the strongest genetic risk factor for Alzheimer's, causes reversible damage to brain blood vessels—opening new tre…",
+  "summary_short": "Researchers at Mount Sinai found that the Alzheimer's risk gene APOE4 damages brain blood vessels through a process that can be reversed, offering hope for new treatment…",
+  "body": "Scientists at Mount Sinai have identified how APOE4, the strongest known genetic risk factor for Alzheimer's disease, actively damages the brain's blood vessels—and crucially, they've shown this damage may be reversible. In two studies published in Cell and Cell Stem Cell, researchers demonstrated that APOE4 transforms protective cells around brain blood vessels into scar-producing cells, which promotes vascular fibrosis and allows harmful proteins to accumulate. By blocking a cellular signaling pathway called TGF-β, the team was able to restore the blood vessels' protective coverage and reduce protein buildup, both in laboratory models and in aged mice carrying APOE4. The findings reframe vascular damage not as a late consequence of Alzheimer's disease, but as an active biological process that could potentially be halted or reversed with the right intervention.\n\nThe breakthrough relied on miBrains, three-dimensional human brain tissue engineered from stem cells by the Mount Sinai team. Unlike traditional research methods, miBrains recreate the brain's complex architecture, including its network of blood vessels, allowing scientists to observe disease mechanisms in human-like tissue under laboratory conditions. Researchers combined insights from miBrains with data from postmortem human brain tissue, animal models, and genetic studies—each approach confirming and expanding findings from the others. This multi-layered strategy allowed them to catch the disease process at an earlier stage than visible in human autopsies, then identify the precise mechanisms driving change.\n\nThe research extends beyond Alzheimer's alone. APOE4 also appears to disrupt the brain's ability to clear abnormal proteins associated with Parkinson's disease and Lewy body dementia. By revealing that these protein-accumulation pathways may be targetable, Mount Sinai scientists have identified promising new directions for treating not one neurodegenerative disease, but several.",
+  "category": "science",
+  "tags": [
+    "alzheimers",
+    "neuroscience",
+    "genetic-research",
+    "brain-health",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Mount Sinai researchers reversed APOE4-related blood vessel damage in laboratory and animal models",
+    "APOE4 is the strongest known genetic risk factor for Alzheimer's disease",
+    "miBrains—engineered human brain tissue—enabled observation of disease mechanisms in complex human-like conditions",
+    "Blocking TGF-β signaling restored protective cells and reduced harmful protein buildup"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
+  "published": "2026-10-01T21:51:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}

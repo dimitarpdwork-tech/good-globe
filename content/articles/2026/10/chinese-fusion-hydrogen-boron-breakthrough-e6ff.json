@@ -1,0 +1,30 @@
+{
+  "id": "e6fffbd43cd243a9",
+  "slug": "chinese-fusion-hydrogen-boron-breakthrough-e6ff",
+  "headline": "Chinese Reactor Achieves Nuclear Fusion With Cleaner Hydrogen-Boron Fuel",
+  "meta_description": "ENN Group's tokamak reactor achieves nuclear fusion using hydrogen-boron fuel, a cleaner alternative that produces no radioactive waste.",
+  "summary_short": "Chinese engineers have achieved a major breakthrough in nuclear fusion, using hydrogen-boron fuel instead of radioactive alternatives—a world first.",
+  "body": "Chinese engineers have achieved a significant breakthrough in nuclear fusion by using hydrogen-boron fuel instead of the radioactive mixtures currently favored in the field. ENN Group, a state-backed clean energy company, successfully generated fusion within a spherical tokamak reactor using lasers and radio waves, producing only harmless helium nuclei as a byproduct—with no dangerous radiation or radioactive waste. An international delegation of visiting scientists unanimously agreed the achievement was \"a significant and valuable contribution\" to one of engineering's most complex challenges. The result matters because it sidesteps a major obstacle: the standard deuterium-tritium fuel is expensive and radioactive, while tritium cannot be mined and exists only in trace amounts in nature.\n\nWhat makes ENN's approach novel is not just the fuel choice, but how they generated the plasma—the superheated state of matter where fusion occurs. Rather than relying solely on the intense magnetic fields typically used to contain reactions at hundreds of millions of degrees, the team used a dual method combining high-energy neutral beam injection with radio frequency waves. This targeted approach generated rapid \"fast protons\" that acted as catalysts, triggering a chain reaction at more than 100 million times per second. Yang Yuanming, the chief engineer leading the project, announced the milestone on social media and declared the team's next goal: reaching plasma temperatures of 100 million degrees Celsius.\n\nThe hydrogen-boron route isn't entirely new—companies like TAE Technologies in the United States and Marvel Fusion in Germany are exploring similar paths. But ENN's successful demonstration represents a meaningful step toward commercializing fusion energy, an innovation that theoretically could power a household for a lifetime on a single glass of seawater, with zero emissions.",
+  "category": "science",
+  "tags": [
+    "nuclear-fusion",
+    "clean-energy",
+    "china",
+    "hydrogen-boron",
+    "tokamak"
+  ],
+  "quick_facts": [
+    "ENN Group achieved fusion using hydrogen-boron fuel in a tokamak reactor",
+    "Produces only harmless helium nuclei with no radioactive waste",
+    "Chain reaction triggered at over 100 million times per second",
+    "International scientists called it a 'significant and valuable' advance",
+    "Next goal: reach plasma at 100 million degrees Celsius"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
+  "published": "2026-10-01T21:50:58Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/38032287/pexels-photo-38032287.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Nicola Narracci",
+  "photo_credit_url": "https://www.pexels.com/@nicola-narracci-157460431"
+}
