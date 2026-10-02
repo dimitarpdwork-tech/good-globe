@@ -1,0 +1,29 @@
+{
+  "id": "cd116ff46eefcd50",
+  "slug": "mangroves-predict-wave-protection-cd11",
+  "headline": "Scientists crack the code on mangroves' storm-fighting power",
+  "meta_description": "New research reveals how to predict mangrove forests' ability to shield coastal communities from typhoons and rising seas.",
+  "summary_short": "A breakthrough model lets scientists predict how mangroves reduce dangerous storm waves, offering hope for vulnerable coastal communities.",
+  "body": "Scientists have developed a way to predict exactly how much mangrove forests can weaken dangerous waves during severe storms—a breakthrough that could help vulnerable coastal communities prepare defenses before disaster strikes. Researchers at Sun Yat-sen University in Guangzhou, China, tested their new \"HU method\" using data from Typhoon Yagi, which hit Southeast Asia in September 2024. When waves nearly 0.9 meters high crashed into restored mangroves along China's Zhanjiang coast, the forest reduced them to just 0.36 meters—a stunning demonstration that mangroves work even during record-breaking storm conditions. The team also released a free online tool allowing coastal engineers worldwide to estimate mangrove protection for their own regions.\n\nFor decades, scientists knew mangroves absorbed wave energy through their dense, twisted root systems. But measuring this protection during actual storms proved nearly impossible—too many chaotic factors like turbulence interfered with calculations. The old approach demanded complex math involving plant density, wave drag coefficients, and friction factors. The HU method simplifies everything dramatically, using only wave height measurements and a basic calculation involving water depth and wave length. Remarkably, it outperformed all existing models when tested against Yagi's real-world data.\n\nWhat makes this genuinely hopeful is the timing. With climate change intensifying severe weather systems—more than 87 million people were impacted by climate-related disasters in 2025 alone—coastal communities need practical tools now. The researchers showed that measurements taken during calm weather can reliably predict storm protection, meaning communities don't need to wait for typhoons to understand their mangroves' defensive capacity. For the first time, nature's own architecture has a measurable blueprint.",
+  "category": "science",
+  "tags": [
+    "mangroves",
+    "coastal-protection",
+    "climate-resilience",
+    "typhoons",
+    "ecosystem-services"
+  ],
+  "quick_facts": [
+    "Restored mangroves reduced Typhoon Yagi waves from 0.9m to 0.36m high",
+    "New HU method tested on Zhanjiang coast, China, September 2024",
+    "Free online tool now available for coastal engineers worldwide",
+    "Model outperformed all existing wave-attenuation prediction methods"
+  ],
+  "source_name": "Mongabay",
+  "source_url": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
+  "published": "2026-10-02T11:09:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/35125738/pexels-photo-35125738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Siarhei Nester",
+  "photo_credit_url": "https://www.pexels.com/@siarhei-nester-318033361"
+}
