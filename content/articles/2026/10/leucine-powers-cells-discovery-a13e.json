@@ -1,0 +1,29 @@
+{
+  "id": "a13eaa4abe07fbab",
+  "slug": "leucine-powers-cells-discovery-a13e",
+  "headline": "A Humble Amino Acid Could Transform How We Treat Disease",
+  "meta_description": "Researchers at University of Cologne reveal leucine protects mitochondrial proteins, boosting cellular energy and opening new paths for treating cancer and met…",
+  "summary_short": "Scientists discover leucine does far more than build muscle—it signals cells to produce energy more efficiently by protecting key mitochondrial proteins from breakdown.",
+  "body": "Researchers at the University of Cologne have uncovered a surprising new role for leucine, an essential amino acid found in foods like dairy, meat, beans, and lentils. The discovery, published in Nature Cell Biology, reveals that leucine helps stabilize important proteins on mitochondria—the cellular structures that power our bodies—allowing them to produce energy far more efficiently than previously understood. This finding reshapes how scientists think about nutrition, showing that what we eat doesn't just provide raw material for growth; it actively signals our cells how to operate.\n\nThe mechanism involves a cellular quality-control protein called SEL1L, which normally identifies damaged proteins for removal. Leucine appears to reduce SEL1L's activity, preserving more healthy mitochondrial proteins and keeping them in place to support energy production. \"This mechanism enables cells to swiftly adapt to increased energy demands during periods of nutrient abundance,\" explained Dr. Qiaochu Li, the study's first author. The finding matters because cells adjust their energy output based on available nutrients, and understanding how they do this opens doors to new treatments.\n\nYet the researchers emphasized caution: while boosting energy production sounds beneficial, the same protective system that preserves useful proteins also eliminates defective ones. Tipping that balance could have unintended consequences. Scientists also observed that problems with leucine metabolism disrupted mitochondrial function in laboratory roundworms and affected fertility—and noted that some cancer cells exploit leucine pathways to survive. These observations suggest future treatments targeting leucine-related processes might affect healthy and tumor cells differently, offering hope for more targeted therapies. The work, supported by Germany's Excellence Strategy and the European Research Council, reveals how deeply intertwined nutrition, metabolism, and disease prevention truly are.",
+  "category": "science",
+  "tags": [
+    "leucine",
+    "mitochondria",
+    "cellular-energy",
+    "nutrition",
+    "metabolism"
+  ],
+  "quick_facts": [
+    "University of Cologne researchers identify new leucine mechanism in Nature Cell Biology",
+    "Leucine protects outer mitochondrial membrane proteins from degradation",
+    "Essential amino acid found in dairy, meat, beans, and lentils",
+    "Discovery links nutrition signals to cellular energy production and metabolic disease"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+  "published": "2026-10-03T15:10:02Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/25626515/pexels-photo-25626515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Google DeepMind",
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+}

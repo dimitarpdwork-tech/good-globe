@@ -1,0 +1,30 @@
+{
+  "id": "ce6dda20c61f85c6",
+  "slug": "juice-spacecraft-earth-gravity-assist-ce6d",
+  "headline": "Jupiter-bound spacecraft uses Earth as cosmic pit stop",
+  "meta_description": "ESA's Juice spacecraft executed a precise gravity assist past Earth on September 28, saving fuel while testing instruments for its journey to Jupiter's icy moo…",
+  "summary_short": "ESA's Juice spacecraft used Earth's gravity to reshape its path toward Jupiter, saving precious fuel while scientists tested instruments on our planet.",
+  "body": "On September 28, the European Space Agency's Jupiter Icy Moons Explorer made a carefully choreographed pass over Earth's outer atmosphere—and it was anything but a near-miss. Skimming just 8,640 kilometres above the Indian Ocean, Juice used our planet's gravity to reshape its trajectory by 20 degrees and boost its speed by 3.5 km/s, all while consuming minimal fuel. The precision required was extraordinary: mission controllers needed only one small course correction out of six opportunities available to position the spacecraft perfectly. \"Thanks to our very careful planning, we used only a small amount of the propellant reserved for this flyby,\" said Angela Dietz, Juice's Spacecraft Operations Manager. \"This gives us more to use at Jupiter to carry out observations of the planet's icy moons.\" That conservation matters profoundly because every litre of fuel will be needed later.\n\nBeyond the trajectory adjustment, Earth became an unexpected test laboratory. Teams from ESA coordinated extensively to calibrate and validate Juice's 10 scientific instruments using real planetary targets—something that won't be possible again until the spacecraft reaches Jupiter in 2031. Scientists captured high-resolution images of Earth and the Moon, learning how instruments behave in the space environment before they undertake their demanding work observing Jupiter's ocean-bearing moons: Ganymede, Callisto, and Europa.\n\nThe flyby also offered a rare scientific bonus. Juice spent several days traveling through Earth's magnetotail—the long magnetic field extension stretching away from the Sun—measuring magnetic fields and charged particles. Combined with observations from the European-Chinese Smile mission monitoring the northern lights, these measurements could help scientists link activity deep in Earth's magnetosphere with polar events.\n\nJuice is not finished with Earth yet. In January 2029, the spacecraft will return for one final gravity assist to place it on the trajectory needed to reach Jupiter in 2031, where it will conduct 35 flybys of the giant planet's icy moons.",
+  "category": "science",
+  "tags": [
+    "space-exploration",
+    "european-space-agency",
+    "jupiter-mission",
+    "gravity-assist",
+    "spacecraft-technology"
+  ],
+  "quick_facts": [
+    "Juice passed 8,640 km above the Indian Ocean on September 28, 2026",
+    "Gravity assist increased spacecraft speed by 3.5 km/s, changed direction 20 degrees",
+    "Mission used only 1 of 6 possible course corrections for the flyby",
+    "Jupiter arrival scheduled for 2031 after final Earth gravity assist in January 2029",
+    "Spacecraft carries 10 scientific instruments being calibrated for Jupiter's icy moons"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "published": "2026-10-03T15:09:45Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/23779/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "SpaceX",
+  "photo_credit_url": "https://www.pexels.com/@spacex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5e1abf4d5e808997",
+  "slug": "quantum-vacuum-superconductor-breakthrough-5e1a",
+  "headline": "Scientists Harness Quantum Vacuum to Strengthen Superconductors",
+  "meta_description": "Researchers show that quantum fluctuations in empty space can boost superconductivity by up to 5.4%, opening new ways to control quantum materials.",
+  "summary_short": "In a first, scientists used engineered vacuum environments to strengthen superconductivity without direct contact, raising the critical temperature of ultrathin material…",
+  "body": "For the first time, researchers at the University of Science and Technology of China have demonstrated that quantum fluctuations in a vacuum can significantly strengthen superconductivity, potentially reshaping how physicists engineer quantum materials. The international team, led by Profs. Changgan Zeng and Guanghui Cheng and including MIT's Prof. Frank Wilczek, placed the superconductor NbSe₂ inside a specially designed terahertz dark cavity. The results were striking: the material's critical temperature—the threshold below which it becomes superconducting—increased by as much as 5.4%. This represents the first experimental observation of vacuum-fluctuation-enhanced superconductivity, published in *Nature*.\n\nThe breakthrough rests on a counterintuitive insight from quantum physics: empty space is never truly empty. According to the Heisenberg uncertainty principle, virtual particles continually appear and disappear, creating an ever-present background of quantum fluctuations. While these fluctuations are normally too weak to affect everyday materials, the team engineered their cavity to amplify them, creating a coupled system where the superconductor interacted with the reshaped electromagnetic environment. To confirm the effect was real, researchers varied cavity geometry, frequency, material thickness, and other properties—ruling out conventional explanations like strain or degradation.\n\nWhat makes this discovery genuinely transformative is philosophical as much as practical. \"In most practical physics, the vacuum serves merely as the passive stage,\" Prof. Wilczek noted. \"This work shows that the background itself can become an actor—engineered to strengthen superconductivity and reshape the behavior of quantum matter.\" The approach opens a path toward controlling quantum materials without direct contact or external driving, a capability that could eventually influence everything from energy transmission to quantum computing.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "superconductivity",
+    "vacuum-engineering",
+    "materials-science",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "Chinese Academy of Sciences team led by Profs. Zeng and Cheng",
+    "Critical temperature increased by up to 5.4% in NbSe₂ devices",
+    "Terahertz dark cavity amplified quantum vacuum fluctuations",
+    "First experimental proof of vacuum-fluctuation-enhanced superconductivity",
+    "Published in Nature, October 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+  "published": "2026-10-03T15:10:12Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/10514729/pexels-photo-10514729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Yuri Shkoda",
+  "photo_credit_url": "https://www.pexels.com/@yurashkoda"
+}
