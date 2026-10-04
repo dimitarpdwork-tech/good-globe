@@ -1,0 +1,29 @@
+{
+  "id": "f2557d284722a4c0",
+  "slug": "magnetic-fields-hubble-tension-f255",
+  "headline": "Ancient Magnetic Fields May Solve Universe's Biggest Physics Puzzle",
+  "meta_description": "Scientists discover primordial magnetic fields from the Big Bang may explain why two methods for measuring cosmic expansion give conflicting results.",
+  "summary_short": "New simulations suggest tiny magnetic fields born moments after the Big Bang could resolve a major dispute in cosmology about how fast the universe is expanding.",
+  "body": "Physicists may have found an unexpected answer to one of modern cosmology's most vexing problems: why two of our best methods for measuring how fast the universe is expanding give stubbornly different answers. A research team has discovered that primordial magnetic fields—extremely weak magnetism left over from the earliest moments after the Big Bang—could have altered the formation of hydrogen in the early universe in ways that would help explain the discrepancy. Using the first full three-dimensional simulations of the primordial plasma with magnetic fields embedded in it, the scientists found evidence that these ancient fields remain viable as a solution to what's known as the Hubble tension.\n\nThe disagreement centers on the Hubble constant, a measure of cosmic expansion named after American astronomer Edwin Hubble. One method, based on patterns in the cosmic microwave background as measured by the Planck Space Telescope, predicts an expansion rate of about 67 kilometers per second per megaparsec. A competing method, which observes distant supernovae explosions using the Hubble and James Webb space telescopes, yields a higher value around 73 km/s/Mpc. Though the difference seems modest, it is statistically highly significant—suggesting something fundamental is missing from our understanding of the cosmos.\n\nThe new research demonstrates that primordial magnetic fields would have accelerated recombination, the moment when electrons and protons combined to form neutral hydrogen and the universe became transparent. This shift would have changed the size of patterns in the cosmic microwave background, effectively altering the cosmic ruler used to measure distances. When the team tested their predictions against observations, the data showed a consistent, mild preference for primordial magnetic fields. The field strengths favored by the data, around five to ten pico-Gauss today, are precisely what would be needed for galaxy and cluster magnetic fields to originate from primordial seeds alone—offering a tantalizing glimpse into physics from the universe's earliest moments.",
+  "category": "science",
+  "tags": [
+    "cosmology",
+    "big-bang",
+    "universe-expansion",
+    "magnetic-fields",
+    "physics"
+  ],
+  "quick_facts": [
+    "Two methods measure cosmic expansion rate: one gives 67 km/s/Mpc, the other 73 km/s/Mpc",
+    "Primordial magnetic fields may have altered hydrogen formation after the Big Bang",
+    "First full 3D simulations show ancient magnetism remains viable as solution",
+    "Field strengths favored by data: five to ten pico-Gauss today"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+  "published": "2026-10-04T15:48:54Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/11364119/pexels-photo-11364119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Pascal Küffer",
+  "photo_credit_url": "https://www.pexels.com/@pascal-kuffer-190126462"
+}

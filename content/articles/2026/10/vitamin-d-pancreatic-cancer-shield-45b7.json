@@ -1,0 +1,29 @@
+{
+  "id": "45b720c006ff3f00",
+  "slug": "vitamin-d-pancreatic-cancer-shield-45b7",
+  "headline": "Vitamin D Drug Shows Promise Against Pancreatic Cancer",
+  "meta_description": "A vitamin D analog may help break down pancreatic cancer's protective defenses, making tumors more vulnerable to chemotherapy and immune attack.",
+  "summary_short": "Researchers found that paricalcitol, a vitamin D analog, may crack pancreatic cancer's protective shield and boost treatment response in a clinical trial.",
+  "body": "A vitamin D analog already used to treat kidney disease has shown encouraging signs in fighting one of medicine's toughest cancers. In a small clinical trial led by Dana Farber Cancer Institute, patients with metastatic pancreatic cancer who received paricalcitol alongside standard chemotherapy had more treatment responses and were more likely to remain disease-free after one year. Those whose tumors carried high levels of the vitamin D receptor experienced the longest overall survival. The discovery emerged from laboratory work at the Salk Institute, where researchers discovered that activating the vitamin D receptor could reprogram the protective environment surrounding pancreatic tumors—potentially making them vulnerable to existing treatments.\n\nPancreatic cancer is notorious for building a dense, fibrotic shield around itself that blocks both chemotherapy and immune attack. The study of 36 patients showed that paricalcitol reduced the activation of cancer-supporting fibroblasts within tumors while simultaneously increasing infiltration of T cells, immune warriors typically blocked from entering pancreatic tumors. The drug was safely combined with standard chemotherapy (gemcitabine plus nab-paclitaxel), though five patients who took it orally developed elevated blood calcium levels that researchers managed through standard dose adjustments.\n\nWhat makes this work striking is its philosophical shift. Rather than only killing cancer cells directly, the research suggests targeting the tumor's support system—the cells that enable cancer's survival. \"By using vitamin D analogs to engage the body's own natural system for dampening fibrotic and inflammatory responses, we can enable other therapies to do their job,\" explained Ronald Evans, the Salk researcher whose discovery of the vitamin D receptor family launched this treatment path. The trial was primarily designed to test safety, yet the encouraging signals observed suggest larger studies may be warranted.",
+  "category": "health",
+  "tags": [
+    "pancreaticcancer",
+    "vitamind",
+    "clinicaltrial",
+    "immunotherapy",
+    "cancerresearch"
+  ],
+  "quick_facts": [
+    "Dana Farber Cancer Institute led trial of 36 patients with metastatic pancreatic cancer",
+    "Paricalcitol, already FDA-approved for kidney disease, tested with standard chemotherapy",
+    "Drug reduced fibroblast activation and increased T cell infiltration in tumors",
+    "Patients receiving paricalcitol showed longer disease-free periods and survival"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
+  "published": "2026-10-04T15:49:19Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8770717/pexels-photo-8770717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Gustavo Fring",
+  "photo_credit_url": "https://www.pexels.com/@gustavo-fring"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "78605fb4717e711a",
+  "slug": "hydrogen-water-breakthrough-oregon-7860",
+  "headline": "New Material Splits Water Into Clean Hydrogen Without Expensive Catalysts",
+  "meta_description": "Oregon State researchers created a light-activated material that produces hydrogen from water efficiently, potentially lowering green fuel costs and fighting c…",
+  "summary_short": "Researchers at Oregon State University developed a new photocatalytic material that can produce hydrogen from water using sunlight—without needing expensive metal cataly…",
+  "body": "A team led by Kyriakos Stylianou at Oregon State University's College of Science has developed a breakthrough material that harnesses sunlight to extract hydrogen from water, offering a cheaper path toward clean fuel production. The new photocatalyst, published in the Journal of the American Chemical Society, works by absorbing light energy and using that energy to accelerate chemical reactions. What makes this discovery remarkable is that it relies on unusual sulfur-based chemistry in its organic building blocks rather than expensive metals—a departure from conventional approaches that could simplify future hydrogen-production systems and cut manufacturing costs significantly.\n\nThe material, called BVR-19, belongs to a class known as metal-organic frameworks (MOFs)—crystalline, porous structures whose properties can be carefully customized. When BVR-19 is exposed to light, a sulfide-to-sulfide bond temporarily breaks, creating highly reactive sulfur species that drive the hydrogen-producing reaction. An additional advantage: BVR-19 forms spontaneously in water at room temperature, requiring less energy to manufacture than existing alternatives.\n\nThe stakes are substantial. Today, most industrial hydrogen comes from methane-steam reforming, a process that releases carbon dioxide. Green hydrogen made from water costs roughly $5 per kilogram compared to $1.50 per kilogram for conventional hydrogen, making cost reduction essential for widespread adoption. Stylianou's work provides what he calls \"a blueprint for designing better materials\" that could finally make solar-powered hydrogen competitive. By testing how different metals perform within the same MOF structure, the research team discovered design principles that could guide the creation of even more effective catalysts, bringing cleaner energy one step closer to practical, affordable reality.",
+  "category": "science",
+  "tags": [
+    "clean-energy",
+    "hydrogen",
+    "photocatalyst",
+    "climate",
+    "materials-science"
+  ],
+  "quick_facts": [
+    "Oregon State researchers created BVR-19, a light-activated material for hydrogen production",
+    "Uses sulfur-based chemistry instead of expensive metal catalysts",
+    "Forms at room temperature in water, reducing manufacturing energy",
+    "Green hydrogen currently costs $5/kg versus $1.50/kg for conventional methods",
+    "Published in Journal of the American Chemical Society, 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+  "published": "2026-10-04T15:49:11Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/14008672/pexels-photo-14008672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Saurabh  Kumar",
+  "photo_credit_url": "https://www.pexels.com/@saurabh-kumar-1184775"
+}
