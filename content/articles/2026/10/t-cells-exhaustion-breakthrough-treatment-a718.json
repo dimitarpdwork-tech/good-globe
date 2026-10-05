@@ -1,0 +1,30 @@
+{
+  "id": "a71812dfb008fc61",
+  "slug": "t-cells-exhaustion-breakthrough-treatment-a718",
+  "headline": "Breakthrough: Scientists Find Way to Keep Cancer-Fighting Cells Strong",
+  "meta_description": "Researchers at Memorial Sloan Kettering discovered that blocking a molecule called MEK helps immune T cells survive longer and stay active against tumors.",
+  "summary_short": "Scientists may have solved a puzzle that weakens cancer immunotherapy: exhausted T cells. By blocking a signaling molecule, cells conserve energy and keep fighting.",
+  "body": "Immunotherapy has transformed cancer treatment by unleashing specialized immune cells called T cells to attack tumors—but there's a catch. These cellular warriors often burn out before the cancer is defeated, a condition called T cell exhaustion that can leave patients facing a heartbreaking setback. Now, researchers at Memorial Sloan Kettering Cancer Center have identified what drives this collapse and found a potential way to prevent it. By blocking a signaling molecule called MEK, T cells can conserve energy, multiply more efficiently, and remain active far longer—even in the harsh environment surrounding tumors. The discovery, published in the journal Immunity, suggests that FDA-approved MEK inhibitors could potentially extend the effectiveness of immunotherapy without requiring entirely new drugs.\n\nThe breakthrough reframes how scientists understand exhaustion itself. For years, researchers assumed exhausted T cells were simply running low on fuel. Instead, the team discovered something counterintuitive: these cells were actually burning energy at high rates—but wasting it on producing excessive amounts of cancer-killing proteins. MEK was the culprit, continuously pushing T cells to manufacture these proteins at unsustainable levels. When the researchers blocked MEK, the cells became more conservative with their energy, much like pacing yourself during a long road trip instead of driving at full speed from start to finish. The result was remarkable: T cells could multiply more while using less fuel, allowing them to survive and remain capable of renewing themselves.\n\nDr. Santosha Vardhana, a physician-scientist who treats lymphoma patients, described the human toll of current limitations: many patients experience \"a brief wisp of promise only to have it taken away\" when immunotherapy stops working. By helping T cells pace themselves, this approach could transform that trajectory, keeping the immune system's attack sustained long enough to actually defeat the cancer.",
+  "category": "health",
+  "tags": [
+    "cancer-research",
+    "immunotherapy",
+    "t-cells",
+    "medical-breakthrough",
+    "drug-development"
+  ],
+  "quick_facts": [
+    "Memorial Sloan Kettering scientists identified MEK as driver of T cell exhaustion",
+    "Blocking MEK allows cancer-fighting T cells to survive longer with less energy",
+    "FDA-approved MEK inhibitors already exist, enabling rapid human testing",
+    "Study published in journal Immunity, based on animal and laboratory research",
+    "T cell exhaustion often causes immunotherapy to lose effectiveness mid-treatment"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214127.htm",
+  "published": "2026-10-05T23:11:10Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/11516492/pexels-photo-11516492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Marek Piwnicki",
+  "photo_credit_url": "https://www.pexels.com/@marek-piwnicki-3907296"
+}
