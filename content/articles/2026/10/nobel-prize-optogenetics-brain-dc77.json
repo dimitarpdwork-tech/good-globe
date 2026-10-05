@@ -1,0 +1,30 @@
+{
+  "id": "dc7779782bf418cf",
+  "slug": "nobel-prize-optogenetics-brain-dc77",
+  "headline": "Scientists Win Nobel Prize for Breakthrough Brain-Mapping Technology",
+  "meta_description": "Three neuroscientists awarded Nobel Prize for optogenetics, a method using light to map brain circuits and restore vision in blind patients.",
+  "summary_short": "A US psychiatrist and two German colleagues have won the Nobel Prize in Physiology or Medicine for developing optogenetics, a technique that uses light to control brain…",
+  "body": "Three neuroscientists have been awarded the 2024 Nobel Prize in Physiology or Medicine for developing optogenetics, a groundbreaking technique that allows researchers to switch individual neural circuits on and off using light. US psychiatrist and neurologist Karl Deisseroth worked alongside German colleagues Peter Hegemann and Georg Nagel to pioneer this method, which has fundamentally transformed how scientists understand the brain's inner workings. The Nobel Committee praised them for revealing how to control neural circuits linked to specific memories, feelings, and behaviours—insights crucial for treating neurological and psychiatric disorders. The three researchers will share the £900,000 prize money.\n\nOptogenetics works by using a special protein borrowed from algae to control cell electrical activity. In the early 2000s, Hegemann and Nagel discovered channelrhodopsin, the algal protein with unique light-sensitive properties. Deisseroth then demonstrated how to use this protein to switch on nerve cells in the brains of mice, opening entirely new pathways for brain research. Scientists can now study nerve cells and their functions in ways previously unimaginable, illuminating one of humanity's greatest mysteries: how the brain actually works.\n\nPerhaps most remarkably, optogenetics is already moving from laboratory discovery into clinical practice. In ongoing trials, researchers have used the technique to restore partial vision in patients who became blind due to retinitis pigmentosa, a disease that destroys the eye's light-sensitive cells. By inserting the therapeutic algae protein into damaged eye tissue, patients regained some sight when wearing special glasses that emit light. These early successes hint at a future where optogenetics might help restore sight and treat conditions previously considered untreatable—transforming the lives of millions.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "optogenetics",
+    "nobel-prize",
+    "brain-research",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Karl Deisseroth, Peter Hegemann, and Georg Nagel win 2024 Nobel Prize",
+    "Optogenetics uses light-controlled algae protein to map brain circuits",
+    "Clinical trials restoring vision in retinitis pigmentosa patients underway",
+    "Prize money: £900,000 shared among three laureates",
+    "Technique allows researchers to switch neural circuits on and off"
+  ],
+  "source_name": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-05T12:19:59Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/14314636/pexels-photo-14314636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Merlin Lightpainting",
+  "photo_credit_url": "https://www.pexels.com/@merlin"
+}

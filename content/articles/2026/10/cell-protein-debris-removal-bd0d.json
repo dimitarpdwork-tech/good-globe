@@ -1,0 +1,30 @@
+{
+  "id": "bd0d04dba0b46cba",
+  "slug": "cell-protein-debris-removal-bd0d",
+  "headline": "Your Cells' Glue Has a Secret Cleanup Job",
+  "meta_description": "Scientists discover that E-cadherin, the protein holding cells together, also helps tissues engulf dead cells—with major implications for inflammation.",
+  "summary_short": "A protein that acts as cellular glue has been found to do double duty: helping epithelial cells remove dead cell debris while maintaining protective tissue barriers.",
+  "body": "Scientists at the University of Liverpool have discovered that E-cadherin, a protein long known as the \"glue\" binding cells and tissues together, performs an unexpected second role. Using live zebrafish and mouse embryos, researchers found that epithelial cells—which form the continuous sealed layers throughout your body—use this same molecular machinery to engulf nearby dead cells. The finding, published in Nature Communications, suggests that understanding how tissues clean up cellular debris could unlock clues about chronic inflammation, since dead cell material is a major driver of inflammatory responses in the body.\n\nThe elegance lies in how cells accomplish this without breaking their protective seal. Through live imaging, researchers observed that a single epithelial cell can behave like a dancer with \"arms linked\" to its neighbors: the upper surface stays relatively still, maintaining the tissue barrier, while the lower surface stretches and reshapes to engulf the dead cell. One protein in the E-cadherin complex acts like a rope, tethering the cleanup machinery to the cell's internal skeleton, while another component functions as a brake on the cell's contractile machinery. Surprisingly, removing this brake actually prevents cleanup—making cells too stiff to do their job properly.\n\nWhat makes this work particularly promising is its consistency across species. When researchers blocked E-cadherin in early mouse embryos, dying cells remained uncleared, matching results from zebrafish and suggesting the mechanism is shared among vertebrates. While scientists still don't know whether adult tissues use this same E-cadherin-dependent cleanup system, the protein's presence throughout epithelial tissues in the body—from the retina to the airways—makes it a strong candidate for a broadly used defense mechanism.",
+  "category": "science",
+  "tags": [
+    "cellular-biology",
+    "protein-function",
+    "immune-system",
+    "inflammation",
+    "research"
+  ],
+  "quick_facts": [
+    "E-cadherin performs double duty as cellular glue and debris cleanup mechanism",
+    "Discovered in zebrafish and mouse embryos by University of Liverpool team",
+    "Cells reshape their lower surfaces while upper surfaces remain sealed",
+    "Published in Nature Communications, October 2026",
+    "May reveal why chronic inflammation develops when cleanup fails"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+  "published": "2026-10-05T12:20:06Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/11198523/pexels-photo-11198523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Fayette Reynolds M.S.",
+  "photo_credit_url": "https://www.pexels.com/@fayette-reynolds-m-s-181007507"
+}
