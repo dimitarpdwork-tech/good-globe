@@ -1,0 +1,30 @@
+{
+  "id": "962e088b06ee6e57",
+  "slug": "nokia-nasa-lunar-4g-network-962e",
+  "headline": "Nokia and NASA Build First 4G Network on the Moon",
+  "meta_description": "NASA and Nokia's Bell Labs are launching a 4G network to the Moon this year, enabling astronauts to video call home and transmit high-resolution data from the…",
+  "summary_short": "Astronauts may soon video call their families from the Moon. NASA and Nokia are launching a 4G network to the lunar surface via SpaceX this year.",
+  "body": "Imagine astronauts walking on the Moon, able to video call their families as easily as if they were strolling down a city street. That vision is becoming reality this year, as NASA and Nokia's Bell Labs prepare to launch the first 4G network to the lunar surface aboard a SpaceX Falcon 9 rocket. The $14 million device will be built from off-the-shelf components and delivered via Intuitive Machines' landing craft. Once deployed, it will connect two small rovers searching for water ice—not merely to confirm its existence, but to assess its viability as a resource for a semi-permanent lunar base. Currently, space missions rely on traditional radio systems, but the new network would enable astronauts to stream high-resolution video, upload large scientific datasets, and maintain constant contact with mission control and their loved ones on Earth.\n\nThe project represents far more than a communication upgrade. Water ice on the Moon, processed through electrolysis, could provide breathable oxygen, spacecraft fuel, and drinking water at costs far lower than Earth resupply missions. By extending terrestrial 4G infrastructure to space, NASA envisions establishing the digital economy beyond our planet—giving lunar visitors access to the same apps and messaging platforms they use at home.\n\nBell Labs sees an unexpected bonus: networks engineered to survive the Moon's harsh conditions could be adapted for Earth's most challenging environments, from Antarctica's frozen expanse to the Sahara Desert's extreme heat. The true test arrives when Intuitive Machines' rovers locate water ice and transmit the first high-resolution images back through the lunar 4G network—a world-first that would redefine what's possible in off-world exploration and communications.",
+  "category": "science",
+  "tags": [
+    "nasa",
+    "nokia",
+    "moon",
+    "4g",
+    "space-technology"
+  ],
+  "quick_facts": [
+    "Nokia Bell Labs received $14 million grant in 2020 to develop the network",
+    "Launch planned for later this year aboard SpaceX Falcon 9 rocket",
+    "Intuitive Machines landing craft will deploy the 4G device to the lunar surface",
+    "Two rovers will search for water ice using the 4G connection",
+    "Network designed to stream high-resolution video and large datasets from the Moon"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/",
+  "published": "2026-10-06T21:39:29Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8474991/pexels-photo-8474991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "RDNE Stock project",
+  "photo_credit_url": "https://www.pexels.com/@rdne"
+}
