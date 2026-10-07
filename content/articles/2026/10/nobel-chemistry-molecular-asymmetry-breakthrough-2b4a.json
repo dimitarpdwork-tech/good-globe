@@ -1,0 +1,29 @@
+{
+  "id": "2b4add7b07af688c",
+  "slug": "nobel-chemistry-molecular-asymmetry-breakthrough-2b4a",
+  "headline": "Nobel Prize Solves Century-Old Chemistry Mystery Behind Life",
+  "meta_description": "French and Japanese scientists win Nobel Prize in Chemistry for solving how nature produces only the correct version of mirror-image molecules needed for life.",
+  "summary_short": "Two chemists have finally cracked a 100-year-old puzzle: how to make molecules in only the form that life needs, a discovery that could transform medicine.",
+  "body": "Two scientists—Henri B. Kagan of France and Kenso Soai of Japan—have won the Nobel Prize in Chemistry for answering a puzzle that has haunted researchers for over a century: how living organisms on Earth manage to produce only one version of mirror-image molecules, while laboratory reactions stubbornly create a 50-50 mix of both. This property, called chirality, matters profoundly in medicine. Amino acids, the building blocks of proteins, exist in left- and right-handed forms that look like our hands—mirror images of each other. Yet only one form works in the human body. When developing drugs, each version behaves differently: one might fight disease while the other does nothing or causes harm. By cracking this code, Kagan and Soai developed chemical reactions that can selectively produce only the desired molecule.\n\nKagan made the first breakthrough in 1986 at Université Paris-Sud, discovering how to manipulate reactions to create a greater excess of one mirror image than previously seemed possible. Soai, working at Tokyo University of Science, took the work further. In 1995, he published a paper in *Nature* describing the first chemical reaction with potential for homochirality—producing exclusively the correct version. By 2003, he had fully controlled such a reaction, achieving what the Nobel Committee said \"no one had previously achieved, other than life itself.\"\n\nAt Wednesday's announcement, Soai called it \"one of the most exciting days of my life.\" The achievement opens doors to more effective medicines and cleaner synthesis processes. As the UK's Royal Society of Chemistry noted, this fundamental chemistry research now underpins solutions to society's biggest health challenges.",
+  "category": "science",
+  "tags": [
+    "nobel-prize",
+    "chemistry",
+    "molecular-science",
+    "medicine",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "Henri B. Kagan (France) and Kenso Soai (Japan) awarded 2024 Nobel Prize",
+    "Breakthrough solved 100-year-old chemistry mystery of molecular asymmetry",
+    "First controlled reaction producing only one mirror-image molecule form achieved in 2003",
+    "Applications crucial for drug development where different molecular forms have opposite effects"
+  ],
+  "source_name": "BBC World",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-07T11:49:28Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533088/pexels-photo-8533088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
