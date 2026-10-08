@@ -1,0 +1,30 @@
+{
+  "id": "4865bae711bc6c2f",
+  "slug": "microscopic-organism-genetic-code-discovery-4865",
+  "headline": "Pond Microbe Rewrites the Rules of Genetic Code",
+  "meta_description": "Scientists testing DNA sequencing methods stumbled upon a freshwater protist that violates fundamental rules of how genetic code works, suggesting hidden compl…",
+  "summary_short": "A routine experiment with a microscopic pond organism revealed it interprets genetic instructions in a way scientists never documented before, challenging core assumptio…",
+  "body": "Scientists testing a new DNA sequencing technique made an accidental discovery that challenges one of biology's most fundamental assumptions. While examining a previously unknown protist from a freshwater pond at Oxford University, researchers found that the organism uses two genetic signals—normally interpreted as stop signs for protein production—to encode two entirely different amino acids instead. The finding suggests that genetic rules once thought nearly universal actually contain far more flexibility than scientists believed, and hints at a vast world of undiscovered complexity hiding in organisms too small to see without a microscope.\n\nDr. Jamie McGowan, a postdoctoral scientist at the Earlham Institute, made the discovery while working with a research team led by Professor Thomas Richards at the University of Oxford. The team wasn't hunting for genetic rule-breakers; they were simply testing whether their new sequencing pipeline could analyze genetic material from extremely small quantities—potentially from a single cell. The protist, belonging to a group called ciliates, turned out to be a previously unidentified species with an entirely unusual set of genetic instructions.\n\n\"It's sheer luck we chose this protist to test our sequencing pipeline, and it just shows what's out there,\" McGowan reflected. The discovery, published in PLOS Genetics, has opened a door that researchers are only beginning to explore. Subsequent work has already uncovered additional genetic code variations in related microorganisms, suggesting that countless more surprises await in the microscopic world. For scientists studying protists—an extraordinarily diverse group that includes everything from single-celled hunters to kelp forests—the find is a humbling reminder of how much remains unknown about life on Earth.",
+  "category": "science",
+  "tags": [
+    "genetics",
+    "protists",
+    "biology",
+    "discovery",
+    "microbiology"
+  ],
+  "quick_facts": [
+    "Scientists at Oxford University discovered a protist breaking genetic code rules",
+    "Two stop codons were reassigned to encode different amino acids instead",
+    "The discovery happened accidentally while testing a DNA sequencing technique",
+    "Published in PLOS Genetics in October 2023",
+    "Related microorganisms show additional genetic variations"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+  "published": "2026-10-08T22:07:35Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8740054/pexels-photo-8740054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
