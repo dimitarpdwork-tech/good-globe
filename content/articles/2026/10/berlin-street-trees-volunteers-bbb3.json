@@ -1,0 +1,29 @@
+{
+  "id": "bbb342849ec19782",
+  "slug": "berlin-street-trees-volunteers-bbb3",
+  "headline": "Berlin's 12,000 Tree Watchers Turn Urban Forestry Into Community Care",
+  "meta_description": "A Berlin app maps 900,000 street trees and coordinates 12,000 volunteers to water them during heat waves, turning climate action into neighborhood bonding.",
+  "summary_short": "When Berlin's city crews couldn't keep up with thirsty trees during extreme heat, ordinary residents stepped in—12,000 strong—using an app that makes urban forestry feel…",
+  "body": "When temperatures in Berlin hit 39.9 degrees Celsius in late June, something unexpected happened: twelve thousand volunteers didn't wait for official permission. They grabbed watering cans and showed up. The Gieß den Kiez app—German for \"water your neighborhood\"—gave them a map of nearly 900,000 street trees color-coded by thirst level, real-time updates on which trees had been watered, and the social permission to act. In that single scorching day, volunteers poured 8,000 liters of water across the city. Anna Mehrländer, who has led the project for over a year, found herself surprised by the depth of people's attachment. \"I was really surprised at just how deeply people care about trees,\" she says. \"For many people it's almost like caring for a pet.\"\n\nWhat makes this work is elegantly simple: CityLAB Berlin developed software that tracks each tree's water needs based on age, species, and rainfall, then created a social framework around showing up. Amanda Gläser-Bligh, who named her adopted linden tree Linda and carries twenty liters up and down her apartment stairs each week, noticed something striking—passersby often stop and ask what she's doing, then look at trees differently. Many people, she realized, wanted to help but simply hadn't known it was allowed.\n\nThe real story isn't just about saving trees during heatwaves, though that matters urgently. Urban forestry expert Cecil Konijnendijk points out that mature trees take 30 to 40 years to deliver their full benefits: cooling air, breaking up heat islands, reducing flooding risk, and improving mental health. They're critical infrastructure now, not ornaments. Because the code is open-source, cities from Potsdam to Paris have already built their own versions. Berlin showed that when you give people a tool, a reason, and a map, the hardest part—getting people to care—solves itself.",
+  "category": "community",
+  "tags": [
+    "volunteering",
+    "climate-action",
+    "urban-greening",
+    "berlin",
+    "community"
+  ],
+  "quick_facts": [
+    "12,000 Berlin volunteers water nearly 900,000 street trees via app",
+    "8,000 liters poured on trees in a single day during June heat peak",
+    "Open-source code already replicated in Paris, Potsdam, and Leipzig",
+    "Young trees flagged as critical; mature trees take 30–40 years to mature"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/10/berlin-mapped-900000-street-trees-now-12000-people-water-them/",
+  "published": "2026-10-08T12:04:24Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7475723/pexels-photo-7475723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Mikhail Nilov",
+  "photo_credit_url": "https://www.pexels.com/@mikhail-nilov"
+}

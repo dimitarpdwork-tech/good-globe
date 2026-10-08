@@ -1,0 +1,30 @@
+{
+  "id": "a51bd1d28253f80c",
+  "slug": "stanford-lymphoma-protein-kill-switch-a51b",
+  "headline": "Stanford Scientists Turn Cancer's Engine Into Its Executioner",
+  "meta_description": "Researchers rewired a lymphoma-driving protein to trigger cancer cell death, eliminating tumors in mice within 11 days.",
+  "summary_short": "Stanford scientists created a molecule that transforms BCL6, a major lymphoma driver, into a weapon that activates cancer cells' self-destruct program.",
+  "body": "Stanford Medicine researchers have engineered a breakthrough that flips cancer's own biology against itself. They designed a two-part molecule called TCIP3 that hijacks BCL6, a protein that normally helps lymphoma cells survive, and rewires it to activate the cancer cells' built-in death machinery. In mice treated twice daily, aggressive human lymphoma tumors vanished completely within 11 days—a result that hints at a radically different approach to fighting blood cancers.\n\nThe innovation moves beyond simply blocking a cancer-driving protein. Instead of shutting BCL6 down, the Stanford team—led by Gerald Crabtree, MD, and Nathanael Gray, PhD—connected it to proteins called P300 and CBP that add chemical tags to DNA and its packaging structures. These tags force cancer cells to express the very genes that trigger their own death. Graduate student Meredith Nix, one of the lead researchers, compared the difference to \"easing off a car's brake versus flooring the accelerator.\"\n\nWhat made TCIP3 unexpectedly powerful was a structural discovery. When researchers crystallized the molecular complex and analyzed it with X-rays, they found that the molecule acts as \"molecular glue,\" creating multiple chemical bonds that stabilize the entire assembly far more than anticipated. This insight allowed the team to make the connection between TCIP3's two halves more rigid, preserving its effectiveness.\n\nWhile the work published in *Cell* focused on diffuse large B-cell lymphoma—the most common form of non-Hodgkin lymphoma—the researchers believe this rewiring strategy could eventually extend to other cancers and even some autoimmune diseases. Much testing remains before patients could benefit, but the principle itself opens a new frontier: fighting cancer not by restraining its drivers, but by repurposing them as instruments of destruction.",
+  "category": "science",
+  "tags": [
+    "cancer-research",
+    "lymphoma",
+    "molecular-medicine",
+    "stanford-medicine",
+    "cell-biology"
+  ],
+  "quick_facts": [
+    "Stanford team developed TCIP3, a molecule that rewires cancer-driving protein BCL6",
+    "Aggressive lymphoma tumors disappeared in mice within 11 days of twice-daily treatment",
+    "Research led by Crabtree and Gray, published in Cell journal",
+    "TCIP3 activates cell death genes instead of simply blocking tumor growth",
+    "Strategy could eventually apply beyond lymphoma to other cancers"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+  "published": "2026-10-08T12:04:49Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8976794/pexels-photo-8976794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
