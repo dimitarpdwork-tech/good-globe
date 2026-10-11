@@ -1,0 +1,30 @@
+{
+  "id": "96016eaba7861c8d",
+  "slug": "nuclear-clock-self-stabilizing-breakthrough-9601",
+  "headline": "Vienna Scientists Create Nuclear Clock That Never Needs Adjustment",
+  "meta_description": "Researchers in Vienna have built the world's first self-stabilizing nuclear clock using thorium atoms, achieving unprecedented precision in timekeeping.",
+  "summary_short": "Scientists in Vienna have achieved a major breakthrough by creating the world's first self-stabilizing nuclear clock, a device that could eventually surpass even the mos…",
+  "body": "Researchers at Vienna University of Technology have achieved a milestone that could reshape how humanity measures time itself. A team led by Prof. Thorsten Schumm has built the world's first self-stabilizing nuclear clock—a device that maintains its own accuracy without relying on a conventional atomic clock for support. The breakthrough demonstrates that thorium atomic nuclei can serve as extraordinarily stable timekeeping references, operating independently for more than 24 hours without intervention. The achievement represents a fundamental advance in precision measurement, opening pathways toward timekeeping accuracy that existing atomic clocks cannot reach.\n\nThe key to this breakthrough lies in an unusual property of thorium. Unlike most atomic nuclei, thorium's energy states are separated by an unusually small gap, allowing laser light to trigger transitions between them with remarkable precision. When researchers direct a laser at a crystal containing thorium atoms, the nuclei absorb light only at precisely the correct frequency. If the laser drifts even slightly—due to temperature fluctuations or other environmental factors—the nuclei absorb less light. The system detects this change automatically and adjusts the laser back to the exact frequency. This continuous self-correction keeps the clock ticking with unwavering consistency, without external help.\n\nThe implications are staggering. Because atomic nuclei are more than 10,000 times smaller than atoms, they are far less vulnerable to environmental disturbances that disrupt precision measurements. In testing, the Vienna team's prototype achieved a relative precision of approximately one second of error over 30 million years—a level of accuracy that would transform fields ranging from fundamental physics to global navigation systems. The team's success, building on experimental breakthroughs from April and fall 2024, marks the culmination of decades of research into whether thorium could finally unlock the potential of nuclear timekeeping.",
+  "category": "science",
+  "tags": [
+    "nuclear-clock",
+    "timekeeping",
+    "vienna-science",
+    "precision-measurement",
+    "breakthrough"
+  ],
+  "quick_facts": [
+    "Vienna University of Technology built world's first self-stabilizing nuclear clock",
+    "Prototype operated independently for more than 24 hours without intervention",
+    "Atomic nuclei are 10,000 times smaller than atoms, resisting environmental interference",
+    "Achieved precision: one second error over 30 million years",
+    "Uses thorium atoms with laser light to maintain timekeeping stability"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+  "published": "2026-10-11T11:26:11Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Ramaz Bluashvili",
+  "photo_credit_url": "https://www.pexels.com/@ramazphotos"
+}
