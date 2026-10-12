@@ -1,0 +1,29 @@
+{
+  "id": "238dab5eaeb6d218",
+  "slug": "berlin-app-trees-watering-community-238d",
+  "headline": "Berlin's Tree-Watering App Turns Urban Forests Into Community Pets",
+  "meta_description": "A free app called Gieß den Kiez has thousands of Berliners adopting and caring for city trees, keeping urban forests alive during extreme heat.",
+  "summary_short": "Thousands of Berliners are using a simple app to adopt and water their city's 900,000 street trees, turning climate resilience into a community game.",
+  "body": "Thousands of Berliners have begun adopting their neighborhood trees like pets, thanks to an open-source app called Gieß den Kiez—which translates to \"water your neighborhood.\" The application maps approximately 900,000 street trees across Berlin as GPS pins, allowing users to sign up for a tree and receive real-time watering instructions based on the species, age, weather data, and location. Trees needing water appear as orange or red dots on the map, while icons mark every citizen-accessible water tap or pump nearby. What began as a way to combat cabin fever during COVID-19 lockdowns has evolved into a vital tool for urban climate adaptation, as Berlin experienced temperatures exceeding 103°F this summer.\n\nOne user, Amanda Gläser-Bligh, described the experience as feeling \"very fun, almost like a video game.\" She adopted a Linden tree she named \"Linda\"—a species whose pollen and nectar feed the city's bees—and the app gave her permission and purpose to care for it. \"I think many people may want to water the trees,\" she explained, \"but they might feel weird about doing it or they're not sure if it's their responsibility. But if you have this app encouraging you, you know it's the right thing to do.\"\n\nDeveloped by CityLAB Berlin since 2020, the app has proven far more than a novelty. Its open-source code has already been adopted by Potsdam, Leipzig, Magdeburg, and Paris's 17th arrondissement. As cities face increasingly severe heat waves, trees provide tangible relief—offering shade, improving air quality, and reducing temperatures. Studies show communities with healthy tree cover experience better psychological and physical health outcomes, while the simple presence of green, leafy canopies offers sensory respite in concrete-dominated urban landscapes.",
+  "category": "community",
+  "tags": [
+    "urban-trees",
+    "climate-resilience",
+    "citizen-science",
+    "berlin",
+    "community-action"
+  ],
+  "quick_facts": [
+    "Berlin's Gieß den Kiez app covers roughly 900,000 street trees",
+    "Berlin hit over 103°F (39°C) this summer",
+    "App launched in 2020, now used in five European cities",
+    "Trees appear as orange or red dots when needing water"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+  "published": "2026-10-12T23:38:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/10413134/pexels-photo-10413134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Long Tang",
+  "photo_credit_url": "https://www.pexels.com/@long-tang-1511711"
+}
