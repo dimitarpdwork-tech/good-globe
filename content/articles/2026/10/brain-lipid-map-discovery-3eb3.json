@@ -1,0 +1,30 @@
+{
+  "id": "3eb3665c12954379",
+  "slug": "brain-lipid-map-discovery-3eb3",
+  "headline": "Scientists Map 539 Hidden Regions in the Brain",
+  "meta_description": "Researchers create first detailed 3D map of brain lipids, revealing 539 distinct chemical zones that previous methods missed.",
+  "summary_short": "A breakthrough atlas reveals how fatty molecules organize the brain in unexpected ways, opening new paths to understanding disease.",
+  "body": "Scientists at EPFL have created the first comprehensive map of lipids—the fatty molecules essential to brain structure and communication—revealing a hidden layer of organization with 539 distinct chemical zones. Using mass spectrometry imaging to analyze approximately 7 million measurements from mouse brain tissue, researchers discovered that lipids arrange themselves in highly organized patterns, some matching known brain structures and others exposing chemical boundaries that traditional mapping methods had completely overlooked. The findings, published in Nature, suggest that lipids function like postal codes, giving distant but connected brain regions the same chemical signature. This breakthrough matters because changes in brain lipids are increasingly linked to conditions ranging from depression to Alzheimer's disease, yet scientists have struggled to map where different lipid types are located.\n\nThe most striking discovery came from examining white matter, the tissue connecting different brain regions. Previously considered relatively uniform, white matter actually contains numerous distinct lipid zones—a finding that challenges how scientists understand brain organization at the chemical level. The researchers also found unexpected chemical boundaries in structures like the choroid plexus, which produces cerebrospinal fluid, revealing that lipid mapping can expose important features invisible to anatomy or genetic information alone.\n\nBeyond mapping the brain's chemical architecture, the atlas revealed something equally remarkable: pregnancy triggers widespread lipid shifts across numerous brain regions, with changes more pronounced than typical differences between male and female brains. The cortex showed particularly extensive changes, while myelin-supporting molecules increased sharply throughout white matter. The Lipid Brain Atlas is now freely available online, inviting researchers worldwide to combine this lipid information with existing genetic and cellular maps—potentially unlocking new understanding of how the brain organizes itself and how its chemistry responds to life's demands.",
+  "category": "science",
+  "tags": [
+    "neuroscience",
+    "brain-mapping",
+    "lipids",
+    "research-breakthrough",
+    "health"
+  ],
+  "quick_facts": [
+    "539 chemically distinct zones identified in mouse brain",
+    "7 million measurements analyzed across 109 brain slices",
+    "EPFL team published findings in Nature journal",
+    "White matter revealed to contain complex lipid patterns",
+    "Pregnancy causes more lipid changes than sex differences"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+  "published": "2026-10-13T12:45:12Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/5723883/pexels-photo-5723883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "cottonbro studio",
+  "photo_credit_url": "https://www.pexels.com/@cottonbro"
+}
