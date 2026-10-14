@@ -1,0 +1,29 @@
+{
+  "id": "994820452a48caae",
+  "slug": "ai-discovers-co2-fuel-conversion-9948",
+  "headline": "AI Finds Hidden Pathways to Turn CO2 Into Fuel",
+  "meta_description": "Machine learning reveals nearly 10,000 chemical reactions for converting CO2 into methanol, improving predictions by 40 times and challenging established chemi…",
+  "summary_short": "Researchers at India's IISc used AI to uncover thousands of overlooked chemical reactions that could make converting CO2 into fuel far more efficient.",
+  "body": "Researchers at the Indian Institute of Science have used artificial intelligence to uncover a vast network of chemical reactions that conventional models had completely missed—potentially unlocking a more efficient path to turning atmospheric carbon dioxide into valuable fuels. By combining machine learning with quantum mechanics simulations, the team identified 9,389 individual reactions occurring on a copper catalyst, expanding their original understanding from just 152 reactions. When they incorporated this fuller picture into their models, predictions for CO2 conversion jumped by roughly 40 times, and the results finally matched what scientists observe in actual experiments. The work, published in Nature Communications, suggests that methanol and carbon monoxide are the major products—not formic acid, as earlier simplified models had incorrectly predicted.\n\nThe challenge that sparked this breakthrough is deceptively simple: traditional computer models examining how CO2 transforms on a catalyst's surface must make severe shortcuts. Simulating every possible chemical step using quantum mechanics would demand prohibitive computing power, so researchers typically focus only on reactions they believe matter most. This educated guessing had left hundreds of potentially critical pathways invisible—until the machine learning approach revealed them.\n\nPerhaps most intriguingly, the expanded reaction network exposed an unexpected mechanism: hydrogen can transfer directly as an intact molecule (H₂) rather than splitting into separate atoms first. This challenges long-standing assumptions about how catalytic reactions work and could guide the design of catalysts that interact more effectively with molecular hydrogen. \"The idea that hydrogen can transfer as an intact molecule runs against what most of us were taught,\" explains PhD student Shivam Chaturvedi. These findings offer practical clues for chemists working to develop catalysts that transform CO2 into methanol—a goal that has profound implications for recycling industrial carbon emissions into usable chemicals.",
+  "category": "science",
+  "tags": [
+    "artificial-intelligence",
+    "carbon-dioxide",
+    "catalysis",
+    "clean-energy",
+    "india-science"
+  ],
+  "quick_facts": [
+    "Indian Institute of Science researchers identified 9,389 chemical reactions using AI",
+    "Expanded model improved CO2 conversion predictions by approximately 40 times",
+    "Discovered unexpected hydrogen transfer pathway challenging conventional chemistry",
+    "Findings published in Nature Communications in October 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+  "published": "2026-10-14T10:16:32Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/36529614/pexels-photo-36529614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jahra Tasfia Reza",
+  "photo_credit_url": "https://www.pexels.com/@jahratreza"
+}
