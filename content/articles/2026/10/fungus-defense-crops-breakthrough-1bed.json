@@ -1,0 +1,30 @@
+{
+  "id": "1bed6ec29c875170",
+  "slug": "fungus-defense-crops-breakthrough-1bed",
+  "headline": "Scientists Engineer New Plant Defense Against Fungus Threatening Global Food",
+  "meta_description": "Researchers at the John Innes Centre have engineered plant immune receptors to recognize multiple fungal threats, offering hope for protecting rice, wheat, and…",
+  "summary_short": "A breakthrough in plant immunity could help protect the world's most important crops from a devastating fungus that destroys enough rice annually to feed 60 million peop…",
+  "body": "Scientists at the John Innes Centre in the United Kingdom have made a significant discovery that could transform how we defend the world's most critical food crops. By engineering specialized plant immune receptors, researchers have created defenses capable of recognizing multiple fungal threats simultaneously—a breakthrough that offers genuine hope against Magnaporthe oryzae, the fungus responsible for blast disease. Each year, this pathogen destroys enough rice to feed approximately 60 million people, and its spread into wheat and barley crops across Asia and Africa has become an urgent global threat. The international team, led by Professor Mark Banfield, identified how naturally occurring plant proteins called tandem kinase proteins (TKPs) can be modified to detect different fungal invaders at once, a rare ability that could make crops far more resilient to infection.\n\nThe research reveals something elegant about plant biology: crops already possess sophisticated immune systems that recognize invading molecules released by fungi during infection. By studying the precise three-dimensional structure of how plant receptors bind to these fungal molecules, scientists learned they could redesign these natural defenses. In laboratory tests using individual wheat cells, the team successfully engineered receptors with \"dual specificity\"—the ability to detect two different fungal threats rather than just one. This isn't merely a technical achievement; it represents a fundamentally new approach to crop protection in an era when climate change is expanding the range where destructive pathogens can thrive.\n\nWhile the technology remains in early experimental stages, the findings open doors to a future where cereal crops could be designed with customized immune systems targeting multiple fungal effectors simultaneously. This could eventually make it far harder for pathogens to infect plants, offering protection without relying entirely on fungicides or other interventions. As global food security faces mounting pressure, this work demonstrates how fundamental plant science can yield practical solutions.",
+  "category": "science",
+  "tags": [
+    "plant-immunity",
+    "food-security",
+    "fungal-disease",
+    "crop-engineering",
+    "agricultural-science"
+  ],
+  "quick_facts": [
+    "Rice blast destroys enough rice annually to feed 60 million people",
+    "Led by John Innes Centre in the United Kingdom",
+    "Scientists engineered receptors to recognize two fungal threats at once",
+    "Technology remains at early experimental stage with wheat cells",
+    "Affects rice, wheat, and barley crops in Asia and Africa"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+  "published": "2026-10-15T15:37:35Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7891849/pexels-photo-7891849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Karol Czinege",
+  "photo_credit_url": "https://www.pexels.com/@karol-czinege-44058757"
+}

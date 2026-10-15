@@ -1,0 +1,30 @@
+{
+  "id": "a3f2ccc827574e0e",
+  "slug": "brain-activity-under-anesthesia-a3f2",
+  "headline": "Anesthetized brains still think, predict, and learn, study finds",
+  "meta_description": "Researchers at Baylor College of Medicine discovered that unconscious brains can process language and predict words, challenging everything we thought about co…",
+  "summary_short": "Even under general anesthesia, the brain analyzes language, recognizes word patterns, and predicts upcoming sentences—revealing the unconscious mind is far more capable…",
+  "body": "Patients lying unconscious on an operating table are doing something remarkable: their brains are still thinking. Researchers at Baylor College of Medicine used advanced Neuropixels probes to record electrical signals from hundreds of individual neurons in the hippocampus—the brain region responsible for learning and memory—while patients undergoing epilepsy surgery were fully anesthetized. The findings, published in Nature, revealed that even without conscious awareness, the brain not only recognized different categories of words like nouns and verbs, but actively predicted which words would come next in a story. The hippocampus showed signs of neural plasticity, the brain's ability to improve through experience, suggesting that learning itself continues during unconsciousness.\n\nDr. Sameer Sheth, a neurosurgeon and professor at Baylor, explained the implications: \"The brain is far more active and capable during unconsciousness than previously thought.\" The research began with simple experiments—playing repeating tones interrupted by unexpected sounds—and the neurons responded differently to the surprises, improving their discrimination over time. But when researchers moved to language, the results became striking: the brain's neural activity carried enough information to predict upcoming words, a process called predictive coding that scientists previously associated only with wakeful attention.\n\nThese findings challenge fundamental assumptions about consciousness itself. If the brain can perform sophisticated language processing and prediction without awareness, what role does consciousness actually play? The discovery opens new possibilities for helping people with neurological injuries regain communication abilities, and suggests the unconscious mind deserves far more scientific attention than it has received. The sleeping brain, it turns out, is never truly resting.",
+  "category": "science",
+  "tags": [
+    "consciousness",
+    "neuroscience",
+    "anesthesia",
+    "brain-research",
+    "learning"
+  ],
+  "quick_facts": [
+    "Baylor College of Medicine recorded brain activity during epilepsy surgery under anesthesia",
+    "Neuropixels probes monitored hundreds of individual neurons in the hippocampus",
+    "Unconscious brains predicted upcoming words in stories with measurable neural patterns",
+    "Findings published in Nature journal, October 2026",
+    "Study challenges traditional understanding of consciousness and thinking"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+  "published": "2026-10-15T15:37:27Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Google DeepMind",
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+}
