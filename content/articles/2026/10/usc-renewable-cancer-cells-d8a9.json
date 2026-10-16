@@ -1,0 +1,29 @@
+{
+  "id": "d8a9172a471d8d15",
+  "slug": "usc-renewable-cancer-cells-d8a9",
+  "headline": "Scientists Unlock Endless Supply of Cancer-Fighting Immune Cells",
+  "meta_description": "USC researchers have engineered immature immune cells that can self-renew indefinitely, potentially revolutionizing cancer treatment and overcoming manufacturi…",
+  "summary_short": "USC scientists discovered how to grow cancer-fighting immune cells that renew themselves, offering a scalable solution for personalized immunotherapy.",
+  "body": "Researchers at the University of Southern California have solved one of cancer immunotherapy's greatest challenges: how to manufacture enough immune cells to treat patients effectively. By working with immature immune cells called granulocyte-monocyte progenitors (GMPs) rather than mature ones, the team discovered these precursor cells can multiply extensively in the laboratory while retaining their identity and ability to transform into powerful defenders. In mouse experiments, the engineered cells established themselves in bone marrow, continuously produced new immune cells, and successfully slowed progression of both blood cancers and solid tumors.\n\nThe breakthrough, published in the journal Cell, challenges decades of scientific assumption. Scientists had believed only the most primitive stem cells could self-renew indefinitely. The USC team demonstrated that under carefully controlled conditions, GMPs possess this same capacity—offering a renewable starting point for engineering cell therapies. This matters profoundly for solid tumors, where existing therapies have struggled. Unlike T cells that excel against blood cancers, macrophages (the immune cells GMPs can become) naturally penetrate tissues and tumors. But mature macrophages are difficult to multiply, genetically modify, and store. They also tend to accumulate in organs like the lungs and liver rather than spreading throughout the body.\n\nBy beginning with immature GMPs instead, researchers can grow vast quantities, engineer them to recognize cancer markers, and allow them to develop into functional macrophages once introduced into patients. Professor Qi-Long Ying notes the discovery establishes a \"scalable and engineerable platform\" with implications extending beyond cancer to infectious disease and other conditions requiring large supplies of customized immune cells.",
+  "category": "health",
+  "tags": [
+    "immunotherapy",
+    "cancer-research",
+    "stem-cells",
+    "medical-breakthrough",
+    "usc"
+  ],
+  "quick_facts": [
+    "USC researchers engineered immature immune cells (GMPs) to self-renew indefinitely",
+    "Study published in Cell; tested on mice with blood and solid tumors",
+    "Discovery challenges 50-year understanding of immune cell development",
+    "Macrophages naturally penetrate tumors but were previously impossible to mass-produce"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+  "published": "2026-10-16T15:23:39Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}

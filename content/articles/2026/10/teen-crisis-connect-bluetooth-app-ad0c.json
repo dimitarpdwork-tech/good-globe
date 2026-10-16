@@ -1,0 +1,29 @@
+{
+  "id": "ad0c3ddf47bf8037",
+  "slug": "teen-crisis-connect-bluetooth-app-ad0c",
+  "headline": "Teen's Bluetooth Messaging App Keeps Communities Connected When Disasters Strike",
+  "meta_description": "A 17-year-old's free app lets phones relay messages over Bluetooth when networks fail during earthquakes and disasters.",
+  "summary_short": "After the February 2023 earthquakes in Türkiye, a high school student created Crisis Connect, an app that lets nearby phones share messages over Bluetooth when cellular…",
+  "body": "When earthquakes devastated southern Türkiye and northern Syria in February 2023, the damage extended far beyond buildings—cellular towers and internet infrastructure fell silent, cutting off survivors from help. Hundreds of miles away in Istanbul, a high school student named Emirhan Durham recognized the crisis and began building a solution: Crisis Connect, an open-source messaging app that works when conventional networks don't. At just 17 years old, Durham leveraged Bluetooth—a shortwave frequency already present in millions of phones—to create a communication system that functions in disaster zones without relying on 4G, cellular signals, or mobile data.\n\nThe app's most innovative feature is its \"hopping\" capability. When enabled during emergencies, Crisis Connect allows phones to relay messages from device to device across a neighborhood or community, with each phone acting as a relay station. A message can bounce from one device to another until it reaches its destination, even if no direct connection exists. Users can share their location, send SOS beacons, access a digital whistle, and make encrypted calls—all while staying connected to nearby people, rescuers, and authorities. The relay feature is disabled by default to preserve battery life, activating only when users choose to enable it during an emergency.\n\nDurham takes a grounded approach to his creation's capabilities. He acknowledges that Crisis Connect works best when people prepare ahead by scanning QR codes to connect with family and neighbors before disaster strikes. The app cannot replace satellite links, emergency radios, or official warning systems, but it can bridge a critical gap during those first chaotic hours after impact when infrastructure is damaged and survivors desperately need to reach people nearby. Available free on both the App Store and Google Play, with its code open for developers worldwide to improve, Crisis Connect transforms a simple technology already in every pocket into a lifeline.",
+  "category": "progress",
+  "tags": [
+    "disaster-response",
+    "innovation",
+    "technology",
+    "communication",
+    "youth"
+  ],
+  "quick_facts": [
+    "17-year-old Istanbul student built Crisis Connect after 2023 Türkiye earthquakes",
+    "App uses Bluetooth frequencies to relay messages when cellular networks collapse",
+    "Messages \"hop\" between phones to reach recipients across neighborhoods",
+    "Free to download; open-source code available for global developers"
+  ],
+  "source_name": "Good News Network",
+  "source_url": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
+  "published": "2026-10-16T15:23:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/5703426/pexels-photo-5703426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Brett Jordan",
+  "photo_credit_url": "https://www.pexels.com/@brettjordan"
+}

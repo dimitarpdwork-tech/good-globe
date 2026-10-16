@@ -1,0 +1,30 @@
+{
+  "id": "2c6709586e425555",
+  "slug": "protein-cancer-immune-cells-breakthrough-2c67",
+  "headline": "Scientists Turn a Cancer-Feeding Protein Into a Tumor Fighter",
+  "meta_description": "Researchers at Cold Spring Harbor Laboratory discovered how activating PPARD in immune cells makes them better at attacking tumors, offering hope for hard-to-t…",
+  "summary_short": "A protein that fuels cancer growth can be weaponized against tumors by activating it in immune cells instead, early research shows.",
+  "body": "Scientists at Cold Spring Harbor Laboratory have made a striking discovery: a protein normally associated with cancer growth can be repurposed as a powerful weapon against tumors when activated in the right cells. By stimulating PPARD in immune cells, researchers made them more effective at burning fat for energy and attacking cancers. In laboratory experiments, this approach slowed or stopped tumor growth in colorectal cancer, breast cancer, ovarian cancer, and melanoma. The findings, published in Nature Immunology, offer new hope for patients whose cancers have resisted chemotherapy and existing immunotherapy treatments.\n\nAssistant Professor Semir Beyaz led the research by exploring what he calls the \"metabolic fitness\" of immune cells. The team discovered that when immune cells burn more fat, they become more capable of fighting cancer. Working with engineered immune cells called CAR T cells—which are already used to treat certain cancers—researchers activated PPARD and tested them against multiple experimental models of human colorectal cancer, including miniature tumors grown from patient tissue and cancer cells implanted into mice. Across these tests, the enhanced CAR T cells proved more effective.\n\nThe breakthrough carries particular significance for colorectal cancer, which has become the leading cause of cancer-related death among people under 50. Many younger patients face limited treatment options when standard therapies fail. Beyaz compares PPARD's dual nature to a force that can serve either good or evil—in cancer cells it drives disease progression, but in immune cells it becomes a cancer-fighting ally. While the approach has not yet been tested in patients, the laboratory results suggest that improving how immune cells process energy could make existing immunotherapy strategies significantly more effective, opening a path forward for those with difficult-to-treat tumors.",
+  "category": "science",
+  "tags": [
+    "immunotherapy",
+    "cancer-research",
+    "protein-science",
+    "medical-breakthrough",
+    "cellular-fitness"
+  ],
+  "quick_facts": [
+    "Cold Spring Harbor Laboratory scientists discovered the breakthrough",
+    "PPARD protein controls how cells burn fat for energy",
+    "Colorectal cancer leading cause of death for people under 50",
+    "Approach tested successfully against colorectal, breast, ovarian cancers, and melanoma",
+    "Results published in Nature Immunology journal"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm",
+  "published": "2026-10-16T15:23:31Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}
