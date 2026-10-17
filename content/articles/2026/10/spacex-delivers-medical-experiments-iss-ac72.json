@@ -1,0 +1,30 @@
+{
+  "id": "ac7249d818d38656",
+  "slug": "spacex-delivers-medical-experiments-iss-ac72",
+  "headline": "Artificial Retinas and Brain Models Arrive at Space Station",
+  "meta_description": "SpaceX's Dragon spacecraft delivered groundbreaking medical experiments to the ISS, including artificial retinas and brain tissue models that could help treat…",
+  "summary_short": "SpaceX just delivered miniature brain models, artificial retinas, and 3D heart tissue to the International Space Station—cargo that could revolutionize treatment for bli…",
+  "body": "On October 15, SpaceX's Dragon spacecraft arrived at the International Space Station with cargo that reads more like science fiction than routine resupply. Among the 6,300 pounds of food and supplies delivered to Expedition 75 were experiments designed to transform medicine: equipment for manufacturing artificial retinas in microgravity, three-dimensional heart tissue models, and brain organoids—tiny reconstructions of human brain tissue grown from cells. Scientists believe that conducting these experiments in the weightless environment of space could unlock new treatments for blindness, neurological diseases like Alzheimer's and Parkinson's, and accelerate drug testing. This was SpaceX's 35th commercial resupply mission under its NASA contract, but the scientific payload represents an unusual frontier in medical research.\n\nThe experiments highlight why the space station has become a floating laboratory for human health. Brain organoids, grown from cells in microgravity, allow researchers to study aspects of brain biology difficult to examine on Earth. The 3D heart tissue models will help scientists test large numbers of potential drugs during future missions—a process that could dramatically speed up pharmaceutical development. Perhaps most exciting is the equipment for creating artificial retinas in space; researchers hope this technology will eventually restore vision for people with serious eye conditions.\n\nBeyond medicine, Dragon also carried the final upgraded solar arrays for the station, designed to expand its electrical capacity. The spacecraft will remain docked until mid-November, when it will return to Earth carrying time-sensitive research materials in a splashdown off the California coast. The mission launched October 13 from Cape Canaveral Space Force Station in Florida, beginning a journey that turned the ordinary act of resupply into something far more hopeful—a step toward curing diseases that have long seemed untreatable.",
+  "category": "science",
+  "tags": [
+    "spacex",
+    "iss",
+    "medical-research",
+    "microgravity",
+    "neuroscience"
+  ],
+  "quick_facts": [
+    "SpaceX Dragon docked October 15 with 6,300 pounds of cargo",
+    "Experiments include artificial retinas, brain organoids, and heart tissue",
+    "Research in microgravity could help treat blindness and neurological diseases",
+    "Final solar arrays delivered to boost station's electrical capacity",
+    "35th commercial resupply mission under NASA contract"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+  "published": "2026-10-17T14:14:01Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/23793/rocket-launch-space-discovery.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "SpaceX",
+  "photo_credit_url": "https://www.pexels.com/@spacex"
+}
