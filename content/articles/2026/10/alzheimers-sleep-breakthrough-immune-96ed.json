@@ -1,0 +1,30 @@
+{
+  "id": "96edaa29553b0cc9",
+  "slug": "alzheimers-sleep-breakthrough-immune-96ed",
+  "headline": "Sleep restored in Alzheimer's without removing brain plaques",
+  "meta_description": "Researchers restored over two hours of daily sleep in Alzheimer's mice by targeting immune cells, not plaques, offering a new treatment pathway.",
+  "summary_short": "Scientists discovered that overactive immune cells—not brain plaques alone—cause sleep loss in Alzheimer's disease, restoring sleep by temporarily removing these cells.",
+  "body": "Researchers at the University of Kentucky have made an unexpected discovery that could reshape how doctors treat one of Alzheimer's disease's most debilitating symptoms: severe sleep disruption. By temporarily eliminating most of the brain's immune cells in mice with Alzheimer's-like changes, scientists restored more than two hours of sleep per day—without removing a single amyloid plaque. The finding, published in Alzheimer's & Dementia, suggests that the brain's own defensive response to disease may cause as much harm as the disease itself.\n\nThe culprit is microglia, specialized immune cells that normally protect the nervous system. When these cells detect amyloid plaques, their defensive response becomes excessive, releasing inflammatory signals that keep the brain awake rather than defending it. Shannon L. Macauley, associate professor of physiology at the university's College of Medicine, described the discovery as \"paradigm-shifting.\" \"It is not the plaques themselves, or solely dysfunctional neurons, that cause sleep loss but actually microglia,\" Macauley explained. The researchers used advanced brain imaging and sleep-tracking technology—including electroencephalography and light-sheet microscopy—to map exactly where microglia were clustering and how their activity disrupted sleep patterns across the brain.\n\nThe team administered Pexidartinib, a drug originally developed for cancer research, which blocks the cellular signals microglia depend on for survival. The temporary reduction of 87 percent of these immune cells allowed mice to spend significantly more time in deep, restorative sleep stages. This finding opens a new therapeutic avenue: instead of chasing plaques, treatments could target the brain's overactive immune response. For millions facing Alzheimer's-related insomnia, this represents hope that one of the disease's cruelest symptoms might finally be reversible.",
+  "category": "health",
+  "tags": [
+    "alzheimers-disease",
+    "sleep-disorders",
+    "neuroscience",
+    "immune-system",
+    "medical-research"
+  ],
+  "quick_facts": [
+    "University of Kentucky researchers restored 2+ hours daily sleep in mice",
+    "Achieved results without removing amyloid plaques from the brain",
+    "Microglia immune cells, not plaques, caused sleep disruption",
+    "Study published in Alzheimer's & Dementia journal, October 2026",
+    "Drug Pexidartinib temporarily reduced 87% of brain immune cells"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+  "published": "2026-10-19T17:30:56Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}

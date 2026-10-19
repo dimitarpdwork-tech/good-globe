@@ -1,0 +1,30 @@
+{
+  "id": "fb6b746a0c5aed11",
+  "slug": "optogenetics-nobel-prize-brain-fb6b",
+  "headline": "Light-Controlled Brain Cells Win Nobel Prize for Medicine",
+  "meta_description": "Scientists honored for breakthrough technique using light to control brain cells, with early success treating vision loss and neurological disorders.",
+  "summary_short": "Three scientists won the 2026 Nobel Prize in Physiology or Medicine for optogenetics—a technique that lets researchers switch brain cells on and off using light.",
+  "body": "Three scientists have won the 2026 Nobel Prize in Physiology or Medicine for discovering how to control brain cells with light. Karl Deisseroth of Stanford University, Peter Hegemann of Humboldt University of Berlin, and Georg Nagel of the University of Würzburg were honored for their research into optogenetics—the ability to switch nerve cells on and off using light. The breakthrough emerged from an unlikely source: studying how a single-celled alga called Chlamydomonas senses light. Hegemann and Nagel discovered that the alga uses a protein called channelrhodopsin, which responds to light by opening a passage in the cell membrane. Deisseroth and his colleagues realized this same mechanism could work in nerve cells, transforming it into a powerful tool for understanding how the brain works.\n\nThe practical applications are already becoming real. In a landmark 2012 experiment, researchers at MIT used optogenetics to reactivate a specific memory in mice—shining light on tagged brain cells made the animals freeze in fear, as if recalling a shock they had received days earlier in a different cage. Today, optogenetics is in early-stage clinical trials for people with retinal degeneration, where light-sensitive proteins are introduced into surviving cells in the eye to restore some vision. Scientists are also exploring treatments for Parkinson's disease and epilepsy.\n\nWhat makes this Nobel Prize particularly meaningful is its origin: a seemingly abstract question about how algae swim toward light. The discovery demonstrates why fundamental scientific curiosity matters. No one predicted that asking how a microscopic organism detects its environment would eventually lead to tools for restoring sight and treating brain disorders. Sometimes the path from pure knowledge to human benefit winds in surprising directions.",
+  "category": "science",
+  "tags": [
+    "optogenetics",
+    "neuroscience",
+    "nobel-prize",
+    "brain-research",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Winners: Karl Deisseroth, Peter Hegemann, Georg Nagel",
+    "Technique lets scientists switch brain cells on and off with light",
+    "Already in early clinical trials for restoring vision",
+    "Discovery began by studying single-celled algae Chlamydomonas",
+    "2012 MIT experiment successfully reactivated specific memory in mice"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+  "published": "2026-10-19T17:30:48Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "7030648e459f7ea5",
+  "slug": "alzheimers-protective-mutation-discovered-7030",
+  "headline": "Scientists find why some dodge Alzheimer's despite risky genes",
+  "meta_description": "Researchers at Columbia University discover a rare genetic mutation that protects the brain from Alzheimer's, even in those carrying high-risk genes.",
+  "summary_short": "A rare mutation in the FN1 gene shields some people with Alzheimer's risk genes from cognitive decline, pointing to new treatment possibilities.",
+  "body": "Some people inherit one of the strongest genetic risk factors for Alzheimer's disease yet remain mentally sharp well into their 80s. Researchers at Columbia University have now uncovered why: a rare protective mutation in the fibronectin (FN1) gene prevents harmful protein buildup around the brain's blood vessels. The discovery, published in Nature Aging, reveals that people carrying the high-risk APOE ε4 gene variant—but also possessing the rare FN1 mutation—are shielded from early brain damage, offering a potential blueprint for new treatments that could mimic this natural defense.\n\nThe key lies in the blood-brain barrier, a protective boundary made of tightly connected cells around brain blood vessels. In people with APOE ε4, excessive fibronectin accumulates and weakens this barrier, allowing harmful substances to enter brain tissue. Using multiple research approaches—human brain tissue analysis, stem-cell models, and studies in mice and zebrafish—Columbia scientists demonstrated that the rare FN1 mutation limits this buildup. When researchers increased fibronectin in specialized brain support cells called astrocytes, the barrier became leaky; reducing fibronectin restored its function. The excess fibronectin disrupts cellular communication through proteins called integrins, triggering abnormal signals that damage the barrier's structural integrity.\n\n\"We knew that changes in fibronectin could protect against Alzheimer's, but we didn't know why excess fibronectin was harmful,\" explains Caghan Kizil, the study's corresponding author and professor at Columbia University's Department of Neurology. This detailed understanding of the mechanism opens a practical pathway: scientists may now develop treatments that recreate the protection this rare mutation naturally provides, potentially preventing brain damage in millions who carry genetic vulnerability to Alzheimer's.",
+  "category": "science",
+  "tags": [
+    "alzheimers",
+    "genetics",
+    "neuroscience",
+    "brain-health",
+    "medical-research"
+  ],
+  "quick_facts": [
+    "Columbia University researchers identified protective rare FN1 gene mutation",
+    "People with APOE ε4 had nearly twice as much fibronectin in brains",
+    "Excess fibronectin weakens the blood-brain barrier, allowing harmful substances in",
+    "Study published in Nature Aging points toward new treatment development"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+  "published": "2026-10-19T17:30:41Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/17483867/pexels-photo-17483867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Google DeepMind",
+  "photo_credit_url": "https://www.pexels.com/@googledeepmind"
+}
