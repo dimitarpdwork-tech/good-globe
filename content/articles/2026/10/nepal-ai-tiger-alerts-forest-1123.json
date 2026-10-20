@@ -1,0 +1,30 @@
+{
+  "id": "1123b65e1a7beef5",
+  "slug": "nepal-ai-tiger-alerts-forest-1123",
+  "headline": "AI Learns to Listen: Nepal's New Tiger Alert System Saves Lives",
+  "meta_description": "Researchers in Nepal deployed AI-powered acoustic monitors to detect tiger presence using alarm calls from deer, protecting both wildlife and forest communitie…",
+  "summary_short": "A new AI system in Nepal listens to forest alarm calls to warn people of nearby tigers, combining local knowledge with technology to prevent dangerous encounters.",
+  "body": "In the forests bordering Bardiya National Park in Nepal, a quiet revolution is underway. Researchers have deployed artificial intelligence-powered acoustic monitors that listen for alarm calls from chital deer—a survival skill Indigenous communities have practiced for generations—to map where tigers or leopards may be present and warn humans to stay away. The pilot project, using ten solar-powered devices costing about $60 each, detected prey alarm calls and transmitted alerts through a wireless network, helping prevent dangerous encounters in an area where tigers attacked 245 people between 2010 and 2024, killing 141 of them.\n\nThe innovation didn't teach the forest or its people something new; rather, it taught a computer to recognize what local residents already understood. Forest guards like Thenghchu Tharu, who has relied for years on chital deer calls to gauge predator presence, found the system's alerts matched exactly with signs observed on the ground. When the technology flagged tiger activity in a particular area, residents could be warned not to enter—protecting people who depend on the forest for firewood, fodder, and livestock grazing.\n\nBhadai Tharu, a tiger-attack survivor who lost sight in his left eye during an encounter in 2004, remains a voice for coexistence. Now chair of the Gauri Community Forest, he sees the technology as a bridge between conservation and human safety. \"It can save people from attacks,\" he says. With Nepal's tiger population at a record 429 individuals, this system offers a path forward—one that honors both the ecological role of these endangered cats and the lives of the people who share their world.",
+  "category": "progress",
+  "tags": [
+    "tiger-conservation",
+    "artificial-intelligence",
+    "nepal",
+    "wildlife-protection",
+    "human-wildlife-coexistence"
+  ],
+  "quick_facts": [
+    "129 tiger-related deaths in Bardiya National Park alone between 2019 and 2023",
+    "Solar-powered acoustic monitors cost approximately $60 each",
+    "AI system trained to recognize chital deer alarm calls as predator indicators",
+    "Nepal's tiger population reaches record 429 individuals",
+    "Local communities tested system in Dalla Community Forest for three months"
+  ],
+  "source_name": "Mongabay",
+  "source_url": "https://news.mongabay.com/2026/10/in-nepal-ai-builds-on-local-knowledge-to-help-prevent-tiger-attacks/",
+  "published": "2026-10-20T10:07:23Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/20393013/pexels-photo-20393013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "patrice schoefolt",
+  "photo_credit_url": "https://www.pexels.com/@sunny67"
+}
