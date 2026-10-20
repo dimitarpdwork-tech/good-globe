@@ -1,0 +1,29 @@
+{
+  "id": "44ada3f7a804e3c2",
+  "slug": "statins-muscle-damage-discovery-44ad",
+  "headline": "Breakthrough reveals how statins damage muscle—and how to fix it",
+  "meta_description": "UBC scientists uncover exactly why statins cause muscle pain, opening the door to safer heart medications for 200 million users worldwide.",
+  "summary_short": "Researchers at the University of British Columbia have finally solved a decades-old puzzle: how statins cause muscle damage. The discovery could lead to safer versions.",
+  "body": "For decades, statins have saved millions of lives by lowering cholesterol and preventing heart attacks and strokes. Yet some patients experience muscle pain, weakness, or even severe breakdown—complications that sometimes force them to abandon medications they desperately need. Now, scientists at the University of British Columbia have uncovered the precise molecular culprit, revealing a pathway that could lead to safer versions of these essential drugs.\n\nUsing cryo-electron microscopy to peer at protein structures almost atom by atom, researchers discovered that statin molecules latch onto a calcium-control channel called the ryanodine receptor in muscle cells. The mechanism is surprisingly intricate: three statin molecules work together to force the channel open, allowing calcium to leak continuously where it should remain tightly regulated. This uncontrolled calcium flow injures muscle tissue, explaining why some patients develop soreness or, in rare cases, life-threatening complications.\n\nThe finding matters because it gives drug developers a roadmap. Rather than simply accepting muscle damage as an inevitable trade-off, scientists can now modify statin molecules to prevent this specific interaction while preserving their cholesterol-lowering power. More than 200 million people worldwide take statins, and while severe muscle injury remains uncommon, less serious symptoms like weakness and fatigue are widespread enough that many patients stop treatment entirely—losing crucial heart protection in the process. \"Our goal is to make them even safer, so patients can benefit without fear of serious side effects,\" said Dr. Filip Van Petegem, the senior researcher. Future medications could finally deliver the cardiovascular benefits statins promise without forcing patients to choose between their hearts and their muscles.",
+  "category": "science",
+  "tags": [
+    "statins",
+    "muscle-health",
+    "drug-safety",
+    "medical-research",
+    "cardiovascular"
+  ],
+  "quick_facts": [
+    "University of British Columbia researchers identified how statins damage muscle cells",
+    "Three statin molecules work together to hold open a calcium channel",
+    "Over 200 million people worldwide currently take statins",
+    "Finding could guide development of safer cholesterol-lowering drugs"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+  "published": "2026-10-20T15:40:18Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8533045/pexels-photo-8533045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Artem Podrez",
+  "photo_credit_url": "https://www.pexels.com/@artempodrez"
+}
