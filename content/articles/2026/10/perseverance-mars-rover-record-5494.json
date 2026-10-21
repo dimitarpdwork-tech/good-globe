@@ -1,0 +1,29 @@
+{
+  "id": "5494d50f523eb36b",
+  "slug": "perseverance-mars-rover-record-5494",
+  "headline": "Perseverance Mars Rover Breaks All-Time Off-World Driving Record",
+  "meta_description": "NASA's Perseverance rover has traveled farther across Mars than any vehicle in history, surpassing Opportunity's record in half the time.",
+  "summary_short": "NASA's Perseverance rover has shattered the all-time off-world driving record, traveling 28.10 miles across Mars in just 5.5 years—nearly three times faster than Opportu…",
+  "body": "On October 11, 2026, NASA's Perseverance rover rolled past a historic milestone that no human-made vehicle had achieved before. Its odometer crossed 28.10 miles (45.22 kilometers), surpassing the previous record of 28.06 miles set by NASA's Opportunity rover between 2004 and 2018. What makes Perseverance's achievement remarkable isn't just the distance—it's the speed. Where Opportunity needed nearly 15 years to cover that ground, Perseverance accomplished it in just five and a half years, reaching the milestone on its 2,006th Martian day.\n\nThe breakthrough reflects a quantum leap in robotic intelligence. Unlike Opportunity, which relied on Earth-based instructions for most of its driving, Perseverance navigates largely on its own using an autonomous system called AutoNav. As it moves across the Martian landscape, the rover captures images in real time, builds three-dimensional maps of obstacles, and charts its own safe path—what NASA engineers describe as \"thinking while driving.\" The difference is staggering: over 90 percent of Perseverance's journey has involved AutoNav making decisions, compared to just 5 percent for Opportunity. Even more telling, Perseverance analyzes approximately 600,000 terrain points each drive, versus the 20 measurement points that early rover Sojourner evaluated in 1997.\n\nAll this speed serves a deeper purpose. Perseverance is now exploring the region around \"Idubi,\" an area west of Jezero Crater believed to contain some of the oldest terrain in the solar system. Scientists hope the rocks there will reveal evidence of ancient hydrothermal systems—heated water that once flowed through stone and may have supported life. NASA has already approved an extended mission through 2028, meaning this record-breaking rover still has years of discovery ahead. After nearly three decades of Mars exploration, each generation of rovers has traveled farther and smarter than the last.",
+  "category": "science",
+  "tags": [
+    "mars-exploration",
+    "nasa-perseverance",
+    "robotics",
+    "space-achievement",
+    "autonomous-navigation"
+  ],
+  "quick_facts": [
+    "Perseverance traveled 28.10 miles on Mars, breaking Opportunity's 15-year record in 5.5 years",
+    "AutoNav autonomous system analyzed 600,000 terrain points per drive decision",
+    "Over 90% of Perseverance's distance involved self-driving technology",
+    "Mission extension approved through end of 2028"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+  "published": "2026-10-21T15:58:53Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8474424/pexels-photo-8474424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "RDNE Stock project",
+  "photo_credit_url": "https://www.pexels.com/@rdne"
+}
