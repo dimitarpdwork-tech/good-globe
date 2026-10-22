@@ -1,0 +1,30 @@
+{
+  "id": "269234001bad1792",
+  "slug": "oxford-viruses-self-assembly-discovery-2692",
+  "headline": "How Viruses Build Themselves Without Instructions",
+  "meta_description": "Oxford researchers watched virus particles assemble molecule by molecule, revealing how proteins find the right arrangement without a blueprint.",
+  "summary_short": "Scientists at Oxford have discovered the simple rules viruses use to build their protective shells with remarkable precision—a breakthrough that could transform vaccine…",
+  "body": "Researchers at the University of Oxford have solved a decades-old puzzle: how viruses construct their protective protein shells with precision, despite having no blueprint or external machinery to guide them. By watching virus-like particles assemble one molecule at a time using a technique called mass photometry, the team discovered that viral construction works like navigating a maze, where only certain pathways lead to lasting progress. The findings, published in Nature, reveal that proteins make weak initial connections that can easily break apart if the arrangement fails, allowing molecules to keep trying different combinations until they form the correct closed structures. Understanding this process opens doors to new antiviral drugs, improved vaccines, and other medical breakthroughs.\n\nThe Oxford team, led by researchers in the Department of Chemistry and Kavli Institute for Nanoscience Discovery, engineered a virus-like particle made of 60 protein units. Using a technique that measures how light scatters off individual molecules, they could track each building block as it attached, effectively recording a video of the assembly process happening in real time. Crucially, they identified a molecular turning point: when five larger protein building blocks connect to form a closed pentagonal ring, the structure becomes stable enough to dramatically speed up further assembly.\n\nWhat makes this discovery profound is not just what it reveals, but how it changes what scientists can study. For decades, researchers could only examine the starting materials and finished particles—the beginning and end of a story. The intermediate structures that actually drive assembly existed only briefly and in tiny quantities, making them nearly invisible to traditional methods. Now, by keeping individual molecules confined and continuously observable, scientists can watch the precise choreography of how disorder transforms into order, how trial and error produces reliable complexity, and where the critical moments of success occur.",
+  "category": "science",
+  "tags": [
+    "virology",
+    "self-assembly",
+    "structural-biology",
+    "vaccine-development",
+    "molecular-imaging"
+  ],
+  "quick_facts": [
+    "University of Oxford researchers observed virus assembly molecule by molecule",
+    "Engineered virus-like particle composed of 60 protein units studied",
+    "Pentagonal ring formation marks the first highly stable assembly checkpoint",
+    "Mass photometry technique measures light scattered by individual molecules",
+    "Findings published in Nature journal, October 2026"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+  "published": "2026-10-22T15:54:13Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/3993212/pexels-photo-3993212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "CDC",
+  "photo_credit_url": "https://www.pexels.com/@cdc-library"
+}
