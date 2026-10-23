@@ -1,0 +1,30 @@
+{
+  "id": "5b8b239b341c2402",
+  "slug": "cambridge-optical-sensor-wearable-health-5b8b",
+  "headline": "Lab-Quality Health Sensor Costs Just $10, Could End Needle Pricks",
+  "meta_description": "Researchers at Cambridge created a $10 optical sensor small enough for wearables that measures blood glucose and other biomarkers without needles.",
+  "summary_short": "A breakthrough $10 optical sensor from Cambridge could bring laboratory precision to wearable devices, measuring blood glucose and health markers without invasive proced…",
+  "body": "Researchers at the University of Cambridge have developed a device the size of a few centimeters that performs like a full laboratory spectrometer—but costs only $10. The optical sensor achieved 100% accuracy when identifying plastics, pharmaceuticals, and foods in testing, and demonstrated the ability to monitor blood glucose, blood alcohol, and skin moisture without needles or painful skin piercing. If refined further, the technology could transform how millions of people manage diabetes and other conditions requiring regular biomarker tracking.\n\nThe breakthrough relies on a mathematical principle called the convolution theorem, applied directly to light analysis. Unlike traditional spectrometers that separate light into component wavelengths or use complex calculations, this \"convolutional spectrometer\" performs the mathematical operation on incoming light itself. Built using a silicon nitride platform and integrated with onboard electronics, the device operates across near-infrared wavelengths between 1200-1700 nanometers and processes measurements in under a second. Remarkably, it maintains reliable operation across extreme temperatures—from minus 20 degrees Celsius to 80 degrees Celsius.\n\nBeyond healthcare, the implications ripple across food safety, manufacturing, and environmental monitoring. In laboratory tests, the sensor matched or exceeded the performance of commercial benchtop spectrometers when measuring concentrations in solutions, achieving accuracies around 0.01%. The researchers, working with start-up GlitterinTech, designed the system to expand its capabilities without major hardware changes—adding more optical components can increase resolution exponentially. The real story here isn't just the technology itself, but its readiness for the real world. The team translated an abstract mathematical concept into a rugged, practical system that works reliably under messy conditions rather than ideal laboratory settings.",
+  "category": "science",
+  "tags": [
+    "wearable-health",
+    "medical-technology",
+    "cambridge-research",
+    "optical-sensor",
+    "glucose-monitoring"
+  ],
+  "quick_facts": [
+    "University of Cambridge optical sensor costs just $10 to manufacture",
+    "Device achieved 100% accuracy identifying plastics, pharmaceuticals, and foods",
+    "Successfully monitored blood glucose without invasive needles in testing",
+    "Operates reliably between -20°C and 80°C temperature extremes",
+    "Measures chemical concentrations with 0.01% accuracy in lab tests"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+  "published": "2026-10-23T10:07:46Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/12738910/pexels-photo-12738910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Katja Burger",
+  "photo_credit_url": "https://www.pexels.com/@katja-burger-265554662"
+}
