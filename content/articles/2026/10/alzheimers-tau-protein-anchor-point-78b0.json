@@ -1,0 +1,30 @@
+{
+  "id": "78b0820aa16858b6",
+  "slug": "alzheimers-tau-protein-anchor-point-78b0",
+  "headline": "Scientists pinpoint Alzheimer's weak point—and a path to stop it",
+  "meta_description": "Researchers identify the exact spot where Alzheimer's tau proteins begin to misfold, offering a concrete target for future drug development.",
+  "summary_short": "Northwestern and UC Santa Barbara scientists found where tau proteins dock before tangling in the brain—a discovery that could unlock new Alzheimer's treatments.",
+  "body": "Scientists at Northwestern University and UC Santa Barbara have discovered the precise location where Alzheimer's disease begins its destructive work at the molecular level. Using nuclear magnetic resonance spectroscopy, chemist Songi Han and his team identified a contact point around amino acid 300 on tau proteins where misfolding initiates. This region acts as an anchor, docking to existing tau fibers before the rest of the protein aligns to form the knotted tangles that accumulate in Alzheimer's brains. The finding, published in the Proceedings of the National Academy of Sciences, suggests this hotspot could become a drug target to slow or prevent tau tangle growth.\n\nIn healthy brains, tau proteins act as internal scaffolding for nerve cells. But in diseases like Alzheimer's and frontotemporal dementia, tau misfolds and recruits other healthy proteins to adopt the same abnormal shape, creating fibrillar aggregates that spread through brain tissue. The team's breakthrough came from understanding the mechanism: they discovered that the anchor site has an unusual arrangement of water molecules that are easily displaced when another tau molecule approaches. This displacement lowers the energy cost of attachment, essentially making the docking process easier. When researchers chemically blocked this anchor point, fiber growth was inhibited—while blocking other positions had far less effect.\n\n\"If you know where to block its action of misfolding, you could block it to prevent it from propagating,\" Han explained. The next questions involve testing whether this mechanism holds across different tau variants and whether it can be safely disrupted in living brains, since the current experiments used shortened tau constructs rather than full-length proteins from human tissue. Yet the specificity of this finding—one clear hotspot where aggregation always begins—offers genuine hope for a more targeted approach to treating a disease that has long resisted simple solutions.",
+  "category": "health",
+  "tags": [
+    "alzheimers",
+    "tau-protein",
+    "neuroscience",
+    "drug-development",
+    "brain-health"
+  ],
+  "quick_facts": [
+    "Researchers identified tau protein's anchor point at amino acid 300",
+    "Finding published in Proceedings of the National Academy of Sciences",
+    "Northwestern University and UC Santa Barbara led the research",
+    "Water molecule displacement lowers the energy cost of tau docking",
+    "Blocking the anchor site inhibited fiber growth in experiments"
+  ],
+  "source_name": "The Optimist Daily",
+  "source_url": "https://www.optimistdaily.com/2026/10/new-research-identifies-the-exact-spot-where-alzheimers-protein-tangles-lock-in/",
+  "published": "2026-10-23T15:46:09Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/13014236/pexels-photo-13014236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Steve A Johnson",
+  "photo_credit_url": "https://www.pexels.com/@steve"
+}
