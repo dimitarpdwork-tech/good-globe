@@ -1,0 +1,30 @@
+{
+  "id": "f72a1962627e4fb3",
+  "slug": "bennu-samples-solar-system-formation-f72a",
+  "headline": "Asteroid Bennu's Ancient Dust Unlocks 4.5-Billion-Year Solar System Mystery",
+  "meta_description": "NASA's Bennu samples reveal the asteroid formed where inner and outer Solar System materials mixed, with Jupiter playing a surprising role.",
+  "summary_short": "Tiny samples from asteroid Bennu are rewriting how scientists understand our Solar System's birth, revealing Jupiter's unexpected influence on ancient asteroid formation.",
+  "body": "When a capsule carrying 120 grams of asteroid material landed in the Utah desert on September 23, 2023, it brought news that would reshape our understanding of cosmic origins. Scientists analyzing samples from NASA's OSIRIS-REx mission discovered that asteroid Bennu formed not in a single region of the early Solar System, but at a boundary where materials from both inner and outer regions met and mixed. The research, led by Maria Schönbächler's laboratory at ETH Zurich, reveals that Bennu shares a nearly identical chemical fingerprint with the asteroid Ryugu and a rare group of meteorites called CI meteorites—suggesting all three came from the same ancient cosmic reservoir.\n\nThe team examined isotopes of iron, titanium, and chromium in Bennu's material, essentially reading the asteroid's chemical autobiography. Their findings challenge decades of scientific assumptions. Rather than forming in the distant outer Solar System, Bennu accumulated near the water-ice line—a temperature boundary in the young Sun's surrounding disk where water vapor froze into ice and helped particles stick together. \"Bennu is a hybrid,\" Schönbächler explains, its material drawn from both regions rather than a single source.\n\nMost remarkably, Jupiter appears to have orchestrated this cosmic mixing. The gas giant formed extraordinarily early, within one million years of the Sun's birth, and its immense gravity reshaped the disk's material distribution. Acting as a structural barrier, Jupiter allowed fine dust from different regions to flow around it while blocking larger particles, enabling thorough mixing near the water-ice line. The parent bodies of Bennu and Ryugu, along with objects that produced CI meteorites, coalesced from this thoroughly blended material—making Jupiter an unexpected architect of ancient asteroid formation.",
+  "category": "science",
+  "tags": [
+    "asteroid-bennu",
+    "solar-system",
+    "jupiter",
+    "space-exploration",
+    "planetary-science"
+  ],
+  "quick_facts": [
+    "120 grams of Bennu material landed in Utah desert, September 2023",
+    "Bennu, Ryugu, and CI meteorites share nearly identical chemical signatures",
+    "Jupiter formed within ~1 million years of the Sun's birth",
+    "Bennu formed at the water-ice line where inner and outer materials mixed",
+    "Asteroid Bennu orbits the Sun every 1.2 years"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+  "published": "2026-10-24T14:35:45Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/30327373/pexels-photo-30327373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Yihan Wang",
+  "photo_credit_url": "https://www.pexels.com/@yihan-wang-2148192610"
+}
