@@ -1,0 +1,30 @@
+{
+  "id": "81c79aace3ea5945",
+  "slug": "pancreatic-cancer-dna-adaptation-breakthrough-81c7",
+  "headline": "Researchers Find Key to Stopping Pancreatic Cancer's Escape Act",
+  "meta_description": "Scientists at NYU Langone discovered how pancreatic cancer rewrites its DNA to resist treatment—and found a gene that could reverse the process.",
+  "summary_short": "Researchers studying nearly half a million individual cancer cells uncovered how pancreatic tumors continually reshape their genetic makeup to survive treatment.",
+  "body": "Scientists at NYU Langone Health have identified how pancreatic cancer cells continuously rewrite their genetic code to become more aggressive and evade treatment—and more importantly, they've found a way to reverse some of these dangerous changes. By examining nearly half a million individual cancer cells rather than studying them in bulk, researchers discovered that pancreatic tumors contain distinct populations of cancer cells, each with different strategies for survival. When they blocked the MYC gene in aggressive cancer cells, those cells shifted back toward a less dangerous state and became more visible to the immune system. The findings, published in Nature Genetics in October 2026, represent the most detailed view yet of how pancreatic ductal adenocarcinoma evolves over time.\n\nPancreatic cancer remains one of the deadliest forms of the disease, with nearly 85 percent of patients dying within five years of diagnosis. Previous research had identified more than a dozen genes linked to the disease, yet much remained mysterious about how cancer cells adapt. The single-cell analysis approach revealed that cancer cells can shift between two known states—classical, which is less aggressive, and basal, which is more aggressive. This genetic plasticity allows tumors to reorganize themselves, developing populations resistant to specific treatments while simultaneously improving their ability to spread.\n\nThe research also uncovered why pancreatic cancer often resists immunotherapy. Certain cancer cell clones showed high activity of the TIGIT gene, which helps tumors hide from immune detection, while simultaneously reducing activity of the PD1 gene. This combination may explain why treatments targeting PD1 have had limited success. Clinical trials investigating MYC and TIGIT inhibitors are already underway, offering hope that these discoveries could lead to more effective, personalized treatments tailored to a tumor's specific genetic makeup.",
+  "category": "science",
+  "tags": [
+    "pancreatic-cancer",
+    "genetic-research",
+    "cancer-treatment",
+    "immunotherapy",
+    "medical-breakthrough"
+  ],
+  "quick_facts": [
+    "Nearly 85% of pancreatic cancer patients die within five years of diagnosis",
+    "Scientists examined 500,000 individual cancer cells at NYU Langone Health",
+    "Blocking the MYC gene made aggressive cancer cells less dangerous",
+    "Study published in Nature Genetics, October 2026",
+    "Single-cell analysis revealed how tumors shift between classical and basal states"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+  "published": "2026-10-25T14:58:04Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}
