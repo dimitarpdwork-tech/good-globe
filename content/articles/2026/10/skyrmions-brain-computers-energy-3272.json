@@ -1,0 +1,30 @@
+{
+  "id": "3272e9319f08666f",
+  "slug": "skyrmions-brain-computers-energy-3272",
+  "headline": "Magnetic Vortices Point Way to Computers That Think Like Brains",
+  "meta_description": "Scientists film tiny magnetic vortices called skyrmions melting for the first time, opening a path to energy-efficient computers modeled on how brains work.",
+  "summary_short": "Researchers have filmed magnetic skyrmions melting in real time while controlling them individually—a breakthrough that could lead to brain-like computers using far less…",
+  "body": "Scientists at Johannes Gutenberg University in Mainz, Germany, have achieved something never before documented: they filmed tiny magnetic vortices called skyrmions melting out of an organized lattice while simultaneously manipulating individual skyrmions on the fly. The breakthrough, published in Nature Nanotechnology, reveals new ways to control these microscopic structures and points toward a future where computers could operate far more like the human brain while consuming dramatically less energy. Asle Sudbø, who leads the Centre for Quantum Spintronics at Norway's NTNU, explained the significance: skyrmions could enable data storage systems that are much smaller and more energy-efficient than current technology, which requires ever more space and power as data quantities grow.\n\nUnder certain conditions, skyrmions organize themselves into repeating patterns resembling crystals, but on a nanoscale. Being able to observe and manipulate them during the melting of these lattices provides researchers with clearer insight into how the structures respond and how changing their shape and size affects their behavior. This direct observation capability is crucial for developing practical applications. Rather than relying on conventional transistor-based computing, brain-like systems could use magnetism to process information, potentially allowing future computers to perform complex tasks with minimal electricity consumption.\n\nWhile substantial development remains before skyrmions appear in everyday devices, this research has moved the field closer to understanding precisely how to control these magnetic particles in real time. The findings offer more than mere observation of an unusual phenomenon—they provide information that could help overcome the technical challenges involved in creating skyrmion-based technologies. As Sudbø noted, the discovery \"could revolutionize the way we think about computers.\"",
+  "category": "science",
+  "tags": [
+    "skyrmions",
+    "quantum-computing",
+    "energy-efficiency",
+    "nanotechnology",
+    "brain-inspired-ai"
+  ],
+  "quick_facts": [
+    "Researchers filmed skyrmion lattices melting for the first time in real time",
+    "Study published in Nature Nanotechnology by Johannes Gutenberg University, Mainz",
+    "Skyrmions could enable computers operating like biological brains",
+    "Technology could dramatically reduce electricity consumption in data processing",
+    "Norwegian NTNU's Centre for Quantum Spintronics contributed to research"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+  "published": "2026-10-26T17:25:39Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/38032287/pexels-photo-38032287.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Nicola Narracci",
+  "photo_credit_url": "https://www.pexels.com/@nicola-narracci-157460431"
+}
