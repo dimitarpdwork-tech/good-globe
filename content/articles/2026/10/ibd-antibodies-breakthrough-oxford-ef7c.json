@@ -1,0 +1,30 @@
+{
+  "id": "ef7c81aed97457af",
+  "slug": "ibd-antibodies-breakthrough-oxford-ef7c",
+  "headline": "Scientists Crack 30-Year Mystery of Inflammatory Bowel Disease",
+  "meta_description": "Researchers identify hidden antibodies that disable immune control in thousands of IBD patients, solving a three-decade genetic puzzle and opening doors to tar…",
+  "summary_short": "Scientists have discovered that some inflammatory bowel disease patients produce antibodies that block a crucial immune protein, finally explaining a 30-year genetic mys…",
+  "body": "After three decades of investigation, researchers from the University of Oxford, Newcastle University, and Cambridge University Hospitals NHS Foundation Trust have identified a previously hidden cause of inflammatory bowel disease: antibodies that neutralize interleukin-10, a protein essential for controlling inflammation. The breakthrough, published in the New England Journal of Medicine, examined more than 4,900 IBD patients and revealed that approximately 3.5 percent produce these harmful antibodies—potentially affecting 15,000 to 20,000 people across the UK alone. The discovery doesn't just explain why some patients suffer severe illness; it finally resolves why a genetic variant called HLA-DRB1*01:03, linked to severe IBD thirty years ago, actually causes disease.\n\nInterleukin-10 normally acts as a chemical messenger helping the immune system regulate inflammation. When antibodies block its activity, patients lose this crucial safeguard, leaving inflammation uncontrolled and difficult to treat. The new findings show that inflammatory bowel disease—which includes Crohn's disease and ulcerative colitis, affecting roughly 500,000 people in the UK—is not simply one condition but several biologically distinct diseases developing through different mechanisms. People carrying the HLA-DRB1*01:03 variant are substantially more likely to develop these antibodies, finally connecting genetics to biology.\n\nThe implications extend beyond explanation. Researchers believe these findings could enable doctors to develop a blood test identifying patients whose disease stems from IL-10-blocking antibodies, allowing treatment selection tailored to each person's specific cause rather than trial-and-error approaches. For the millions managing lifelong inflammatory bowel disease through repeated hospital visits and multiple medications, understanding what actually drives their inflammation offers genuine hope for more effective, personalized care.",
+  "category": "health",
+  "tags": [
+    "inflammatory-bowel-disease",
+    "genetic-research",
+    "immunology",
+    "medical-breakthrough",
+    "personalized-medicine"
+  ],
+  "quick_facts": [
+    "University of Oxford, Newcastle, and Cambridge researchers studied 4,900+ IBD patients",
+    "3.5% of IBD patients produce antibodies blocking interleukin-10 protein",
+    "Estimated 15,000–20,000 UK patients carry these harmful antibodies",
+    "Solves 30-year genetic mystery linking HLA-DRB1*01:03 variant to severe IBD",
+    "Could enable blood tests for targeted, personalized IBD treatments"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+  "published": "2026-10-27T16:43:15Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/4031522/pexels-photo-4031522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Edward Jenner",
+  "photo_credit_url": "https://www.pexels.com/@edward-jenner"
+}

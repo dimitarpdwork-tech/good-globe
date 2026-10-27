@@ -1,0 +1,30 @@
+{
+  "id": "228e36fcf702cad0",
+  "slug": "smithsonian-lumina-universe-simulation-228e",
+  "headline": "Scientists Recreate First 2 Billion Years of Universe",
+  "meta_description": "Smithsonian researchers built Lumina, a massive simulation of the early universe's first 2 billion years, to help interpret discoveries from NASA's James Webb…",
+  "summary_short": "Smithsonian scientists have created Lumina, one of the largest simulations of the early universe ever made, offering new insights into how stars and galaxies first forme…",
+  "body": "Researchers at the Center for Astrophysics | Harvard & Smithsonian have built Lumina, a groundbreaking computer simulation that recreates the universe's first 2 billion years after the Big Bang. The project models how dark matter, ordinary matter, and radiation interacted to birth the earliest stars, galaxies, and black holes—offering astronomers a powerful tool to understand observations from NASA's James Webb Space Telescope and the forthcoming Nancy Roman Space Telescope. The simulation spans a cube approximately 1.5 billion light-years on each side, modeling a volume more than 100 times larger than earlier comparable projects. Lead researcher Oliver Zier called it \"incredibly rewarding to see the simulation results and watch our predictions come to life in video.\"\n\nCreating such an enormous portrait of cosmic history required exceptional computing power. The team used more than 15,000 graphics processing units on Frontier, one of the world's fastest supercomputers at Oak Ridge National Laboratory in Tennessee. This processing capacity allowed researchers to capture both the broad sweep of cosmic evolution and the fine details of individual galaxy formation—a balance previous simulations couldn't achieve. For the first time, Lumina tracks how both hydrogen and helium transformed across such a vast region of space while still resolving the galaxies driving that transformation.\n\nThe real power of Lumina lies in what comes next. By comparing the simulation's predictions with actual telescope observations, scientists can test how well current theories explain the universe's development. Any unexpected differences could reveal physical processes still waiting to be discovered, potentially reshaping our understanding of cosmic evolution. Published in Monthly Notices of the Royal Astronomical Society, the research opens a new frontier for exploring the universe's earliest chapters.",
+  "category": "science",
+  "tags": [
+    "cosmology",
+    "simulation",
+    "early-universe",
+    "jwst",
+    "astronomy"
+  ],
+  "quick_facts": [
+    "Smithsonian-Harvard team created Lumina, largest cosmic radiation hydrodynamics simulation ever",
+    "Simulation spans 1.5 billion light-years per side, 100 times larger than earlier projects",
+    "Used 15,000+ graphics processors on Frontier supercomputer in Tennessee",
+    "Recreates first 2 billion years after Big Bang with unprecedented detail",
+    "Helps interpret James Webb and Nancy Roman space telescope discoveries"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+  "published": "2026-10-27T16:42:58Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/28357058/pexels-photo-28357058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Jason Pittman",
+  "photo_credit_url": "https://www.pexels.com/@jason-pittman-1808114732"
+}

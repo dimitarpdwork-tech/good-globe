@@ -1,0 +1,30 @@
+{
+  "id": "76803fdd79e79da6",
+  "slug": "james-webb-lava-planet-atmosphere-7680",
+  "headline": "A Lava Planet's Secret: How It Keeps Its Atmosphere",
+  "meta_description": "James Webb discovers a scorching exoplanet 280 light-years away maintains a thick atmosphere against all odds, shielded by reflective mineral clouds.",
+  "summary_short": "Scientists using James Webb found that TOI-561 b, a molten lava planet, has defied expectations by keeping a substantial atmosphere for billions of years.",
+  "body": "For decades, astronomers believed that planets orbiting extremely close to their stars would inevitably lose their atmospheres to the intense radiation. Yet observations from the James Webb Space Telescope have revealed something remarkable: TOI-561 b, a scorching rocky world 280 light-years away, appears to maintain a thick atmosphere despite conditions that should have stripped it away billions of years ago. The international research team, led by Professor Lisa Dang at the University of Waterloo and including Dr. Anjali Piette from the University of Birmingham, discovered that the planet reflects approximately 75 percent of incoming starlight—comparable to Venus—likely because of reflective silicate clouds that act like a natural sunscreen protecting the surface.\n\nThe team monitored nearly four complete orbits of TOI-561 b over 37 hours, measuring how the planet's brightness and heat changed throughout its journey around its host star. Their observations revealed that the dayside was far cooler than expected for a dark, rocky planet in such extreme conditions. This unexpected coolness suggested that either vast amounts of heat were being redistributed to the nightside or reflected back into space before reaching the surface. Computer climate models pointed toward clouds containing silicon dioxide and magnesium silicate as the likely culprit—essentially a planetary-scale sunscreen made of minerals.\n\nPerhaps most intriguingly, the researchers propose that TOI-561 b may be continually replenishing its atmosphere through gases escaping from its global ocean of molten rock. Rather than gradually losing its atmospheric envelope to space, the planet's vast reservoir of lava may act as a world-wide volcano, constantly feeding new material into the air above. Scientists remain uncertain whether the atmosphere resembles an extremely hot version of Venus or an intensified version of Io, Jupiter's volcanic moon. Future observations at longer wavelengths with JWST could reveal the chemical composition and finally solve the mystery of how this hellish world has clung to its protective veil for so long.",
+  "category": "science",
+  "tags": [
+    "exoplanet",
+    "jameswebtelescope",
+    "atmosphere",
+    "astronomy",
+    "lavaplanet"
+  ],
+  "quick_facts": [
+    "TOI-561 b located 280 light-years from Earth",
+    "Planet reflects 75% of incoming starlight",
+    "Observed for 37 hours across nearly four orbits",
+    "Silicate clouds may shield molten surface",
+    "Lava ocean possibly replenishes atmosphere continuously"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+  "published": "2026-10-27T16:42:50Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/39000966/pexels-photo-39000966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Marek Pavlík",
+  "photo_credit_url": "https://www.pexels.com/@marek-pavlik-1929759405"
+}
