@@ -1,0 +1,30 @@
+{
+  "id": "3801be1b1e84abae",
+  "slug": "immune-cells-sense-touch-discovery-3801",
+  "headline": "Immune Cells Have a Hidden Sense of Touch, Scientists Discover",
+  "meta_description": "McGill University researchers find that T cells can detect tissue stiffness, fundamentally changing how we understand immune memory and long-term protection.",
+  "summary_short": "T cells sense physical stiffness in their surroundings and use this information to develop into long-lasting memory cells that protect against future infections.",
+  "body": "Scientists at McGill University have made an unexpected discovery about how the immune system works: T cells can literally feel how stiff their surrounding tissues are, and this physical sensation helps them decide whether to become long-lasting memory cells that protect the body against future infections. The finding, published in Nature Immunology, challenges decades of assumptions that chemical signals alone guided these protective immune cells. By placing human and mouse immune cells in specially designed collagen gels with different levels of stiffness, researchers found a striking pattern: as the gels became firmer, T cells increasingly adopted the characteristics of tissue-resident memory cells. This suggests that the physical environment isn't just a passive backdrop—it actively shapes how immune cells develop and survive.\n\nThe implications could reshape cancer treatment and autoimmune disease research. Tumors are notoriously dense and physically difficult for immune cells to penetrate; understanding how T cells adapt to stiff environments could help scientists design cancer immunotherapies that work more effectively. The same knowledge might help prevent the immune system from mistakenly attacking healthy tissue in autoimmune disorders and transplant rejection cases.\n\nLead researcher Judith Mandl, a professor in McGill's Department of Physiology, emphasized the fundamental nature of the breakthrough: \"It suggests T cells can 'feel' their surroundings and adapt to them, making the physical environment an active force in shaping their behavior.\" The research team, which included collaborators from institutions in the Netherlands and the United States, now aims to identify the specific molecular sensor that enables this touch-sensing ability. Understanding how physical forces convert into changes in cell behavior could unlock new ways to strengthen the immune system's lasting protection against disease.",
+  "category": "science",
+  "tags": [
+    "immunology",
+    "t-cells",
+    "medical-breakthrough",
+    "mcgill-university",
+    "immune-system"
+  ],
+  "quick_facts": [
+    "McGill University researchers discovered T cells can detect tissue stiffness",
+    "Published in Nature Immunology, October 2026",
+    "Stiffer tissues promoted development of long-term memory immune cells",
+    "Could improve cancer immunotherapy and autoimmune disease treatment",
+    "Lead author: Judith Mandl, McGill Department of Physiology"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+  "published": "2026-10-28T11:23:03Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/8932609/pexels-photo-8932609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "turek",
+  "photo_credit_url": "https://www.pexels.com/@turek3024"
+}
