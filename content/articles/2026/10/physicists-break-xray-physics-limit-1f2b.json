@@ -1,0 +1,30 @@
+{
+  "id": "1f2b2a3c94be42d2",
+  "slug": "physicists-break-xray-physics-limit-1f2b",
+  "headline": "Physicists Smash X-Ray Energy Limit Using Quantum Teamwork",
+  "meta_description": "Scientists at Vienna University of Technology exceeded a long-standing physics boundary by harnessing two electrons working together to generate unexpectedly p…",
+  "summary_short": "Researchers defied a textbook rule of laser physics by generating X-rays far more energetic than theory predicted, revealing how paired electrons can overcome establishe…",
+  "body": "Physicists at Vienna University of Technology and UC San Diego have shattered a fundamental limit in laser science by coaxing helium atoms to emit X-rays with energies far beyond what conventional theory allows. The breakthrough hinges on an unexpected quantum collaboration: when two electrons are released from an atom and return to it simultaneously, they can release their combined energy as a single, exceptionally powerful X-ray photon. This coordinated dance overcomes the energy cutoff that has constrained the field for decades, opening new pathways for quantum research and spectroscopy.\n\nThe experiment built on laser techniques pioneered at TU Wien in the 1990s—work that contributed to the 2023 Nobel Prize in Physics. Researchers used intense ultraviolet laser pulses to free both electrons from helium atoms in quick succession. Though freed at different moments, quantum correlations kept the electrons' motions linked. By carefully timing the laser, scientists arranged for both electrons to return to the atom at precisely the same instant, pooling their energy into a single burst of radiation that exceeded the previously accepted maximum.\n\nWhat makes this discovery especially compelling is its specificity: the two-electron effect appeared only with helium, whose electrons share particularly strong quantum correlations. Parallel experiments using argon and neon produced no such breakthrough, confirming that the effect depends on the specific atomic structure. The researchers detected clear experimental evidence—an unexpected plateau of sustained emission at far higher photon energies than standard theory predicts. Beyond the immediate thrill of breaking a physics rule, the finding promises practical benefits: scientists can now use this unusual X-ray emission as a sensitive probe to study how electrons interact inside atoms and materials, revealing quantum secrets previously hidden behind the energy barrier.",
+  "category": "science",
+  "tags": [
+    "quantum-physics",
+    "laser-science",
+    "xray-research",
+    "breakthrough",
+    "electrons"
+  ],
+  "quick_facts": [
+    "Vienna University of Technology and UC San Diego collaboration",
+    "Two helium electrons released and returned simultaneously by UV laser",
+    "X-ray energies exceeded conventional physics energy cutoff limit",
+    "Breakthrough builds on 1990s laser techniques recognized by 2023 Nobel Prize",
+    "Effect only occurs with helium; argon and neon showed no similar behavior"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+  "published": "2026-10-29T11:33:36Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/7254411/pexels-photo-7254411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Opt Lasers from Poland",
+  "photo_credit_url": "https://www.pexels.com/@optlasers"
+}

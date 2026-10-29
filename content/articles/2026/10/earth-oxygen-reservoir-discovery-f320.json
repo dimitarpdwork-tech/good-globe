@@ -1,0 +1,29 @@
+{
+  "id": "f3204a497e37de3f",
+  "slug": "earth-oxygen-reservoir-discovery-f320",
+  "headline": "Earth's Hidden Oxygen Reserve May Have Shaped Our Atmosphere",
+  "meta_description": "Scientists uncover that molten rock deep inside Earth stores far more oxygen than thought, revealing a hidden link to our planet's breathable atmosphere.",
+  "summary_short": "Researchers discover magma can absorb surprising amounts of extra oxygen, suggesting volcanic eruptions billions of years ago may have transformed Earth's atmosphere.",
+  "body": "Deep beneath Earth's surface, molten rock harbors a hidden treasure that science has overlooked for generations. An international team of researchers led by Dr. Yanhao Lin and Dr. Ho-kwang Mao has discovered that magma can store far more oxygen than previously believed—potentially revealing how our planet developed its oxygen-rich atmosphere billions of years ago. By recreating the extreme pressures found in Earth's interior, the scientists found that at 7 gigapascals (roughly 69,000 times atmospheric pressure), excess oxygen accounted for more than 5% of molten rock's weight. This challenges a long-standing assumption that magma could contain only a fixed amount of oxygen determined by other chemical elements present.\n\nThe breakthrough came through painstaking laboratory work and computer modeling. Researchers heated synthetic mid-ocean ridge basalt to temperatures between 1,200 and 1,800 degrees Celsius while subjecting it to crushing pressures. They then used Raman spectroscopy to confirm that the additional oxygen became structurally incorporated into the molten material, rather than simply trapped as gas bubbles. Computer simulations using deep neural networks later revealed how oxygen dissolves into magma at the atomic level, reproducing the laboratory patterns.\n\nThe implications extend far beyond understanding Earth's past. If ancient volcanic eruptions released this stored oxygen, it could explain a significant gap in how our atmosphere became oxygen-rich—a transformation essential to life as we know it. The findings also offer new perspectives for scientists studying other planets and their potential habitability. Published in the National Science Review, this research represents a fundamental shift in how we understand the relationship between Earth's deep interior and the world above ground.",
+  "category": "science",
+  "tags": [
+    "earth-science",
+    "geology",
+    "oxygen",
+    "volcanoes",
+    "planetary-science"
+  ],
+  "quick_facts": [
+    "Magma can store over 5% excess oxygen by weight at extreme depths",
+    "Led by Dr. Yanhao Lin and Dr. Ho-kwang Mao at HPSTAR research center",
+    "Experiments recreated pressures 69,000 times Earth's surface atmospheric pressure",
+    "Findings suggest volcanic eruptions shaped Earth's oxygen-rich atmosphere billions of years ago"
+  ],
+  "source_name": "ScienceDaily",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+  "published": "2026-10-29T11:33:44Z",
+  "lang": "en",
+  "photo_url": "https://images.pexels.com/photos/14918662/pexels-photo-14918662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "photo_credit": "Turgay Koca",
+  "photo_credit_url": "https://www.pexels.com/@turgay-koca-405356598"
+}
